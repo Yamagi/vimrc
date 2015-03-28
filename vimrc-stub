@@ -1,0 +1,32 @@
+" Hauptkonfiguration laden?
+let g:vimrc_load = 1
+
+" Plugins laden?
+let g:vimrc_plugins = 1
+
+" =======================================================================================
+
+if has("win64") || has("win32") || has("win16")
+	if g:vimrc_load == 1
+		source $HOME/vimfiles/vimrc
+
+		if g:vimrc_plugins == 1
+			for rcfile in split(globpath($HOME."/vimfiles/plugin-config", "*.vim"), '\n') 
+				execute('source '.rcfile)
+			endfor
+		endif
+	endif
+else
+	if g:vimrc_load
+		source $HOME/.vim/vimrc
+
+		if g:vimrc_plugins == 1
+			for rcfile in split(globpath($HOME."/.vim/plugin-config", "*.vim"), '\n') 
+				execute('source '.rcfile)
+			endfor
+		endif
+	endif
+endif
+
+unlet g:vimrc_load
+unlet g:vimrc_plugins
