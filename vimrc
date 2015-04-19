@@ -277,9 +277,9 @@ endif
 " Datei, in welcher Datei dem Wörterbuch hinzugefügte Wörter gespeichert
 " werden.
 if has("win64") || has("win32") || has("win16")
-	set spellfile=$HOME/vimfiles/runtime/spell/custom_words.utf-8.add
+	set spellfile=$HOME/vimfiles/runtime/spell/custom.utf-8.add
 else
-	set spellfile=$HOME/.vim/runtime/spell/custom_words.utf-8.add
+	set spellfile=$HOME/.vim/runtime/spell/custom.utf-8.add
 endif
 
 " Gibt an, was in automatisch erstellte Session-Scripte gespeichert
