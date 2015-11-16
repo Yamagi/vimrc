@@ -219,7 +219,7 @@ else
 endif
 
 " Unser Farbschema. Ein abgewandeltes desert-Schema.
-colorscheme yamagi256
+colorscheme atom256
 
 " Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
 set completeopt=menu,menuone,longest
