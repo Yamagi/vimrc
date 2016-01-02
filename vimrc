@@ -154,9 +154,6 @@ set wrap
 " Breche nur in Leerzeichen um, nicht innerhalb eines Wortes.
 set linebreak
 
-" Marker für umgebrochene Zeilen.
-set showbreak=->
-
 " ----
 
 " Alle gefundenen Suchbegriffe hervorheben, nicht nur die Fundstelle.
