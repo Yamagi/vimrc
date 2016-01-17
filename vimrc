@@ -408,11 +408,3 @@ nmap <Leader>hc :nohls<CR>
 " Zeigt die Bufferliste.
 nmap <Leader>bl :buffers<CR>:buffer<Space>
 
-" Buffer Navigation.
-nmap <Leader>bn :bn<CR>
-nmap <Leader>bp :bp<CR>
-
-" Buffer schließen
-nmap <Leader>bd :bd<CR>
-
-" =====================================================================
