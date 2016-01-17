@@ -342,7 +342,8 @@ augroup vimrcEx
 	" Git-Commit editieren. Es ist ein wenig unschön, aber da beim
 	" Ausführen des ersten AutoCmd der Filetype noch nicht gesetzt
 	" ist, alternativlos.
-	autocmd FileType gitcommit  exe "normal! gg"
+	 autocmd FileType gitcommit autocmd! BufEnter COMMIT_EDITMSG
+		\ call setpos('.', [0, 1, 1, 0])
 
 	" Im Falle von C und C++ sollen //-Kommentare nicht fortgesetzt
 	" werden, wenn die Zeile umgebrochen wird. Es sind halt einzeilige
