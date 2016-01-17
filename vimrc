@@ -199,7 +199,7 @@ set textwidth=72
 " Handwerk pfuschen würden.
 if has("gui_running")
 	" Die von gvim genutzte Schriftart.
-	set guifont=Terminus\ 12
+	set guifont=Inconsolata Medium 11
 
 	" Maus beim Tippen automatisch ausblenden.
 	set mousehide
@@ -304,6 +304,23 @@ filetype indent on
 " Plugin für den entsprechenden Dateityp gibt, wollen wir dies daher
 " nutzen.
 filetype plugin indent on
+
+" ----
+
+" Statuszeile.
+"  %< Stelle an der bei zu langer Zeile gekürzt wird
+"  %n Buffer-Nummer
+"  %f Relativer Pfad zur Datei
+"  %m Änderungsflag
+"  %r Read-Only Flag
+"  %y Filetype
+"  $= Teiler für links und rechts Ausrichtung
+"  %l Aktuelle Zeilennummer
+"  %L Länge der Datei
+"  %c Aktuelle Spalte
+"  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
+"  %P Aktuelle Position in Prozent
+set statusline=%<\ %n:%f\ %m%r%y%=line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)
 
 " =====================================================================
 
