@@ -170,7 +170,7 @@ set backspace=indent,eol,start
 
 " Anhand der Einrückung Foldings erstellen. Funktioniert in der Praxis
 " von allen Methoden am besten.
-set foldmethod=indent
+set foldmethod=manual
 
 " Defintion, wie Text automatisch formatiert werden soll:
 "
@@ -199,7 +199,7 @@ set textwidth=72
 " Handwerk pfuschen würden.
 if has("gui_running")
 	" Die von gvim genutzte Schriftart.
-	set guifont=Inconsolata Medium 11
+	set guifont=Inconsolata\ Medium\ 11
 
 	" Maus beim Tippen automatisch ausblenden.
 	set mousehide
