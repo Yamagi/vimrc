@@ -286,7 +286,7 @@ endif
 " Gibt an, was in automatisch erstellte Session-Scripte gespeichert
 " wird.
 set sessionoptions=blank,buffers,curdir,folds,localoptions,options
-set sessionoptions+=resize,tabpages,unix,winsize,winpos
+set sessionoptions+=resize,tabpages,unix,winsize,winpos,globals
 
 " ----
 
