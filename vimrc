@@ -118,7 +118,9 @@ set showmatch
 " Option wird sie nur in einigen Situationen gezeigt.
 set laststatus=2
 
-" Zeige die aktuelle Cursorposition in der Statuszeile.
+" Zeige die aktuelle Cursorposition in der Statuszeile. Ich glaube es
+" muss gesetzt sein, damit wir in der angepassten Statuszeile auf die
+" Position zugreifen können. Sihe auch weiter unten.
 set ruler
 
 " Zeigt das letzte Kommando in der Statuszeile an, bis dies durch eine
@@ -168,8 +170,7 @@ set incsearch
 " laufen. Damit verhält es sich wie in einem normalen Editor.
 set backspace=indent,eol,start
 
-" Anhand der Einrückung Foldings erstellen. Funktioniert in der Praxis
-" von allen Methoden am besten.
+" Foldings manuell erstellen.
 set foldmethod=manual
 
 " Defintion, wie Text automatisch formatiert werden soll:
@@ -195,7 +196,7 @@ set textwidth=72
 " ----
 
 " Die folgenden Dinge nur im GUI. Auf dem Terminal sind sie sinnlos,
-" da technisch nicht umzusetzen oder da wir dem Terminal Emulator ins
+" da technisch nicht umzusetzen oder da wir dem Terminalr-Emulator ins
 " Handwerk pfuschen würden.
 if has("gui_running")
 	" Die von gvim genutzte Schriftart.
