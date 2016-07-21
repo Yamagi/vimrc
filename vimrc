@@ -350,6 +350,9 @@ augroup vimrcEx
 	" werden, wenn die Zeile umgebrochen wird. Es sind halt einzeilige
 	" Kommentare.
 	autocmd FileType c,cpp setlocal comments-=://
+
+	" .md Files as Markdown.
+	autocmd BufNewFile,BufReadPost *.md set filetype=markdown
 augroup END
 
 " =====================================================================
