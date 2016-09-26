@@ -104,8 +104,11 @@ set modeline
 
 " ----
 
-" Zeige Zeilennummern am linken Rand.
+" Zeige Zeilennummern am linken Rand...
 set number
+
+" ...und zwar relative Nummern.
+set relativenumber
 
 " Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
 " auf. Sehr sinvoll, um auch in komplexeren Strukturen den Überblick zu
@@ -429,4 +432,11 @@ function! g:WordCount()
 endfunction
 
 nmap <Leader>c :call g:WordCount()<CR>
+
+" Keine Cursor-Tasten, weil man sie sonst doch immer wieder nutzt :)
+for prefix in ['i', 'n', 'v']
+	for key in ['<Up>', '<Down>', '<Left>', '<Right>']
+		exe prefix . "noremap " . key . " <Nop>"
+	endfor
+endfor
 
