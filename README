@@ -2,8 +2,8 @@ Welcome to my Vim configuration. This one of the more complex setups,
 build around several plugins and a big bunch of customized options and
 scripted functions. You may do with this files whatever you want, but
 please note that they come WITHOUT ANY WARRANTY! And the plugins, spell
-checker files and colorschemes are covered by their specific licenses of
-course.
+checker files and colorschemes are covered by their specific licenses,
+of course.
 
 Caveats:
 - Most comments are in german since I started in my native language
@@ -15,8 +15,8 @@ Caveats:
 Installation:
 - Clone this repository into ~/.vim (Linux, OS X, Unix) or into
   ~/vimfiles (Windows).
-- Symlink or copy the supplied vimrc to ~/.vimrc (Linux, OS X, Unix)
-  or ~/_vimrc (Windows).
+- Symlink or copy the supplied vimrc-stub to ~/.vimrc (Linux, OS X,
+  Unix) or ~/_vimrc (Windows).
 
 If you want to use gvim you may need to touch an empty ~/.gvimrc. This
 is because some systems install a global gvimrc which is executed when
