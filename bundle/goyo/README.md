@@ -23,7 +23,7 @@ Usage
 
 - `:Goyo`
     - Toggle Goyo
-- `:Goyo [width]`
+- `:Goyo [dimension]`
     - Turn on or resize Goyo
 - `:Goyo!`
     - Turn Goyo off
@@ -31,12 +31,34 @@ Usage
 The window can be resized with the usual `[count]<CTRL-W>` + `>`, `<`, `+`,
 `-` keys.
 
+### Dimension expression
+
+The expected format of a dimension expression is
+`[WIDTH][XOFFSET][x[HEIGHT][YOFFSET]]`. `XOFFSET` and `YOFFSET` should be
+prefixed by `+` or `-`. Each component can be given in percentage.
+
+```vim
+" Width
+Goyo 120
+
+" Height
+Goyo x30
+
+" Both
+Goyo 120x30
+
+" In percentage
+Goyo 120x50%
+
+" With offsets
+Goyo 50%+25%x50%-25%
+```
+
 Configuration
 -------------
 
 - `g:goyo_width` (default: 80)
-- `g:goyo_margin_top` (default: 4)
-- `g:goyo_margin_bottom` (default: 4)
+- `g:goyo_height` (default: 85%)
 - `g:goyo_linenr` (default: 0)
 
 ### Callbacks
@@ -56,6 +78,7 @@ to be triggered on `GoyoEnter` and `GoyoLeave` events.
 ```vim
 function! s:goyo_enter()
   silent !tmux set status off
+  silent !tmux list-panes -F '\#F' | grep -q Z || tmux resize-pane -Z
   set noshowmode
   set noshowcmd
   set scrolloff=999
@@ -65,6 +88,7 @@ endfunction
 
 function! s:goyo_leave()
   silent !tmux set status on
+  silent !tmux list-panes -F '\#F' | grep -q Z && tmux resize-pane -Z
   set showmode
   set showcmd
   set scrolloff=5
@@ -72,10 +96,8 @@ function! s:goyo_leave()
   " ...
 endfunction
 
-autocmd! User GoyoEnter
-autocmd! User GoyoLeave
-autocmd  User GoyoEnter nested call <SID>goyo_enter()
-autocmd  User GoyoLeave nested call <SID>goyo_leave()
+autocmd! User GoyoEnter nested call <SID>goyo_enter()
+autocmd! User GoyoLeave nested call <SID>goyo_leave()
 ```
 
 More examples can be found here:
