@@ -151,14 +151,31 @@ default: 1
                 1: auto close only when there are no listed wintabs.
                 2: always auto close.
 
+*g:wintabs_autoclose_vim*
+values: 0 or 1
+default: 0
+                This controls whether Vim is auto closed, when the last window
+                in the only Vim tab is closed.
+                0: never auto close.
+                1: always auto close.
 
 *g:wintabs_autoclose_vimtab*
 values: 0 or 1
 default: 0
                 This controls whether the Vim tab is auto closed, when the 
-                last window is closed using |:WintabsCloseWindow|.
+                last window is closed.
                 0: never auto close.
                 1: always auto close.
+
+*g:wintabs_switchbuf*
+values: '', 'useopen', or 'usetab'
+default: ''
+                This controls the behavior when switching between buffers.
+                'useopen': jump to the first window in current vim tab that 
+                contains the specific buffer. Otherwise open it in current 
+                window.
+                'usetab': similar to 'useopen' but searches in all vim tabs.
+                '': always open in current window.
 
 *g:wintabs_ignored_filetypes*
 values: list of filetype strings
@@ -166,6 +183,12 @@ default: ['gitcommit', 'vundle', 'qf', 'vimfiler']
                 This is a blacklist of filetypes, based on which buffers are 
                 ignored by wintabs.
                 Also, |unlisted-buffer|s are ignored.
+
+*g:wintabs_reverse_order*
+values: 0 or 1
+default: 0
+                This controls whether new buffers will be added to the
+                beginning of the wintabs list rather than the end.
 
 *g:wintabs_ui_modified*
 values: string
@@ -184,7 +207,7 @@ values: string
 default: ' ', '|', '|'
                 These characters are drawn before wintabs, between wintabs, 
                 and after wintabs. It's recommended that they have the same 
-                length.
+                length, and are ascii characters.
 
 *g:wintabs_ui_active_left*
 *g:wintabs_ui_active_right*
@@ -192,6 +215,23 @@ values: string
 default: ' '
                 These characters are drawn around the active wintab. 
                 '[]' and ')(' are some of the good ones. It's recommended that
+                they have the same length as separators, and are ascii 
+                characters.
+
+*g:wintabs_ui_show_vimtab_name*
+values: 0, 1 or 2
+default: 0
+                This controls how Vim tabs will be displayed.
+                0: show a number of the tab.
+                1: show a name of the tab.
+                2: show number and name of the tab (<number>:<tab_name>).
+
+*g:wintabs_ui_active_vimtab_left*
+*g:wintabs_ui_active_vimtab_right*
+values: string
+default: ' '
+                These characters are drawn around the active Vim tab.
+                '[]' and '<>' are some of the good ones. It's recommended that
                 they have the same length as separators.
 
 *g:wintabs_ui_active_higroup*

@@ -1,20 +1,18 @@
-if v:version >= 704
-  function! wintabs#getwinvar(winnr, key, def)
-    return getwinvar(a:winnr, a:key, a:def)
-  endfunction
-  function! wintabs#getbufvar(buf, key, def)
-    return getbufvar(a:buf, a:key, a:def)
-  endfunction
-else
-  function! wintabs#getwinvar(winnr, key, def)
-    let winvals = getwinvar(a:winnr, '')
-    return get(winvals, a:key, a:def)
-  endfunction
-  function! wintabs#getbufvar(buf, key, def)
-    let bufvals = getbufvar(a:buf, '')
-    return get(bufvals, a:key, a:def)
-  endfunction
-endif
+" util functions to for v:version < 704
+function! wintabs#gettabwinvar(tabnr, winnr, varname, def)
+  let vars = gettabwinvar(a:tabnr, a:winnr, '')
+  if empty(vars)
+    return a:def
+  endif
+  return get(vars, a:varname, a:def)
+endfunction
+function! wintabs#getwinvar(winnr, varname, def)
+  let vars = getwinvar(a:winnr, '')
+  if empty(vars)
+    return a:def
+  endif
+  return get(vars, a:varname, a:def)
+endfunction
 
 " jump to next/previous tab
 " next tab if offset == 1, previous tab if offset == -1
@@ -68,7 +66,11 @@ function! wintabs#close()
       let close_window = 1
     endif
   else
-    if found
+    " switch to alternate buffer if it's in buflist
+    let alt = index(w:wintabs_buflist, bufnr('#'))
+    if (alt != -1)
+      let switch_to = alt
+    elseif found
       let switch_to = n == 0 ? 1 : n - 1
     else
       let switch_to = n
@@ -82,7 +84,7 @@ function! wintabs#close()
 
     " only remove buffer that is unmodifed
     " buffer remains modified if confirm dialog is canceled
-    if !wintabs#getbufvar(buffer, '&modified', '')
+    if !getbufvar(buffer, '&modified')
       call filter(w:wintabs_buflist, 'v:val != '.buffer)
     endif
   endif
@@ -99,7 +101,7 @@ function! wintabs#only()
   for buffer in w:wintabs_buflist
     if buffer == bufnr('%')
       call add(buflist, buffer)
-    elseif wintabs#getbufvar(buffer, '&modified', '')
+    elseif getbufvar(buffer, '&modified')
       call add(buflist, buffer)
       let modified = 1
     endif
@@ -300,6 +302,12 @@ function! wintabs#init()
       autocmd!
     augroup END
   endif
+
+  " hijack buffer switching
+  augroup wintabs_switching_buffer
+    autocmd!
+    autocmd BufWinEnter * call wintabs#switching_buffer()
+  augroup END
 endfunction
 
 " refresh buffer list
@@ -315,7 +323,11 @@ function! wintabs#refresh_buflist(window)
   " add current buf
   let current_buffer = winbufnr(window)
   if index(buflist, current_buffer) == -1 && s:buflisted(current_buffer)
-    call add(buflist, current_buffer)
+    if (g:wintabs_reverse_order)
+      call insert(buflist, current_buffer)
+    else
+      call add(buflist, current_buffer)
+    endif
   endif
 
   " save buflist
@@ -325,6 +337,62 @@ function! wintabs#refresh_buflist(window)
   call wintabs#session#save(tabpagenr(), window)
 endfunction
 
+" switch buffer according to g:wintabs_switchbuf
+function! wintabs#switching_buffer()
+  let buffer = bufnr('%')
+  if !s:buflisted(buffer)
+    return
+  endif
+
+  " it's a new buffer if it isn't in current buflist
+  if !s:is_in_buflist(0, 0)
+    " search range
+    if g:wintabs_switchbuf =~ 'usetab'
+      let tabrange = [tabpagenr()] + range(1, tabpagenr('$'))
+    elseif g:wintabs_switchbuf =~ 'useopen'
+      let tabrange = [tabpagenr()]
+    else
+      let tabrange = []
+    endif
+
+    for tabpage in tabrange
+      for window in range(1, tabpagewinnr(tabpage, '$'))
+        " ignore current window
+        if tabpage == tabpagenr() && window == winnr()
+          continue
+        endif
+
+        if s:is_in_buflist(tabpage, window)
+          let to_close = exists('w:wintabs_buflist') ? 0 : winnr()
+          let same_tab = tabpage == tabpagenr()
+          if to_close && !same_tab
+            " close current window if it's a new window in a different tab
+            confirm close
+          else
+            " close current tab without autoclose
+            let autoclose = g:wintabs_autoclose
+            let g:wintabs_autoclose = 0
+            call wintabs#close()
+            let g:wintabs_autoclose = autoclose
+          endif
+
+          " switch to the existing buffer
+          execute 'tabnext '.tabpage
+          execute window.'wincmd w'
+          execute 'confirm buffer '.buffer
+          syntax on
+
+          " close previous window if it's a new window in current tab
+          if to_close && same_tab
+            execute to_close.'wincmd c'
+          endif
+          return
+        endif
+      endfor
+    endfor
+  endif
+endfunction
+
 " private functions below
 
 " buffers listed as wintabs are
@@ -332,9 +400,9 @@ endfunction
 " not ignored by g:wintabs_ignored_filetypes
 " not empty: no buffer name and not modified
 function! s:buflisted(buffer)
-  let filetype = wintabs#getbufvar(a:buffer, '&filetype', '')
+  let filetype = getbufvar(a:buffer, '&filetype')
   let ignored = index(g:wintabs_ignored_filetypes, filetype) != -1
-  let empty = bufname(a:buffer) == '' && !wintabs#getbufvar(a:buffer, '&modified', '')
+  let empty = bufname(a:buffer) == '' && !getbufvar(a:buffer, '&modified')
   return buflisted(a:buffer) && !ignored && !empty
 endfunction
 
@@ -391,22 +459,30 @@ function! s:switch_tab(n, confirm)
   let &hidden = hidden
 endfunction
 
-" close current window depending on g:wintabs_autoclose_vimtab
-" assuming no open tabs
+" close current window, considering all autoclose behaviors
 function! s:close_window()
-  " don't close if this is the last window and tab autoclose is off
-  if winnr('$') > 1 || g:wintabs_autoclose_vimtab
-    confirm close
-  else
-    let w:wintabs_buflist = []
-    call s:switch_tab(-1, 1)
+  " one window, one tab => quit vim
+  if winnr('$') == 1 && tabpagenr('$') == 1 && g:wintabs_autoclose_vim
+    confirm quit
+    return
   endif
+
+  " more than one window => close window
+  " one window, more than one tab => close tab
+  if winnr('$') > 1 || tabpagenr('$') > 1 && g:wintabs_autoclose_vimtab
+    confirm close
+    return
+  endif
+
+  " otherwise close all wintabs
+  let w:wintabs_buflist = []
+  call s:switch_tab(-1, 1)
 endfunction
 
 " close all tabs in current window and window itself
 function! s:close_tabs_window()
   " if window doesn't set wintabs_closing, do nothing
-  if !wintabs#getwinvar(0, 'wintabs_closing', '')
+  if !wintabs#getwinvar(0, 'wintabs_closing', 0)
     return
   endif
   let w:wintabs_closing = 0
@@ -418,7 +494,7 @@ function! s:close_tabs_window()
 
   " keep modified tabs
   for buffer in w:wintabs_buflist
-    if wintabs#getbufvar(buffer, '&modified', '')
+    if getbufvar(buffer, '&modified')
       call add(buflist, buffer)
       let modified = 1
     endif
@@ -429,10 +505,18 @@ function! s:close_tabs_window()
     let w:wintabs_buflist = buflist
 
     " if current buffer should be closed (not modified), switch to first tab
-    if !wintabs#getbufvar(bufnr('%'), '&modified', '')
+    if !getbufvar(bufnr('%'), '&modified')
       call s:switch_tab(0, 0)
     endif
   else
     call s:close_window()
   endif
+endfunction
+
+" test if current buffer is in given tab and window
+function! s:is_in_buflist(tabnr, winnr)
+  let tabpage = a:tabnr == 0 ? tabpagenr() : a:tabnr
+  let window = a:winnr == 0 ? winnr() : a:winnr
+  let buflist = wintabs#gettabwinvar(tabpage, window, 'wintabs_buflist', [])
+  return index(buflist, bufnr('%')) != -1
 endfunction

@@ -57,7 +57,10 @@ endfunction
 " major
 call s:set('g:wintabs_display', 'tabline')
 call s:set('g:wintabs_autoclose', 1)
+call s:set('g:wintabs_autoclose_vim', 0)
 call s:set('g:wintabs_autoclose_vimtab', 0)
+call s:set('g:wintabs_switchbuf', '')
+call s:set('g:wintabs_reverse_order', 0)
 call s:set('g:wintabs_ignored_filetypes', ['gitcommit', 'vundle', 'qf', 'vimfiler'])
 
 " ui
@@ -68,6 +71,9 @@ call s:set('g:wintabs_ui_sep_inbetween', '|')
 call s:set('g:wintabs_ui_sep_rightmost', '|')
 call s:set('g:wintabs_ui_active_left', ' ')
 call s:set('g:wintabs_ui_active_right', ' ')
+call s:set('g:wintabs_ui_show_vimtab_name', 0)
+call s:set('g:wintabs_ui_active_vimtab_left', ' ')
+call s:set('g:wintabs_ui_active_vimtab_right', ' ')
 
 if g:wintabs_display == 'tabline'
   call s:set('g:wintabs_ui_active_higroup', 'TabLineSel')

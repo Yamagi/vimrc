@@ -52,9 +52,9 @@ function! s:get_bufline(window)
       let name = '[No Name]'
     endif
 
-    if getbufvar(buffer, '&readonly', '')
+    if getbufvar(buffer, '&readonly')
       let name = name.g:wintabs_ui_readonly
-    elseif getbufvar(buffer, '&modified', '')
+    elseif getbufvar(buffer, '&modified')
       let name = name.g:wintabs_ui_modified
     endif
 
@@ -151,7 +151,21 @@ function! s:truncate_line(window, bufline, width)
     else
       let left_arrow = 1
       let line_start += left_arrow_len
+      let width -= left_arrow_len
     endif
+  endif
+
+  " if active tab is longer than width, truncate inside active tab
+  if active_end - active_start > width
+    let line_start = active_start
+    " re-assess lefe arrow since this is an edge case
+    if left_arrow && line_start == 0
+      let left_arrow = 0
+      let width += left_arrow_len
+    endif
+    " truncate line and leave enough space for markers
+    let endline = '..'.g:wintabs_ui_active_right.'%##'
+    let line = strpart(line, 0, line_start + width - len(endline)).endline
   endif
 
   " save line_start
@@ -165,6 +179,44 @@ function! s:truncate_line(window, bufline, width)
   return line
 endfunction
 
+function! s:get_tab_name(n)
+  " show number of tabs
+  if g:wintabs_ui_show_vimtab_name == 0
+    return a:n
+  endif
+
+  " getting tab name
+  let title = ''
+  let s:taboo = get(g:, 'loaded_taboo', 0)
+  if s:taboo
+    let title = TabooTabTitle(a:n)
+  endif
+
+  if empty(title) && exists('*gettabvar')
+    let title = gettabvar(a:n, 'title')
+  endif
+
+  if empty(title)
+    let buflist = tabpagebuflist(a:n)
+    let winnr = tabpagewinnr(a:n)
+    let title = bufname(buflist[winnr - 1])
+    if empty(title)
+      let title = '[No Name]'
+    else
+      let title = split(title, "/")[-1]
+    endif
+    if getbufvar(buflist[winnr - 1], '&modified')
+      let title = title.g:wintabs_ui_modified
+    endif
+  endif
+
+  if g:wintabs_ui_show_vimtab_name == 2
+    let title = a:n.':'.title
+  endif
+
+  return title
+endfunction
+
 " generate space (vim tabs) line
 function! s:get_spaceline()
   " return empty line if there is only one space (vim tab)
@@ -176,13 +228,17 @@ function! s:get_spaceline()
   let line = g:wintabs_ui_sep_spaceline
   let length = 1
   for tab in range(1, spaces)
-    " get and normalize space name
-    let name = ' '.tab.' '
-    let length += len(name)
+    " get tab name
+    let name = s:get_tab_name(tab)
 
     " highlight current space
     if tab == tabpagenr()
+      let name = g:wintabs_ui_active_vimtab_left.name.g:wintabs_ui_active_vimtab_right
+      let length += len(name)
       let name = '%#'.g:wintabs_ui_active_higroup.'#'.name.'%##'
+    else
+      let name = ' '.name.' '
+      let length += len(name)
     endif
 
     " make name clickable
