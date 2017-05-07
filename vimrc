@@ -205,6 +205,9 @@ if has("gui_running")
 	" Die von gvim genutzte Schriftart.
 	set guifont=Inconsolata\ Medium\ 11
 
+	" Keine nervende Menüleiste.
+	:set guioptions-=T
+
 	" Maus beim Tippen automatisch ausblenden.
 	set mousehide
 
