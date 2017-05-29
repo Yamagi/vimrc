@@ -203,7 +203,7 @@ set textwidth=72
 " Handwerk pfuschen würden.
 if has("gui_running")
 	" Die von gvim genutzte Schriftart.
-	set guifont=Inconsolata\ Medium\ 11
+	set guifont=Inconsolata\ 11
 
 	" Keine nervende Menüleiste.
 	:set guioptions-=T
