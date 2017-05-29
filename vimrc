@@ -434,5 +434,5 @@ function! g:WordCount()
 	echo 'Wortzahl:' s:word_count
 endfunction
 
-nmap <Leader>c :call g:WordCount()<CR>
+nmap <Leader>x :call g:WordCount()<CR>
 
