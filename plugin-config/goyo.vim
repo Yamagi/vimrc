@@ -2,7 +2,7 @@
 " Es zentriert einen Block mit Text in der Mitte des Monitors.
 
 " Startet und beendet den Goyo-Mode
-map <Leader>v :Goyo<CR>
+map <Leader>mv :Goyo<CR>
 
-" Sollte gleich 'textwidth' sein.
-let g:goyo_width=72
+" Sollte ein Zeichen größer 'textwidth' sein.
+let g:goyo_width=73
