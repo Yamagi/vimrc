@@ -38,7 +38,7 @@ augroup END
 " machen uns es einfach und prüfen nur, ob sie bereits als Verzeichnis
 " existieren. Wenn was anderes unter gleichem Namen vorhanden sein
 " sollte, gibt es eben Fehler.
-if has ("win64") || has("win32") || has("win16")
+if has ("win64") || has("win32")
 	if !isdirectory($HOME."/vimfiles/runtime")
 		call mkdir($HOME."/vimfiles/runtime", "p")
 	endif
@@ -202,8 +202,25 @@ set textwidth=72
 " da technisch nicht umzusetzen oder da wir dem Terminalr-Emulator ins
 " Handwerk pfuschen würden.
 if has("gui_running")
-	" Die von gvim genutzte Schriftart.
-	set guifont=Inconsolata\ 11
+	if has("gui_win32") || has("gui_win64")
+		" Die von gvim genutzte Schriftart.
+		set guifont=Consolas:h11:cANSI:qDRAFT
+
+		" Über DirectX zu rendern bringt ein drastisch besseres
+		" Schriftbild. Funktioniert allerdings nur unter Vista und
+		" höher, was man inzwischen aber wohl voraussetzen kann.
+		" Die Optionen sind aus dem Internet geklaut:
+		" https://www.reddit.com/r/vim/comments/2ex6kh/set_renderoptions_windows/
+		set renderoptions=type:directx,gamma:1.5,contrast:0.5:,
+					\geom:1,renmode:5,taamode:1,level:0.5
+
+		" Der DirectX-Renderer braucht UTF-8. Was wir eh setzen
+		" müssten, da wir sonst noch latin1 bekommen würde.
+		set encoding=utf-8
+	else
+		" Die von gvim genutzte Schriftart.
+		set guifont=Inconsolata\ 11
+	endif
 
 	" Keine nervende Menüleiste.
 	:set guioptions-=T
@@ -260,7 +277,7 @@ set updatetime=2000
 set viminfo=%,'128,/128,:128,@128,s1024
 
 " Der Dateipfad ist vom Betriebssystem abhängig.
-if has ("win64") || has("win32") || has("win16")
+if has ("win64") || has("win32")
 	set viminfo+=n$HOME/vimfiles/runtime/viminfo
 else
 	set viminfo+=n$HOME/.vim/runtime/viminfo
@@ -276,7 +293,7 @@ set undolevels=1000
 set undoreload=10000
 
 " Das Verzeichnis ist vom Betriebssystem abhängig.
-if has("win64") || has("win32") || has("win16")
+if has("win64") || has("win32")
 	set undodir=$HOME/vimfiles/runtime/undo
 else
 	set undodir=$HOME/.vim/runtime/undo
@@ -284,7 +301,7 @@ endif
 
 " Datei, in welcher Datei dem Wörterbuch hinzugefügte Wörter gespeichert
 " werden.
-if has("win64") || has("win32") || has("win16")
+if has("win64") || has("win32")
 	set spellfile=$HOME/vimfiles/runtime/spell/custom.utf-8.add
 else
 	set spellfile=$HOME/.vim/runtime/spell/custom.utf-8.add
