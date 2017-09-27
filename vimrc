@@ -243,8 +243,7 @@ endif
 colorscheme lucius
 
 " Und auf 'dunkel' zwingen
-:LuciusDark
-let g:dark_colors = 1
+:LuciusBlack
 
 " Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
 set completeopt=menu,menuone,longest
@@ -402,19 +401,6 @@ function! g:ToggleColorColumn()
 endfunction
 
 nmap <Leader>w :call g:ToggleColorColumn()<CR>
-
-" Das Colorscheme zwischen hell und dunkel umschalten
-function! g:ToggleColors()
-	if g:dark_colors
-		:LuciusLight
-		let g:dark_colors = 0
-	else
-		:LuciusDark
-		let g:dark_colors = 1
-	endif
-endfunction
-
-nmap <Leader>l :call g:ToggleColors()<CR>
 
 " Das Tagfile neubauen.
 if executable("exctags")
