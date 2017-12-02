@@ -90,7 +90,7 @@ set cryptmethod=blowfish2
 set hidden
 
 " Die Shell für Kommando-Aufrufe
-set shell=sh
+set shell=zsh
 
 " Den Terminal-Titel auf den Namen der aktuellen Datei setzen.
 set title
@@ -102,6 +102,38 @@ set visualbell
 " abgeschaltet. Wir wollen sie aber parsen.
 set modeline
 
+" Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
+" auf. Sehr sinvoll, um auch in komplexeren Strukturen den Überblick zu
+" behalten.
+set showmatch
+
+" Backspace soll über Einrückungen, Zeilenanfänge und Zeilenende hinweg
+" laufen. Damit verhält es sich wie in einem normalen Editor.
+set backspace=indent,eol,start
+
+" Foldings manuell erstellen.
+set foldmethod=manual
+
+" Defintion, wie Text automatisch formatiert werden soll:
+"
+"  r - Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
+"      anfügen.
+"
+"  o - Kommentarzeichen einfügen, wenn man mit o odr O in den Insert
+"      Mode wechselt.
+"
+"  c - Kommentare automatisch auf 'textwidth' umbrechen, die Kommentare
+"      automatisch einfügen.
+"
+"  t - Automatischer Zeilenumbruch auf 'textwidth'.
+"
+"  q - Auch Kommentare können mit 'gq' neu formatiert werden.
+set formatoptions=roctq
+
+" Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
+" wird.
+set textwidth=72
+
 " ----
 
 " Zeige Zeilennummern am linken Rand...
@@ -109,11 +141,6 @@ set number
 
 " ...und zwar relative Nummern.
 set relativenumber
-
-" Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
-" auf. Sehr sinvoll, um auch in komplexeren Strukturen den Überblick zu
-" behalten.
-set showmatch
 
 " ----
 
@@ -132,6 +159,21 @@ set showcmd
 
 " Zeigt in der Kommandozeile an, in welchem Mode wir sind.
 set showmode
+
+" Statuszeilenlayout.
+"  %< Stelle an der bei zu langer Zeile gekürzt wird
+"  %n Buffer-Nummer
+"  %f Relativer Pfad zur Datei
+"  %m Änderungsflag
+"  %r Read-Only Flag
+"  %y Filetype
+"  $= Teiler für links und rechts Ausrichtung
+"  %l Aktuelle Zeilennummer
+"  %L Länge der Datei
+"  %c Aktuelle Spalte
+"  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
+"  %P Aktuelle Position in Prozent
+set statusline=%<\ %n:%f\ %m%r%y%=line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)
 
 " ----
 
@@ -166,35 +208,6 @@ set hlsearch
 
 " Bereits suchen, während wir noch tippen.
 set incsearch
-
-" ----
-
-" Backspace soll über Einrückungen, Zeilenanfänge und Zeilenende hinweg
-" laufen. Damit verhält es sich wie in einem normalen Editor.
-set backspace=indent,eol,start
-
-" Foldings manuell erstellen.
-set foldmethod=manual
-
-" Defintion, wie Text automatisch formatiert werden soll:
-"
-"  r - Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
-"      anfügen.
-"
-"  o - Kommentarzeichen einfügen, wenn man mit o odr O in den Insert
-"      Mode wechselt.
-"
-"  c - Kommentare automatisch auf 'textwidth' umbrechen, die Kommentare
-"      automatisch einfügen.
-"
-"  t - Automatischer Zeilenumbruch auf 'textwidth'.
-"
-"  q - Auch Kommentare können mit 'gq' neu formatiert werden.
-set formatoptions=roctq
-
-" Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
-" wird.
-set textwidth=72
 
 " ----
 
@@ -327,23 +340,6 @@ filetype indent on
 " Plugin für den entsprechenden Dateityp gibt, wollen wir dies daher
 " nutzen.
 filetype plugin indent on
-
-" ----
-
-" Statuszeile.
-"  %< Stelle an der bei zu langer Zeile gekürzt wird
-"  %n Buffer-Nummer
-"  %f Relativer Pfad zur Datei
-"  %m Änderungsflag
-"  %r Read-Only Flag
-"  %y Filetype
-"  $= Teiler für links und rechts Ausrichtung
-"  %l Aktuelle Zeilennummer
-"  %L Länge der Datei
-"  %c Aktuelle Spalte
-"  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
-"  %P Aktuelle Position in Prozent
-set statusline=%<\ %n:%f\ %m%r%y%=line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)
 
 " =====================================================================
 
