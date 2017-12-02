@@ -145,6 +145,24 @@ function! wintabs#all()
   call wintabs#init()
 endfunction
 
+" open all vim buffers in current window
+function! wintabs#all_buffers()
+  call wintabs#refresh_buflist(0)
+
+  let buflist = wintabs#getwinvar(winnr(), 'wintabs_buflist', [])
+  for buffer in range(1, bufnr('$'))
+    if index(buflist, buffer) == -1 && s:buflisted(buffer)
+      if (g:wintabs_reverse_order)
+        call insert(buflist, buffer)
+      else
+        call add(buflist, buffer)
+      endif
+    endif
+  endfor
+
+  call wintabs#init()
+endfunction
+
 " close current window
 function! wintabs#close_window()
   let w:wintabs_closing = 1
@@ -295,9 +313,7 @@ function! wintabs#init()
 
     set showtabline=2
     set tabline=%!wintabs#ui#get_tabline()
-  end
-
-  if g:wintabs_display == 'statusline'
+  elseif g:wintabs_display == 'statusline'
     set laststatus=2
 
     " statusline needs constant reset to test for active window
@@ -307,6 +323,10 @@ function! wintabs#init()
     augroup END
     call wintabs#ui#set_statusline()
   else
+    autocmd BufWinEnter,WinEnter,VimEnter * call wintabs#refresh_buflist(0)
+  endif
+
+  if g:wintabs_display != 'statusline'
     augroup wintabs_set_statusline
       autocmd!
     augroup END
@@ -389,7 +409,6 @@ function! wintabs#switching_buffer()
           execute 'tabnext '.tabpage
           execute window.'wincmd w'
           execute 'confirm buffer '.buffer
-          syntax on
 
           " close previous window if it's a new window in current tab
           if to_close && same_tab

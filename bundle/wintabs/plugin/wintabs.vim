@@ -35,6 +35,7 @@ command! WintabsPrevious call wintabs#jump(-1, 0)
 command! WintabsClose call wintabs#close()
 command! WintabsOnly call wintabs#only()
 command! WintabsAll call wintabs#all()
+command! WintabsAllBuffers call wintabs#all_buffers()
 command! WintabsCloseWindow call wintabs#close_window()
 command! WintabsOnlyWindow call wintabs#only_window()
 command! WintabsCloseVimtab call wintabs#close_vimtab()
@@ -62,16 +63,25 @@ call s:set('g:wintabs_autoclose_vimtab', 0)
 call s:set('g:wintabs_switchbuf', '')
 call s:set('g:wintabs_reverse_order', 0)
 call s:set('g:wintabs_ignored_filetypes', ['gitcommit', 'vundle', 'qf', 'vimfiler'])
+call s:set('g:wintabs_renderers', wintabs#renderers#defaults())
 
 " ui
 call s:set('g:wintabs_ui_modified', ' +')
 call s:set('g:wintabs_ui_readonly', ' -')
-call s:set('g:wintabs_ui_sep_leftmost', ' ')
+call s:set('g:wintabs_ui_sep_leftmost', '')
 call s:set('g:wintabs_ui_sep_inbetween', '|')
 call s:set('g:wintabs_ui_sep_rightmost', '|')
 call s:set('g:wintabs_ui_active_left', ' ')
 call s:set('g:wintabs_ui_active_right', ' ')
+call s:set('g:wintabs_ui_buffer_name_format', ' %t ')
 call s:set('g:wintabs_ui_show_vimtab_name', 0)
+if g:wintabs_ui_show_vimtab_name == 0
+  call s:set('g:wintabs_ui_vimtab_name_format', '%n')
+elseif g:wintabs_ui_show_vimtab_name == 1
+  call s:set('g:wintabs_ui_vimtab_name_format', '%t')
+else
+  call s:set('g:wintabs_ui_vimtab_name_format', '%n:%t')
+endif
 call s:set('g:wintabs_ui_active_vimtab_left', ' ')
 call s:set('g:wintabs_ui_active_vimtab_right', ' ')
 

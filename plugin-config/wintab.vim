@@ -10,3 +10,5 @@ nmap <Leader>bp <Plug>(wintabs_previous)<CR>
 " Close buffer
 nmap <Leader>bd <Plug>(wintabs_close)<CR>
 
+" No seperator at the lists end
+let g:wintabs_ui_sep_rightmost = ''
