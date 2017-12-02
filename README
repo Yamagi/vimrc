@@ -1,7 +1,7 @@
 Welcome to my Vim configuration. This one of the more complex setups,
 build around several plugins and a big bunch of customized options and
 scripted functions. You may do with this files whatever you want, but
-please note that they come WITHOUT ANY WARRANTY! And the plugins, spell
+please note that they come WITHOUT ANY WARRANTY! The plugins, spell
 checker files and colorschemes are covered by their specific licenses,
 of course.
 
@@ -9,7 +9,7 @@ Caveats:
 - Most comments are in german since I started in my native language
   years ago. And now I'm to lazy to translate everything.
 - This configuration is build around my workflow. It may not suit
-  yours. Especially if you're starting with Vim it's very highly
+  yours. Especially if you're beginning with Vim it's very highly
   recommended to start with an empty configuration!
 
 Installation:
