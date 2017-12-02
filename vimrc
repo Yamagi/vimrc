@@ -235,8 +235,9 @@ if has("gui_running")
 		set guifont=Inconsolata\ 11
 	endif
 
-	" Keine nervende Menüleiste.
+	" Keine nervende Symbol- und Menüleiste.
 	:set guioptions-=T
+	:set guioptions-=m
 
 	" Maus beim Tippen automatisch ausblenden.
 	set mousehide
