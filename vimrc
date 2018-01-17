@@ -239,6 +239,10 @@ if has("gui_running")
 	:set guioptions-=T
 	:set guioptions-=m
 
+	" Niemand mag Scrollleisten
+	:set guioptions-=L
+	:set guioptions-=r
+
 	" Maus beim Tippen automatisch ausblenden.
 	set mousehide
 
