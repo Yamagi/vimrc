@@ -6,7 +6,7 @@ let g:vimrc_plugins = 1
 
 " =======================================================================================
 
-if has("win64") || has("win32") || has("win16")
+if has("win64") || has("win32")
 	if g:vimrc_load == 1
 		source $HOME/vimfiles/vimrc
 
@@ -17,7 +17,7 @@ if has("win64") || has("win32") || has("win16")
 		endif
 	endif
 else
-	if g:vimrc_load
+	if g:vimrc_load == 1
 		source $HOME/.vim/vimrc
 
 		if g:vimrc_plugins == 1

@@ -81,35 +81,23 @@ unlet s:save_diff
 " Schaltet die meisten folgenden Optionen erst frei.
 set nocompatible
 
-" Neue und sichere Blowfish-Implementerung zur Verschlüsselung.
-set cryptmethod=blowfish2
+" ----
 
-" Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
-" einem Window zugeordnet sein. Damit verhält Vim sich wie die meisten
-" Multi-File-Editors.
-set hidden
-
-" Die Shell für Kommando-Aufrufe
-set shell=zsh
-
-" Den Terminal-Titel auf den Namen der aktuellen Datei setzen.
-set title
-
-" Visuelle Benachrichtigung anstatt piepen.
-set visualbell
-
-" Modelines sind in vielen Installationen aus Sicherheitsgründen
-" abgeschaltet. Wir wollen sie aber parsen.
-set modeline
-
-" Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
-" auf. Sehr sinvoll, um auch in komplexeren Strukturen den Überblick zu
-" behalten.
-set showmatch
+" Kopiere die Einrückung der aktuellen Zeile, wenn eine neue Zeile
+" begonnen wird. Dies ist für normale Eingabe nur an wenigen Stellen
+" wie z.B. Markdown-Listen sinnvoll, hilft aber den 'formatoptions'
+" 'n' und '2'.
+set autoindent
 
 " Backspace soll über Einrückungen, Zeilenanfänge und Zeilenende hinweg
 " laufen. Damit verhält es sich wie in einem normalen Editor.
 set backspace=indent,eol,start
+
+" Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
+set completeopt=menu,menuone,longest
+
+" Neue und sicherere Blowfish-Implementerung zur Verschlüsselung.
+set cryptmethod=blowfish2
 
 " Foldings manuell erstellen.
 set foldmethod=manual
@@ -128,19 +116,75 @@ set foldmethod=manual
 "  t - Automatischer Zeilenumbruch auf 'textwidth'.
 "
 "  q - Auch Kommentare können mit 'gq' neu formatiert werden.
-set formatoptions=roctq
+"
+"  n - Erkenne Listen als solche und formatiere sie entsprechend
+set formatoptions=roctqn
 
-" Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
-" wird.
-set textwidth=72
+" Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
+" einem Window zugeordnet sein. Damit verhält Vim sich wie die meisten
+" Multi-File-Editors.
+set hidden
 
-" ----
+" Alle gefundenen Suchbegriffe hervorheben, nicht nur die Fundstelle.
+set hlsearch
+
+" Bereits suchen, während wir noch tippen.
+set incsearch
+
+" Breche nur in Leerzeichen um, nicht innerhalb eines Wortes.
+set linebreak
+
+" Modelines sind in vielen Installationen aus Sicherheitsgründen
+" abgeschaltet. Wir wollen sie aber grundsätzlich parsen.
+set modeline
+
+" Setzt den Cursor auf den Zeilenbeginn, nicht das erste Zeichen.
+set nostartofline
 
 " Zeige Zeilennummern am linken Rand...
 set number
 
 " ...und zwar relative Nummern.
 set relativenumber
+
+" Bereits 5 Zeilen vor dem Fensterende zu scrollen beginnen.
+set scrolloff=5
+
+" Die Shell für Kommando-Aufrufe. Da wir die zsh nicht überall haben
+" brauchen wir hier ein Fallback. Sonst passieren seltsame Dinge, wenn
+" wir die Shell für etwas brauchen.
+if executable('zsh')
+	set shell=zsh
+else
+	set shell=sh
+endif
+
+" Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
+" auf. Sehr sinvoll, um auch in komplexeren Strukturen den Überblick zu
+" behalten.
+set showmatch
+
+" Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
+" wird.
+set textwidth=72
+
+" Den Terminal-Titel auf den Namen der aktuellen Datei setzen.
+set title
+
+" Die Swapfile bereits nach 2 Sekunden Inaktivität schreiben. Es
+" benötigt geringfügig mehr IO als der Standardwert von 4 Sekunden,
+" aber man kann nie genug Wiederherstellungsinformationen haben.
+set updatetime=2000
+
+" Erlaube in allen Modi freie Cursorpositionierung, unabhängig der
+" bereits eingegeben Zeichen.
+set virtualedit=all
+
+" Visuelle Benachrichtigung anstatt piepen.
+set visualbell
+
+" Überlange Zeilen zur Darstellung umbrechen.
+set wrap
 
 " ----
 
@@ -177,46 +221,23 @@ set statusline=%<\ %n:%f\ %m%r%y%=line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)
 
 " ----
 
-" Ein Tabstop sind vier Leerzeichen.
-set tabstop=4
-
 " Automatische Einrückung aus 'tabstop' bestimmen.
 set shiftwidth=4
 
 " Nehme alle 'tabstop" Leerzeichen einen Tab statt der Leerzeichen.
 set softtabstop=-1
 
-" ----
-
-" Setzen den Cursor auf den Zeilenbeginn, nicht das erste Zeichen.
-set nostartofline
-
-" Erlaube in allen Modi freie Cursorpositionierung, unabhängig der
-" bereits eingegeben Zeichen.
-set virtualedit=all
-
-" Überlange Zeilen zur Darstellung umbrechen.
-set wrap
-
-" Breche nur in Leerzeichen um, nicht innerhalb eines Wortes.
-set linebreak
+" Ein Tabstop sind vier Leerzeichen.
+set tabstop=4
 
 " ----
 
-" Alle gefundenen Suchbegriffe hervorheben, nicht nur die Fundstelle.
-set hlsearch
-
-" Bereits suchen, während wir noch tippen.
-set incsearch
-
-" ----
-
-" Die folgenden Dinge nur im GUI. Auf dem Terminal sind sie sinnlos,
-" da technisch nicht umzusetzen oder da wir dem Terminalr-Emulator ins
-" Handwerk pfuschen würden.
+" Dinge die spezifisch für's GUI sind.
 if has("gui_running")
 	if has("gui_win32") || has("gui_win64")
-		" Die von gvim genutzte Schriftart.
+		" Die von gvim genutzte Schriftart. Consolas
+		" ist bei allen neueren Windows-Versionen
+		" dabei und sieht gut aus.
 		set guifont=Consolas:h11:cANSI:qDRAFT
 
 		" Über DirectX zu rendern bringt ein drastisch besseres
@@ -228,7 +249,7 @@ if has("gui_running")
 					\geom:1,renmode:5,taamode:1,level:0.5
 
 		" Der DirectX-Renderer braucht UTF-8. Was wir eh setzen
-		" müssten, da wir sonst noch latin1 bekommen würde.
+		" müssten, da wir sonst noch latin1 bekommen würde...
 		set encoding=utf-8
 	else
 		" Die von gvim genutzte Schriftart.
@@ -248,33 +269,28 @@ if has("gui_running")
 
 	" Selektieren mit der Maus schaltet in den Visual Mode.
 	set mouse=a
-else
+endif
+
+" ----
+
+" Dinge, die spezifisch für's Terminal sind.
+if !has("gui_running")
 	" Erzwinge 256 Farben. Theoretisch sollte Vim dies automatisch
 	" anhand der Terminfo / Termcap Einträge setzen. Praktisch hat
 	" es noch nie so wirklich funktioniert, insbesondere nicht unter
 	" FreeBSD.
 	set t_Co=256
-
 endif
-
-" Unser Farbschema.
-colorscheme lucius
-
-" Und auf 'dunkel' zwingen
-:LuciusBlack
-
-" Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
-set completeopt=menu,menuone,longest
-
-" Bereits 5 Zeilen vor dem Fensterende zu scrollen beginnen.
-set scrolloff=5
 
 " ----
 
-" Die Swapfile bereits nach 2 Sekunden Inaktivität schreiben. Es
-" benötigt geringfügig mehr IO als der Standardwert von 4 Sekunden,
-" aber man kann nie genug Wiederherstellungsinformationen haben.
-set updatetime=2000
+" Unser Farbschema laden...
+colorscheme lucius
+
+" ...und auf 'dunkel' zwingen.
+:LuciusBlack
+
+" ----
 
 "  Mit Hilfe der viminfo Datei merkt sich Vim Dinge über mehrere
 "  Sessions hinweg. Wir speichern in ihr:
@@ -300,6 +316,8 @@ else
 	set viminfo+=n$HOME/.vim/runtime/viminfo
 endif
 
+" ----
+
 " Die Undo-Datei merkt sich Undo-Daten für einzelne Dateien über mehrere
 " Sessions hinweg. Maximal 1.000 Änderungen können rückgängig gemacht
 " werden, bis zu 10.000 Zeilen werden beim erneuten laden einer (extern
@@ -316,6 +334,8 @@ else
 	set undodir=$HOME/.vim/runtime/undo
 endif
 
+" ----
+
 " Datei, in welcher Datei dem Wörterbuch hinzugefügte Wörter gespeichert
 " werden.
 if has("win64") || has("win32")
@@ -323,6 +343,8 @@ if has("win64") || has("win32")
 else
 	set spellfile=$HOME/.vim/runtime/spell/custom.utf-8.add
 endif
+
+" ----
 
 " Gibt an, was in automatisch erstellte Session-Scripte gespeichert
 " wird.
@@ -341,9 +363,9 @@ filetype on
 filetype indent on
 
 " Vim hat zwar mehrere eingebaute Indent-Styles und kann den Stil wenn
-" nötig automagisch ermitteln, aber oft recht es nicht aus. Wenn es ein
-" Plugin für den entsprechenden Dateityp gibt, wollen wir dies daher
-" nutzen.
+" nötig automagisch ermitteln, aber oft reicht es nicht aus, da der
+" Syntax der jeweiligen Sprache zu komplex ist. Wenn es ein Plugin für
+" den aktuellen Dateityp gibt, wollen wir dies daher nutzen.
 filetype plugin indent on
 
 " =====================================================================
@@ -352,11 +374,12 @@ filetype plugin indent on
 " 3. Auto-Commands
 " ----------------
 
-" Alle von uns definierten Auto-Commands kommen in die kanonische Gruppe
-" vimrcEx, wodurch wir sie später einfach wieder entfernen können.
+" Alle von uns definierten Auto-Commands kommen in eine Gruppe,
+" damit wir sie bei bedarf später einfach wieder entfernen können.
 augroup vimrcEx
 	" Springe beim Öffnen einer Datei zur letzten bekannten Cursor-
-	" Position.
+	" Position. Dies wird vor allem ausgeführt, also auch bevor Vim
+	" den Dateityp ermittelt hat.
 	autocmd BufReadPost *
 				\ if line("'\"") > 1 && line("'\"") <= line("$") |
 				\   exe "normal! g`\"" |
@@ -374,7 +397,7 @@ augroup vimrcEx
 	" Kommentare.
 	autocmd FileType c,cpp setlocal comments-=://
 
-	" .md Files as Markdown.
+	" .md Files als Markdown erkennen und nicht als Modula Sourcecode.
 	autocmd BufNewFile,BufReadPost *.md set filetype=markdown
 augroup END
 
@@ -384,13 +407,29 @@ augroup END
 " 4. Key mappings
 " ---------------
 
-" Normalerweise liegt der Leader auf \, was im deutschen Layout nur
-" schwer zu erreichen ist. Wir setzen ihn daher auf ,.
+" Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
+" schwer zu erreichen ist. Wir setzen ihn daher auf ','.
 let mapleader=","
+
+" ----
+
+" Zeigt die Bufferliste.
+nmap <Leader>bl :buffers<CR>:buffer<Space>
+
+" Hebt alle Vorkommen des Wortes unter dem Cursor hervor.
+nmap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
+
+" Alle Hervorhebungen löschen.
+nmap <Leader>hc :nohls<CR>
+
+" Paste-Mode.
+nmap <Leader>p :set paste!<CR>
 
 " Spellchecker umschalten.
 nmap <Leader>se :setlocal spell! spelllang=en_us<cr>
 nmap <Leader>sd :setlocal spell! spelllang=de_de<cr>
+
+" ----
 
 " Die Spalte highlighten, an welcher der Text umbricht.
 function! g:ToggleColorColumn()
@@ -403,24 +442,7 @@ endfunction
 
 nmap <Leader>w :call g:ToggleColorColumn()<CR>
 
-" Das Tagfile neubauen.
-if executable("exctags")
-	nmap <Leader>t :!exctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
-else
-	nmap <Leader>t :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
-endif
-
-" Paste-Mode.
-nmap <Leader>p :set paste!<CR>
-
-" Hebt alle Vorkommen des Wortes unter dem Cursor hervor.
-nmap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
-
-" Alle Hervorhebungen löschen.
-nmap <Leader>hc :nohls<CR>
-
-" Zeigt die Bufferliste.
-nmap <Leader>bl :buffers<CR>:buffer<Space>
+" ----
 
 " Gibt die Anzahl Wörter im Buffer zurück. Geklaut und leicht geändert von:
 " http://stackoverflow.com/questions/114431/fast-word-count-function-in-vim
@@ -438,11 +460,6 @@ function! g:WordCount()
 	echo 'Wortzahl:' s:word_count
 endfunction
 
-nmap <Leader>x :call g:WordCount()<CR>
+nmap <Leader>mc :call g:WordCount()<CR>
 
-" Sinnvollere Tasten zum Wechseln zwischen Fenster
-:nmap <silent> <C-h> :wincmd h<CR>
-:nmap <silent> <C-j> :wincmd j<CR>
-:nmap <silent> <C-k> :wincmd k<CR>
-:nmap <silent> <C-l> :wincmd l<CR>
-
+" =====================================================================
