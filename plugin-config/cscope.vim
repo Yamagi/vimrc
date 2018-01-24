@@ -3,27 +3,8 @@
 " cscope gebaut ist, konfigurieren wir es nur optional.
 
 if has("cscope")
-	" cscope fuer Tags nutzen. Aber nur als Fallback, wenn keine echten
-	" Tags generiert wurden.
-	set cscopetag
-	set csto=1
-
-	" Wenn im aktuellen Verzeichnis eine Cscope-Datenbank leigt, fuegen
-	" wir sie automadisch ein.
-	if filereadable("cscope.out")
-		cs add cscope.out
-	endif
-
-	" Wenn neue Datenbank geladen wird, kommentiere es bitte in der
-	" Statuszeile. Es hilft, wenn der Nutzer weiß, dass sie übernommen
-	" wurde.
-	set cscopeverbose
-
 	" Einfügen einer Datenbank.
-	nmap <Leader>ca :cs add cscope.out<CR><CR>
-
-	" Neubau der Datenbank.
-	nmap <Leader>cr :!cscope -Rb<CR>:cs reset<CR><CR>
+	nmap <Leader>ca :cs add .vimscope<CR><CR>
 
 	" Alle Vorkommen eines Symbols.
 	nmap <Leader>cs :cs find s <C-R>=expand("<cword>")<CR><CR>

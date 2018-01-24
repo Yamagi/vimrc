@@ -1,7 +1,7 @@
 " Startify zeigt eine äußerst praktische Startseite an.
 
-" Wir haben ein nicht-standardkonformes Sessiondir
-if has ("win64") || has("win32") || has("win16")
+" Wir haben ein nicht-standardkonformes Sessiondir.
+if has ("win64") || has("win32")
 	if !isdirectory($HOME."/vimfiles/runtime/sessions")
 		call mkdir($HOME."/vimfiles/runtime/sessions", "p")
 	endif
@@ -34,7 +34,7 @@ let g:startify_custom_header = s:filter_header([
 			\ '',
 			\ ])
 
-" Dazu der passende Footer
+" Dazu der passende Footer.
 let g:startify_custom_footer = [
 			\ '',
 			\ '',
@@ -50,4 +50,8 @@ let g:startify_list_order = [
 			\ 'sessions',
 			\ ]
 
+" Ins VCS-Rootverzeichnis der gerade geöffneten Datei wechseln.
+let g:startify_change_to_vcs_root = 1
 
+" Wenn es kein VCS-Rootdir gibt, dann nicht.
+let g:startify_change_to_dir = 0
