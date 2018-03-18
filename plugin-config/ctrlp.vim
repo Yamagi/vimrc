@@ -7,7 +7,11 @@ let g:ctrlp_map = '<leader>o'
 let g:ctrlp_cmd = 'CtrlPMixed'
 
 " Wir wolllen das Cache-Dir im Vim-Pfad
-let g:ctrlp_cache_dir = '~/.vim/runtime/ctrlp/'
+if has ("win64") || has("win32")
+	let g:ctrlp_cache_dir = $HOME."/vimfiles/runtime/ctrlp"
+else
+	let g:ctrlp_cache_dir = $HOME."/.vim/runtime/ctrlp"
+endif
 
 " Wenn wir ein installiertes git haben, wollen wir in
 " der .gitignore ausgeschlossene Dateien ignorieren.
