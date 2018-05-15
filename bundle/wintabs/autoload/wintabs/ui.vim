@@ -6,7 +6,10 @@ function! wintabs#ui#get_tabline()
         \s:get_bufline(0),
         \&columns - wintabs#element#len(spaceline),
         \)
-  return wintabs#element#render(bufline).'%='.wintabs#element#render(spaceline)
+  let padding = g:wintabs_renderers.padding(
+        \&columns - wintabs#element#len(bufline) - wintabs#element#len(spaceline)
+        \)
+  return wintabs#element#render([bufline, padding, spaceline])
 endfunction
 
 " set statusline window by window
@@ -18,11 +21,17 @@ endfunction
 
 " generate statusline window by window
 function! wintabs#ui#get_statusline(window)
-  let bufline = s:truncate_line(a:window, s:get_bufline(a:window), winwidth(a:window))
-
+  let bufline = s:truncate_line(
+        \a:window,
+        \s:get_bufline(a:window),
+        \winwidth(a:window)
+        \)
+  let padding = g:wintabs_renderers.padding(
+        \winwidth(a:window) - wintabs#element#len(bufline)
+        \)
   " reseter is attached to detect stale status
   let reseter = '%{wintabs#ui#reset_statusline('.a:window.')}'
-  return reseter.wintabs#element#render(bufline)
+  return wintabs#element#render([reseter, bufline, padding])
 endfunction
 
 " reset statusline
@@ -35,9 +44,26 @@ function! wintabs#ui#reset_statusline(window)
 endfunction
 
 " private functions below
-"
+
 " generate bufline per window
 function! s:get_bufline(window)
+  let buffers = copy(wintabs#getwinvar(a:window, 'wintabs_buflist', []))
+  call add(buffers, winbufnr(a:window))
+  let bufnames = map(copy(buffers), "bufname(v:val)")
+  let modified = map(copy(buffers), "getbufvar(v:val, '&modified')")
+  let bufline = wintabs#memoize#call(
+        \function('s:get_bufline_non_memoized'),
+        \a:window,
+        \buffers,
+        \bufnames,
+        \modified,
+        \a:window == winnr(),
+        \)
+  call wintabs#session#save(tabpagenr(), a:window)
+  return bufline
+endfunction
+
+function! s:get_bufline_non_memoized(window, ...)
   call wintabs#refresh_buflist(a:window)
 
   let line = []
@@ -50,6 +76,8 @@ function! s:get_bufline(window)
   for buffer in buffers
     let is_active = i == active_index
     let is_next_active = i == active_index - 1
+    let has_focus = g:wintabs_display == 'tabline'
+          \|| (g:wintabs_display == 'statusline' && a:window == winnr())
 
     if i == 0
       if is_active
@@ -61,7 +89,7 @@ function! s:get_bufline(window)
             \'is_rightmost': 0,
             \'is_left': active_index >= 0,
             \'is_right': 0,
-            \'is_active': is_active,
+            \'is_active': is_active && has_focus,
             \})
       let element.type = 'sep'
       call add(line, element)
@@ -72,7 +100,7 @@ function! s:get_bufline(window)
           \'is_rightmost': i == len(buffers) - 1,
           \'is_left': active_index >= 0 && i < active_index,
           \'is_right': active_index >= 0 && i > active_index,
-          \'is_active': is_active,
+          \'is_active': is_active && has_focus,
           \})
     let element.type = 'buffer'
     let element.number = buffer
@@ -87,7 +115,7 @@ function! s:get_bufline(window)
           \'is_rightmost': i == len(buffers) - 1,
           \'is_left': active_index >= 0 && i < active_index,
           \'is_right': active_index >= 0 && i >= active_index,
-          \'is_active': is_active || is_next_active,
+          \'is_active': (is_active || is_next_active) && has_focus,
           \})
     let element.type = 'sep'
     call add(line, element)
@@ -104,6 +132,18 @@ endfunction
 
 " truncate bufline
 function! s:truncate_line(window, bufline, width)
+  let [elements, line_start] = wintabs#memoize#call(
+        \function('s:truncate_line_non_memoized'),
+        \a:window,
+        \a:bufline,
+        \a:width,
+        \wintabs#getwinvar(a:window, 'wintabs_bufline_start', 0)
+        \)
+  call setwinvar(a:window, 'wintabs_bufline_start', line_start)
+  return elements
+endfunction
+
+function! s:truncate_line_non_memoized(window, bufline, width, ...)
   let [line, active_start, active_end] = a:bufline
   let line_len = wintabs#element#len(line)
 
@@ -119,7 +159,7 @@ function! s:truncate_line(window, bufline, width)
   let left_arrow_len = wintabs#element#len(left_arrow)
   let right_arrow_len = wintabs#element#len(right_arrow)
 
-  " adjust line_start and width to accommodate actie buffer and arrows
+  " adjust line_start and width to accommodate active buffer and arrows
   " 3 passes are needed to satisfy enough constraints
   for i in range(3)
     " line_start <= active_start < active_end <= line_start + width
@@ -184,7 +224,7 @@ function! s:truncate_line(window, bufline, width)
   if has_right_arrow
     call add(elements, right_arrow)
   endif
-  return elements
+  return [elements, line_start]
 endfunction
 
 " generate space (vim tabs) line

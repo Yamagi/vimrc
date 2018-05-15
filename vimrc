@@ -307,7 +307,7 @@ colorscheme lucius
 "  @128 - Die letzten 128 eingegebenen Zeilen.
 "
 "  s1024 - Alle Register bis 1 Megabyte Größe speichern.
-set viminfo=%,'128,/128,:128,@128,s1024
+set viminfo='128,/128,:128,@128,s1024
 
 " Der Dateipfad ist vom Betriebssystem abhängig.
 if has ("win64") || has("win32")

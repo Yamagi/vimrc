@@ -80,16 +80,38 @@ function! wintabs#close()
   if close_window
     call s:close_window()
   else
+    let occurrence = s:count_occurrence(buffer)
     call s:switch_tab(switch_to, 1)
 
-    " only remove buffer that is unmodifed
+    " only remove buffer that is unmodifed or displayed in some other window
     " buffer remains modified if confirm dialog is canceled
-    if !getbufvar(buffer, '&modified')
+    if !getbufvar(buffer, '&modified') || occurrence > 1
       call filter(w:wintabs_buflist, 'v:val != '.buffer)
     endif
   endif
 
-  call s:purge(buffer)
+  call s:post_delete(buffer)
+endfunction
+
+" undo closed tab
+function! wintabs#undo()
+  let filepath = wintabs#undo#peak()
+  if empty(filepath)
+    return
+  endif
+
+  " if peak isn't valid, pop and try again
+  if bufnr('%') == bufnr(filepath) || !filereadable(filepath)
+    call wintabs#undo#pop()
+    call wintabs#undo()
+    return
+  endif
+
+  " edit peak, pop if buffer is successfully changed
+  execute 'edit '.filepath
+  if bufnr('%') == bufnr(filepath)
+    call wintabs#undo#pop()
+  endif
 endfunction
 
 " close all but current tab
@@ -120,7 +142,7 @@ function! wintabs#only()
   call wintabs#init()
 
   for buffer in deleted_buflist
-    call s:purge(buffer)
+    call s:post_delete(buffer)
   endfor
 endfunction
 
@@ -273,6 +295,43 @@ function! wintabs#move(n)
   " move
   call remove(w:wintabs_buflist, pos)
   call insert(w:wintabs_buflist, buffer, new_pos)
+
+  call wintabs#init()
+endfunction
+
+" move the current tab to an adjacent window
+function! wintabs#move_to_window(wincmd_arg)
+  let old_winnr = winnr()
+  let buffer = bufnr('%')
+
+  " go to new window
+  execute 'wincmd '.a:wincmd_arg
+  let new_winnr = winnr()
+
+  " if buffer window wasn't changed by wincmd_arg, do nothing
+  if buffer == bufnr('%') || old_winnr == new_winnr
+    return
+  endif
+
+  " temporarily disable switchbuf and autoclose behavior
+  let switchbuf = &switchbuf
+  let &switchbuf = ''
+  let wintabs_switchbuf = g:wintabs_switchbuf
+  let g:wintabs_switchbuf = ''
+  let autoclose = g:wintabs_autoclose
+  let g:wintabs_autoclose = 0
+
+  " open buffer in new window, go back to old window, close current buffer, come 
+  " back to new window
+  execute 'buffer '.buffer
+  execute old_winnr.'wincmd w'
+  call wintabs#close()
+  execute new_winnr.'wincmd w'
+
+  " restore switchbuf and autoclose
+  let &switchbuf = switchbuf
+  let g:wintabs_switchbuf = wintabs_switchbuf
+  let g:wintabs_autoclose = autoclose
 
   call wintabs#init()
 endfunction
@@ -477,10 +536,10 @@ function! s:switch_tab(n, confirm)
   let &hidden = 0
 
   if a:n < 0
-    execute a:confirm ? 'silent! confirm enew' : 'enew!'
+    execute a:confirm ? 'confirm enew' : 'enew!'
   else
     let buffer = w:wintabs_buflist[a:n]
-    execute a:confirm ? 'silent! confirm buffer '.buffer : 'buffer! '.buffer
+    execute a:confirm ? 'confirm buffer '.buffer : 'buffer! '.buffer
   endif
 
   " restore hidden
@@ -544,7 +603,7 @@ function! s:close_tabs_window()
   endif
 
   for buffer in deleted_buflist
-    call s:purge(buffer)
+    call s:post_delete(buffer)
   endfor
 endfunction
 
@@ -556,8 +615,17 @@ function! s:is_in_buflist(tabnr, winnr, buffer)
   return index(buflist, a:buffer) != -1
 endfunction
 
+" run post-delete triggers
+function! s:post_delete(buffer)
+  call wintabs#undo#push(a:buffer)
+  call s:purge(a:buffer)
+endfunction
+
 " delete buffer from buflist if it isn't attached to any wintab
 function! s:purge(buffer)
+  if !buflisted(a:buffer)
+    return
+  endif
   for tabpage in range(1, tabpagenr('$'))
     if index(tabpagebuflist(tabpage), a:buffer) != -1
       return
@@ -570,3 +638,13 @@ function! s:purge(buffer)
   endfor
   execute 'bdelete '.a:buffer
 endfunction
+
+" count in how many windows in all vimtabs a buffer is shown
+function! s:count_occurrence(buffer)
+  let buflist = []
+  for i in range(tabpagenr('$'))
+    call extend(buflist, tabpagebuflist(i + 1))
+  endfor
+  return count(buflist, a:buffer)
+endfunction
+

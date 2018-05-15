@@ -7,6 +7,7 @@ function! wintabs#renderers#defaults()
         \'left_arrow': function('wintabs#renderers#left_arrow'),
         \'right_arrow': function('wintabs#renderers#right_arrow'),
         \'line_sep': function('wintabs#renderers#line_sep'),
+        \'padding': function('wintabs#renderers#padding'),
         \}
 endfunction
 
@@ -19,17 +20,17 @@ endfunction
 
 function! wintabs#renderers#buffer_sep(config)
   let label = g:wintabs_ui_sep_inbetween
-  if a:config.is_active && a:config.is_left
-    let label = g:wintabs_ui_active_left
-  endif
-  if a:config.is_active && a:config.is_right
-    let label = g:wintabs_ui_active_right
-  endif
   if a:config.is_leftmost
     let label = g:wintabs_ui_sep_leftmost
   endif
   if a:config.is_rightmost
     let label = g:wintabs_ui_sep_rightmost
+  endif
+  if a:config.is_active && a:config.is_left
+    let label = g:wintabs_ui_active_left
+  endif
+  if a:config.is_active && a:config.is_right
+    let label = g:wintabs_ui_active_right
   endif
   return {
         \'label': label,
@@ -86,6 +87,14 @@ function! wintabs#renderers#line_sep()
         \}
 endfunction
 
+function! wintabs#renderers#padding(len)
+  return {
+        \'type': 'sep',
+        \'label': repeat(' ', a:len),
+        \'highlight': '',
+        \}
+endfunction
+
 function! wintabs#renderers#bufname(bufnr)
   let name = fnamemodify(bufname(a:bufnr), ':t')
   let name = substitute(name, '%', '%%', 'g')
@@ -101,8 +110,8 @@ function! wintabs#renderers#bufname(bufnr)
 endfunction
 
 function! wintabs#renderers#buf_label(bufnr)
-  let label = wintabs#renderers#bufname(a:bufnr)
-  let label = substitute(g:wintabs_ui_buffer_name_format, "%t", label, "g")
+  let label = g:wintabs_ui_buffer_name_format
+  let label = substitute(label, "%t", wintabs#renderers#bufname(a:bufnr), "g")
   let label = substitute(label, "%n", a:bufnr, "g")
   return label
 endfunction

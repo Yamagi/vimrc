@@ -7,6 +7,7 @@ let g:loaded_wintabs = 1
 nnoremap <silent> <Plug>(wintabs_next) :<C-U>WintabsNext<CR>
 nnoremap <silent> <Plug>(wintabs_previous) :<C-U>WintabsPrevious<CR>
 nnoremap <silent> <Plug>(wintabs_close) :<C-U>WintabsClose<CR>
+nnoremap <silent> <Plug>(wintabs_undo) :<C-U>WintabsUndo<CR>
 nnoremap <silent> <Plug>(wintabs_only) :<C-U>WintabsOnly<CR>
 nnoremap <silent> <Plug>(wintabs_all) :<C-U>WintabsAll<CR>
 nnoremap <silent> <Plug>(wintabs_close_window) :<C-U>WintabsCloseWindow<CR>
@@ -26,6 +27,11 @@ nnoremap <silent> <Plug>(wintabs_first) :<C-U>WintabsFirst<CR>
 nnoremap <silent> <Plug>(wintabs_last) :<C-U>WintabsLast<CR>
 nnoremap <silent> <Plug>(wintabs_move_left) :<C-U>WintabsMove -1<CR>
 nnoremap <silent> <Plug>(wintabs_move_right) :<C-U>WintabsMove 1<CR>
+nnoremap <silent> <Plug>(wintabs_move_to_window_left) :<C-U>WintabsMoveToWindow h<CR>
+nnoremap <silent> <Plug>(wintabs_move_to_window_right) :<C-U>WintabsMoveToWindow l<CR>
+nnoremap <silent> <Plug>(wintabs_move_to_window_above) :<C-U>WintabsMoveToWindow k<CR>
+nnoremap <silent> <Plug>(wintabs_move_to_window_below) :<C-U>WintabsMoveToWindow j<CR>
+nnoremap <silent> <Plug>(wintabs_move_to_window_next) :<C-U>WintabsMoveToWindow w<CR>
 nnoremap <silent> <Plug>(wintabs_maximize) :<C-U>WintabsMaximize<CR>
 nnoremap <silent> <Plug>(wintabs_refresh) :<C-U>WintabsRefresh<CR>
 
@@ -33,6 +39,7 @@ nnoremap <silent> <Plug>(wintabs_refresh) :<C-U>WintabsRefresh<CR>
 command! WintabsNext call wintabs#jump(1, 0)
 command! WintabsPrevious call wintabs#jump(-1, 0)
 command! WintabsClose call wintabs#close()
+command! WintabsUndo call wintabs#undo()
 command! WintabsOnly call wintabs#only()
 command! WintabsAll call wintabs#all()
 command! WintabsAllBuffers call wintabs#all_buffers()
@@ -44,6 +51,7 @@ command! -nargs=1 WintabsGo call wintabs#go(<q-args> + 0)
 command! WintabsFirst call wintabs#go(1)
 command! WintabsLast call wintabs#go(-1)
 command! -nargs=1 WintabsMove call wintabs#move(<q-args> + 0)
+command! -nargs=1 WintabsMoveToWindow call wintabs#move_to_window(<q-args>)
 command! WintabsMaximize call wintabs#maximize()
 command! -nargs=1 WintabsDo call wintabs#do(<q-args>)
 command! WintabsRefresh call wintabs#init()
@@ -68,7 +76,7 @@ call s:set('g:wintabs_renderers', wintabs#renderers#defaults())
 " ui
 call s:set('g:wintabs_ui_modified', ' +')
 call s:set('g:wintabs_ui_readonly', ' -')
-call s:set('g:wintabs_ui_sep_leftmost', '')
+call s:set('g:wintabs_ui_sep_leftmost', ' ')
 call s:set('g:wintabs_ui_sep_inbetween', '|')
 call s:set('g:wintabs_ui_sep_rightmost', '|')
 call s:set('g:wintabs_ui_active_left', ' ')
@@ -97,9 +105,13 @@ endif
 call s:set('g:wintabs_ui_arrow_left', ' < ')
 call s:set('g:wintabs_ui_arrow_right', ' > ')
 call s:set('g:wintabs_ui_sep_spaceline', '|')
+call s:set('g:wintabs_undo_limit', 100)
 
 " init session
 call wintabs#session#init()
+
+" init undo list
+call wintabs#undo#init()
 
 " start wintabs
 call wintabs#init()
