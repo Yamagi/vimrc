@@ -17,6 +17,9 @@ endfunction
 
 " save buflist of one window to session
 function! wintabs#session#save(tabpage, window)
+  if exists('SessionLoad')
+    echom SessionLoad
+  endif
   " if tabpages count is correct, refresh passed tabpages, otherwise refresh all 
   " tabpages
   if len(s:session) == tabpagenr('$')
@@ -80,7 +83,8 @@ function! s:session_save_window(tabpage, window)
 
   " bufnr isn't persisted across sessions, but bufname is
   for buffer in buflist
-    call add(s:session[a:tabpage][a:window], bufname(buffer))
+    let pathname = fnamemodify(bufname(buffer), ':p')
+    call add(s:session[a:tabpage][a:window], pathname)
   endfor
 endfunction
 

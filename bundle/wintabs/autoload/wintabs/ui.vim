@@ -47,8 +47,8 @@ endfunction
 
 " generate bufline per window
 function! s:get_bufline(window)
-  let buffers = copy(wintabs#getwinvar(a:window, 'wintabs_buflist', []))
-  call add(buffers, winbufnr(a:window))
+  call wintabs#refresh_buflist(a:window)
+  let buffers = wintabs#getwinvar(a:window, 'wintabs_buflist', [])
   let bufnames = map(copy(buffers), "bufname(v:val)")
   let modified = map(copy(buffers), "getbufvar(v:val, '&modified')")
   let bufline = wintabs#memoize#call(
@@ -57,15 +57,13 @@ function! s:get_bufline(window)
         \buffers,
         \bufnames,
         \modified,
-        \a:window == winnr(),
+        \winnr(),
+        \winbufnr(a:window),
         \)
-  call wintabs#session#save(tabpagenr(), a:window)
   return bufline
 endfunction
 
 function! s:get_bufline_non_memoized(window, ...)
-  call wintabs#refresh_buflist(a:window)
-
   let line = []
   let active_start = 0
   let active_end = 0
@@ -76,7 +74,7 @@ function! s:get_bufline_non_memoized(window, ...)
   for buffer in buffers
     let is_active = i == active_index
     let is_next_active = i == active_index - 1
-    let has_focus = g:wintabs_display == 'tabline'
+    let is_active_window = g:wintabs_display == 'tabline'
           \|| (g:wintabs_display == 'statusline' && a:window == winnr())
 
     if i == 0
@@ -89,7 +87,8 @@ function! s:get_bufline_non_memoized(window, ...)
             \'is_rightmost': 0,
             \'is_left': active_index >= 0,
             \'is_right': 0,
-            \'is_active': is_active && has_focus,
+            \'is_active': is_active,
+            \'is_active_window': is_active_window,
             \})
       let element.type = 'sep'
       call add(line, element)
@@ -100,7 +99,8 @@ function! s:get_bufline_non_memoized(window, ...)
           \'is_rightmost': i == len(buffers) - 1,
           \'is_left': active_index >= 0 && i < active_index,
           \'is_right': active_index >= 0 && i > active_index,
-          \'is_active': is_active && has_focus,
+          \'is_active': is_active,
+          \'is_active_window': is_active_window,
           \})
     let element.type = 'buffer'
     let element.number = buffer
@@ -115,7 +115,8 @@ function! s:get_bufline_non_memoized(window, ...)
           \'is_rightmost': i == len(buffers) - 1,
           \'is_left': active_index >= 0 && i < active_index,
           \'is_right': active_index >= 0 && i >= active_index,
-          \'is_active': (is_active || is_next_active) && has_focus,
+          \'is_active': is_active || is_next_active,
+          \'is_active_window': is_active_window,
           \})
     let element.type = 'sep'
     call add(line, element)
@@ -249,6 +250,7 @@ function! s:get_spaceline()
             \'is_left': active_index >= 0,
             \'is_right': 0,
             \'is_active': is_active,
+            \'is_active_window': 1,
             \})
       let element.type = 'sep'
       call add(line, element)
@@ -260,6 +262,7 @@ function! s:get_spaceline()
           \'is_left': active_index >= 0 && tab < active_index,
           \'is_right': active_index >= 0 && tab > active_index,
           \'is_active': is_active,
+          \'is_active_window': 1,
           \})
     let element.type = 'tab'
     let element.number = tab
@@ -271,6 +274,7 @@ function! s:get_spaceline()
           \'is_left': active_index >= 0 && tab < active_index,
           \'is_right': active_index >= 0 && tab >= active_index,
           \'is_active': is_active || is_next_active,
+          \'is_active_window': 1,
           \})
     let element.type = 'sep'
     call add(line, element)
