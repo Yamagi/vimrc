@@ -19,8 +19,17 @@ of course.
    `~/vimfiles` (Windows).
 2. Symlink or copy the supplied `vimrc-stub` to `~/.vimrc` (Linux, OS X,
    Unix) or `~/_vimrc` (Windows).
-
-## gvim
-If you want to use gvim you may need to touch an empty ~/.gvimrc. This
-is because some systems install a global gvimrc which is executed when
-no user supplied version is found.
+3. You may want to install some optional tools for better language
+   support:
+   * A `ctags` implementation for generating tag files. I recommend
+	 Universal Ctags, found at https://ctags.io. The more common
+	 Exuberant Ctags will also work, but the old BSD ctags won't. If a
+	 executable named `vimctags` is found Vim will use that one instead 
+	 of the normal `ctags` binary.
+   * The `cquery` language server for enhanced C, C++ and ObjC support.
+	 Found at https://github.com/cquery-project/cquery.
+   * The `python-language-server` for much better Python support. Found
+	 at https://github.com/palantir/python-language-server.
+4. If you want to use gvim you may need to touch an empty ~/.gvimrc.
+   This is because some systems install a global gvimrc which is always
+   executed after `~/.vimrc` when no user supplied version is found.
