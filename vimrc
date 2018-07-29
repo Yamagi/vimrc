@@ -208,16 +208,16 @@ set showmode
 "  %< Stelle an der bei zu langer Zeile gekürzt wird
 "  %n Buffer-Nummer
 "  %f Relativer Pfad zur Datei
-"  %m Änderungsflag
-"  %r Read-Only Flag
-"  %y Filetype
+"  %R Read-Only Flag
+"  %M Änderungsflag
+"  %Y Filetype
 "  $= Teiler für links und rechts Ausrichtung
 "  %l Aktuelle Zeilennummer
-"  %L Länge der Datei
+"  %L Gesamtzahl Zeilen der Datei
 "  %c Aktuelle Spalte
 "  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
 "  %P Aktuelle Position in Prozent
-set statusline=%<\ %n:%f\ %m%r%y%=line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)
+set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y)%=L∶\ %l/%L\ C∶\ %c%V\ (%P)
 
 " ----
 
