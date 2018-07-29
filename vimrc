@@ -2,7 +2,7 @@
 " 1. Startup
 " ----------
 
-" Schutz gegen versehendliches Laden.
+" Schutz gegen versehentliches Laden.
 if g:vimrc_load != 1
 	finish
 endif
@@ -117,7 +117,7 @@ set foldmethod=manual
 "
 "  q - Auch Kommentare können mit 'gq' neu formatiert werden.
 "
-"  n - Erkenne Listen als solche und formatiere sie entsprechend
+"  n - Erkenne Listen als solche und formatiere sie entsprechend.
 set formatoptions=roctqn
 
 " Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
@@ -160,7 +160,7 @@ else
 endif
 
 " Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
-" auf. Sehr sinvoll, um auch in komplexeren Strukturen den Überblick zu
+" auf. Sehr sinnvoll, um auch in komplexeren Strukturen den Überblick zu
 " behalten.
 set showmatch
 
@@ -194,7 +194,7 @@ set laststatus=2
 
 " Zeige die aktuelle Cursorposition in der Statuszeile. Ich glaube es
 " muss gesetzt sein, damit wir in der angepassten Statuszeile auf die
-" Position zugreifen können. Sihe auch weiter unten.
+" Position zugreifen können. Siehe auch weiter unten.
 set ruler
 
 " Zeigt das letzte Kommando in der Statuszeile an, bis dies durch eine
@@ -224,10 +224,10 @@ set statusline=%<\ %n:%f\ %m%r%y%=line:\ %l\ of\ %L,\ col:\ %c%V\ (%P)
 " Automatische Einrückung aus 'tabstop' bestimmen.
 set shiftwidth=4
 
-" Nehme alle 'tabstop" Leerzeichen einen Tab statt der Leerzeichen.
+" Nehme alle 'tabstop' Leerzeichen einen Tab statt der Leerzeichen.
 set softtabstop=-1
 
-" Ein Tabstop sind vier Leerzeichen.
+" Ein 'tabstop' sind vier Leerzeichen.
 set tabstop=4
 
 " ----
@@ -260,7 +260,7 @@ if has("gui_running")
 	:set guioptions-=T
 	:set guioptions-=m
 
-	" Niemand mag Scrollleisten
+	" Niemand mag Scrollleisten.
 	:set guioptions-=L
 	:set guioptions-=r
 
@@ -359,7 +359,7 @@ syntax on
 " Erkenne Dateitypen.
 filetype on
 
-" Wähle Einrückstil anhand des erkannten Dateityps.
+" Wähle den Einrückungsstil anhand des erkannten Dateityps.
 filetype indent on
 
 " Vim hat zwar mehrere eingebaute Indent-Styles und kann den Stil wenn
