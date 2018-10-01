@@ -103,21 +103,15 @@ set cryptmethod=blowfish2
 set foldmethod=manual
 
 " Defintion, wie Text automatisch formatiert werden soll:
-"
-"  r - Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
-"      anfügen.
-"
-"  o - Kommentarzeichen einfügen, wenn man mit o odr O in den Insert
-"      Mode wechselt.
-"
-"  c - Kommentare automatisch auf 'textwidth' umbrechen, die Kommentare
-"      automatisch einfügen.
-"
-"  t - Automatischer Zeilenumbruch auf 'textwidth'.
-"
-"  q - Auch Kommentare können mit 'gq' neu formatiert werden.
-"
-"  n - Erkenne Listen als solche und formatiere sie entsprechend.
+"  r Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
+"    anfügen.
+"  o Kommentarzeichen einfügen, wenn man mit o oder O in den Insert
+"    Mode wechselt.
+"  c Kommentare automatisch auf 'textwidth' umbrechen, die Kommentare
+"    automatisch einfügen.
+"  t Automatischer Zeilenumbruch auf 'textwidth'.
+"  q Auch Kommentare können mit 'gq' neu formatiert werden.
+"  n Erkenne Listen als solche und formatiere sie entsprechend.
 set formatoptions=roctqn
 
 " Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
@@ -294,19 +288,13 @@ colorscheme lucius
 
 "  Mit Hilfe der viminfo Datei merkt sich Vim Dinge über mehrere
 "  Sessions hinweg. Wir speichern in ihr:
-"
-"  % - Wir merken uns die Bufferliste, öffnen sie beim Start wieder,
-"      sofern keine Datei an Vim übergeben wurde.
-"
-"  '128 - Marken der letzten 128 Dateien speichern.
-"
-"  /128 - Die letzten 128 Suchbegriffe.
-"
-"  :128 - Die letzten 128 History-Befehle.
-"
-"  @128 - Die letzten 128 eingegebenen Zeilen.
-"
-"  s1024 - Alle Register bis 1 Megabyte Größe speichern.
+"   %     Wir merken uns die Bufferliste, öffnen sie beim Start
+"         wieder, sofern keine Datei an Vim übergeben wurde.
+"   '128  Marken der letzten 128 Dateien speichern.
+"   /128  Die letzten 128 Suchbegriffe.
+"   :128  Die letzten 128 History-Befehle.
+"   @128  Die letzten 128 eingegebenen Zeilen.
+"   s1024 Alle Register bis 1 Megabyte Größe speichern.
 set viminfo='128,/128,:128,@128,s1024
 
 " Der Dateipfad ist vom Betriebssystem abhängig.
