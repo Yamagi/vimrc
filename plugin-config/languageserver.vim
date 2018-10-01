@@ -5,9 +5,9 @@
 
 " Hinweise am linken Rand anzeigen.
 let g:lsp_signs_enabled = 1
-let g:lsp_signs_error = {'text': '✗'}
-let g:lsp_signs_warning = {'text': '‼'}
-let g:lsp_signs_hint = {'text' : '✓'}
+let g:lsp_signs_error = {'text': 'x'}
+let g:lsp_signs_warning = {'text': '!'}
+let g:lsp_signs_hint = {'text' : '*'}
 
 " Hinweise anzeigen, wenn der Cursor über
 " der jeweilige Stelle ist.

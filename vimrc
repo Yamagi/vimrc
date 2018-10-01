@@ -211,7 +211,7 @@ set showmode
 "  %c Aktuelle Spalte
 "  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
 "  %P Aktuelle Position in Prozent
-set statusline=%<\ %n∶\ %f\ (%R%M%Y)%=L∶\ %l/%L\ C∶\ %c%V\ (%P)\ 
+set statusline=%<\ %n:\ %f\ (%R%M%Y)%=L:\ %l/%L\ C:\ %c%V\ (%P)\ 
 
 " ----
 
