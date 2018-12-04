@@ -1,7 +1,7 @@
 " Das 'languageserver' Plugin ist eine Kombination aus 'async',
-" 'vim-lsp' und 'vim-lsp-cquery'. Es implementiert das Language
-" Server Protokoll, wir nutzen es für erweiterte Sprachfeatues
-" für derzeit C/C++/ObjC und Python.
+" 'vim-lsp', 'vim-lsp-cquery', 'asynccomplete' und 'asynccomplete-lsp'.
+" Es implementiert das Language Server Protokoll, wir nutzen es für
+" erweiterte Sprachfeatues für derzeit C/C++/ObjC und Python.
 
 " Hinweise am linken Rand anzeigen.
 let g:lsp_signs_enabled = 1
@@ -29,12 +29,6 @@ if executable('cquery')
 				\ 'whitelist': ['c', 'cpp', 'objc', 'objcpp', 'cc'],
 				\ })
 
-	" Setzen der Omnicomplete-Funktion.
-	autocmd FileType c setlocal omnifunc=lsp#complete
-	autocmd FileType cpp setlocal omnifunc=lsp#complete
-	autocmd FileType objc setlocal omnifunc=lsp#complete
-	autocmd FileType objcpp setlocal omnifunc=lsp#complete
-
 	" Callers über cquery abfragen, nicht über cscope.
 	" (Überschreibt das cscope Mapping)
 	nnoremap <leader>cc :LspCqueryCallers<CR>
@@ -47,7 +41,11 @@ if executable('pyls')
 				\ 'cmd': {server_info->['pyls']},
 		        \ 'whitelist': ['python'],
 		        \ })
-
-	" Setzen der Omnicomplete-Funktion.
-	autocmd FileType python setlocal omnifunc=lsp#complete
 endif
+
+" asynccomplete wird für Autovervollständigung genutzt.
+" Es soll aber nicht automagisch triggern, das nervt.
+" Stattdessen triggern wir es auf ctl-y, sodass wir
+" nicht mit Supertab auf ctrl-space kollidieren.
+let g:asyncomplete_auto_popup = 0
+imap <C-y> <Plug>(asyncomplete_force_refresh)

@@ -1,2 +1,3 @@
 This is a kind of "Frankenstein" plugin, combining the 'async',
-'vim-lsp' and 'vim-lsp-cquery' Vim plugins for better handling.
+'vim-lsp', 'vim-lsp-cquery', 'asynccomplete' and 'asynccomplete-lsp'
+Vim plugins for better handling.
