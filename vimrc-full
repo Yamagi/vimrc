@@ -242,7 +242,7 @@ if has("gui_running")
 		set encoding=utf-8
 	else
 		" Die von gvim genutzte Schriftart.
-		set guifont=Inconsolata\ 11
+		set guifont=Inconsolata\ 12
 	endif
 
 	" Keine nervende Symbol- und Menüleiste.
