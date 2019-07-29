@@ -118,6 +118,11 @@ set linebreak
 " abgeschaltet. Wir wollen sie aber grundsätzlich parsen.
 set modeline
 
+" Einige Filetype-Plugins setzen die 'foldmethod' auf einen Wert
+" als 'manual'. Verhindere daher, dass in dem Fall beim Start alle
+" Foldings geschlossenwerden.
+set nofoldenable
+
 " Setzt den Cursor auf den Zeilenbeginn, nicht das erste Zeichen.
 set nostartofline
 
@@ -348,8 +353,17 @@ filetype plugin indent on
 
 " =====================================================================
 
+" --------------------------------------
+" 3. File-Type spezifische Einstellungen
+" --------------------------------------
+
+" Das beiliegende Markdown-Plugin kann Foldings erstellen.
+let g:markdown_folding=1
+
+" =====================================================================
+
 " ----------------
-" 3. Auto-Commands
+" 4. Auto-Commands
 " ----------------
 
 " Alle von uns definierten Auto-Commands kommen in eine Gruppe,
@@ -382,7 +396,7 @@ augroup END
 " =====================================================================
 
 " ---------------
-" 4. Key mappings
+" 5. Key mappings
 " ---------------
 
 " Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
