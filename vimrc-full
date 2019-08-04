@@ -401,8 +401,11 @@ augroup END
 " ---------------
 
 " Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
-" schwer zu erreichen ist. Wir setzen ihn daher auf ','.
-let mapleader=","
+" schwer zu erreichen ist. Wir setzen ihn daher auf ` `, also Space.
+" Space ist die einzige mehr oder weniger unbelegte Taste. Genauer
+" mappen wir Space auf Leader, es hat den Vorteil, dass auch '\' als
+" Leader nutzbar bleibt.
+map <space> <leader>
 
 " ----
 
