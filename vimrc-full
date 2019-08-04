@@ -98,7 +98,8 @@ set foldmethod=manual
 "  t Automatischer Zeilenumbruch auf 'textwidth'.
 "  q Auch Kommentare können mit 'gq' neu formatiert werden.
 "  n Erkenne Listen als solche und formatiere sie entsprechend.
-set formatoptions=roctqn
+"  j Entferne das Kommentarzeichen beim Zusammenfassen von Zeilen.
+set formatoptions=roctqnj
 
 " Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
 " einem Window zugeordnet sein. Damit verhält Vim sich wie die meisten
