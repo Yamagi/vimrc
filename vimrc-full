@@ -361,7 +361,7 @@ filetype plugin indent on
 " Das beiliegende Markdown-Plugin kann Foldings erstellen. Leider ist
 " das unendlich langsam, da es mit Regex arbeitet, die Worst Case ein
 " paar Millionen(!) Mal pro 'gqis' und ähnlichem ausgeführt werden.
-let g:markdown_folding=0
+"let g:markdown_folding=1
 
 " =====================================================================
 
