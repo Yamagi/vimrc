@@ -93,7 +93,9 @@ endfunction
 
 if g:lsp_registered_ccls == 1
 		autocmd FileType c,cpp call g:LSP_Mappings()
-elseif g:lsp_registered_pyls == 1
+endif
+
+if g:lsp_registered_pyls == 1
 		autocmd FileType python call g:LSP_Mappings()
 endif
 
