@@ -85,6 +85,9 @@ set completeopt=menu,menuone,longest
 " Neue und sicherere Blowfish-Implementerung zur Verschlüsselung.
 set cryptmethod=blowfish2
 
+" Führe lokale, in Vim Arbeitsverzeichnis gefundene .vimrc aus.
+set exrc
+
 " Foldings manuell erstellen.
 set foldmethod=manual
 
@@ -456,5 +459,16 @@ function! g:WordCount()
 endfunction
 
 nmap <Leader>c :call g:WordCount()<CR>
+
+" =====================================================================
+
+" --------------
+" 6. Secure mode
+" --------------
+
+" Da wir oben 'exrc' setzen, ist es eine sehr gute Idee hier den Secure
+" Mode einzuschalten, sodass nachfolgende vimrc nicht im Dateisystem
+" herumrandalieren und ungewollte Mappings setzen können.
+set secure
 
 " =====================================================================
