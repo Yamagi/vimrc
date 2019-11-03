@@ -214,6 +214,19 @@ endif
 
 " ----
 
+" Thesauri für Deutsch und Englisch. Da sich Deutsch und Englisch in
+" ihren Wörtern kaum überschneiden, setzen wir einfach beide Sprachen
+" zugleich. Vim fragt dann beide Dateien ab und zeigt alle Treffer an.
+if has("win64") || has("win32")
+	set thesaurus=$HOME/vimfiles/spell/thesaurus-de.txt
+	set thesaurus+=$HOME/vimfiles/spell/thesaurus-en.txt
+else
+	set thesaurus=$HOME/.vim/spell/thesaurus-de.txt
+	set thesaurus+=$HOME/.vim/spell/thesaurus-en.txt
+endif
+
+" ----
+
 " Automatische Einrückung aus 'tabstop' bestimmen.
 set shiftwidth=4
 

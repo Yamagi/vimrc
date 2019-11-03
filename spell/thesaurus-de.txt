@@ -1,0 +1,21649 @@
+Atomspaltung Kernfission Kernspaltung Fission
+Fortführung Wiederaufnahme
+aufbrechen abreisen abfahren abfliegen fortfahren wegfliegen davonfahren wegfahren losfahren abdüsen
+Seminar Workshop Kursus Schulung Bildungsmaßnahme Kurs Lehrgang Training Weiterbildung
+Mangelhaftigkeit Defizienz
+überwachen beaufsichtigen
+Wertvorstellungen Ethik Wertmaßstäbe Sittlichkeit Moralvorstellungen Moral Wertesystem
+Bewegungsgröße Impuls
+Herabwürdigung Diffamierung Verleumdung Schmähung Verunglimpfung Diffamie Rufschädigung Diffamation
+Dichtungsband Dichtband
+Ankerplatz Ankergrund
+Adressat Auftraggeber Kunde Mandant
+Sozialdemokraten Sozis Sozen SPD
+Kulturhoheit Kulturautonomie
+Brevität Kürze Lakonik Prägnanz Komprimiertheit
+überzahlen überbezahlen
+einfach schlechterdings nachgerade schlankwegs rein platterdings geradewegs schlichtwegs durchaus glattweg direkt glatt schlichtweg schlechtweg schlicht geradezu schier reinewegs gradweg schlechthin reinwegs rundweg geradezus reinweg schlechtwegs gerade freilich direktemang schlankweg glattwegs
+Verkrümmung Verzerrung
+Pastinak Moorwurzel Pastinake
+sintern schmelzen fritten
+ölig schleimig flutschig schlierig glitschig schmierig
+Schenkung Dotierung Gabe Stiftung
+topfit athletisch durchtrainiert
+wahrhaftig aufrichtig wahrheitsgemäß wahrheitsgetreu wahr
+urgeschichtlich urzeitlich prähistorisch
+Fruchttraube Kamm Haube
+Merlin Zwergfalke
+schattig sonnenlos
+Vermessung Messung Messen
+Brotrinde Brotkruste
+Uniformrock Waffenrock Uniformjacke
+Abweichler Andersdenker Dissident Andersdenkender
+Glaubensfeldzug Missionsfeldzug
+Leerstelle Leerschlag Abstand Leerschritt Leerzeichen Wortzwischenraum Spatium
+Lieferumfang Lieferungsumfang Leistungsumfang Zubehör
+hinab hinunter herab runter nieder abwärts herunter
+Herdbuch Zuchtbuch Zuchtstammbuch
+Bandschreiber Streifenschreiber
+Blätter Laubwerk Blattwerk Blätterdach Laub Belaubung
+anhäufen ansammeln akkumulieren inkorporieren zusammentragen speichern
+preemptiv unterbrechbar präemptiv
+abgegriffen abgenutzt alt abgewetzt oll
+Studio Senderaum
+Formulierungsvariante Synonym Paraphrase Formulierungsalternative Ersatzwort Stellvertreterwort
+schneidend beißend scharf
+Puma Silberlöwe Berglöwe Kuguar
+Arbeitsordnung Betriebsordnung
+Zoologie Tierkunde
+übermäßig horrend üppig bombastisch gepfeffert
+Abendröte Abenddämmerung Abendrot Sonnenuntergang
+Dirne Escort Hure Liebesmädchen Entspannungsdame Metze Schnepfe Sexdienstleisterin Escortgirl Bordsteinschwalbe Callgirl Hetäre Musche Prostituierte Gunstgewerblerin Freudenmädchen Horizontale Kurtisane Strichmädchen Lohndirne Liebesdame Professionelle Sexarbeiterin Lusche Straßenprostituierte Nutte Kokotte Straßenmädchen Liebesdienerin Hartgeldnutte Lustdirne Dorfmatratze Edelnutte Straßendirne
+Kontoklassifikation Kontengliederung
+Gerfalke Jagdfalke
+verheilen abheilen
+Schüssel Schale Terrine Napf
+Umschlag Umsatz Umsatzvolumen
+Basis Stützpunkt Lager
+verteuern anheben erhöhen
+einhändigen einreichen eingeben
+auswalzen ausrollen auswalken
+Aktienzertifikat Aktienurkunde
+Verortung Einordnung Klassifizierung Klassifikation Kategorisierung Einteilung
+Errichten Aufstellen
+Abfertigung Check-in
+Zeilenanordnung Seitenformat
+Entschleunigung Verzögerung Verlangsamung
+Rohrverleger Flaschner Installateur Spengler Klempner
+Ankerplatz Liegeplatz Reede
+Besatzung Mannschaft Crew
+Verbundenheit Vertrautheit Gemeinschaft Familiarität Seelenverwandtschaft Nähe
+Durchströmung Perfusion Pumpen
+Schritttempo Schrittgeschwindigkeit Schritt
+Hexenschuss Lumbago
+Plage Schererei Ärgernis
+Edukt Vorläufer Präkursor Ausgangsstoff Grundstoff
+Basisregister Basisadressregister
+besonders ausgefallen eigen spezifisch eigenartig idiosynkratisch originell eigentümlich
+exportieren ausführen
+unbewacht unbeaufsichtigt
+Vermietung Verleih
+Gerangel Konkurrenz Wettstreit Wetteifer Rivalität Rangeleien
+unabwendbar zwingend vorprogrammiert vorherbestimmt unvermeidbar unabweisbar programmiert unumgänglich unaufhaltsam unabdingbar imperativ unausweichlich unvermeidlich alternativlos
+locken verleiten verführen versuchen
+Schießscheibe Zielscheibe
+leger locker lax
+Lebensart Weltgewandtheit Lebensgewandtheit
+missbrauchen malträtieren misshandeln
+Blockdiagramm Blockschaltbild
+plüschen plüschartig plüschig
+grämen bedrücken deprimieren desillusionieren betrüben
+Passivsaldo Unterbilanz
+Vorbereitung Weichenstellung
+Selbstlaut Vokal
+Heftigkeit Eifer Tatkraft Dynamik Verve Leidenschaft Feuer Herzblut Energeia Passion Leidenschaftlichkeit Energie
+inwendig innerer intern innere
+Erbitterung Verbitterung Bitterkeit
+Reiser Zweig Ast
+Konsortialbank Zweigniederlassung
+LW Langwelle
+wiederherstellen regenerieren erholen sammeln berappeln
+Staudensellerie Stangensellerie
+Mischbecken Mischwanne
+Faustfeuerwaffe Handfeuerwaffe Handwaffe
+Unverantwortlichkeit Verantwortungslosigkeit
+einbrechen aufbrechen knacken
+Fehlstart Frühstart
+Behandlung Therapie Behandlungsverfahren Heilverfahren
+Istwert Direktwert
+Vorschriftsmäßigkeit Regelmäßigkeit
+Retention Zurückhalten
+Unterkühlung Hypothermie Verklammung
+Produktpalette Produktangebot
+Tröstung Trost Zuspruch Seelenmassage
+Schwarzmarkt Agiotage Schwarzhandel Schleichhandel
+Luftkompressor Drucklufterzeuger Luftpresser Presslufterzeuger
+annullieren zurücknehmen abbestellen widerrufen zurückrufen
+Stagnation Nullwachstum Wachstumsstillstand
+Betonmischer Betonmischmaschine
+Störung Blockierung Obstruktion Verzögerung Widerstand Behinderung
+Buchführung Buchhaltung
+rütteln schütteln
+Konferenzraum Sitzungszimmer
+Schlingern Rollen
+unrichtig gefälscht falsch erfunden getürkt unecht unwahr
+Windung Zusammenwicklung Zusammenrollung Spiralwindung
+verwesen verfallen zersetzen auflösen
+verfilzt filzig
+Einspeisespannung Speisespannung
+Schwungscheibe Schwungrad Schwungmasse
+praxisorientiert praxisbezogen praxisnah praxisgerecht
+unbeirrbar gradlinig charakterstark geradlinig charakterfest unerschütterlich
+Vorwärtsspannung Durchlassspannung
+obrigkeitlich bevormundend autoritär herrisch paternalistisch
+lebensgefährlich lebensbedrohlich halsbrecherisch selbstmörderisch
+Seetaucher Haubentaucher
+Überschuss Erlös Gewinnspanne Gewinn Gewinnmarge Profit Marge Ertrag Verdienstspanne Ausbeute Rendite
+unartikuliert undeutlich unklar verwaschen
+nachträglich unplanmäßig außerplanmäßig zusätzlich
+Wildschutzgebiet Wildreservat
+Thrombopenie Thrombozytopenie
+Athlet Sportskanone Sportler Sportsmann
+Expansion Zuwachs Ausweitung Extension Ausdehnung
+blutdrucksteigernd vasopressorisch
+exprimieren auspressen auswringen ausquetschen ausdrücken
+minder weniger kleiner geringer
+knochendürr knochig
+Kringel Windung Ring
+beißen kauen
+Gesellschaftsraum Foyer Tagesraum Aufenthaltsraum
+Ausfallstraße Verkehrsader
+Deckungslücke Deckungsloch
+Schultasche Ranzen Büchertasche Schulranzen Schulrucksack Tornister Schulthek
+pfropfen zustöpseln
+wohlüberlegt behutsam bedachtsam bedächtig umsichtig schonend
+anmachen scharfmachen aufgeilen anturnen ansexen anspitzen antörnen heißmachen erregen
+Rückenwirbel Wirbelknochen Wirbel
+Netzauftritt Internetpräsenz Webangebot Netzseite Webauftritt Webpräsenz Internetangebot Onlinepräsenz Netzplatz Homepage Internetauftritt Web-Angebot Website Webseite WWW-Seite Internetseite Netzpräsenz
+übelriechend miefig muffig stinkend moderig mephitisch muchtig modrig
+essen speisen schmausen dinieren tafeln
+sonor volltönend klangvoll wohlklingend
+Keks Kräcker
+Notizblock Block Schreibblock
+Schwaden Dampf
+validieren verifizieren überprüfen bestätigen
+Vollzähligkeit Lückenlosigkeit Vollständigkeit
+Wimpernfärbung Wimpernbetonung Wimperntusche Mascara
+Keuchhusten Pertussis Stickhusten
+Wärmetauscher Rückkühler
+Angewohnheit Gepflogenheit Gewohnheit
+Anbruch Beginn Aktivierung In-Kraft-Treten
+durchgedreht aufgelöst hysterisch
+Absetzung Erniedrigung
+Lichtschein Strahl Lichtstreif Schein Lichtstrahl
+Fassung Version Ausgabe
+Scheit Holzscheiter Holzscheit
+Vergnügen Entzücken Wonne
+Sterbensforscher Thanatologe
+folgsam lieb brav gefügig konditioniert fügsam fromm artig anständig gehorsam
+Kriebelkrankheit Antoniusfeuer Ergotismus Sankt-Antonius-Rache Antonius-Plage Mutterkornvergiftung
+Bilanzaufstellung Jahresabschluss Erfolg Ergebnis Bilanz
+Holzproduktion Waldbau Waldwirtschaft Forstwirtschaft Forstwesen Holzerzeugung
+Versuch Test Probe Erprobung Prüfung
+vermehren reproduzieren vermehren fortpflanzen
+Marktlage Marktgeschehen
+Bach Flüsschen Wassergraben
+billigen gutheißen akzeptieren goutieren
+Ensemble Band Musikkapelle Musikgruppe Formation Gruppe Kapelle Combo
+Pastellton Pastell
+Creme Brei Pudding Mus Pampe
+Maskulinisierung Vermännlichung Virilismus Virilisierung
+Bank Sitzbank
+Schließer Justizvollzugsbeamter Wärter Gefängniswärter Kerkermeister Gefangenenwärter
+Unzweifelhaftigkeit Klarheit Sicherheit Zuverlässigkeit Gewissheit
+vorurteilsfrei realistisch aufgeklärt
+Haltetau Tau Reep Trosse Seil Strick
+Basiszahl Radix Wurzel
+Abstammung Ursprung Geburt Wurzeln Abkunft Herkunft Elternhaus Provenienz Herkommen
+Betriebszeit Betriebsstunden Betriebsdauer
+auftrennen aufspalten atomisieren zerlegen pulverisieren zersplittern trennen zerspalten auflösen zergliedern partagieren unterteilen spalten zerteilen zersetzen demontieren auseinandernehmen aufteilen auseinanderbauen zertrennen teilen fragmentieren tranchieren abwracken untertrennen
+Markenname Marke Firmensignet Brand Signet Warenzeichen Schutzmarke
+verweilen verbleiben bleiben weilen aufhalten herumstehen
+Schweinestall Schweinebuchte
+Bündnis Brücke Bindung Verbindung Anbindung
+Haftkapital Haftung Haftvermögen
+Stimmenthaltung Enthaltung
+Ausbildungsplatz Lehrstelle
+wegschneiden abrasieren kappen abscheren abtrennen abschnippeln heruntersäbeln absäbeln abschneiden
+kontakten wenden richten ansprechen kontaktieren herantreten
+Korrespondenz Schriftverkehr Briefwechsel Schriftwechsel
+fraglich kontrovers bestritten strittig streitig Streitthema unsicher umstritten kontroversiell
+lausen entlausen
+Swahili Kisuaheli Kiswahili Suaheli
+Generalstabskarte Messtischblatt TK25
+Vergleich Kollationieren Kollation
+Knochenmarkshemmung Myelosuppression
+Massenerkrankung Gottesgeißel Massenepidemie Epidemie Pestilenz Seuche Plage Landplage
+zeitgemäß neuzeitlich topaktuell neu aktuell heutig neumodisch zeitgerecht neoterisch modern neuartig fortschrittlich
+Netzwerk Netz
+lebend untot lebendig
+offen nackt bloß unverhüllt kahl blank
+Datentransferrate Datenübermittlungsrate Datenübertragungsrate Bitrate Verbindungsgeschwindigkeit Datenrate Übertragungsgeschwindigkeit
+Zeitdieb Zeitvergeuder Zeitverschwender
+annehmbar glaubhaft erwartbar glaubwürdig vermutbar denkbar
+wachstumsverzögernd wachstumshemmend
+Android Androide
+Geheule Jammern Geheul Gejammere Geflenne Gejammer
+Brombeerstrauch Dornenstrauch
+Wärmelehre Thermodynamik
+Saum Naht
+Neuntöter Rotrückenwürger Dorndreher
+Betttuch Leintuch Bettlaken
+Dekantation Dekantieren
+entwerfen planen
+glanzvoll eindrücklich bemerkenswert formidabel großartig beeindruckend ehrfurchtgebietend glänzend glorios überwältigend eindrucksvoll glorreich grandios imposant ruhmreich triumphal erstaunlich
+Betoneinbringung Betonieren
+Grimasse Fratze Faxen
+Fahrt Lehrausflug Expedition Reise Lehrfahrt Exkursion
+Warenumschlag Umschlag
+Laschheit Atonie Schlaffheit Schwäche
+Vorrat Proviant Vorräte
+eintrittsinvariant ablaufinvariant
+Anschuldigung Belastung Verdächtigung Bezichtigung Schuldzuweisung Beschuldigung Anwurf Vorhaltung Unterstellung Vorwurf
+vereitert wund schlimm entzündet
+Deklaration Festlegung Vereinbarung
+necken hänseln zusetzen sticheln utzen vexieren piesacken traktieren quälen triezen aufziehen plagen uzen ärgern
+notieren protokollieren niederschreiben anmerken vermerken
+fordern einfordern abverlangen drängen versteifen ausbedingen insistieren reklamieren beharren dringen pochen bestehen verlangen kaprizieren
+Zusammenbau Aufrichtung
+nüchtern dröge dürftig phantasielos uninspiriert amusisch trocken prosaisch fantasielos
+Kippschalter Umschalter Kreuzschalter Wechselschalter
+Bewaldung Aufforstung
+ehrwürdig sakral heilig
+Aufstellungsort Standort Sitz
+empfänglich absorptionsfähig aufnahmefähig
+Konsole Halter
+Präzisionsschütze Scharfschütze Heckenschütze Sniper
+ausnützen ausschlachten nutzen instrumentalisieren ausnutzen nutzen ausschlachten ausbeuten
+mehrfarbig gefärbt färbig farbig farbenfroh bunt poppig panaschiert
+Oppositionskabinett Schattenkabinett
+unstillbar unbegrenzt
+Werkstattspiegel Suchspiegel
+Kalander Glättwerk
+Aktienindex Börsenindex
+Grund Schuld Anlass Ursache
+ohrenbetäubend markerschütternd grell schrill gellend ohrenzerreißend durchdringend kreischend gell spitz
+sorgenfrei sorglos unbesorgt unbekümmert sorgenlos
+Arbeitszuteilung Arbeitsverteilung
+Kraft Schwung Beschwingtheit Lebenskraft Temperament Vitalität
+wippen kippeln kippen schunkeln rollen schwanken schwenken stampfen schaukeln
+machbar leistbar durchführbar möglich erreichbar gangbar drin denkbar lösbar schaffbar erfolgswahrscheinlich realisierbar ausführbar viabel
+scheuern schubbern schubben reiben
+Arbeitslosenziffer Arbeitslosenzahl
+Papierdeutsch Bürokratendeutsch Kanzleideutsch Verwaltungsdeutsch Verwaltungssprache Beamtendeutsch Kanzleistil Amtsdeutsch Behördensprache
+Agitation Hetze
+Waschmittel Waschpulver
+Steuerveranschlagung Besteuerung
+Rettung Bergung
+adstringierend zusammenziehend
+picklig pickelig
+anstoßen angrenzen adjazieren grenzen
+Miau Maunzen Miauen
+flechten winden binden
+einschreiben immatrikulieren anmelden inskribieren
+Tätigkeitsgebiet Aufgabenkreis Tätigkeitsbereich Aufgabengebiet Tätigkeitsfeld Ressort Arbeitsfeld Arbeitsbereich Aufgabenbereich
+Profil Kontur Umrisslinie Silhouette Umriss
+Pythonschlange Python
+Wolken Bewölkung
+veräußern transferieren übertragen
+Schraubenfeder Spiralfeder
+festhängen anhängen stecken anfügen festhaften befestigen
+Pfarrhaus Pfarrei
+Buchhaltungssystem Buchführungssystem
+nebensächlich peripher unwesentlich egal belanglos nachgeordnet bedeutungslos vernachlässigbar Nebensache unbeträchtlich kleiner zweitrangig sekundär unmaßgeblich unerheblich nachrangig irrelevant nichtssagend marginal unwichtig uninteressant unbedeutend
+Tagelohn Taggeld Tagegeld
+Einschub Inklusion Einfügung Einschluss
+Rettich Radi
+Kolbenhemd Kolbenschaft
+kieselig kiesig kieselhaltig
+unglückselig bedauerlich unglücklich
+Auskehrer Besen Kehrbesen Saalbesen Straßenbesen
+Parapet Brüstung
+vorheizen vorwärmen
+Kundenservice Kundendienst Kundenbetreuung
+Art Modus Betriebsart Verfahren Betriebsmodus
+Bild Gemälde
+Eisenhütte Hütte Hüttenwerk Eisenwerk
+bergan bergauf
+sicherstellen requirieren einziehen beschlagnahmen sichern konfiszieren
+Sprachgewandtheit Zungenfertigkeit Beredsamkeit Sprachgewalt Eloquenz Wortgewandtheit Redegewandtheit Sprachfertigkeit
+Hirse Sorghum
+Erdnähe Perigäum
+Fastnachtsdienstag Faschingsdienstag
+Amsel Schwarzdrossel
+Streik Arbeitseinstellung Arbeitskampf Arbeitsausstand Ausstand Arbeitsniederlegung
+gemeindlich städtisch kommunal
+zickzackgefaltet leporellogefaltet
+rechnerunterstützt computergestützt
+Nachbearbeitung Nachbereitung
+verblassen legen nachlassen verringern
+billigen abnicken erlauben einwilligen genehmigen absegnen verabschieden zustimmen
+aufbranden aufflackern auflodern aufwallen
+seufzen stöhnen ächzen
+posieren posen
+wohlwollend verständnisvoll hold gewogen wohlgesinnt wohlmeinend gutgesinnt wohlgesonnen gütig affektioniert geneigt wohlsinnig zugetan
+Rechtsbehelf Rechtsmittel Abhilfe
+Doppeldeutigkeit Ambiguität Amphibolie Vieldeutigkeit Janusköpfigkeit Homonymie Mehrdeutigkeit Zweideutigkeit
+Artillerie Geschütze
+Spur Fußspur
+Maskenkostüm Kostüm
+Plansumme Richtsumme Planwert Zielgröße Zielwert Sollwert
+Bimetall Bimetallstreifen Thermobimetall
+Menüeintrag Menüpunkt
+Vergütung Löhnung Heuer Entlohnung Tantieme Gratifikation Abgeltung Einkommen Gage Salär Honorar Einkünfte Arbeitsentgelt Bezahlung Salair Aufwandsentschädigung Entlöhnung Bezüge Kostenerstattung Gehalt Besoldung Entgelt Verdienst Lohn
+Emission Aktienausgabe Effektenemission
+exzeptionell bestens splendid überragend höchstrangig vortrefflich vorzüglich schnafte ausgezeichnet trefflich außergewöhnlich außerordentlich herausragend besonders
+männlich maskulin viril
+Sonnenwendfeier Sonnwendfeier
+Schieferplatte Schiefertafel
+praxiserprobt einsatzerprobt praxisgetestet
+geschmacklos heruntergekommen billig fade
+Soziussitz Rücksitz
+gewunden überkandidelt affektiert schwülstig gespreizt geschraubt geschwollen unnatürlich unecht künstlich gekünstelt gestelzt gedrechselt bildungssprachlich verquast geziert theatralisch verschwurbelt manieriert artifiziell preziös aufgesetzt
+Struktur Gliederung Gerüst Oberbau Aufbau Architektur Überbau
+Shoah Judenvernichtung Holocaust Schoah
+Kluft Riss Spalte
+Opazität Undurchsichtigkeit Lichtundurchlässigkeit
+Übermittlung Übertragung Transfer
+Zulässigkeit Legitimität Rechtmäßigkeit
+Herausgeber Hrsg.
+arbeiten funktionieren
+Instanz Exemplar
+Eintopfgericht Eintopf Stew
+Arbeitseifer Diligenz Produktivität Tatwille Diensteifer Schaffensdrang Energie Tatkraft Tüchtigkeit
+Zug Luftzug Durchzug Zugluft
+unbemerkbar unmerklich schleichend unerkennbar
+einlagern lagern einbetten eingliedern betten einbinden legen
+Zulage Zuschlag Prämie Zuschuss
+irrtümlicherweise fälschlicherweise vermeintlich irrigerweise fälschlich irrtümlich
+bieten anbieten zeigen andienen
+flackern flirren flimmern blinken
+Ausbreitung Dissemination Streuung Verteilung Verbreitung
+Laufschiene Laufrad Lauf
+anbei anliegend hinzugefügt beigelegt mitgeliefert beigefügt beiliegend dazugelegt
+Schicht Klasse Stand Bevölkerungsschicht Kreise Gesellschaftsschicht Kaste Gruppe
+Bestie Teufel Satan Monster Scheusal Ungeheuer Bluthund Unmensch
+Bewegungsfuge Dehnungsfuge
+Verlegenheitslüge Ausrede Beschönigung Ausflucht Vorwand Notlüge Schutzbehauptung Entschuldigung
+Schwellwert Grenzwert Schwellenwert Schwelle
+Schauspiel Spektakel
+abscheiden herausnehmen extrahieren eliminieren entnehmen separieren aussortieren selektieren ausgliedern aussondern aussieben absondern streichen entfernen isolieren auslesen abspalten trennen
+Immobilienhändler Immobilienmakler Grundstücksmakler
+Aneignung Erwerb Kauf Investition Erwerbung Anschaffung
+Abrufen Abfragen
+rückerstattungspflichtig erstattungspflichtig
+Schaltbild Schaltplan Schaltskizze
+unbewaffnet waffenlos
+Langlauf Skilanglauf
+Messestand Stand
+Waschsoda Soda Natriumcarbonat
+Laborant Laborchemiker Chemiker
+Randstein Rinnstein Bordstein
+Flinkheit Schnelligkeit
+verausgaben aufbrauchen aufwenden auspowern erschöpfen verbrauchen
+Volkswirtschaft Wirtschaft Wirtschaftsraum Ökonomie
+Raumgestaltung Innenraumgestaltung
+mönchisch klösterlich
+einbeziehen affiliieren aufnehmen inkludieren einfügen einbauen eingliedern integrieren einpfropfen
+Leistungsschild Typenschild Typschild
+Bußgeld Geldbuße
+umwälzen kreisen
+Abdeckung Verdeckung
+Andenken Souvenir Mitbringsel Reiseandenken Erinnerungsstück
+Campingplatz Zeltplatz
+Nüster Nasenloch
+Staatsoberhaupt Staatschef Vorsitzender Präsident
+scharfäugig scharfsichtig
+schmettern feuern hinpfeffern schmeißen schleudern werfen
+Sonnenferne Aphel Aphelium
+Unfreiheit Leibeigenschaft Knechtschaft Sklaverei
+viereckig eckig rechteckig
+frei leer unausgefüllt
+Rührstange Kratze
+sn. Senior sen.
+angegliedert angeschlossen
+kraftlos blass blutarm schlaff saftlos
+Geschütz Kanone
+stutzen zurückstutzen beschneiden zurechtstutzen kappen zurückschneiden einkürzen kürzen beischneiden
+Flächenschwerpunkt Flächenmittelpunkt
+missverstehen missdeuten missinterpretieren
+Magenpförtner Pylorus
+Installateur Monteur Einrichter
+Handikap Behinderung Beeinträchtigung Handicap
+Rohdaten Primärdaten Urdaten
+Hirschbrunft Hirschbrunst
+Gewinn Glückslos Siegespreis Treffer Preis
+Aborigine Aboriginal
+unbedarft Einfaltspinsel Gimpel stumpfsinnig dümmlich Schäfchen Simpel Mondkalb dusselig schwerfällig einfältig verständnislos Schaf dusslig töricht
+final unumkehrbar endgültig unwiderruflich unwiederbringlich irreversibel
+Begleitmusik Musak Muzak Musikuntermalung Hintergrundmusik
+Aufschwung Auftrieb
+Baugesuch Bauantrag
+Türgriff Türknauf
+Durchdringung Penetration Eindringen
+Risikokapital Wagniskapital Beteiligungskapital
+auffrischen sanieren aufmöbeln renovieren aufpolieren verbessern erneuern aufhübschen
+Eisenbahn Zug Bahn Eisenbahnzug
+Lösungsmittel Solvens
+Wirt Kneipier Schankwirt
+Transport Vorschub Zuführung
+wertgeschätzt geschätzt angesehen namhaft geachtet respektiert repräsentabel
+voll gefüllt
+Empfehlung Befürwortung
+bronzefarben bronze
+Verlauf Vorgang Hergang Ablauf Prozess Verfolg
+Begrenzung Rand Rain Saum Abgrenzung Umgrenzung Einfassung Umrandung
+Reihe Rang
+transitiv zielend
+Berufserfahrung Arbeitserfahrung
+taxieren austarieren abwägen abschätzen
+zuvorkommen vorausgehen
+Propellerflügel Flügel
+Vergeltungsakt Revanche Schadloshaltung Vergeltungsmaßnahme Racheakt Vergeltung Gegenschlag Heimzahlung Repressalie
+Rufstromgeber Glöckner
+höchst größt meist
+Philister Biedermann Spießer Traditionalist Kleinbürger Kleinkarierter Konventionalist Spießbürger
+Wandschirm Leinwand Schirm
+Softwarepaket Programmpaket
+Informationsaustausch Verständigung
+Rauchfang Abgaskanal Kamin Esse Rauchfang Abzugsrohr Abzug Schlot Schornstein
+skizzieren umreißen
+regungslos unbewegt leblos bewegungslos statuesk starr reglos erstarrt statuenhaft
+Klingeln Klopfen
+Sprühwasser Gischt
+Reizung Beunruhigung Irritation
+Ernennung Nominierung
+Universaltalent Tausendsassa Wunderwuzzi Tausendsasa Wunderwaffe Generalist Geheimwaffe Universalgenie Allrounder Allzweckwaffe Allround-Dilettant Alleskönner Multitalent
+anekdotenhaft anekdotisch
+Geistesabwesenheit Absence Absenz Bewusstseinsstörung Amnesie Filmriss Ausfallerscheinung Blackout
+Gelenkverrenkung Verrenkung Luxation
+Einriss Lazeration
+Scharfsinnigkeit Scharfsinn
+List Kabale Ränke Intrige Ränkespiel Komplott
+Hundegebell Kläffen Bellen Gebell
+empfangend rezeptiv aufnahmefähig aufnehmend aufgeschlossen gesprächsbereit empfänglich offen
+Direktmarketing Direktvertrieb Direktvermarktung Direktverkauf
+Abweichung Unregelmäßigkeit Regelwidrigkeit
+Datei File
+Verwüstung Verheerung
+nachdrücklich dringend eindringlich inständigst sehnlichst flehentlich beschwörend händeringend flehend drängend inständig
+Oxid Sauerstoff-Verbindung
+Harke Rechen
+Summe Gesamtmenge
+Verstärkung Verschärfung
+Scholle Klumpen
+trödeln verweilen zögern zaudern zieren pausieren innehalten
+Kupplungsschacht Kupplungsaufnahme
+Traurigkeit Betroffenheit Trauer
+Bluthusten Hämoptoe
+höckrig rumpelig holprig uneben hubbelig holperig
+Standardschnittstelle Normanschluss
+Schafbock Schafsbock Widder
+Bergwerk Stollen Zeche Grube Pütt Mine
+Zuweisung Zuordnung Verbreitung Verteilung Auskehrung
+Zusammentreffen Koinzidenz Aufeinandertreffen Zusammenfall
+großmundig prahlerisch prätentiös vollmundig großtuerisch wichtigtuerisch großschnauzig protzig aufschneiderisch angeberisch großspurig großsprecherisch dünkelhaft großkotzig angeberhaft großmäulig
+grotesk fantastisch kurios eigentümlich befremdend sonderbar verquer komisch skurril befremdlich abgedreht abstrus lächerlich abenteuerlich absurd aberwitzig eigenwillig ungewöhnlich seltsam merkwürdig eigenartig dadaistisch bizarr schräg
+Xerokopie Kopie Fotokopie
+Fundus Requisiten
+Leistungsdichte Literleistung
+Kern Knotenpunkt Herzstück Mittelpunkt Zentrum Epizentrum
+Nebennierenrindenhormon Corticosteroid
+Schnapper Blaubarsch
+vorausplanend durchdacht bedacht ausgetüftelt umsichtig planvoll strategisch weitsichtig wohlüberlegt vorausschauend überdacht besonnen überlegt vorausblickend
+uni einfarbig
+genau reiflich gründlich sorgfältig
+Eisenoxid Eisenoxyd
+Heimtrainer Hometrainer
+Schippe Schaufel Schüppe Schippe
+Aussetzung Vertagung Fristverlängerung Verschiebung Verzögerung Aufschub
+zulassen durchlaufen erdulden dulden ertragen durchmachen erleiden
+Boykott Ausfuhrverbot Embargo Einfuhrverbot Handelssperre Handelsblockade Liefersperre
+umsetzen umtopfen
+begütigen beruhigen entschärfen entspannen deeskalieren besänftigen beschwichtigen
+Gattung Genre Kategorie Taxon Klasse Typ Sorte Spezies Couleur Format Art Rubrik
+Täufling Patenkind
+Feuerwaffe Wumme Schusswaffe
+Berührpunkt Berührungspunkt
+Schubverformung Scherdehnung
+schubsen stoßen stupsen schupsen rempeln
+Notlage Notsituation Notfall
+Dankgefühl Danksagung Dankfest Erkenntlichkeit Dankbarkeit Dank Dankeschön
+Klageschrift Anklageschrift
+Umschlagzyklus Buchungsdurchlauf
+Scheitel Scheitelpunkt
+Aushöhlung Höhle Hohlraum Bau Höhlung
+booten hochfahren anwerfen anschmeißen urladen initialisieren starten
+je pro per das die für à
+Vitalität Lebendigkeit Lebhaftigkeit Kräfte
+Super-GAU Abaddon Apokalypse Abgrund Armageddon Waterloo Ende Untergang Verderben Zusammenbruch Unglück
+Monatsblutung Zyklus Menstruation Periode Tage Regel Regelblutung Menses
+verladen verfrachten speditieren transportieren
+Wetzstein Schleifstein
+durchsickern sickern
+Probe Warenmuster Muster
+Anthropologie Menschenkunde
+bleichen ausbleichen weißen
+Begleitbrief Begleitschreiben Anschreiben
+unscheinbar ausdruckslos gesichtslos
+kampfstark stark
+Bootsanlegestelle Schiffsanlegestelle Mole Pier
+Teilzeichenfolge Teilkette
+Witterung Wetter Wetterlage Klima
+Codierung Kodierung
+Rhombus Raute
+Kausalprinzip Ursache-Wirkung-Prinzip Kausalitätsprinzip
+Vogelkunde Ornithologie
+erschweren behindern beeinträchtigen verschärfen
+Gebrechlichkeit Labilität Anfälligkeit Schwäche Zartheit Fragilität Kränklichkeit
+Freiheitsstrafe Freiheitsentzug Haftstrafe Gefängnisstrafe Strafhaft
+Vetter Cousin
+Zubehörteil Peripheriegerät Zusatzteil Zusatzgerät
+Annihilation Zertrümmerung Zunichtemachung Aufreibung Vernichtung Devastierung Zerstörung Destruktion Verwüstung Auslöschung Demolition Devastation
+Ionisation Ionisierung
+Dividendenertrag Dividendenrendite
+Seeaal Meeraal
+Wüstensohn Nomade Wüstenbewohner Beduine
+verschachtelt kompliziert verzwickt knifflig unübersichtlich vielschichtig heikel tricky schwer delikat prekär diffizil vigelinsch verklausuliert komplex vertrackt verhatscht verwickelt schwierig
+Bagatellisierung Beschönigung Verharmlosung
+pflichtgemäß pflichtbewusst treu gehorsam
+vermaschen verzahnen
+Soirée Abendgesellschaft Abendveranstaltung Soiree
+Stimulans Anregungsmittel Weckamin Aufputschmittel
+verteilen auftragen verschmieren
+Aktentasche Mappe Aktenmappe
+einschüchternd entmutigend desillusionierend demotivierend abschreckend
+Prozentrang Perzentil
+Kragenknopf Manschettenknopf
+Pygmäe Zwergmensch Liliputaner Kleinwüchsiger
+Krach Lärm Gedröhn Gedröhne Gerumse Radau Trara Rabatz Getöse
+Verkehrtheit Ungenauigkeit
+Morsekegel Morsekonus
+Sandpapier Schleifpapier Schmirgelpapier Glaspapier
+prognostizieren augurieren prädizieren weissagen voraussagen wahrsagen prophezeien orakeln vorhersagen ankündigen
+Eyeliner Augenstift Augenkonturenstift
+herumkugeln umdrehen herumrollen
+Bindebogen Bindung
+Unglaube Religionslosigkeit Ungläubigkeit Atheismus Glaubenslosigkeit Gottlosigkeit Gottesleugnung
+Hodentumor Seminom
+Spezifikum Spezialität Besonderheit Entscheidende
+wirken arbeiten schaffen werken betätigen
+Blindenschrift Braille Brailleschrift
+Geruchsminderung Anosmie
+Wärmeregulation Thermoregulation
+Part Person Rolle Partie
+Lymphangiitis Lymphangitis Lymphgefäßentzündung
+Misere Kalamität Krisis Verhängnis Krise Schlamassel Missstand Malaise Tragik
+Geburtsstadt Heimatstadt
+Tiefsinn Tiefe
+Rücksicht Aufmerksamkeit
+Bauchspeicheldrüsenentzündung Pankreatitis
+Anleitung Betriebsanleitung Gebrauchsanweisung Bedienungsanleitung Gebrauchsanleitung
+blättern schmökern
+losreißen durchreißen
+Primadonna Diva Hauptsängerin
+Unenthaltsamkeit Unmäßigkeit
+ausgewachsen mündig erwachsen flügge volljährig reif
+Listenpreis Richtpreis
+Achsnagel Achsennagel
+Lungenerkrankung Pneumopathia
+Milchsaft Darmlymphe Chylus
+unverblümt rundheraus offen freimütig geradeheraus direkt frei offenherzig gradheraus
+festigen festziehen zusammenziehen fixieren
+Seneszenz Alterungsprozess Alterung
+Sodbrennen Magenbrennen Pyrosis
+Kurs Devisenkurs Wechselkurs
+Regulation Steuerung Regulierung Regelung
+hoffnungslos verbaut ausweglos festgefahren aussichtslos verfahren chancenlos
+erstarken auferstehen gesunden aufrichten genesen aufrappeln aufleben hochrappeln
+sagen besagen
+Einstellungsveränderung Gesinnungswechsel Gesinnungswandel
+Ableger Absenker
+Staatsangehöriger Landsmann Bürger Staatsbürger
+verfassen aufnotieren abfassen umreißen aufsetzen niederschreiben skizzieren formulieren
+Vertrieb Vertriebsabteilung Verkaufsabteilung Verkauf Sales
+Decke Tuch Überzug
+Mietkaufvertrag Abzahlungsvertrag
+Sprossenkohl Brokkoli Winterblumenkohl Bröckelkohl Broccoli Spargelkohl
+Superiorität Vormachtstellung Dominanz Übermacht Überlegenheit
+Industriegebiet Gewerbepark Gewerbegebiet
+Nähe Innigkeit Vertraulichkeit Intimität
+reagieren beantworten antworten eingehen erwidern positionieren
+Stahlkammer Safe Panzerschrank Geldschrank Tresor
+Gebärmutter Uterus
+Kleingeld Rückgeld Wechselgeld
+Aspik Sulz Sülze
+erwerben anerziehen
+Halm Stängel Stiel
+hypothetisch theoretisch spekulativ kontrafaktisch
+verschleifen verschlucken
+Stabreim Alliteration
+Lunte Zündschnur
+Betriebssystemkern Kern Systemkern Kernel
+Mehrfachübertragung Durchsage Gruppenruf Multicast
+Läufer Anker Abspannung
+Rekrutierung Recruiting Recruitment Einstellung Anwerbung
+Gewölbe Kuppel
+Anmeldeformular Antragsformular
+Flussdiagramm Ablaufdiagramm
+Zytoplasma Cytoplasma
+Totalausverkauf Ausverkauf Räumungsverkauf
+beleibt korpulent kugelrund wohlgenährt drall feist übergewichtig wohlgerundet massig üppig dickleibig stattlich fett adipös dick fettleibig dickbäuchig füllig stark schmerbäuchig mollig wohlbeleibt vollschlank wampert
+epidemisch seuchenartig
+Temperatursturz Temperaturabfall
+Bildung Eröffnung Gründung
+abschnallen losschnallen loshaken lösen
+vortäuschen gaukeln erlügen fingieren vorschützen vorgeben heucheln ersinnen vorgaukeln türken erdichten
+Änderungssatz Transaktionssatz
+Umarmung Umfassung
+auflegen anwenden anlegen
+Datenübertragungsgeschwindigkeit Baud-Rate Baudrate
+Scham Schamgefühl
+diskontinuierlich unproportional unstetig uneinheitlich
+x-Achse Abszisse Abszissenachse
+Einstellbereich Anpassungsbereich
+Kopierschutzstecker Hardlock Dongle
+fleißig dienstbeflissen beflissen schaffig dienstfertig dienstbar pflichteifrig geschäftig emsig eifrig
+nachstellen nachregeln
+normieren skalieren
+solehaltig salinisch salzig salzhaltig
+Boden Grund Land
+eingreifen einrücken
+Firmeninhaber Entrepreneur Unternehmer Arbeitgeber Geschäftsinhaber Unternehmensleiter Unternehmensinhaber Brötchengeber Brotherr
+Nassdampf Sattdampf
+Schlauchbinder Schlauchschelle
+Beauftragter Vermittler Mittelsmann Handlungsführer Agent Vertreter Mittelsperson Handlungsbeauftragter Vertretung
+Thailänder Thai
+Ablösung Abtrennung Lösung Auftrennung
+Immunisierung Impfung Immunisation Vakzination Schutzimpfung Vakzinierung
+Flanke Flankenball
+Anrecht Anspruch Recht
+schichtweise lagenweise
+ausgleichen kompensieren entgegenwirken gegenfinanzieren abgelten aufwiegen
+Dateiverzeichnis Ordner Verzeichnis
+Mischer Vermischer
+Tumult Erhebung Auflehnung Unruhe Aufruhr Proteste Massenaufstand Massenproteste Ausschreitung Aufstand Rebellion Protestaktionen Putsch Krawall Massenunruhen
+Ehrenbezeugung Huldigung Ehrung Hommage Ehrenbezeigung
+gläsern vitreus
+Schmetten Schmant Schmand
+bevollmächtigen authentisieren beglaubigen verbürgen bewahrheiten zertifizieren testieren verbriefen vidieren akkreditieren beurkunden bestätigen quittieren vidimieren
+Windschatten Lee
+sühnen büßen
+anziehen ankleiden überstreifen überziehen hineinschlüpfen einkleiden überstülpen bekleiden
+Benennung Auszeichnung Benamung Beschriftung Benamsung Betitelung
+Richtplatte Tuschierplatte
+Auspuff Auspuffrohr
+Formbarkeit Plastizität Verformbarkeit
+ausfegen durchfegen fegen abfegen kehren fegen
+farblos blass farbarm blässlich fahl matt bleich glanzlos
+pluralistisch polymorph vielgestaltig
+behindern einengen beengen beschränken
+unterzeichnen abzeichnen signieren unterschreiben unterfertigen
+widrig dumm unliebsam unschön unangenehm schrecklich unerwünscht unbequem störend leidig ungeliebt unwillkommen ärgerlich misslich ungut unerfreulich lästig blöd unerquicklich schlecht schlimm
+degenerieren entarten ausarten verderben
+Bindenseeadler Weißkopfseeadler
+geringwertig medioker billig zweitklassig mäßig dürftig halbwertig schlecht minderwertig drittklassig
+Gewebe Textilie Tuch Stoff
+zivilisiert gebildet kultiviert
+Spulenkern Eisenkern Ferritstab
+zersetzt verfault zerfallen modrig faulig verrottet faul morsch vermodert putrid vermorscht
+unangetastet ursprünglich unberührt unverändert makellos jungfräulich
+Forderung Voraussetzung Notwendigkeit Bedürfnis Erfordernis Unabdingbarkeit Anforderung
+navigieren übermitteln leiten schicken übertragen routen senden
+Statue Nachahmung Bildnis Nachbildung
+Pupillenerweiterung Mydriasis
+Zertrennung Zerstreuung Dissipation Abbau Zerfall Untergang Rückbau Zerlegung Zerteilung Abbruch Auflösung Entlassung Zerrüttung Zersplitterung Demontage
+Sprengring Sicherungsring
+losziehen losgehen aufbrechen lossocken aufmachen
+Angst Schiss Flattermann Bedenken Bammel Scheu Angstgefühl Manschetten Beklommenheit Furcht Befürchtung Muffensausen Muffe Fracksausen Sorge Bedrohungsgefühl Beklemmung
+Kopfgeld Abschussprämie Kopfprämie Fangprämie
+Vorkasse Forderungsübergang Gläubigerübergang
+Jurisdiktion Rechtspflege Rechtsprechung Judikatur
+Ausbildungskurs Ausbildungslehrgang
+Dia Diapositiv
+aufwinden hochziehen hissen
+Ehrentitel Höflichkeitstitel
+tastend taktil haptisch
+Unstetigkeit Unterbrechung
+Ernteertrag Ernte Auslese Lese
+getüpfelt gepunktet fleckig gesprenkelt
+Selbstverteidigung Notwehr
+Ämterkauf Simonie
+Option Vorkaufsrecht
+Halbdunkel Dämmerlicht Zwielicht Dämmerstunde Dämmerung
+Suppenwürfel Brühwürfel
+dickflüssig sämig angedickt schwerflüssig
+Strichpunkt Semikolon
+strukturieren aufstellen zusammenstellen aufbauen systematisieren anlegen ordnen einrichten anordnen arrangieren aufreihen gliedern serialisieren gestalten rangieren realisieren
+Nachrichten Meldungen Neuigkeiten Kunde
+Trägheit Saumseligkeit Lethargie Gleichmut Indifferenz Apathie Interessenlosigkeit Phlegma Desinteresse Untätigkeit Gleichgültigkeit Passivität Teilnahmslosigkeit Abnegation
+Wandmalerei Graffiti Graffito Wandschmiererei
+Schwingkörper Membran
+Auftreten Erscheinen Ankunft Eintreffen
+gefühllos grausam kaltherzig hartherzig kalt empfindungslos hart eisig
+Roll-on-roll-off-Schiff Containerschiff Ro-Ro-Schiff Kistendampfer
+Findigkeit Durchtriebenheit Klugheit Schlauheit Raffinesse Schläue
+Tiltrotor Kipprotor
+Hügelgrab Grabhügel Tumulus
+schnurren sirren surren summen brummen
+prägen stempeln
+Batchverarbeitung Batchbetrieb Stapelverarbeitung
+abstützen unterstützen stützen tragen katalysieren
+falls soweit sofern vorbehaltlich wenn sollte solange so
+absetzen niederstellen
+Börsenbericht Kurszettel Börsenzettel
+zurückziehen richtigstellen zurücknehmen dementieren widerrufen
+Umkehrung Umpolung
+Auslenkung Elongation Amplitude Schwingungsweite
+Schneehütte Iglu
+Kategorie Rubrik Bereich Feld Cluster
+Wahnsinn Idiotie Schwachsinn Irrsinn Geistesschwäche
+verwickeln verstricken hineinziehen verketten
+Kontrollierbarkeit Steuerbarkeit Regelbarkeit
+Aufheizung Erwärmung Heizung
+Erdferne Apogäum
+betrügen bescheißen hintergehen
+Wiederbelebung Reanimation
+Vergoldung Vergolden
+Lehensgut Lehen
+Fossil Petrefakt Versteinerung
+Programmhaltepunkt Fixpunkt
+Modularität Bausteinprinzip Baukastenprinzip
+abdampfen aufdampfen bedampfen
+Waldhüter Förster
+Schrumpfung Schwindung
+Randnotiz Randbemerkung Zwischenbemerkung Randvermerk Sternchentext Fußnote
+Sacha Jakutien Ostsibirien
+Windhundrennen Hunderennen
+gezwungen forciert gequält
+Einehe Monogamie
+geißeln flagellieren peitschen auspeitschen knuten
+Geschwader Gruppe Kommando Schar Verband Kolonne Rotte Abteilung
+zurückführbar reduzierbar
+Neuerstellung Regenerierung Wiederherstellung
+hinzuziehen einbeziehen hinzubitten miteinbeziehen befragen einschalten dazuholen hinzubemühen beiziehen konsultieren
+Offenbarungserlebnis Schlüsselerlebnis Damaskus Erweckungserlebnis Damaskuserlebnis Offenbarung Erleuchtungserlebnis Offenbarungserfahrung Damaskusereignis
+mildtätig wohltätig menschenfreundlich humanitär
+Gründerzeit Gründerjahre
+Tonlage Tonhöhe
+Zicklein Ziegenlamm Gitzi Kitz
+ordnungsgemäß gesetzmäßig
+Schaschlikspieß Spieß Bratspieß
+leidenschaftlich hingebungsvoll aufopferungsvoll
+Aufnahmefähigkeit Empfänglichkeit
+Zeichenbrett Zeichenmaschine Zeichenplatte Reißbrett
+Konfitüre Schlecksl Fruchtaufstrich Guts Schmärsel Gsälz Strichi Marmelade Sießschmeer
+Personalangaben Personalien
+Zuordnungsanweisung Zuweisungskommando
+Mittelpunkt Mitte Zentrum
+Mäzen Kunstliebhaber
+Schicht Decke Lage Hülse Schale Hülle
+Taschenlampe Handlampe Handleuchte
+Ziel Zweck Vorsatz Absicht
+Fortdauer Bleiben Fortbestand Verbleiben Verbleib Bestand
+Treppenstufeneffekt Treppenstufen-Effekt Rasterkonvertierungseffekt Treppcheneffekt Stufenbildung Treppeneffekt
+diskrepant inkonsistent folgewidrig inkonsequent unstimmig widersprüchlich uneinheitlich
+überlebenswichtig essenziell existenziell vital lebenswichtig lebenserhaltend Überlebensfrage lebensnotwendig essentiell
+Ersatzmittel Substitutionsgut Ersatz Substitut Surrogat
+lang weit
+Regler Regulator Modulator
+ausschlagen verwerfen
+Brustumfang Oberweite
+Prostata Vorsteherdrüse
+Steuerabschreibung Abschreibung Wertverminderung
+Zeugungskraft Potenz Mannbarkeit Geschlechtsreife Zeugungsfähigkeit Männlichkeit Manneskraft Virilität
+Luftbildaufnahme Luftfoto Luftbild Luftaufnahme
+Laufzeit Ablaufzeit
+Abendkleid Abendrobe Ballkleid
+fristgerecht fristgemäß rechtzeitig pünktlich
+Rabbi Rabbiner Schriftgelehrter Rebbe
+erblühen aufblühen blühen
+Stifter Patron Donator Gönner Finanzier Spender Sponsor Förderer Mäzen Wohltäter Geldgeber
+Taschenkrebs Krabbe
+Cabrio Kabrio Kabriolett Cabriolet
+sprühen spritzen sprayen
+Wokpfanne Wok
+Gerangel Streitigkeit Querelen Hickhack Zankerei Zank Geplänkel Streiterei Klinsch Zerwürfnis Hader Stunk Streit Differenzen Krach Clinch Hakelei Zwist Zwistigkeit Wickel Auseinandersetzung Zoff Rangelei Knatsch Unfrieden Scharmützel
+verfälschen verhüllen kaschieren verdecken verwischen tarnen verkleiden zudecken verstecken verschleiern umnebeln ummänteln vernebeln umhüllen vertuschen verbergen
+abwandelbar fluid beweglich wandelbar mutabel veränderlich veränderbar variant variabel
+Absicherung Sicherung Wahrung
+Ausscheidung Scheiße Kacke Kot Exkrement Haufen Fäzes Fäkalien Wurst Stuhl Losung
+rahmen einfassen umranden
+Zylinderstift Passstift
+Stufenpyramide Etagenpyramide Tempelturm
+juckend pruriginös
+buddeln graben schaufeln schippen ausheben
+Medienplanung Werbeplanung
+Dreifuß Stativ
+Überarbeitung Überanstrengung Überlastung
+Plattieren Dublieren Doublieren Plattierung
+Jobwechsel Arbeitsplatzwechsel Stellenwechsel
+Lastenträger Lastträger Bagagist Gepäckträger Kuli
+Transition Wandlung Wandel Umbruch Austausch Wechsel Übergang
+Fahrstuhl Aufzug Aufzugsanlage Lift
+zurückwerfen repräsentieren widerspiegeln wiedergeben reflektieren spiegeln
+anthropomorphisieren vermenschlichen
+Briefklammer Büroklammer
+Verständlichkeit Greifbarkeit
+Bias Verzerrung Tendenz
+Klarsichtpackung Durchdrückpackung Schrumpffolienverpackung Blisterpackung
+Kriminalroman Krimi
+Abrechnungsperiode Abrechnungszeitraum
+originär echt original unverfälscht authentisch genuin ursprünglich gestanden unverändert
+Eigenschaft Wesenszug Attributivum Merkmal Eigenheit Besonderheit Attribut Eigenart Manier Charakterzug Kennzeichen Duktus Wesensmerkmal Eigentümlichkeit Spezifikum Charakteristikum
+Elternteil Sorgeberechtigter Elter Erziehungsberechtigter
+Beule Schwellung
+eigen blutsverwandt verwandt leiblich
+Split Splitter Steinsplitter
+Geldnot Ebbe Geldverlegenheit Geldklemme Illiquidität
+Mehrbenutzersystem Mehrplatzsystem
+mitziehen bestätigen unterschreiben zustimmen mitmachen affirmieren bejahen bestärken bekräftigen
+Verschlimmerung Aggravation
+Freigabedatum Verfalldatum
+Abstufung Maße Ausmaß Weite Größe Umfang Maß Ausdehnung
+säkularisieren verweltlichen
+Austeiler Abroller Verteiler Spender
+ungeschützt angreifbar verletzlich empfindlich verwundbar
+Pegel Wasserstand Wasserpegel
+Sterbehaus Sterbeklinik Hospiz
+Durchschreibpapier Kohlepapier Pauspapier Durchschlagpapier
+Aspekt Überzeugung Sichtweise Blickwinkel Anschauung Position Haltung Einstellung Betrachtungsweise Standpunkt Ansicht Meinung Auffassung
+Spritzfahrt Ausflug Trip Kurztrip Spritztour Tour
+dünn hager mager leptosom knochig dystroph untergewichtig schmal dürr spillerig schlaksig schmächtig
+diffundieren vermischen dispergieren verbreiten ausströmen vermengen
+Klemmmutter Kontermutter Gegenmutter
+Schwingungszahl Frequenz
+unverhältnismäßig unangebracht verfehlt unpassend kontraindiziert deplatziert unsachgemäß inadäquat unangemessen
+Erlangung Erwerbung
+Herr Regent Gebieter Potentat Monarch Herrscher Souverän Machthaber
+Sirokko Schirokko Scirocco
+Schwämmchen Soor
+Kleienflechte Pityriasis
+Jähheit Plötzlichkeit
+Kontaktbolzen Brücke
+Bann Zauberspruch Zauber Beschreiung Behexung, Verhexung
+Amulett Schmuckanhänger Anhänger
+Wertpapierhandel Effektenhandel Aktienhandel
+zusammenbinden zusammenschnüren verknüpfen
+Sanierung Altlastensanierung
+zustellen zuführen überbringen
+anfertigen präparieren zurechtmachen
+linear geradlinig
+befugen autorisieren mandatieren bevollmächtigen legitimieren berechtigen ermächtigen
+ausrichten austragen veranstalten abhalten
+Unsicherheit Hemmung Befangenheit Gehemmtheit Schüchternheit Verklemmtheit
+Einsamkeit Alleinsein Verlassenheit
+erweitern ergänzen ausbauen nachrüsten
+passiv träge untätig müßig pomadig bequem phlegmatisch tatenlos faul
+anheben wuchten hochziehen hochheben hieven aufnehmen heben aufheben stemmen
+Rhetorik Sprachgewandtheit Redegewandtheit Redekunst
+Endung Kasusendung
+insinuieren bedeuten anzeigen signalisieren andeuten
+Gnade Erbarmen Mitleid Gunst
+wohlgestimmt heiter erheitert launig gutgelaunt freudetrunken vergnügt wohlgelaunt fidel munter pudelwohl unverdrossen frohgemut lustig aufgeräumt quietschfidel wildvergnügt beglückt bumsfidel fröhlich beschwingt ausgelassen mopsfidel
+plündern ausrauben ausplündern
+Sandbank Untiefe
+flüchtig sprunghaft volatil unstet sporadisch floatend vagabundierend unbeständig schwankend
+Stilblüte Schnitzer
+Deckblech Abdeckplatte Deckplatte
+Geige Fiedel Fidel Violine
+Lendentuch Lendenschurz
+wegwischen abwischen entstauben putzen abstauben
+Inkassofirma Inkassobüro Inkassounternehmen
+Milchhändler Milchmann
+verstört entgeistert verwirrt tüdelig derangiert umnachtet durcheinander konfus fassungslos
+Netztafel Nomogramm
+Viertel Ortsteil Stadtteil Stadtviertel
+unergründlich undurchschaubar undurchdringlich
+Begleitpapier Warenbegleitschein
+tyrannisch repressiv selbstherrlich unterdrückerisch despotisch diktatorisch
+Niederung Aue Au
+visionär ahnungsvoll vorahnend vorausahnend
+Aberkennung Entzug Entziehung Abjudikation
+Steuererstattung Steuerrückerstattung
+Luftströmung Luftstrom Luftführung
+aufzeichnen mitschneiden aufnehmen protokollieren loggen
+Formular Formblatt Antrag Vordruck
+Beamter Staatsbediensteter Staatsdiener Bediensteter
+Problemkreis Problemfeld Problemzone
+Feuchtblattern Wasserpocken Windpocken Varizella Varizellen Schafblattern
+gemildert abgemildert
+honen feinschleifen
+aufarbeiten untersuchen aufhellen aufklären klären ergründen
+wehmütig wehmutsvoll bedrückt down melancholisch niedergedrückt trübsinnig gedankenschwer schwermütig bekümmert
+Rasen Rasenplatz
+selbstbestimmt autonom selbstständig unabhängig eigenverantwortlich selbständig autark eigenständig
+behänd zeitsparend rasch flott zeitnah fix schnell hurtig geschwind umgehend zackig rapide subito eilig munter hopphopp zügig flugs rapid flink schleunig speditiv eilends dalli
+Auftragsstornierung Stornierung Storno
+beschämend blamabel peinlich unangenehm hochnotpeinlich daneben
+Meistbietender Höchstbietender
+Aussteller Trassant
+aushängen anschlagen
+Statist Komparse
+dazwischenliegend interstitiell
+Lagerzapfen Wellenlager
+Konjunkturlage Konjunktur Wirtschaftslage
+Stift Schreibstift Schreiber
+Spalte Ritze Schlitz Spalt Fuge
+Bezugsperiode Erfassungszeitraum
+ausnützen ausnutzen missbrauchen zweckentfremden benutzen
+Läute Glocke Schelle Klingel
+Verklebung Anziehung Adhäsion Verwachsung
+Annäherung Konvergenz Abstimmung Angleichung
+nach nach zu
+brutzeln knistern
+Figurine Figürchen Statuette
+Schulung Weiterbildung Fortbildung Training
+Gehaltsklasse Gehaltsstufe
+Banknotenpapier Wertzeichenpapier
+Konverter Zwischenstecker Adapter Zwischenstück Anpassungseinrichtung Passstück Zwischenteil
+beflecken beleidigen niedermachen dissen besudeln herabwürdigen beschmutzen herabsetzen abwerten insultieren beschimpfen herunterputzen
+Währungseinheit Währungsunion
+überleben durchstehen überstehen
+leisten schmeißen fahren bewirken ausführen durchführen
+abtragen demontieren abbauen
+Begehren Begierde Lust Gier Geilheit Begehrlichkeit
+Gurgel Schlund Kehle
+konventionell überkommen altüberliefert altehrwürdig klassisch ordinär hergebracht überliefert gewöhnlich gebräuchlich traditionell angestammt althergebracht herkömmlich tradiert
+Braunfäule Brand Mehltau
+abdrängen beiseitedrängen verdrängen
+ungeprobt improvisierend
+zugunsten stattdessen anstelle statt für sondern anstatt
+Nachbelastungsauftrag Nachgebührauftrag
+nebenher zugleich
+Versilberung Versilbern
+Bahnbetriebswerk Betriebswerk Bw
+Flöz Nutzschicht Schicht
+Alter Altersstufe Entwicklungsstadium Lebensalter Altersklasse Lebensphase Lebensabschnitt
+Anfangsphase Anfangsstadium
+Biotechnik Biotechnologie Biotech
+Rauchwaren Pelzwaren
+Bibelpapier Bibeldünndruckpapier
+Kimmwinkel Kimm
+Völkerkunde Ethnologie
+Poststempel Stempel
+ergänzen hinzufügen hinzukommen beifügen addieren hinzunehmen hinzurechnen
+Konjunkturanstieg Aufwärtstrend
+Anschlagbrett Anschlagtafel
+Luftfahrt Aeronautik Flugwesen Fliegerei Fliegen
+gedankenlos zerstreut konfus geistesabwesend
+instabil gestört
+Frucht Obst
+bearbeiten ändern modifizieren umschreiben verändern editieren abwandeln abändern
+Anschlusstor Anschlusstreffer
+Impakt Einschlag
+Ischiassyndrom Ischialgie Ischias
+anbraten anbräunen
+Region Gebiet Distrikt Zone Bezirk Bereich Kreis Rayon Verwaltungsbereich Gebietskörperschaft Areal Landschaft Kanton Department Verwaltungseinheit Verwaltungsbezirk Sektor
+Kriminalität Verbrechen
+Autoindustrie Automobilindustrie
+Ausgießer Tülle Schnaupe Schnauze Schnabel Ausguss
+Nachtgeschirr Botschamber Boddschamber Pisspott Nachttopf
+Abschlagszahlung Akonto Akontozahlung Anzahlung
+Schiebehubdach Schiebedach
+wortbrüchig unsolide unzuverlässig unglaubwürdig fragwürdig windig
+Grill Rost Bratrost
+untreu unzuverlässig treulos
+Angeklagter Beklagter Beschuldigter
+Traufbrett Stirnbrett Sparrenabdeckung
+exemplarisch etwa meinetwegen so wie beispielsweise bspw.
+Entwicklung Durchführung Einrichtung Implementierung Erreichung Verwirklichung Umsetzung Realisierung Gestaltung Implementation
+nuckeln saugen aussaugen zutzeln zuzeln suckeln auslutschen ziehen
+Betriebsstilllegung Betriebsschließung
+Gelehrter Dozent Hochschullehrer
+Gerät Einheit Laufwerk
+Nähgarn Nähzwirn Nähfaden
+unerheblich geringfügig schwach
+waschen spülen
+Videoaufnahme Videoaufzeichnung Filmaufnahme
+Diplomurkunde Diplom Dipl.
+Jubeljahr Jubiläum
+Sprachwissenschaftler Linguist
+Obstpresse Entsafter Fruchtpresse Moster Kelter Saftpresse Mostpresse
+Flüchtling Vertriebener
+Register Gliederung Auflistung Datenbank Aufzählung Tabelle Katalog Syllabus Aufstellung Verzeichnis Liste
+Vervielfältigungsstück Exemplar Kopie
+Raumzeitalter Weltraumzeitalter
+vorurteilsfrei objektiv sachlich detachiert
+Anlagenumsetzung Vermögensübertragung
+Puffer Cache-Memory Zwischenspeicher Pufferspeicher Datenpuffer Cache Zwischenablage Cachespeicher
+Diplomingenieur Dipl.-Ing.
+springen hüpfen hoppeln hopsen jumpen
+Ladewinde Winde Ankerwinde
+Weißnäherin Näherin
+Bolzen Nase Keil
+beckmesserisch haarspalterisch krämerhaft finzelig engherzig kleingeistig borniert beschränkt kleinkariert kleinlich krämerisch
+ökonomisch wirtschaftlich geschäftlich
+Kurve Biegung Schleife Krümmung Knick
+Übungsplatz Exerzierplatz
+liebenswürdig konziliant reizend lieb ansprechend sympathisch nett umgänglich
+Abgeordnetenhaus Volksvertretung Parlament
+erinnern wiederkennen wiedererkennen erkennen
+Disposition Verfügungsrecht Verwendbarkeit
+Druckbegrenzungsventil Überdruckventil DBV
+Schubversuch Scherversuch
+überzeugen persuadieren einnehmen indoktrinieren bewegen beeinflussen erwärmen
+Härten Aushärtung
+kombinieren zusammenführen vereinen arrangieren zusammentun verbinden arrondieren fusionieren verschmelzen zusammenfügen zusammenschließen vereinigen zusammenlegen
+Kurzlehrgang Intensivlehrgang Schnellkurs Crashkurs Intensivkurs
+Alleinverkaufsrecht Vorrecht
+Zephyr Zephir
+Steuerkurs Kompasskurs
+Campus Unigelände Universitätsgelände
+Exaktheit Genauigkeit Akribie Gründlichkeit Akkuratesse Präzision
+Autokrat Despot Absolutist Alleinherrscher Diktator
+abzahlbar tilgbar
+Gleichheit Identität Gleichförmigkeit
+Grundfarbton Grundton Grundstimmung
+Vergleichspunkt Referenzpunkt Bezugspunkt
+ermutigen motivieren beflügeln anspornen animieren
+Fünfjahrplan Fünfjahresplan 5-Jahres-Plan
+Anerkennung Befolgung Zusage Einverständnis Einhaltung Zustimmung
+wetzen schleifen
+abwaschen waschen
+Anlagengegenstand Vermögensgegenstand Vermögenswert Aktivposten Anlagegegenstand
+transparent ungetrübt klar durchscheinend durchsichtig
+unangreifbar unabweisbar zweifelsfrei zwingend unwiderleglich unanfechtbar unzweifelhaft unbestreitbar unbezweifelbar unwiderlegbar unleugbar hart
+Schmeichler Stiefellecker Kriecher Schleimer Radfahrer Steigbügelhalter Byzantiner Schleimscheißer Arschkriecher Schranze Liebediener Schleimi Speichellecker Wurm
+erstarken zunehmen vertiefen verstärken
+Nierenentzündung Nephritis
+einsam untröstlich trostlos verlassen
+hart scharf
+voraussagbar voraussehbar berechenbar vorauszusehen prognostizierbar absehbar anbahnend vorherzusehen abzusehen prädiktiv vorhersagbar vorhersehbar
+Instrument Betriebsmittel Utensil Hilfsmittel Arbeitsgerät
+Trittleiter Zauntritt
+ausrüsten ausstaffieren ausstatten befüllen versehen bestücken wappnen
+Lebenshaltungskostenindex Lebenshaltungsindex
+Blütenstempel Pistill
+irdisch global
+Pressestelle Presseabteilung
+stichhaltig stimmig stringent kohärent konsequent logisch folgerecht widerspruchsfrei schlüssig triftig zwingend folgerichtig denkrichtig überzeugend
+Zunahme Mehrung Vergrößerung Ausweitung Wachstum Anwachsen Anstieg Steigerung Zuwachs
+hineinkippen infundieren einflößen
+übel schlecht schwach mau beschissen bescheiden prekär mies
+Übergangslösung Notlösung Notbehelf Umgehungslösung Behelfslösung Workaround Zwischenlösung Baumarktlösung Provisorium Verlegenheitslösung Notstopfen
+Farnkrautwedel Wedel
+Satzzeichensetzung Zeichensetzung Interpunktion
+angeben vortragen behaupten erklären aussagen
+Hinzunahme Ergänzung Beifügung Extra Hinzufügung Zusatz Zugabe
+hinwerfen skizzieren
+Titel Track Lied Stück Komposition Musikstück
+Dung Mist Dünger
+ehrenwert honorig ehrenvoll ehrsam ehrenhaft ehrbar
+Renovierung Aufarbeitung Renovation Ajourierung Aktualisierung Modernisierung Erneuerung
+Abschnitt Passus Paragraph Artikel Absatz Textstelle Textabschnitt Passage Kapitel Paragraf
+Fahrweg Spur Trassee Schiene Bahn Fahrbahn Schienenstrang Trasse
+Rundfunkübertragung Hörfunksendung Rundfunksendung Radiosendung
+versengen ansengen ankokeln anbrennen
+Litschi-Moorantilope Moorantilope
+unfreundlich mürrisch garstig unterkühlt muffelig pampig mufflig
+zurückweisen annullieren entkräften
+unbedacht blindlings vorschnell unüberlegt unbesonnen unaufmerksam gedankenlos
+Umschlag Abdeckung Hülle
+niederregnen niederprasseln niederhageln
+Fußknöchel Fußgelenk Knöchel Fessel
+ausfüllen füllen vollstopfen ausstopfen
+Zellstoff Zellulose Cellulose
+wehrdiensttauglich wehrfähig
+Fotozelle Lichtwiderstand Photozelle Selenzelle
+Putz Verputz Aufputz
+einheitlich kongruent ähnlich gleichartig vergleichbar übereinstimmend parallel kommensurabel gleichmäßig korrespondierend komparabel entsprechend analog gleichermaßen
+Arithmetik-Prozessor Co-Prozessor
+ausfugen abdichten verstreichen fugen
+Invalide Pflegefall Gebrechlicher
+Tonart Stimme Tonfall
+Drillich Drell
+schöpfen löffeln
+Ordnungszahlwort Ordnungszahl Ordinalzahlwort Ordinalzahl Ordinale
+Stellenanzeige Stellenausschreibung Stellenangebot Vakanz Job Stelle
+Strophe Gedichtabschnitt Vers Absatz
+Hinweis Beleg Anzeiger Anzeichen Indikator
+Nimmersatt Vielfraß Fresser Fresssack
+leiten handeln handhaben umgehen hantieren
+Laufrad Antriebsrad
+loyal zuverlässig sicher treu getreu vertrauenswürdig ergeben treulich treugesinnt
+Quetschhahn Schraubklemme
+Manuskript Schriftstück Dokument
+proaktiv initiativ
+Tuwinien Tuva Tuwa
+Unglück Unfall
+effizient drastisch verlustfrei schlagkräftig wirksam verlustarm überzeugend tiefgreifend rationell einschneidend effektiv durchschlagend leistungsfähig wirkungsvoll
+umhüllen ummanteln einmummeln umkleiden verschalen bedecken auskleiden verkleiden
+administrieren verwalten führen
+Ernährungsfachmann Ernährungswissenschaftler
+Schiefe Ungleichmäßigkeit Asymmetrie Unebenheit
+rühren reizen
+unbekannt fremd anonym
+Wappenbild Hoheitszeichen Wappen
+kraus struppig
+wacklig wackelig unstabil unsicher kipplig instabil
+Spaßpark Freizeitpark Vergnügungspark
+aussteigen ausscheren austreten
+vermittelst durch mit über via vermittels anhand qua mithilfe mittels per
+zusammenfügen paketieren
+abtasten abfühlen palpieren
+auserwählt bestimmt erkoren auserkoren
+Grundstrich Unterstrich
+Wirkungslosigkeit Vergeblichkeit Nutzlosigkeit Zwecklosigkeit Entbehrlichkeit Sinnlosigkeit
+idyllisch beschaulich friedvoll harmonisch häuslich malerisch geruhsam heimelig lauschig
+Gutschein Coupon Kupon
+erhalten wahren bewahren eternisieren verewigen
+Schallaufnehmer Mikrophon Mikrofon Mikro Mic
+Sonderrecht Privileg
+Vorhaltung Klage Beschwerde
+anfällig vulnerabel empfänglich prädisponiert
+Schalbrett Schwartenbrett
+Handarbeiter Büezer Handwerker
+aufwachsen heranwachsen wachsen sprießen
+Mulde Vertiefung Spur Graben Riefe Furche Falte
+biegsam gefügig weich
+Bauwerk Gebäude Gebäudlichkeit Gemäuer Bau
+widersprechen leugnen zurückweisen distanzieren abstreiten ableugnen bestreiten dementieren anfechten verweigern verneinen verwahren
+haarig behaart
+Springtide Springflut
+Zahnschmelz Schmelz
+Ausrichtungsfehler Falschausrichtung
+gehasst verhasst
+wonach worauf
+Rufmord Verunglimpfung Verleumdung
+düster finster schwarz dunkel
+Revers Fasson Aufschlag
+problemorientiert problemnah
+Look Äußeres Apparenz Erscheinungsbild Schein Anschein Oberfläche Aussehen Erscheinung
+Kegelhöhe Schriftgrad Schriftsatzmaß Kegelstärke
+Ungleichförmigkeitsgrad Gleichlaufschwankung Drehzahlschwankung
+Humorlosigkeit Ernsthaftigkeit Ernst
+durchsehen untersuchen inspizieren sichten beschauen
+Altertum Prähistorie Urgeschichte Vorgeschichte Vorzeit
+Kopfzeile Überschrift Headline Titel
+herüber rüber
+maßregeln strafen ahnden belangen abstrafen bestrafen
+minus abzüglich ausgenommen abgerechnet abzgl. außer weniger abgezogen ungerechnet ohne
+Fühler Taster
+entladen entlassen freisprechen
+Haufen Portion Stück Klumpen Batzen Klumpatsch Brocken
+Rat Kollegium
+Anwendbarkeit Eignung Anwendungsmöglichkeit
+Trauer Gram Kummer
+Labor Laboratorium
+Konterschlag Gegenschlag Gegenangriff Konter
+Klage Anklage
+gehässig gemein boshaft giftig böse bösartig gallig aggressiv ätzend zynisch
+erotisch verführerisch atemraubend knackig ansprechend stimulierend attraktiv geil erotisierend lasziv knusprig lecker sexy aufreizend sinnlich rassig reizend atemberaubend aufregend heiß erregend wohlproportioniert betörend reizvoll wohlgeformt kurvig scharf aphrodisierend wohlgestaltet
+gewandt kunstvoll geschickt kunstreich kunstfertig kunstgerecht gekonnt
+Inanspruchnahme Indienstnahme Benutzung Einsatz Nutzung Ergreifung Gebrauch Verwendung Anwendung
+nagen fletschern abnagen kauen
+estnisch estländisch
+ausharren warten harren gedulden beharren zuwarten teufen abwarten ausdauern abpassen
+dichtmachen stopfen
+Mannsperson Dude Macker Herr Typ Patron Bursche Keule Mann Mannsbild Kerl Y-Chromosom-Träger
+einsacken einwickeln einpacken einschlagen verpacken einhüllen eintüten
+bewundernswert achtbar reputierlich anerkennenswert reputabel lobenswert bewunderungswürdig dankenswert beachtenswert anerkannt verdienstvoll verdienstlich rühmenswert verdient ehrbar
+herunternehmen abschöpfen
+Spieluhr Spieldose
+fasten hungern
+Konservatorium Musikhochschule
+Einkaufspreis Kaufpreis
+Chiffrierung Verschlüsselung Chiffre
+Skilift Schilift
+Oberbürgermeister OB
+Stauwerk Werche Wehr Schlagd Schlacht Stauwehr Wuhr
+haselnussbraun nussbraun
+rundlich prall dicklich mollig pummelig drall moppelig mopsig
+Offensichtlichkeit Offenkundigkeit
+Unabwägbarkeit Paukenschlag Überraschung Knalleffekt Unvorhersehbarkeit
+c/o bei
+Fleischgewächs Sarkom
+Untersuchender Erforscher
+Spülwasser Abwaschwasser Spülicht Aufwaschwasser
+Harnröhre Urethra
+überheizen heißlaufen überhitzen
+Pupillenverengung Miosis
+Dame Damespiel
+Tribüne Tribünenplätze
+Wagendecke Zeltbahn
+lebensnah sinnfällig illustrativ bildhaft anschaulich lebendig farbig plastisch
+wiederherstellen heilen auskurieren hochpäppeln aufpäppeln durchbringen zusammenflicken kurieren
+Soll Zielwert Plansoll
+geizig preisbewusst knickerig knickrig schrappig zugeknöpft sparsam filzig knauserig kniepig
+Verblendung Erblindung
+Nervenentzündung Neuritis
+Stellschraube Verstellschraube
+isolieren zerstreuen zerteilen trennen separieren vereinzeln
+Ballettröckchen Tutu Röckchen
+ideologisch apodiktisch dogmatisch rechthaberisch doktrinär
+Menge Vielzahl Flut Schwarm Unzahl Masse Heer
+Schifferklavier Akkordeon Ziehharmonika Handorgel Quetschkommode Handharmonika Quetsche
+ätzen korrodieren
+Schoppen Weinglas Römer
+Zufuhr Versorgung Anlieferung
+Starrsinn Verbissenheit Halsstarrigkeit Beharrlichkeit Dickköpfigkeit Hartnäckigkeit Starrköpfigkeit Rechthaberei Bockigkeit Sturheit Dickschädeligkeit
+Neigen Ducken Beugen Bücken
+undurchlässig impermeabel undurchdringbar undurchdringlich
+mobil flexibel elastisch wendig leichtfüßig regsam agil gewandt beweglich behänd flink gelenkig lebhaft variabel biegsam
+Harnröhrenentzündung Urethritis
+Umwandlung Verwandlungsprozess Umgestaltung Transformation Wandlung Verwandlung Metamorphose Gestaltswandel
+Drainage Dränage Entwässerung Trockenlegung
+kultiviert ästhetisch formvollendet edel stilvoll stylish geschmackvoll stylisch schön
+Planung Disposition
+Schmiermittel Schmierstoff
+zeitgerecht termingemäß fristgerecht termingerecht fristgemäß rechtzeitig
+Deformierung Durchbiegung Deformation Verbiegung Verformung
+Hütte Häuschen Verschlag
+Abnehmer Akzeptant Empfänger Adressat Rezipient
+Betrüger Windei Schwindler Hochstapler
+Haarentferner Enthaarungsmittel
+unbezwingbar unbeugsam unbezwinglich unzähmbar unbezähmbar
+Sterndeuterei Sterndeutung Astrologie
+Kindeskind Enkel Großkind Enkelkind
+zischen zischeln
+Brite Inselaffe Engländer Tommy
+Trommelstock Schlegel
+Studio Künstlerwerkstatt Atelier
+Spärlichkeit Dürftigkeit
+leichtgewichtig leicht
+zerkratzen abschürfen aufschürfen
+Peinlichkeit Verlegenheit Betretenheit
+Waffengang Kampfgeschehen Gefecht Schlacht Kampfhandlungen Kampf Bataille Treffen
+Approximierungsrechnung Näherungsrechnung
+überpudern einpudern überstreuen bepudern bestäuben bestreuen streuen
+abbürsten abklopfen
+überholen renovieren
+ebenmäßig homogen gleichartig einheitlich gleichförmig identisch gleich
+zinkig gezähnt zackig gezackt
+ausgereift ausgegoren sukkulent reif saftig
+Vergiftung Intoxikation Vergiftungskrankheit
+katapultieren schleudern
+Durchschuss Einschlag
+Genosse Buddy Gefährte Intimus Spezi Kamerad Freund Kumpel Spezl Vertrauter Getreuer Gevatter Kumpan Kollege
+Muskelschmerz Myalgie
+arrangieren aufziehen formen abhalten gestalten
+Gewinnanteil Dividende
+Umspanner Stromrichter Umformer
+Biskuit Keks
+Truthahn Puter
+Verstellbarkeit Einstellbarkeit Justierbarkeit
+herauskommen hervorbrechen
+Plattensee Balaton
+Falschheit Niedertracht Abscheulichkeit Gemeinheit Niederträchtigkeit
+entwickeln ausarbeiten entwerfen schmieden aushecken erarbeiten konstruieren innovieren erfinden ersinnen konzipieren ausbrüten ausfeilen
+Überfall Attacke Offensive Übergriff Sturm Vorstoß Einfall Angriff
+Unentschiedenheit Unschlüssigkeit
+dünnflüssig nichtviskos flüssig wässrig wässerig fließfähig fluid
+Kegeln Kegelspiel
+funktionstüchtig lauffähig funktionsfähig
+Lehensmann Ritter Samurai Edelmann
+Raub Raubüberfall Überfall
+maskieren verkleiden kostümieren
+einbringen erwirtschaften einfahren bringen
+Kontotyp Kontoart
+fixieren halten befestigen feststecken einspannen klammern
+Gesiebtes Siebabfälle Durchgesiebtes
+Reduktionsabschuss Ausmerzen
+Versicherungsgesellschaft Versicherer Versicherung Assekuranz
+hart eisern steinhart steinern eisenhart
+nahe anliegend bei angrenzend benachbart daneben neben
+Kundenkreis Kundenstamm Kundenbestand
+aktivieren anknipsen anmachen einschalten anschalten anstellen
+Abgaben Gebühren Steuern
+Tauwerk Laschung
+Liedtext Text Songtext Liedertext Lyrics
+Votum Wählerstimme Stimme Wahlstimme
+Geigenharz Kolophonium Kolofonium
+Strafrede Epistel Leviten Standpauke Schimpfkanonade Moralpredigt Strafpredigt Ermahnungsrede Gardinenpredigt Exhorte
+vorausplanen disponieren prädisponieren vorsehen
+launisch unsicher instabil launenhaft labil unbeständig wechselhaft unstet anfällig unkonstant ruhelos wandelbar
+Anführungszeichen Gänsefüßchen Anführungsstrich Anführungsstriche Zitatzeichen Tüddelchen Redezeichen
+vorgeblich gespielt aufgesetzt ostentativ künstlich vorgeschoben fadenscheinig angeblich
+Bettnässen Enuresis Enurese
+Glas Wasserglas Becherglas
+Tongewinnung Lehmgewinnung
+Finesse Kunstgriff Technik Praktik Schachzug Dreh Trick Kniff Kunststück Handgriff
+Stellwärter Bahnwärter
+Grossist Großhändler
+abschwächen mildern drosseln abmildern neutralisieren dämpfen schwächen
+zuwenden zueignen widmen überreichen schenken springenlassen überantworten spendieren überlassen beschenken hingeben übergeben gewähren bescheren
+herzlich gütig sanftmütig warm
+verbündet alliiert
+überspülen überschwemmen fluten überfluten
+Staatsgut Umfeld Sphäre Zuständigkeitsbereich Einflussbereich Bereich Domäne
+Verjüngung Zuspitzung Verengung
+Nebelschleier Nebel Dampf Brühe Nebelschwaden Suppe Trübung Waschküche Schleier Vernebelung Dunst
+Malheur Panne Missgeschick Fehlgriff Fehler Fehlleistung Fehlschlag
+Abrechnungsmaschine Fakturiermaschine Buchungsmaschine
+Zirrhose Schrumpfung
+Wandtafel Tafel
+Bedingtheit Relativität
+Heilung Besserung
+niederschlagen kondensieren
+entsahnen entrahmen entfetten absahnen
+Fachterminus Fachausdruck Fachvokabel Fachbegriff Terminus Fachwort
+unsinnig sinnlos witzlos sinnfrei unnütz
+schneidig forsch schnittig zackig
+Notausschalter Notbremse Nothaltschalter
+Mietvertrag Bestandvertrag Pachtvertrag Bestandsvertrag Leasingvertrag
+Papierwolf Büro-Schredder Aktenvernichter Reißwolf
+Voraussicht Vorsorge
+Mehrfachkanal Multiplexkanal
+Vorarbeit Vorleistung
+gesundheitsschädlich ungesund
+strebsam tüchtig engagiert produktiv anpackend fleißig arbeitsam tatkräftig energisch
+Backtracking Trial-and-Error-Verfahren Rücksetzalgorithmus
+zweckmäßigerweise zweckmäßig
+unabhängig einzeln abgetrennt getrennt abgesondert geteilt individuell separat
+Samenkorn Getreide Korn
+stolz breitspurig versnobt aufgeblasen dünkelhaft vermessen hochnäsig überheblich hybrid eingebildet hochmütig hoffärtig arrogant anmaßend blasiert
+gesetzeswidrig widerrechtlich unzulässig illegal rechtswidrig unberechtigt unautorisiert krumm untersagt verboten ungesetzlich ungenehmigt kriminell schwarz unrechtmäßig unerlaubt gesetzwidrig
+Stempel Amtszeichen Siegel
+zerhäckseln häckseln zerstückeln zerhacken zerkleinern schnetzeln hacken zerschnetzeln
+transplantieren verpflanzen
+Kalkulation Rechenoperation
+predigen rausposaunen verkündigen herausposaunen
+Koordinierung Abstimmung Absprache Koordination
+kleinst wenigst geringst minimalst
+Ehrensalve Salutschuss
+zitieren entnehmen anführen
+aquamarinblau aquamarin
+einstechen stechen piercen stoßen piksen ausstechen lochen durchlöchern durchstechen stanzen piken
+Humorist Comedian Komödiant Komiker
+steigern vermehren maximieren zunehmen vergrößern mehren
+zellig zellenförmig
+Schamlosigkeit Würdelosigkeit Verkommenheit Unflätigkeit Pöbelhaftigkeit Unanständigkeit
+gefriertrocknen lyophilisieren
+gezähmt domestiziert zahm zutraulich handzahm lammfromm
+verderben ruinieren
+mutual mutuell gegenseitig reziprok alternierend beiderseits wechselseitig
+Voxel Volumenelement
+Fasshahn Fasszapfen
+Gelübde Verpflichtung Erklärung Bekräftigung Ehrenwort Gelöbnis Bund Schwur Eid
+hintenherum hinterhältig arglistig tückisch link hinterfotzig hinterrücks meuchlings falsch heimtückisch
+gedankenverloren gedankenvoll gedankenversunken versonnen erwägend nachdenklich grüblerisch
+lebenserfahren weise lebensklug weltklug geläutert vernünftig erfahren klug
+Obligo Verantwortlichkeit Haftung Haftpflicht
+wirbeln strudeln
+beschützen bewahren beschirmen
+unergründlich zutiefst abgrundtief tief
+Kurzsichtigkeit Myopie
+übertreffen darüberlegen daraufsatteln darübersetzen daraufsetzen
+Retardation Reifungsverzögerung
+weltumspannend ubiquitär allgegenwärtig omnipräsent
+Urkunde Beleg Schriftstück Archivale Unterlage Dokument
+Garderobe Gewandung Klamotten Mode Anziehsachen Konfektion Zeug Sachen Kleidung Bekleidung Plünnen Kluft Textilie Kledage Gewand Kleider Outfit
+wirtschaften haushalten sparen
+genial ingeniös
+Einkauf Besorgung Anschaffung Beschaffung Erwerb
+Schieferbruch Schieferbergwerk
+Katasterkarte Gemarkungskarte Flurkarte
+Angelgerät Rute Angel Angelrute
+bluffen blenden trügen täuschen
+adynamisch schwach kraftlos
+Dorn Holm Balken Hauptbalken
+Gegenerklärung Abbestellung Widerruf Rückzug Widerrufung
+verbeulen demolieren verkratzen beschmieren zerkratzen lädieren zerritzen ramponieren beschädigen
+grauenvoll schrecklich grauenhaft grausig gräulich horrormäßig schaurig grausam fürchterlich
+trotzig aufmüpfig ungehorsam zickig widersetzlich unartig dickköpfig aufsässig eigensinnig respektlos renitent unbotmäßig
+Runde Korona Traube Clique Pulk Herde Trupp Kolonne Schar Rudel Schwarm Grüppchen
+zurückbleiben abbleiben zurückfallen nachlassen hinterherhinken absteigen
+Emitter Sender Zeichengeber
+trostlos dröge stupide eintönig grau langatmig trist stupid monoton schal kontrastarm spannungsarm öde farblos geisttötend blass reizlos langweilig schnöde fade öd fad trocken
+Hebelwirkung Hebelkraft
+Vernier Nonius
+Erfrischungsbar Snacktheke Snackbar
+Bedeutung Gewicht Sprengkraft
+Quarkspeise Quark
+Anweisung Vorschrift Anordnung Instruktion
+Index Tabelle Kennziffer Verzeichnis Zeiger Hinweis
+CT Computertomografie Computertomographie
+überaus ungemein außerordentlich enorm hochgradig außergewöhnlich sonderlich zutiefst allzu stark besonders massiv schwer höchlichst ausgesprochen sehr äußerst
+Vermittler Makler
+orange orangen pfirsichfarben orangefarben
+Tarifzone Fahrpreiszone
+waagerecht wellenlos eben flach waagrecht plan gleichmäßig planar gerade flächig topfeben glatt platt
+aufgelöst zerlassen
+Ausdauer Geduld Beharrlichkeit
+Diskografie Diskographie
+Zeitplan Fahrplan Abfahrtsfahrplan Abfahrtsplan
+zeichnen malen abbilden
+absacken sinken versinken untergehen
+Anzeigenkunde Inserent Werber
+detaillieren raffinieren verfeinern spezialisieren
+bewandert bewandt
+Gefährdung Stolperfalle Unsicherheit Pulverfass Risiko Gefahr Fährde Bedrohung Fährnis
+Harfenspieler Harfenist
+Verfall Zerfall Degeneration Entartung Zerrüttung Pervertierung Niedergang Dekadenz
+Registration Anmeldung Eintragung Einschreibung Registrierung
+Pixel Pel Bildelement Bildzelle Bildpunkt
+Werkstoff Material Materie
+Schleimbeutelentzündung Bursitis
+Überführung Straßenüberführung
+Öffner Öffnerkontakt Ruhekontakt
+Leib Körper
+Streulicht Reflexlicht
+Festbild Standbild
+Legitimation Legitimierung Berechtigungsnachweis Bescheinigung Berechtigung Ausweis
+Leuchtfeuer Leuchtsignal
+granular körnig gekörnt
+Lebensfähigkeit Existenzfähigkeit
+Stellvertretersymbol Wildcard Joker Platzhalter
+das dasjenige
+vorschlagen vorbringen unterbreiten einreichen vorlegen
+Rechentechnik Computertechnik Informationstechnologie
+Schmiergeld Bestechungsgeld Bakschisch Fakelaki Bakshish Bestechungszahlung
+unentwegt nonstop ununterbrochen unablässig unausgesetzt pausenlos ständig beharrlich unaufhörlich dauernd
+drucktechnisch typographisch typografisch
+Urnenbestattung Kremation Friedwaldbestattung Kremierung Brandbestattung Leichenverbrennung Einäscherung Feuerbestattung
+Abtrünnigkeit Treuebruch Treulosigkeit
+Herstellungsprozess Fertigungsprozess Produktionsprozess
+Quintessenz Hauptpunkt Ausschlaggebende Wesentliche
+Arsenal Waffen-Repertoire Waffenarsenal Waffenvorrat
+Viehtreiber Treiber
+Leierkastenspieler Drehorgelspieler Leierkastenmann
+glücklicherweise gottlob
+Peripherie Randgebiet Randbezirk Stadtrand Randzone
+enthüllen entblößen abstreifen ausziehen freimachen blankziehen ablegen entblättern entkleiden auskleiden strippen entledigen
+skizzieren illustrieren visualisieren bebildern veranschaulichen
+Einzelteile Bestandteile
+Sichtweise Spin Auslegung Version Deutung Perspektive Exegese Interpretation Ausdeutung Bedeutung Lesart
+Mahnung Vorwarnung Warnung
+schulden verdanken
+planmäßig planvoll überlegt methodisch systematisch zielbewusst zielgerichtet regelhaft geordnet
+Jauche Flüssigmist Schwemmmist Odl Gülle Puddel Sudel Bschütti
+aufgeben abschicken expedieren übersenden
+Vorkehrung Vorsorge Vorbedacht
+ekstatisch berauscht
+Geiser Springquell
+Gelbbraun Lohfarbe
+Reflex Spiegelung Reflexion Widerschein Lichtrückstrahlung Lichtreflex
+horizontal waagerecht waagrecht
+Anfahrdrehmoment Anzugsmoment Einschaltmoment
+Reißwolle Shoddy
+massiv stabil gedrungen klein kompakt zusammengedrängt
+Sponsor Geldgeber
+Absichtlichkeit Intentionalität Mutwilligkeit Mutwille
+Diskretion Verschwiegenheit Umsicht
+Herzspezialist Kardiologe
+Mahlwerk Mühle
+tiefgründig tiefgreifend weitreichend
+verhehlen verbergen verhüllen kaschieren dissimulieren verheimlichen
+Viole Bratsche Armgeige Viola
+Zwischenhändler Mittelsmann Intermediär
+tätig quietschlebendig sanguin kregel lebendig wach springlebendig quicklebendig umtriebig vital aktiv rührig lebhaft quirlig lebenskräftig munter putzmunter rege
+unformell informell formlos
+unbeschränkt unbegrenzt unendlich unerschöpflich
+Parkkralle Autokralle Radkralle
+Workshop Arbeitskreis Arbeitstagung
+linear univariat eindimensional univariant
+Quantität Anzahl Quantum Menge
+Zumutung Keckheit Unverfrorenheit Unverschämtheit Dreistigkeit
+Multicast-Adresse Gruppenadresse
+mürbe schwächlich brüchig kraftlos schwach hinfällig kränklich schlapp gebrechlich labil
+Behaglichkeit Wärme Gemütlichkeit
+triumphal siegreich
+Wettbewerb Rivalität Konkurrenz Mitbewerb Wettstreit Bewerb Kontrarität
+BIP Bruttoinlandprodukt Bruttoinlandsprodukt
+subskribieren bestellen abonnieren
+Vermutung Mutmaßung These Hypothese Spekulation Annahme Behauptung
+Brocken Felsblock Felsbrocken Feldstein Geröllblock
+Sorglosigkeit Unbedarftheit Leichtfertigkeit Leichtsinn Unbekümmertheit Unvorsichtigkeit Leichtsinnigkeit
+Wurfpfeil Dart
+Wohnung Klause Unterkunft Bude
+Baustellenbüro Baubüro Bauleitung
+Anschaffungswert Beschaffungswert
+Hasenohren Löffel
+Kosten Kostenaufwand Aufwendung Spesen Unkosten Kapitalaufwand Aufwand Ausgabe
+präventiv prophylaktisch vorbeugend vorsorglich
+Expedition Erkundung Entdeckungsreise
+revoltieren widersetzen rebellieren opponieren protestieren frondieren auflehnen aufmucken sträuben aufbegehren
+Bleigewicht Senker
+Eintragung Bemerkung Aktennotiz Notiz Aide-mémoire Intabulation Buchung Vermerk
+gleichmäßig stetig unbeirrbar
+Inflationsausgleich Teuerungsausgleich Indexkoppelung Indexbindung Indexkopplung Indexierung Wertsicherung
+Nebenhöhlenentzündung Nasennebenhöhlenentzündung Sinusitis
+Rollball Trackball Steuerkugel
+kerben schneiden einschneiden einfeilen zerteilen einkerben
+stehen stillstehen
+Rechtsgültigkeit Legitimität
+unbeschränkt rückhaltlos
+abschnüren zusammenpressen abklemmen schnüren abbinden zuziehen zusammenschnüren zusammenziehen abdrosseln
+Baron Freiherr
+veraltet überaltert archaisch überholt antiquiert
+Buntstift Farbstift Malstift
+Rasterdrucker Mosaikdrucker
+Stichwort Stichpunkt
+operativ betrieblich
+Controller Rechnungsprüfer Buchprüfer
+Rüsche Falbel
+Wechselportefeuille Wechselbestand
+zusammenstellen gruppieren gliedern zusammenfassen
+letzter voriger zurückliegender vorhergehender
+kidnappen entführen verschleppen
+Fontäne Springbrunnen
+Spann Fußrücken Rist
+Schlachthof Schlachthaus
+verwenden benützen einsetzen nützen nehmen gebrauchen applizieren anwenden heranziehen nutzen handhaben benutzen adhibieren deployen fahren
+Pauperismus Verelendung Verarmung Massenverarmung
+Gerüst Geflecht Konsistenz Beschaffenheit Qualität Gerippe Zustand Anordnung Organisation Aufbau Form Gefüge Struktur
+scheinen glänzen schimmern flimmern
+Gewürzgurke Pfeffergurke Essiggurke
+Abschmelzdauer Schmelzzeit
+ODER-Verknüpfung Disjunktion
+pur orthodox rein unvermischt
+Spritzgießen Spritzgussverfahren Spritzguss
+Höchststand Hoch
+Klöppel Spitzenklöppel Glockenklöppel
+gutartig benigne
+Beutelratte Taschenratte
+Losungswort Zugangswort Zugangscode Geheimcode Kodewort Passwort Kennwort Parole Schlüsselwort Codewort Losung
+einpacken packen
+Entscheidung Entschlossenheit Beschluss Ratschluss Entschluss Entscheid Wille Urteil
+Schallgrenze Schallmauer
+Tastenkombination Shortcut Hotkey Tastaturkurzbefehl Tastaturkürzel Tastaturkombination Tastaturbefehl Tastenkürzel Tastensequenz Shortkey
+schleichen heranschleichen anpirschen
+Computer Elektronenhirn Rechenknecht Elektronengehirn Rechner Universalrechner Datenverarbeitungsanlage
+Geist Spirit Wesen Spuk Phantom Schemen Manen Spukgestalt Gespenst
+Brechzahlmessgerät Brechzahlmesser Refraktometer
+gepfeffert pfefferig
+Ballsaal Tanzsaal
+Werbefachmann Werbeagent
+anbinden festbinden
+Festsetzung Rechnung Berechnung Zählung Kalkulation Schätzung Veranschlagung Ansatz Voranschlag
+überwuchern wuchern zuwachsen auswuchern zuwuchern
+Zerreißfestigkeit Zugfestigkeit Reißfestigkeit
+Schöpfungsgeschichte Genesis
+Mystizismus Mystik
+Saflor Färberdistel
+Propangas Propan
+Kenntnisprüfung Feststellungsprüfung
+Kühltruhe Gefrierschrank Tiefkühler Tiefkühltruhe Gefriertruhe Tiefkühlschrank Eisschrank
+hinweisen hindeuten erwähnen anmerken
+Geistesverwandter Gleichgesinnter
+Kürzung Schmälerung Abstrich Einbuße
+Errichtung Anlage Betriebsanlage Einteilung
+Steuereinnahmen Steueraufkommen
+ausführlich spezifisch detailliert
+Zentimeter cm
+ergänzend supplementär komplementär
+Bilanzaktiva Wirtschaftsgüter Aktiva
+Zusammengehörigkeitsgefühl Solidaritätsgefühl
+Erdball Globus Erdkugel Weltkugel Erdenrund
+Parteigeist Parteigesinnung
+Vereinbarkeit Kompatibilität Verträglichkeit Interoperabilität
+arm schmucklos armselig dürftig
+Waschhaus Waschküche
+angstvoll bange bang furchtsam angsterfüllt kleinmütig ängstlich bekümmert angstbesetzt besorgt furchtsam bebend zitternd
+Schlüsselanalyse Geheimanalyse
+Massenaufruhr Massenunruhe
+Strafgericht Strafgerichtshof Tribunal Gericht
+Kurvenzeichner Plotter
+Neuansteckung Reinfektion
+Zwischengeschoss Halbgeschoss Mezzanin Hochparterre
+schneckenförmig schraubenförmig spiralförmig gewunden
+hervorrufen verursachen bewirken heraufbeschwören evozieren
+Exhaustor Gebläse Lüfter Miefquirl Gasförderer Ventilator
+Ethnologe Volkskundler Folklorist Völkerkundler
+Wechsel Fluktuation
+Ladentisch Verkaufstisch Tresen Theke
+Fragwürdigkeit Zweifelhaftigkeit
+anteilsmäßig anteilig anteilmäßig
+herausplatzen losplatzen
+Lage Bauplatz
+unbesprochen undiskutiert unerörtert
+geschmacklos kitschig schaurig-schön trashig abgeschmackt billig stilwidrig stillos
+Klausel Bestimmung Regelung
+Pokal Sportpokal Kelch
+Artefakt Phantom Einbildung Phantasmagorie Sinnestäuschung Chimäre Hirngespinst Trugbild Erscheinung Schimäre
+Kopf Caput Haupt Nischel Birne Schädel Rübe Denkzentrum Denkapparat Ballon Dez
+Zeitabschaltung Zeitsperre Zeitlimit
+Muskelkraft Schmalz Körperkraft
+synkretisch vermischt unrein zusammengesetzt gemischt
+Sassafraswurzel Sassafras
+Bildner Steinmetz Skulpteur Plastiker Steinbildhauer Bildhauer
+Unmenschlichkeit Bestialität Barbarei Inhumanität Grausamkeit
+Natron Natriumhydrogencarbonat Natriumbicarbonat
+Obstruktionspolitik Verschleppungstaktik
+Deckung Decken
+hinterziehen veruntreuen unterschlagen
+Weltsprache Verkehrssprache
+tönen anhören klingen
+Auftraggeber Besteller Kunde
+Tasche Täschchen Beutel
+Azimut Ablage Abweichung
+vieltausendmal hundertmal dutzendmal
+Antagonist Neinsager Gegenspieler Konkurrent Opponent Widersacher Kontrahent Frondeur Rivale Sparringspartner Feind Gegner Widerpart Konterpart
+Parole Motto Stichwort Phrase Schlagwort
+unberufen ungebeten
+pusten blasen
+unecht synthetisch falsch synthetisiert artifiziell nachgebildet künstlich
+akribisch minuziös sorgfältig akkurat gewissenhaft genau penibel minutiös skrupulös korrekt
+Stoffprobe Musterabschnitt
+Anhänglichkeit Ergebenheit Bindung Zuneigung
+juckreizhemmend antipruriginös
+Spannbügel Kleiderbügel Bügel
+Vorbote Bote Ausrufer Sprachrohr Herold Signalgeber Verkünder
+Exportbescheinigung Ausfuhrbescheinigung
+Vorführdame Modell Fotomodell Mannequin Model
+Zielbereich Zielgebiet
+Unheil Unglücksfall Desaster Unglück
+Vorposten Außenposten Außenstelle
+stachlig dornig stachelig
+Grobkonzept Struktur Grundkonzept
+Kohärer Fritter
+Wohlstand Gedeihen Prosperität Fülle
+Dienstmagd Magd
+Sittenkodex Moralkodex
+Geldsack Geldtasche Portmonee Geldbeutel Portemonnaie Geldbörse Brieftasche
+überfluten überfließen
+Diktaphon Diktafon Diktiergerät
+Verhunzung Entstellung Verunstaltung Verunzierung
+irgendwo wo
+lässig formlos leger bequem gelöst entspannt tiefenentspannt relaxt unbeschwert unförmlich unverkrampft locker chillig geschmeidig ungezwungen launig relaxed zwanglos
+Identifikation Kennung
+eintragen ausfüllen registrieren
+Infektion Ansteckung
+streichen anstreichen pinseln malern malen bemalen
+Punktestand Spielstand Punktzahl
+Stäubchen Staubkorn
+betreffend betreffs betr.
+Klavierhocker Klavierstuhl
+Zwinger Hundezwinger
+Handlungsweise Vorgehensweise Gangart
+Braue Augenbraue
+unzivilisiert abweisend unsanft unwirsch brüsk grob unfreundlich rotzig ungehobelt gröblich bärbeißig flegelhaft rüde barsch unflätig nassforsch forsch raubauzig derb uncharmant pampig ungalant hantig harsch rauborstig ungeschliffen ruppig rustikal grobschlächtig grobklotzig raubeinig hau-drauf-mäßig wirsch rau unhöflich schroff rüpelhaft
+Trojaner Troer
+belästigend schmierig bedrängend anbiedernd penetrant zudringlich indiskret aufdringlich drängend distanzlos unangenehm übergriffig lästig anhänglich grenzüberschreitend drängelnd
+freigeben freilegen
+Möhre Karotte Gelbrübe Rüebli Riebli Mohrrübe
+alt antiquarisch
+übersiedeln dislozieren umsiedeln zügeln gehen umziehen
+herunternehmen abdecken
+Abarbeitung Erledigung Vollzug Umsetzung Durchführung Erfüllung Abhaltung Tätigung Vollziehung Transaktion Ausführung Abwicklung
+ungeplant reflexartig reflexhaft spontan unüberlegt intuitiv
+Zustandsvariable Zustandsgröße
+erleichtern lindern mildern abschwächen vermindern
+Anschalteinrichtung Schalter Einschalteinrichtung
+Messerklinge Schneide Blatt Klinge
+Einschmelzung Nekrolyse
+Venenentzündung Phlebitis
+Christus Jehoschua Messias Jesus Nazarener Erlöser Heiland Gottessohn
+Wechselbetrieb Halbduplexbetrieb
+Blutkreislauf Zirkulation
+Einklemmung Inkarzeration
+Nähe Nahesein
+Stieltopf Kasserolle
+kiesbedeckt kieshaltig steinig
+Ackerschnecke Nacktschnecke
+Gabe Anlage Talent Fähigkeit Begabung
+Fokus Brennpunkt
+Forschungsvorhaben Forschungsprojekt
+Globus Erde Terra Welt
+destabilisieren entstabilisieren
+übereilt holterdiepolter hastig überhastet hektisch überstürzt
+Isoliermaterial Nichtleiter Isoliermittel Isolierstoff Dielektrikum Isolator
+bedeuten heißen besagen meinen
+Entweihung Verschandelung
+dunstig feucht feuchtkalt
+Obstkuchen Obsttorte
+Pfeiler Pflock Pfahl
+Katasterauszug Grundbuchauszug
+Eilschrift Stenografie Tachygraphie Steno Kurzschrift Stenographie Engschrift Schnellschrift Redezeichenkunst Phonographie
+Eizelle Ei Ovum Oocyte
+Verehrung Anbetung
+Rückhandschlag Rückhand
+wiedergewinnen zurückgewinnen rekuperieren wiedererlangen
+umgeben einschließen einfassen
+Tokio Tokyo
+Steg Laufsteg
+Verkaufskenntnis Verkaufserfahrung Verkaufspraxis
+Haarstrich Haaransatz
+schmiegsam biegsam
+matt dezent gedämpft sanft gedeckt ruhig
+Ödland Einöde Walachei Öde Wüste Pampa Ödnis Wüstenei
+entgegentreten entgegenstellen
+Zuverlässigkeit Untertanentreue Loyalität Treue
+unaufdringlich zurückgezogen
+wohlproportioniert formschön wohlgeformt ästhetisch
+stufenweise diskret schrittweise diskontinuierlich inkrementell
+Nachteil Übertölpelung Schaden Übervorteilung Benachteiligung
+gerippt gestreift
+Lorbeerblatt Lorbeer
+zivilisieren verstädtern erschließen kultivieren urbanisieren
+zetern bejammern klagen heulen wehklagen barmen jammern lamentieren janken raunzen
+vorwärts voraus voran
+Ingredienzien Zutaten Bestandteile Inhaltsstoffe
+Käserinde Käseschale
+Ingredienz Beigabe Ergänzung Zutat Zugabe Ingrediens
+Ausgangspunkt Ansatzpunkt
+Brigadier Brigadegeneral
+Terrakottafigur Terrakotta Terracotta
+Handfessel Handschelle Kette Fessel
+Farbe Färbemittel Beize
+Falsifikation Fälschung Falsifikat Nachahmung
+Laktation Milchproduktion
+Betriebsfeier Betriebsfest
+Mime Akteur Schmierenkomödiant Schauspieler Darsteller
+Enthaltung Aszese Enthaltsamkeit Entsagung Zurückhaltung Mäßigung Askese Abstinenz
+innenpolitisch innerpolitisch
+abblocken verrammeln sperren barrikadieren versperren verbarrikadieren zusperren verriegeln
+Falsifikator Verfälscher Fälscher
+Fruchtfleisch Fruchtmark Mark
+Übertritt Verbindungsstelle
+monopolfeindlich kartellfeindlich
+runterwirtschaften ruinieren abwirtschaften zerrütten
+erkennbar detektierbar merklich bemerkbar wahrnehmbar
+Rechtmäßigkeit Gesetzmäßigkeit Legalität
+Prüfung Ermittlung Untersuchung
+durchpausen abpausen kopieren
+Fährte Spur Fußabdruck Fußspur
+Landebahn Start-und-Lande-Bahn Piste Bahn Landestreifen Rollfeld Startbahn
+zusammengeschrumpft eingegangen vermindert zusammengestrichen verringert geschrumpft reduziert
+Sinken Nachlassen Abnehmen Verringerung
+Gliederreißen Gliederschmerzen Reißen Rheuma Rheumatismus
+Verwerfung Verziehen Verkrümmung
+Chauvinismus Maskulinismus
+tingieren abtönen nuancieren tönen kolorieren einfärben färben
+Außenhaut Bordwand
+beißend scharfzüngig schneidend beleidigend polemisch ätzend sarkastisch bissig schnippisch satirisch schwarzhumorig verletzend spitz spöttisch zynisch spitzzüngig
+Sitzungsprotokoll Protokoll Niederschrift Besprechungsprotokoll Memo
+Ergebnis Folgeerscheinung Nachwirkung Konsequenz Folge Ausfluss Effekt Wirkung Auswirkung
+Parenthese Einschub Zwischenbemerkung Zwischensatz
+Fuge Sprung Verbindungsstelle Falz
+Grenzpolizei Grenzschutz
+zurechtbasteln frickeln takeln
+Salzquelle Salzsole Solquelle
+unbestraft ungeahndet
+Verkehrsstau Rückstau Blechlawine Autoschlange Stauung Engpass Stau
+Aufstellung Stationierung Einsatz
+Schule Ausbildung Zucht Bildung Erziehung
+Wert Einfluss Rang Geltung Wichtigkeit Bedeutung
+Stock Rute Stab Stange Stecken
+Abwiegelung Beruhigung Beschwichtigung Beruhigungspille
+verkleben verbinden zusammenschweißen zusammenfügen
+Pressform Modellform
+zuteilen austeilen zuordnen zumessen verteilen
+ringen strampeln
+Spinngewebe Spinnennetz Spinnengewebe Spinnwebe
+Streich Ulk Coup
+lagern einlagern hinterlegen deponieren ablagern
+unwissend ignorant ungebildet uninformiert
+poolen zusammenmischen zusammenschütten bündeln gruppieren zusammenlegen zusammenfassen
+Spesen Reisekosten Tagegeld Reisespesen
+Amtsvorsteher Amtsleiter
+Servilität Dienstbarkeit Unterwürfigkeit Gefügigkeit
+rechenintensiv rechenaufwändig
+klickern klimpern klirren
+XY-Schreiber Kurvenschreiber Koordinatenschreiber
+gegen versus kontra anti dagegen advers entgegen contra wider vs.
+Dauerbestellung Abonnement Abo
+Toastbrot Röstbrot Toast
+versteckt unterschwellig unbewusst latent verborgen
+Disagio Zuwachs
+Achillesferse Angriffspunkt Schwäche Schwachstelle Schwachpunkt
+Stachelrad Sprossenrad Zahn Zahnkranz
+Gesetzlosigkeit Rechtlosigkeit
+Verkleinerung Herabsetzung Senkung Ermäßigung Reduktion Reduzierung Minderung
+krank morbid kränklich
+Mittagspause Mittagszeit
+martern foltern quälen torquieren peinigen plagen
+denkfaul begriffsstutzig stumpfsinnig schlafmützig dösig langsam
+beargwöhnen misstrauen zweifeln anzweifeln bezweifeln
+widersprechen dagegenhalten protestieren
+Kante Ecke Winkel
+Toddy Palmwein
+Fön Föhn Haartrockner
+ausdorren verdorren vertrocknen dehydrieren ausdörren austrocknen
+abmähen sicheln mähen schneiden kürzen sensen absicheln
+kostbar erlesen wertvoll köstlich erstrebenswert prachtvoll unübertrefflich lohnenswert vortrefflich
+aerodynamisch windschnittig windschlüpfig windschlüpfrig stromlinienförmig
+Feuerstein Flint Silex
+Kleiner-als-Zeichen Kleiner-als <
+unbewiesen unerprobt
+Seite S.
+Maße Metrik
+Schorle Weinschorle Gespritzter
+Obergrenze Höchstmaß Höchstgrenze
+Grabschrift Grabinschrift
+Mitgliedsbeitrag Beitrag
+Siedepunkt Kochpunkt Verdampfungspunkt
+vergammelt ranzig
+Regatta Wettsegeln
+Serienherstellung Serienproduktion
+Musterexemplar Probeexemplar
+Antwort Widerrede Entgegnung Auskunft Rückäußerung Gegenrede Reaktion Rückmeldung Responsion Konter Erwiderung Gegenbemerkung Replik
+Berufsleben Erwerbsleben Arbeitsleben
+Brandzeichen Brandmal
+Streichholz Zündholz Schwedenholz Schwefelhölzchen Schwefelholz
+Protagonist Hauptdarsteller Hauptfigur Hauptakteur Schlüsselperson Hauptrolle Leitfigur Hauptperson Held Titelperson Star
+stramm fest straff
+langlebig unvergänglich unsterblich zählebig unauslöschlich unausrottbar
+Metallisierung Metallbeschichtung
+treten strampeln ausschlagen
+Aufenthaltsort Verbleib
+EKG Elektrokardiogramm
+schnelllebig transitorisch vergänglich kurzlebig flüchtig ephemer
+Zitronengirlitz Zitronenzeisig
+Rechtsnachfolger Zessionar
+Zopf Flechte
+bersten platzen brechen
+kribbeln kitzeln krabbeln
+Stadtbewohner Städter Stadtmensch
+Remedium Heilsubstanz Medizin Heilmittel Pharmazeutikum Agens Arznei Medikament Arzneimittel Therapeutikum Pharmakon Mittel Präparat
+Impedanz Wechselstromwiderstand
+vermutlich dürfte wahrscheinlich voraussichtlich
+Warteraum Wartesaal Wartezimmer
+Hinwendung Zuneigung Verbundenheit
+zusammen gemeinsam geschlossen kompakt verbunden gemeinschaftlich
+handgeschrieben handschriftlich
+stofflich körperlich physisch materiell
+besprühen beregnen berieseln besprengen bespritzen besprenkeln
+Omen Vorzeichen Vorbedeutung Auspizium Vorbote Anzeichen
+erziehen bilden schulen beschulen ausbilden
+Reiseflugzeug Passagierflugzeug Passagiermaschine
+Zechgelage Sauforgie Symposion Sturztrunk Alkoholexzess Besäufnis Kampftrinken Kneipabend Saufgelage Komatrinken Druckbetankung Gelage Binge-Drinking Konvivium Rauschtrinken Zecherei Komasaufen Sauferei Trinkgelage Kneipen Saufexzess Bacchanal
+Eingabekontrolle Eingabesteuerung
+Gobelin Gobelinteppich
+Botanik Pflanzenkunde Pflanzenlehre
+pastös hochviskos weich breiig matschig viskos
+zähflüssig pappig viskös schwerflüssig pastös zäh klebrig pastos dickflüssig viskos
+Unvereinbarkeit Antinomie Falsum Kontradiktion Widerspruch Gegensätzlichkeit
+übersättigt überhäuft
+rüsten vorbereiten aufstellen herrichten präparieren
+schamlos lüstern
+Wagenspur Fahrspur
+Reklamation Beschwerde Beanstandung
+Sprachmittler Interpreter Übersetzer Dolmetscher
+professionell beruflich
+Cornflakes Maisflocken
+unausgerichtet unjustiert
+Affäre Angelegenheit
+weiden abgrasen grasen abweiden
+Stuckverzierung Stuck Deckenfries
+Leerstelle Kavität Auslassung Zwischenraum Hohlraum Lücke Leerraum
+Vorsichtsmaßnahme Vorsichtsmaßregel Sicherheitsvorkehrung
+Massenproduktion Großserienproduktion Massenfabrikation Massenerzeugung Großserienfabrikation Massenfertigung Großserienfertigung Großserienerzeugung
+Rohrleitung Rohr
+Pustelausschlag Pyodermie
+Verkleidung Wandbekleidung
+Pfandrecht Zurückbehaltungsrecht
+Gelenkentzündung Osteoarthritis
+Timer Zeitgeber
+Erkenntnis Einsicht Selbsterkenntnis
+Gesinnung Standpunkt Veranlagung Attitüde Neigung Couleur Grundeinstellung Haltung Charakteranlage Stellung
+Klammerzeichen Klammer
+fern weitab
+hassenswert verabscheuungswert verabscheuungswürdig verabscheuenswert
+illusionär illusorisch absurd abwegig unerreichbar
+Steingut Irdenware
+Verbrennung Brandverletzung Brandwunde Verbrennungstrauma Combustio
+Nummer Zahl Menge Vielheit Nr. Ziffer Kennziffer
+Stemmeisen Brechstange Brecheisen
+Dildo Godemiché
+eingefasst eingerahmt eingezäunt eingegrenzt
+Prellstein Randstein
+Steigleitung Steigung
+Jucken Pruritus Juckreiz
+Mitarbeiter Arbeitskollege Kollege
+aufreihen ordnen sequenzialisieren sequentialisieren
+Kirchenschändung Sakrileg Frevel Religionsvergehen
+erregen hervorrufen wachrufen
+Geschicklichkeit Fertigkeit Geschick Kunstfertigkeit Handgeschick
+Stillschweigen Diskretion Heimlichkeit Geheimhaltung
+gefällig angenehm
+wunderschön wunderhübsch umwerfend bildhübsch unwiderstehlich bildschön überwältigend
+wechseln verlagern verschieben verwandeln
+Mittelohr Tympanum
+Abnehmer Nachfrager Verbraucher Konsument
+ungewöhnlich seltsam ominös wunderlich merkwürdig obskur komisch eigenartig außergewöhnlich sonderbar eigentümlich
+Roborans Tonikum Stärkungsmittel Kräftigungsmittel
+unterdessen nunmehr zwischenzeitlich einstweilen mittlerweile derweil zwischenzeitig inzwischen zwischendurch währenddem währenddessen indessen
+Gebetsraum Andachtsraum Oratorium
+Kreislauf Schaltschema
+normalerweise meist größtenteils mehrheitlich vornehmlich vorwiegend überwiegend
+Möglichkeiten Optionen Chancen Entwicklungsmöglichkeiten Wege
+Pacemaker Herzschrittmacher
+Rehabilitierung Rehabilitation Reha Wiedereingliederung
+Begleitumstand Nebenumstand
+Satellitenfoto Satellitenbild
+Schnippel Flicken Fragment Fetzen Schnipsel
+spulen aufwickeln wickeln
+snobistisch extravagant überdreht exaltiert verstiegen dandyhaft überkandidelt überspannt aufgeregt exzentrisch
+Kies Streusand Schotter Split
+Astronomie Kosmologie Sternkunde Weltraumforschung
+Wurzelspross Wurzelschössling
+liefern bereitstellen aushändigen ausgeben zuteilen verteilen ausrüsten
+Pfosten Wandpfosten Ständer
+Claudicatio Hinken Charcot-Syndrom
+Großfeuer Flächenbrand Feuersturm Feuersbrunst Feuersnot Weltbrand Großbrand
+Fraktur Bruch Knochenbruch
+Rückresorption Reabsorption
+Übernahme Übernehmen
+Bilge Kielraum
+Begriffsvermögen Verständnis
+Mobilisierung Aufbietung Mobilmachung
+Stepp Stepptanz
+Aktenvermerk Aktennotiz
+kritisch unbequem ungelegen
+dienstlich offiziell ministeriell amtlich ministerial
+abschürfen aufkratzen aufschürfen
+anderweitig jenseitig
+ungezählt zahllos
+Erkrankungsrate Morbidität
+Equipment Zurüstung Gadget Utensilien Ausrüstung Rüstzeug Apparatur Beschaffung Ausstattung Gerätschaft
+Natronwasserglas Natriumsilikat
+Spannung Tension Zug Spannungszustand Belastung
+blaugrün türkis aquamarin zyan
+Stubengelehrter Buchgelehrter
+stenographiert stenografiert
+tröstlich trostreich
+Aufsicht Überwachung Monitoring Beaufsichtigung
+gepflegt gereinigt hygienisch rein sauber reinlich
+Zuname Familienname Nachname Geschlechtsname
+Kraftfahrzeugschein Kraftfahrzeugzulassungsschein Kfz-Schein
+Schwanzflosse Fluke
+erfassen bemerken registrieren feststellen
+Beschichtung Überzug Belag
+Gedächtnishilfe Merkspruch Merkregel Merkhilfe Lernhilfe Merksatz Erinnerungsstütze Eselsleiter Merkvers Eselsbrücke Merkreim Anker Lernspruch Gedächtnisstütze
+Spaliergewächs Kletterpflanze Kriechpflanze Schlingpflanze Rankengewächs
+Handlungshilfe Guideline Leitlinie Zielvorgabe Leitfaden Richtmarke Maßgabe Ausrichtung Kurs Richtlinie Programmatik Orientierung Linie Richtschnur Zielvorstellung Zielstellung Führungshilfe Marschrichtung Programm Zielsetzung Vorgabe
+falten knicken zusammenklappen
+Karies Zahnfäule
+nasskalt feucht feuchtkalt klamm
+krümeln zerreiben zerbröckeln zerbröseln pulverisieren zerkrümeln zerstoßen zermahlen atomisieren absplittern zerstampfen zersplittern zerkleinern
+stillen befriedigen
+plausibel schlüssig triftig klar ersichtlich evident eingängig intelligibel schlagend nachvollziehbar sinnfällig überzeugend einsichtig erklärlich begreiflich fassbar einsichtsvoll verstehbar nachzuvollziehen glaubhaft fasslich augenfällig einleuchtend verständlich noetisch
+Socke Strumpf Kniestrumpf
+Demission Absetzung Vertragsaufhebung Abberufung Enthebung Ablösung Austritt Entlassung Verabschiedung Vertragsauflösung Kündigung Amtsenthebung
+Tritt Stoß Kick
+Eis Eiskreme Eiskrem Speiseeis Eiscreme Glace
+Überempfindlichkeitsreaktion Atopie
+Spielsachen Spielzeug Kinderspielzeug Spielwaren
+Leuchtgeschoss Leuchtrakete Leuchtkugel
+stromaufwärts flussaufwärts flussauf
+Pult Sekretär Schreibtisch
+Vertrauter Mitwissender
+Eingangsanzeige Empfangsbestätigung
+Flaumigkeit Flockigkeit
+Autobiografie Lebensbeichte Memoiren Selbstbiographie Lebenserinnerungen Autobiographie Selbstbiografie
+kritisch vigilant aufmerksam skeptisch wachsam zweifelnd achtsam
+angreifend kampfesfreudig konfliktfreudig kämpferisch angriffig offensiv auseinandersetzungsfreudig streitlustig streitbar kampfesmutig konfliktbereit
+Ablenkspule Ableiter
+Exodus Massenflucht
+hartnäckig beständig persistent nachhaltig permanent ausdauernd dauerhaft langanhaltend ständig
+Dialog Unterredung Aussprache Gespräch Zwiesprache Diskussion Wortwechsel Konversation Gedankenaustausch Austausch Unterhaltung Zwiegespräch
+grundsätzlich prinzipiell
+Verhaltensflexibilität Anpassungsvermögen Anpassungsfähigkeit
+Hirnanhangsdrüse Hirnanhangdrüse Hypophyse
+Tendenz Entwicklung Richtung Trend Einschlag Neigung Färbung
+stolpern straucheln
+Erlaubniskarte Erlaubnis Erlaubnisschein
+einprägen einschnitzen
+derogatorisch derogativ
+Willensäußerung Absichtserklärung Willensbekundung Willenserklärung
+treffsicher genau punktgenau passgenau zielsicher treffend
+Ertragskonto Aufwandskonto
+Leistungsfähigkeit Wirksamkeit Wirkmächtigkeit
+rammen auffahren
+Fastnachtszeit Fastnacht
+unmenschlich teuflisch bestialisch viehisch brutal barbarisch
+Tabellenschluss Tabellenende
+überfrachten überbelasten überladen
+Aufstieg Besteigung
+umackern pflügen ackern
+blättern scrollen rollen
+Stechmücke Staunse Gelse Mücke Stanze Schnake Moskito
+Hinterschnitt Hinterschneidung
+Vermögen Guthaben Wohlstand Reichtum Erspartes
+Tempo Takt
+Zusatzklausel Zusatz
+Information Schalter Auskunft Auskunftsschalter
+kratzen schaben ritzen scharren
+Unterwasserschallgerät Sonar
+Register Index Referenz Stichwortliste Stichwortverzeichnis Schlagwortverzeichnis
+Benotung Notenvergabe
+Millenniumfeier Jahrtausendfeier Tausendjahrfeier Millenniumsfeier
+Windfahne Wetterfahne
+Interessenverband Lobby Interessenvertretung Verbindung Interessengemeinschaft Interessensvertretung Union Pressure-Group Interessensgruppe Interessengruppe Spezis Interessenorganisation Verband
+Waschanstalt Wäscherei
+Wetterstation Wetterwarte
+kriecherisch untertan untertänig servil hündisch unterwürfig knechtisch sklavisch devot speichelleckerisch hörig
+Wohlgeruch Bouquet Odeur Duft Bukett Aroma
+Bechsteindrossel Schwarzkehldrossel
+Pannenservice Pannendienst Pannenhilfe
+Güte Qualität Wertigkeit Beschaffenheit
+kalorienreduziert light leicht
+Schlagbaum Barriere Wegeschranke Schranke
+ungestört unbehelligt unbeschwert unbelästigt ungeschoren
+Subsystem Untersystem Teilsystem
+Bärenklau Herkulesstaude Akanthus Herkuleskraut Russenkraut
+paradigmatisch typisch vorbildhaft beispielhaft beispielgebend waschecht exemplarisch
+vermehren ansteigen klettern emporsteigen anschwellen anwachsen zunehmen
+geistig bewusst kognitiv
+Magie Hexenwerk Zauberkunst Zauberei Hokuspokus Hexerei Zauberkunde Voodoo
+ungebunden zwanglos ungezwungen frei ungehindert
+zerbrochen zuschanden baufällig entzwei geschrottet vernichtet zermahlen hin zertrümmert zermalmt unbrauchbar zerstört irreparabel auseinander marode kaputt schrottig hinüber
+Einkommen Einkünfte Verdienst Einnahmen Einkommensquelle Broterwerb
+Klebeetikett Bapperl Etikett Klebezettel Sticker Bepper Klebeschild Aufkleber Pickerl
+Belletristik Unterhaltungsliteratur
+Schwindsüchtiger Tuberkulosekranker
+Vogelkundler Ornithologe
+beleidigt griesgrämig knatschig muksch betupft miesepetrig
+Lauterkeit Anstand Anständigkeit Sitte Sittlichkeit Moral
+Zahltag Auszahlungstag
+tröpfeln rieseln sickern verrinnen träufeln tropfen
+überkandidelt hochnäsig schnippisch eingebildet
+Muskatnuss Muskat
+Konsum Konsumtion Konsumption Verbrauch
+geschäftstüchtig leistungsfähig
+Procedere Prozedere Vorgehen
+Atemdepression Hypoventilation
+rechtlos entrechtet vogelfrei ausgeliefert wehrlos unbeschützt schutzlos exlex Freiwild
+Gebirgsgrat Grat Bergrücken Kamm Naht Bergzug Höhenrücken
+Salomoninseln Salomonen
+Polygamie Mehrfachehe Vielehe
+Baggerlöffel Baggereimer
+Drachenform Deltaform
+Korrektheit Genauigkeit Richtigkeit
+aufgliedern unterteilen
+Möbelrolle Fahrrolle Laufrolle Rolle
+Argwohn Unglauben Ungläubigkeit Misstrauen Skepsis Zweifel Unglaube
+Ausstellungsdatum Ausgabetag
+Galle Gallenblase
+Broadcast Rundruf
+Kurzwelle Dekameterwelle Hochfrequenz
+Geschäftsordnung GO
+passieren seihen sieben durchseihen durchgehen
+Hautblase Wimmerl Blase Pickel Pustel Eiterbläschen Pustula Brandblase Luftblase
+Stromstärkemesser Galvanometer Strommesser
+Krippe Kinderbett
+rein makellos unbefleckt unschuldig lauter schuldlos
+Ketchup Ketschup
+pastieren einbauen einbinden einfügen einarbeiten
+Fenster Bildschirmfenster Window
+achtenswert schätzenswert
+seidenartig seidig
+Abnahmeprüfung Übernahmeprüfung
+Turnschuh Sportschuh Sneaker
+Schuldposten Lastposten Debet
+Hammerbrecher Backenbrecher
+einwirken operieren wirken handhaben
+obwalten herrschen vorherrschen durchsetzen prävalieren überwiegen
+seelisch emotional mental affektiv emotionell gefühlsmäßig
+traditionell gediegen würdevoll hochwertig gravitätisch
+Reim Gedicht Poem
+Schwäche Entkräftung Schwachheit Ermattung
+bewirten servieren bedienen dienen
+fantasievoll erfindungsreich erfinderisch kreativ einfallsreich originell phantasiebegabt phantasievoll ingeniös gestalterisch ideenreich schöpferisch fantasiebegabt innovativ
+Gitternetz Raster Rastermuster Gitter
+dominant tonangebend befehlshaberisch bestimmend herrisch
+Ortsangabe Position Lokalisation Stelle Lokalität Örtlichkeit
+auslöschen auspusten ausblasen
+Datenmanagement Datenverwaltung
+Grundsatz Leitsatz Maxime Erkenntnis Axiom Wahrheit Grundprinzip Lehrsatz Theorem Hauptsatz
+Brechung Beugung Diffraktion
+priesterlich ernst weihevoll festlich feierlich zeremoniell
+Kompost Naturdünger Komposterde
+Pauschalsatz Gesamtzinssatz
+Literat Schmock Konzipient Verfasser Autor Dichter Skribent Schriftsteller Schreiber
+pendeln wiegen schaukeln oszillieren schwingen
+Peperoni Chili
+beobachten lugen blicken zugucken besehen betrachten beaugapfeln reinziehen anschauen spannern kieken angucken gucken mustern ansehen untersuchen schauen beäugen glotzen
+Fallgrube Falle
+Farbmetrik Kolorimetrie Farbmessung
+losgeben freisetzen entlassen loslassen freilassen
+Softwareentwickler Softwareingenieur Hacker Programmierer Coder
+Gießgefäß Gießkanne Kanne Sprenger
+Teddybär Teddy
+aufscheuchen aufjagen
+verführbar korrupt bestechlich korrumpierbar feil korrumpiert käuflich
+Gärungsstoff Hefe
+Brechmittel Emetikum Vomitorium
+geeignet begabt befähigt talentiert talentvoll berufen begnadet hochbegabt
+Diskussion Streitgespräch Auseinandersetzung Debatte Disputation Wortstreit Disput
+fiebrig wuselig wibbelig wuschig fickerig zappelig flackerig fitzig flatterig fahrig flackernd fickrig flackrig hibbelig
+Kringel Brezel Breze Bretzel Brezn
+Neugeborenes Putzerl Baby Säugling Wickelkind Kleinkind Bambino Kleine Infant Kleinstkind Winzling Würmchen
+Gelände Terrain
+Ermutigung Aufmunterung Ermunterung Aufrichtung Zuspruch
+beschützen sichern schützen
+handeln agieren wirken tun walten machen
+Pressform Gussform Gießform
+Option Chance Möglichkeit Aussicht Perspektive Weg Gelegenheit
+Festung Bastion Befestigung Wehr Feste Fortifikation Wehranlage Bollwerk Fort
+Anhängevorrichtung Anhängerkupplung Anhängekupplung
+Abstimmung Synchronisierung Synchronisation
+Sprachraum Sprachgebiet
+vogelfrei unwillkommen verstoßen verachtet geächtet verfemt ausgestoßen
+Bezauberung Verzauberung
+Studentenwohnheim Studentenheim
+Vervollständigung Komplement Ergänzung
+reglementarisch regelgemäß ordnungsgemäß regulär regelrecht ordnungsmäßig vorschriftsmäßig vorgeschrieben
+konzentrieren anhäufeln zusammenballen anhäufen kumulieren aggregieren
+Beileid Anteilnahme
+Richtungsgabel Zirkulator
+Prozesskette Vorgangskette
+Zusatz Vermerk
+Tunnel Tunnelbauwerk Tunell
+Abzweigung Abbiegung
+Intelligenz Klugheit Scharfsinn Grütze Gehirnschmalz Denkfähigkeit Geisteskraft Vernunft Denkvermögen Geist Scharfsinnigkeit Köpfchen Grips Verstand
+auspflocken abstecken vermarken
+hartnäckig ausdauernd unverdrossen unermüdlich unbeirrt unentwegt konstant beharrlich unablässig standhaft
+Rheologie Fließkunde
+Außerbetriebnahme Außerbetriebsetzen Abschaltung Stilllegung
+ordern bestellen
+Vervollständigung Vollendung Fertigstellung Abschluss Komplettierung
+echofrei schalltot
+fragil zart zerbrechlich dünn mürbe
+biegen verbiegen bombieren
+Herzkammer Ventrikel
+beanspruchen fordern postulieren anmahnen einfordern abverlangen anfordern verlangen abfordern
+Druckabnahme Druckverminderung
+zurückkehren wiedererscheinen wiederaufflammen wiederkommen wiederaufleben zurückkommen wiederkehren wiederaufkommen
+restlich residual
+Verhinderung Verwehrung Verhütung Vereitelung Abwendung
+Ideenmangel Gedankenarmut
+Fort Kastell
+Betrag Summe
+Eigenliebe Narzissmus Selbstliebe
+Vorgang Handlungsschema Handlung Ablauf Geschehen
+sardonisch spöttisch ehrenrührig sarkastisch kaustisch wegwerfend vernichtend höhnisch verächtlich kränkend beleidigend beißend
+begradigen verflachen planieren ebnen abflachen einebnen
+Schärfe Bissigkeit Sarkasmus Aggressivität
+aushändigen übergeben ausliefern ausfolgen
+Apostroph Oberstrich Hochkomma
+Übereinstimmung Vereinbarkeit Kongruenz
+Territorialarmee Miliz Landwehr
+Saum Stoßkante
+Zubringerstraße Autobahnzubringer
+Erkundung Fernerkundung Rekognoszierung Beobachtung Aufklärung Untersuchung
+Überreichung Aushändigung Ablieferung Übergabe
+Fahne Flagge Banner
+Elementarkenntnisse Basiswissen Grundkenntnisse Grundwissen Elementarwissen Grundlagenwissen Basiskenntnisse
+Aufenthaltserlaubnis Aufenthaltstitel Aufenthaltsbewilligung
+aktivieren freigeben
+Cheerdancer Anfeuerer Cheergirl Cheerleader
+zusammenrechen zusammenharken
+vorstellen vorführen präsentieren vorzeigen abbilden demonstrieren zeigen darstellen
+zuvor vorweg vor vorab vorher
+Frühjahr Frühlingszeit Lenz Frühling
+Niederschlag Knock-out K.o. Knockout
+durchschalten durchkontaktieren
+Befehlsrepertoire Befehlsvorrat Befehlssatz
+aufstellen errichten bauen hinsetzen hinstellen hochziehen
+Netting Ausgleichsprozess
+hochgestimmt hingerissen high verzückt enthusiasmiert fasziniert enthusiastisch angetan berauscht entzückt mitgerissen erregt dithyrambisch euphorisch begeistert entflammt gebannt überschwänglich
+aufleuchten aufscheinen erscheinen erstrahlen aufblenden erglimmen
+Felsblock Fels Gestein Felsen Klippe
+Umgänglichkeit Konzilianz Leutseligkeit Freundlichkeit
+BSE Rinderwahnsinn
+sprachwissenschaftlich linguistisch
+Datenfeld Array Feld
+Farbbildschirm Farbmonitor
+Zeitstudie Zeitaufnahme
+F Fahrenheit
+Stachelhäuter Echinoderme
+Windung Drehung
+Schmelzofen Hochofen
+Schreibweise Handschrift Klaue
+Fünfeck Pentagon
+Packen Stapel Stoß
+Teigknetmaschine Bäckermaschine
+verschließen verriegeln zuschließen abschließen absperren zusperren
+Preziosen Pretiosen Geschmeide Schmuck Juwelierwaren
+Dienerin Zofe Dienstmagd Magd
+Auswirkung Verwicklung Implikation
+Kurzwahl-Taste Direktwahl-Taste
+Laufband Tretmühle
+gnadenlos drakonisch rigoros kompromisslos brutal unnachgiebig unbarmherzig verbissen unerbittlich
+Trade Abschluss
+Waldhorn Horn Corno
+entlangrollen dahinrollen
+Anklagefall Akkusativ Wenfall Klagefall
+Kompaktheit Knappheit Bündigkeit
+durchlüften belüften
+Viehzeug Viehbestand Vieh
+Oxydationsmittel Oxidationsmittel
+Pferdekoppel Pferdeweide
+Moder Schimmel Fäule Gammel
+Rauchsignal Rauchzeichen
+Zusammenhalt Solidarität Verbundenheit Füreinandereintreten
+Verzierung Verschnörkelung Verschönerung
+bewirten beköstigen verpflegen verköstigen füttern nähren ernähren
+Bassist Bassgitarrist
+aufsaugen aufnehmen einsaugen absorbieren resorbieren
+Unfähigkeit Unwissenheit Trotteligkeit Dummheit Trottligkeit Ignoranz Beklopptheit Doofheit Blödheit Stümperhaftigkeit Dilettantismus Beknacktheit
+Provision Prämie Bonus
+miniklein klein kurz lütt mini
+Zahnmark Zahnpulpa
+ungebärdig unbändig hemmungslos enthemmt ungezügelt ungehemmt
+Berufslehre Berufsausbildung Lehre
+Dringlichkeit Brisanz Aktualität
+fulminant immens exorbitant unglaublich außerordentlich extrem gewaltig üppig pompös bombastisch enorm erheblich groß bedeutend
+sickern tröpfeln
+Zwiespalt Ungewissheit Hader Bedenken Unsicherheit Verunsicherung Zweifel
+Metabolisierung Verstoffwechslung
+Erblehre Vererbungslehre Genetik
+Beautysalon Kosmetiksalon Schönheitssalon
+Holzboden Parkett Holzfußboden
+zimperlich etepetete zickig
+Wunderlichkeit Seltsamkeit
+Untergeordneter Untergebener Befehlsempfänger Untertan
+konkurrierend kompetitiv
+eintauschen reklamieren umtauschen austauschen zurückgeben tauschen
+Querlenker Dreieckslenker
+vorsprechen referieren deklamieren vortragen wiedergeben
+dieweil als derweil solange während dabei indem alldieweil
+Auffassungsgabe Verständnis Verstand Fassungskraft Aufnahmefähigkeit Fassungsgabe
+Schacht Grube
+beiläufig sekundär auch nebensächlich zweitrangig untergeordnet ebenfalls nachrangig
+Saga Märchen Sage Fabel Geschichte
+Stellwinkel Schrägmaß
+absolvieren erledigen abschließen erfüllen
+erobern unterwerfen niederringen besiegen
+handhaben auslösen bedienen betätigen drücken
+gnädig gütig gefällig huldvoll milde großmütig großherzig kulant sanftmütig mild wohlwollend entgegenkommend
+Seehund Robbe
+orthonormiert orthonormal
+Erblichkeit Heritabilität
+unbeholfen stumpf plump dumpf
+Plausibilität Unabweisbarkeit Glaubhaftigkeit Unangreifbarkeit Unwiderlegbarkeit Glaubwürdigkeit Unanfechtbarkeit Unbestreitbarkeit
+einleuchtenderweise nachvollziehbarerweise begreiflicherweise verständlicherweise
+behindern anhalten aufhalten verzögern
+Leberentzündung Hepatitis
+Durchführbarkeit Machbarkeit Realisierbarkeit
+Stifter Spender Geber
+Notanker Rettungsanker
+Aufführung Präse Vorstellung Vorführung Präsentation Darstellung Demonstration
+Ordnung Regelmäßigkeit Anordnung
+detonieren platzen explodieren hochgehen
+Ausländerfeindlichkeit Ausländerhass Fremdenfeindlichkeit Xenophobie
+Kapazität Volumen Kubikinhalt Rauminhalt Fassungsvermögen
+Grunddaten Ausgangsdaten Basisinformationen Referenzdaten Stammdaten
+gesunken abgesackt
+krümmen biegen wölben anwinkeln
+Bestandsdatei Stammdatei
+uninteressant lahm lasch langweilig
+Reihe Warteschlange Schlange
+Hang Gefälle Senkung Abfall Abhang
+Obsession Sucht Manie Seelenkrankheit Besessenheit
+Albernheit Alberei Geblödel Schwabenstreich
+tastaturgesteuert tastengesteuert
+Rückgabewert Rückkaufswert
+Direktorat Direktorenamt
+Einführung Anmoderation Eröffnung Einleitung
+Unbescheidenheit Respektlosigkeit Chuzpe Dreistigkeit Unverschämtheit Frechheit Impertinenz
+erregt nervös gereizt aufgedreht unruhig aufgekratzt rapplig ruhelos fickerig aufgewühlt kabbelig kirre aufgeregt hibbelig fickrig kribbelig zappelig durcheinander schreckhaft fieberhaft rappelig hippelig beunruhigt
+Bestätigung Zertifikat Testat Beglaubigung Beurkundung Zeugnis Nachweis Vidimation Bescheinigung Anerkennung
+großzügig weitherzig
+Kapitaleinsatz Einsatz
+Bodenbearbeitung Bewirtschaftung
+poetisch dichterisch gereimt gebunden lyrisch
+Achsabstand Achsenabstand
+verauktionieren versteigern
+entstauben abstauben
+zwiespältig zwiegespalten widerstreitend
+Kunsthandwerker Kunstgewerbler
+ausverhandeln vereinbaren auskungeln absprechen aushandeln akkordieren ausschnapsen übereinkommen abmachen
+Reihenfolge Sequenz Aufeinanderfolge Nacheinander Ablauf Folge Lauf Chronologie Serie Abfolge Gang Rangfolge Reihe
+Hinlänglichkeit Zulänglichkeit
+Schaustellung Zurschaustellung
+absickern ablaufen entrinnen abströmen auslaufen versickern ausfließen leeren versiegen abfließen
+Antidepressivum Aufputschmittel Thymoleptikum
+Herrschaft Meisterschaft
+Gepäck Bagage Zugepäck Reisegepäck
+Moosbeere Kronsbeere Kranbeere Preiselbeere
+Zahlungsverzug Verzug
+Tonmischer Mixer
+unterlassen bleibenlassen ignorieren
+Weißschwanzgnu Weißbartgnu
+redselig schwatzhaft affabel klatschsüchtig klatschhaft geschwätzig mitteilsam gesprächig kommunikationsfreudig
+Zwicker Kneifer
+Gutmütigkeit Jovialität Bonhomie
+gewährleisten geradestehen sicherstellen angeloben zusichern versprechen garantieren verbürgen
+Modifizierung Abänderung Umarbeitung Korrektur Änderung Modifikation
+Unschärfe Verschwommenheit
+Abseitsstellung Abseits Abseitsposition
+Filetyp Dateityp
+Gesetztheit Schwere Bedenklichkeit
+Informationstechnik EDV IT Informationstechnologie
+vorausberechnen schätzen vorhersagen vermuten abschätzen präsumieren hypothetisieren vorhersehen prognostizieren
+Maklerprovision Kurtage Vermittlungsprovision Maklergebühr Maklercourtage Provision Courtage Vermittlungsgebühr
+graugelb blassbraun
+Jurisprudenz Jus Juristerei Jura Juristik Rechtswissenschaft
+verlegen abtransportieren evakuieren
+Stechzirkel Spitzzirkel
+wassergeschützt wasserundurchlässig wetterfest wasserdicht regendicht
+Trickser Gaukler
+Auflösung Zerfall Verfall Dissolution
+Buschwerk Sträucher
+unerlässlich unentbehrlich unersetzlich unverzichtbar unersetzbar
+Deckgewebe Epithel
+Verfolgungsjagd Hatz Hetzjagd Gjaid Kesseltreiben Verfolgung Hetze Jagd Treibjagd
+Vermittler Ombud Mediator Schiedsmann Schlichter
+Hemmstoff Antagonist
+verringern abspecken verkleinern ermäßigen reduzieren vermindern
+Krönung Höhe Highlight Spitzenleistung Glanzpunkt Gipfel Höhepunkt Glanzlicht Spitze Sternstunde Glanzleistung
+Ehestand Ehe Ehebund Ehejoch Ehebeziehung Ehegemeinschaft Ehebündnis
+Billardstock Billardqueue Queue
+aufgrund dank durch infolge vermöge
+Rauschgiftfahnder Drogenfahnder
+Fehlinformation Zeitungsente Falschinformation Falschmeldung Ente
+visitieren aufsuchen besuchen kommen beehren
+Verzögerung Verzug Rückstand
+umreißen entwerfen skizzieren andeuten angeben
+Nut Furche Riefe Vertiefung Ritze Rille
+Heimat Heimatland Vaterland Geburtsland
+Gesundungsprozess Gesundung Erholung Rekonvaleszenz Konvaleszenz Heilung Besserung Genesung
+Garderobenständer Garderobe Kleiderablage Kleiderständer
+Schwindelgeschäft Gaunerei
+Rückbank Fond Rücksitzbank Rücksitz Fondsitz
+Außenhaut Schale Muschel Gerippe
+Beule Verdickung
+Auswirkung Rückwirkung
+gelungen beachtenswert ratsam empfehlenswert lesenswert
+Kittel Arbeitskittel Schürze Schurz
+Schräge Schrägheit Schiefheit
+Fußtruppe Infanterie
+Vorhang Gardine
+elendiglich elend beklagenswert hundserbärmlich katastrophal desaströs kläglich miserabel erbärmlich elendig
+Werbeaufwendung Werbekosten Werbeaufwand
+Kappe Hut Haube Mütze Cap
+verdrehen entstellen verzerren
+Hektik Rastlosigkeit Unrast Ruhelosigkeit
+Eigendrehimpuls Effet Schwung Drall Impulsmoment Spin Drehimpuls
+Sternbild Konstellation Tierkreiszeichen Sternzeichen
+Auszeichnung Unterscheidung
+abprallen zurückspringen zurückprallen
+erfragen erkundigen nachforschen
+Briefpartner Brieffreund
+Genuss Verbrauch
+fliederfarben fliederfarbig flieder hellviolett
+hinuntersteigen hinabgehen untergehen hinuntergehen
+Umsatzanalyse Umsatzstatistik
+respektlos respektwidrig
+Tortenstück Stück Winkel Ecke
+schief quer schepp schräg
+unaufhörlich gleichklingend wiederholend ständig gebetsmühlenartig iterativ penetrant ostinato monoton mantrahaft repetitiv gleichtönend unablässig rekurrent
+reiten besteigen
+entschädigen erstatten
+Hexenmeister Schwarzkünstler Beschwörer Magier Zauberer Hexer Magus
+verputzen zugipsen vergipsen
+beteuern versichern affirmieren behaupten betonen asserieren
+Nuklearsprengkopf Atomsprengkopf
+verplanken verzimmern
+Lithographie Lithografie Steindruck
+Pep Elan Schwung Drive Antrieb Verve Schub Auftrieb
+fluoreszieren glimmen glühen phosphoreszieren
+Verminderung Schwund Verlust
+Rechtsstreit Streitsache
+Schenkung Spende Stiftung Geldgeschenk
+Schnupfen Nasenkatarrh Nasenschleimhautentzündung Koryza Rhinitis
+Produktionsfabrik Produktionsanlage
+Zugang Eintritt Eingang Einfahrt Zufahrt
+Traurigkeit Miesepetrigkeit Bedrücktheit Trübsinn Tristesse Depressivität Gedrücktheit Trübsal Betrübnis Melancholie Gram Verstimmung Depri Schwermut Weltschmerz Wehmut Niedergeschlagenheit Depression Freudlosigkeit
+Verpfändung Unterpfand Pfand
+Außenstände Rückstand Forderung Forderungen Schulden
+Feldhase Mümmelmann Mümmler Hoppler Hase Langohr Rammler Hoppel
+Scheitelpunkt Gipfelpunkt
+festdrehen anziehen festziehen schrauben
+Kabelführung Kabelschacht Brüstungskanal Installationskanal Verdrahtungskanal Kabelkanal
+Zuwanderung Einwanderung Immigration Zuzug
+Herzrasen Herzklopfen Herzstolpern Palpitation
+Problematik Problem Sachverhalt Punkt Fragestellung Fall Thema Kiste Anliegen Issue Umstand Ding Angelegenheit Chose Causa Aufgabe Sache Frage
+gleichwertig äquivalent identisch gleichviel
+Stromstoß Überspannung
+Bettstelle Furzkiste Koje Nest Bett Lagerstatt Schlafstelle Heia Bettstatt Heiabett Lager Ruhelager Pofe Nachtlager Miefkoje Falle Schlafstatt Schlafplatz
+schweben gleiten erheben fliegen aufschwingen segeln aufsteigen
+Spielcasino Spielbank Kasino Casino Spielsaal Spielsalon
+begreiflich vorstellbar
+Relativierung Euphemismus Hehlwort Verharmlosung Schönrederei Verbrämung Schönrednerei Hüllwort Glimpfwort Schönfärberei Beschönigung
+annoncieren inserieren aufgeben veröffentlichen schalten anzeigen
+Instandsetzung Wiedereinsetzung
+Unermüdlichkeit Spannkraft Dehnbarkeit Biegsamkeit Federkraft Elastizität
+scheibenförmig diskoidal
+Fahrstreifen Fahrspur Spur
+Einfachst-Behausung Hütte Budike Einfachst-Unterkunft Muchtbude Baracke Bude Bretterverschlag Behelfsbau Butze Verschlag Kabache Bretterbude Schuppen
+behaglich wohlig bequem gemütlich wirtlich angenehm
+Narzissmus Selbstgefälligkeit Dünkel Selbstüberhebung Selbstverliebtheit Hochmut Überheblichkeit Einbildung Egozentrik Blasiertheit Stolz Eingebildetsein Hoffart Prätention Arroganz
+vernieten nieten
+krankheitsmildernd palliativ schmerzlindernd
+Haarschnitt Frisur Schnitt
+Verdampfung Vaporisierung Vaporisation
+Spärlichkeit Unfruchtbarkeit Kargheit
+freundlich extravertiert sozial leutselig kontaktfreudig extrovertiert offen
+Fibu Buchführung Geschäftsbuchhaltung Buchhaltung Finanzbuchhaltung
+Fremdgehen Betrug Ehebruch Seitensprung Untreue Treulosigkeit
+Grenzbereich Grenzland
+Zweigliederung Dichotomie Schwarz-Weiß-Malerei Zweiteilung
+Keimwurzel Wurzelkeim
+Rohheit Holprigkeit Zerklüftung Runzeligkeit Schroffheit Rauheit Unebenheit
+verschrecken ängstigen einschüchtern erschrecken beängstigen verängstigen
+Rückenleiden Rückenschaden Rückenkrankheit
+Tiefstand Fußpunkt
+ehren verehren
+Teildisziplin Domäne Disziplin Sachgebiet Fachgebiet Bereich Wissenschaftszweig Wissenszweig Fachdisziplin Spezialgebiet Fachrichtung Fachbereich Fach Sparte Kunde Forschungsgebiet Wissenschaftsdisziplin Gebiet Teilgebiet Spezialdisziplin Lehrfach
+Sortenankaufskurs Ankaufkurs Ankaufssatz
+Freigabe Entblockung Öffnung
+Beguss Engobe
+Gemenge Gemisch Vermischung Mixtur Mischung
+Makro Macro Befehlszusammenfassung
+Großzügigkeit Generosität Großmut Edelmut
+Querkraft Scherkraft Schubkraft
+Größenverhältnis Anteil Proportion Quotient Verhältnis
+Entwässerungssystem Entwässerungsanlage
+Eingriff Ineinandergreifen
+Veränderliche Platzhalter Variable Stellvertreter
+Friede Frieden
+Gebot Befehl Kommando
+Biotop Lebensraum
+dauerhaft durabel beständig
+sexgeil geil rollig rattig notgeil heiß fickrig scharf erregt fickerig lüstern rallig spitz wollüstig
+geruchtilgend desodorierend
+vollständig abstandslos taxativ lückenlos flächendeckend
+Neurodermitis Asthmaekzem
+Zeichenmappe Künstlermappe
+tiefkühlen einfrieren gefrieren
+Überprüfung Betrachtung Inspektion Studie Prüfung Untersuchung Erforschung Auswertung Analyse Begutachtung
+Stück Schauspiel Repertoirestück Bühnenstück Theaterstück Drama Spiel
+Reparaturwerkstatt Reparaturwerkstätte
+trudeln wanken wackeln taumeln schwanken torkeln
+Krampfkrankheit Tetanie
+Sachgebiet Division Gebiet Abteilung Sektion Ressort Referat
+Spielerwechsel Auswechselung Ersatz Auswechselung
+chaotisch durcheinander konfus unübersichtlich verworren verwickelt wirr
+Durchmischung Konzentrationsausgleich Streuung Diffusion
+Außenseite Äußeres
+Decke Plafond Zimmerdecke
+Erzgang Ader
+Eigenreklame Eigenwerbung Selbstbeweihräucherung Eigenlob Selbstlob
+Operationsschwester OP-Schwester
+Schwänzen Abwesenheit Fehlstunde Blaumachen
+eiskalt emotionslos gefühlskalt kaltschnäuzig cool verroht gefühllos hartgesotten skrupellos gefühlsarm abgebrüht gemütsarm
+Bereicherung Anreicherung
+Draufgängertum Rücksichtslosigkeit
+Altersversorgung Altersgeld Alterssicherung Ruhegehalt Ruhestandsgeld Altersrente
+Teilstrich Skalenstrich
+Schmierblutung Spotting
+Arbeitsgang Operation Arbeitsvorgang Verfahren
+lässig luftig
+Schadensersatz Schadenersatz
+Abschilferung Abschuppung Desquamation
+Sehhügel Thalamus
+Mark Markröhre Kern
+aberrant unregelmäßig außertourlich abnorm abnormal ungewöhnlich regelwidrig anormal anomal
+trüben schmälern dämpfen
+Willfährigkeit Nachgiebigkeit Schwäche
+pausenlos ewig permanent ständig dauernd andauernd immerfort
+Ausfall Betriebsstörung Störfall
+Schubbruch Scherbruch
+ausfragen vernehmen inquirieren verhören grillen befragen einvernehmen
+Kodizill Nachtrag
+objektiv vorurteilsfrei unbefangen werturteilsfrei unparteiisch unvoreingenommen
+Segler Segelflieger Segelflugzeug
+Serviette Mundtuch
+Gartenbau Gartenbaukunst
+Dachgarten Dachterrasse
+vergiften verunreinigen kontaminieren
+Milieu Peripherie Entourage Dunstkreis Connection Umfeld Umgebung
+Ausgangspunkt Wiege Ursprungsort
+Stellvertreter Vize Bevollmächtigter
+Adressentext Anredetext
+mächtig großmächtig gewaltig
+Lausbube Pülcher Frechling Schelm Früchtchen Knilch Frechdachs Lausbub Flegel Rotzgöre Frechmops Fratz Range Schlingel Bengel Rotzbengel Rotzjunge Rotznase Lorbass Strolch Rotzlöffel Dreikäsehoch Racker Bazi Rotzblag Lümmel Lauser Rotzbubi Lausebengel Schliffel
+Bindungsprotein Ligand
+Strand Badestrand
+Sturzhelm Helm Schutzhelm
+Geodäsie Erdvermessung Vermessungskunde
+Gewindeschneider Gewindebohrer
+Scharfsinn Genialität
+selbstregulierend selbstkorrigierend selbstnachstellend
+Weichtier Molluske
+überproportional progressiv
+aufgeladen beladen
+Ungültigkeit Hinfälligkeit
+kalkulieren berechnen rechnen
+geriffelt gewellt gerillt
+Unterhalter Unterhaltungskünstler Showmaster Entertainer
+Erika Heide Heidekraut
+Lauf Strömung Strom
+Tischlerarbeit Zimmerhandwerk Zimmerarbeit Schreinerarbeit
+Adaptation Anpassung Akkommodation
+Feldlager Nachtlager
+Ohnmächtigkeit Bewusstlosigkeit Besinnungslosigkeit Ohnmacht
+seriös ernst ernsthaft
+Fiskaljahr Wirtschaftsjahr Geschäftsjahr Steuerperiode Rechnungsjahr Finanzjahr
+Stellenwertschreibweise Radixschreibweise
+ungiftig atoxisch
+Dermatitis Hautentzündung
+Schiffsrumpf Schiffskörper Rumpf
+verstadtlichen kommunalisieren
+Altvorderer Ahn Vorfahr Vorfahre Urahn
+Beckmesser Querulant Nörgler Krittler Meckerer Meckerfritze Mäkler Meckertante Kritikaster
+wischen säubern
+uniform gleichförmig
+Haube Kapuze
+unehrlich unaufrichtig lügenhaft lügnerisch falsch verlogen unredlich unlauter unwahrhaftig
+verknüpfen anstöpseln anschließen vernetzen anklemmen anbinden verbinden
+westlich abendländisch europäisch okzidental
+Schwärze Druckerschwärze
+Stilkunde Stilistik
+Anschlussdose Verteilerdose
+Aberration Abweichung Verirrung Abnormalität
+Urbanisierung Urbanisation Verstädterung Landflucht
+zerreißen verhackstücken zerfleddern zerfetzen
+Flügelspanne Spannweite
+Goldadler Steinadler
+marmorieren ädern sprenkeln masern
+Speicher Warendepot Depot Lager Warenspeicher Lagerhalle Magazin Lagerhaus
+Gewandtheit Hub Takt Taktsignal
+aufwiegeln anstacheln aufstacheln anspitzen aufhetzen verhetzen
+Bestechung Korruption
+Reform Neuregelung Umgestaltung Reorganisation Neugestaltung Neuordnung
+lochen durchbohren durchlöchern
+Strom Schwall Wasserschwall
+knallen platzen
+griffgerecht handlich rutschfest griffig
+Sicherung Gewährleistung Sicherstellung
+Schädelkappe Schädeldecke Schädelkalotte
+über oben oberhalb überhalb
+Trommelfellschnitt Parazentese
+Montageliste Bauliste
+Fusseln Flusen Fädchen
+anheuern anwerben einwerben akquirieren
+üben trainieren einüben schulen
+Bröckchen Krümel Brösel
+Reise Fahrt
+weich friedlich harmlos sanft glimpflich mild
+zersplittern herauslösen abspalten
+übergeben reichen rüberschieben ausfolgen überreichen geben aushändigen
+Balkon Galerie Loggia
+feudal komfortabel luxuriös
+Aufbesserung Verfeinerung Melioration Optimierung Verbesserung Besserung Aufwertung Läuterung Vervollkommnung
+Umlaufverdichter Rotationskompressor
+Proklamation Verkündigung Ausrufung
+Bassgeige Kontrabass
+Lizitation Feilbietung Gant Versteigerung Vergantung Gandt Auktion Gantung
+Pakistaner Pakistani
+Anklage Anklagevertretung
+Rezept Präskription
+Pauschalbezahlung Pauschalzahlung
+zerfurcht furchig runzelig runzlig verrunzelt
+Aussagekraft Überzeugungskraft Beweiskraft
+Vertretung Agentur Geschäftsstelle Vermittlung
+funkgesteuert funkgeregelt
+Fragenkatalog Fragebogen
+Grunderwerb Grundstückskauf Grundstückserwerb
+Endhaltestelle Endstelle Terminal Endstation
+Blütenrispe Rispe
+Verstärkung Stärkung Stützung Untermauerung
+brachliegend unbeschäftigt passiv untätig inaktiv
+Schleimhautausschlag Enanthem
+Beilegung Zuschreibung
+erwärmen heizen erhitzen
+Andienungspreis Rechnungsbetrag
+nippen schlürfen
+Unaufmerksamkeit Unachtsamkeit
+Ziegenmelker Nachtschwalbe
+Vormerkbuch Terminkalender Agenda Taschenkalender
+Maserung Streifen Maser Strich
+Kassenbon Kassenzettel Beleg Bon Quittung
+gehässig spitz
+Fertigungstechnik Produktionstechnik
+Halde Haufen Hochkippe Haufwerk Aufschüttung Schüttung
+ausfechten kabbeln zoffen zanken streiten fetzen hadern
+kühl frisch frostig kalt
+kühn mutig heroisch heldisch heldenmütig unerschrocken mannhaft heldenhaft tapfer
+Fiasko Katastrophe GAU Desaster Debakel
+Entzündung Inflammation Inflammatio
+schamlos obszön anstößig schamverletzend schockierend
+zusammenpressen umklammern packen ballen
+Email Schmelzglas Emaille
+keimhemmend bakteriostatisch
+Kornbrand Korn
+sorgsam besorgt
+klagen trauern
+Rechenschieber Rechenstab
+ruhend unbewegt starr ortsfest stationär bewegungslos ruhig
+Zoomobjektiv Transfokator Vario-Objektiv Transfokar Vario-System Gummilinse Zoom
+Erlass Widerruf Aufhebung Beendigung Auflösung Zurücknahme
+beitragen beisteuern zusteuern kontribuieren
+fraternisieren verbrüdern
+kokett kess flott frech neckisch fesch aufreizend keck herausfordernd
+Druckguss Druckgießen
+umstandslos unaufwändig einfach problemlos störungsfrei reibungslos klaglos anstandslos mühelos
+Langatmigkeit Weitschweifigkeit Redundanz
+Lebenslauf Biografie Lebensbeschreibung Lebensablauf Lebensgeschichte Vita Biographie
+eingangs zuerst erst zunächst anfänglich einleitend anfangs
+schwinden abflauen
+Nahrungsmittel Viktualien Nahrung Esswaren Fressalien Esssachen Essen Lebensmittel
+drohen dräuen androhen bedrohen
+Eigenart Besonderheit Ausprägung Charakteristik Eigenheit
+Abschreibungsperiode Abschreibungsdauer
+Hausangestellter Haushaltshilfe
+Konsonant Mitlaut
+blutbefleckt blutend blutig bluttriefend blutverschmiert blutüberströmt
+steuerpflichtig nachschusspflichtig abgabenpflichtig besteuert
+Vergoldung Goldauflage
+Drahtverhau Stacheldraht
+minus negativ
+Altenheim Feierabendheim Betagtenheim Seniorenstift Seniorenresidenz Seniorenheim Pensionistenheim Altersheim
+losgelöst unabhängig abgekoppelt
+belastbar solide stattlich bestandskräftig stark tragfähig fest zäh stabil taff kräftig resilient robust haltbar ehern
+Sprungbedingung Verzweigungsbedingung
+addierbar aggregierbar
+Nachlässigkeit Leck-mich-am-Arsch-Einstellung Schludrigkeit Ungenauigkeit Gleichgültigkeit Achtlosigkeit Fahrlässigkeit Gedankenlosigkeit Vernachlässigung Unachtsamkeit Nichtbeachtung Schlampigkeit
+Unterkunft Quartier Unterbringung
+kognitiv erkenntnismäßig
+lichtelektrisch photoelektrisch
+einstufen bewerten kategorisieren
+Film Belag Vergütung Schicht
+Aussiedlung Exilierung Rückführung Abschiebung Ausschaffung Vertreibung Rückschaffung
+Anschriftenkennzeichen Adresskennzeichen
+Knollensellerie Zeller Wurzelsellerie
+Depigmentierung Pigmentschwund
+Atlas Atlant Landkarte Weltkarte
+GAP EU-Agrarpolitik
+gerade justament just ausgerechnet
+Sendeeinrichtung Sendeanlage Sendegerät Sender
+Betriebsfähigkeit Gebrauchsfähigkeit
+Abzahlung Tilgung Rückzahlung
+seitlich lateral
+angegrenzt eingefasst
+bauschig dick angeschwollen wulstig gebauscht geschwollen
+Gummi Gummiband
+Genehmigung Billigung Zulassung Approbation
+Durchführungsbestimmung Durchführungsverordnung
+selbstdichtend selbstabdichtend
+hervorbringen verursachen schaffen
+Additiv Zusatz Zusatzstoff
+Kleidsamkeit Schicklichkeit
+Bestätigung Ratifizierung Ratifikation Inkraftsetzung
+Abbildung Tabelle Kurvenblatt Diagramm Schaubild
+eingravieren einmeißeln meißeln gravieren
+chaotisch kopflos unüberlegt konfus unsystematisch planlos unkoordiniert wirr ziellos hektisch unreflektiert unkontrolliert konzeptionslos
+ablauschen aushorchen belauschen mithören abhören lauschen mitschneiden
+dunkel schattenhaft undeutlich obskur ungefähr unklar unscharf
+sternförmig radial strahlenförmig
+Kontenblatt Kontoform
+Ausschank Tresen Theke Bar Schank Schankraum
+entzündlich entflammbar
+Hülsenfrüchte Leguminosae Leguminose Fabaceae Hülsenfrüchtler
+Überschwang Entzückung Begeisterungsfähigkeit Spass Jubel Verzückung Euphorie Hochstimmung Schwärmerei Enthusiasmus Gefühlsüberschwang Spaß Wohlgefallen Begeisterung Entzücken Freude Vergnügen
+funktionstüchtig betriebsfähig betriebsbereit gebrauchsfähig
+Meldefahrer Kradmelder
+Ungewissheit Schwanken Zögern Bedenken Unschlüssigkeit Unentschlossenheit Bedenklichkeit Zögerlichkeit Zweifel
+wachstumsanregend wachstumsstimulierend wachstumsfördernd
+Erbbild Erbmasse Genotyp
+Kartenprüfgerät Kartenprüfer
+Beseitigung Abtransport Entfernung Abfuhr Fortschaffung
+Fehlfunktion Funktionsstörung Dysfunktion
+Empfehlungsbrief Referenzschreiben Empfehlung Empfehlungsschreiben Referenz Zeugnis
+Saldo Kontostand
+Kurzbeschreibung Kurzdarstellung
+immerfort kontinuierlich stetig fortdauernd fortlaufend
+teilen zersplittern durchschneiden aufspalten spalten zerstückeln aufteilen
+Bewerber Prätendent Applikant Assessor Kandidat Anwärter Aspirant Postulant
+Durchsichtigkeit Klarheit Luzidität Transparenz
+Vortrag Referat Rede
+Leporellopapier Endlospapier
+überhitzt heißgelaufen
+Sachlage Tatbestand
+Schneeschmelze Schmelze
+Firmenzeitung Mitarbeiterzeitung
+gleichmachen fluchten ausgleichen beseitigen nivellieren assimilieren anpassen
+Poncho Regenumhang Überwurf
+Art Formgebung Weise Fasson Machart Stil Manier Gepräge
+Abkommen Einigung Vereinbarung Übereinkommen Übereinkunft Konvention
+mutwillig boshaft böswillig
+nachweisen sicherstellen bestätigen zertifizieren bescheinigen
+fischen angeln
+lohnend hilfreich dienlich gewinnbringend vorteilhaft nützlich nutzbringend gut wertvoll fruchtbar gedeihlich sachdienlich opportun zuträglich nutzwertig förderlich günstig ersprießlich
+Anzeigenbüro Werbungsmittler
+Aufsaugung Einsaugung
+induzieren verallgemeinern abstrahieren herleiten generalisieren ableiten
+Kontrazeption Verhütung Konzeptionsschutz Schwangerschaftsverhütung Familienplanung Antikonzeption Empfängnisverhütung
+Zombie Untoter
+Bündel Strauß Bund Ballen
+ehelich hochzeitlich
+vermascht netzartig
+Abschluss Beendigung Beendung Terminierung Erledigung Einstellung
+Krisenherd Krisengebiet Brandherd Unruheherd
+Spruchbanner Banner Transparent
+Futterraufe Raufe Futterkrippe
+flattern wehen
+Störgeräusch Hintergrundgeräusch
+Nachbesserung Ausbesserung
+elegant schick schmuck todchic stylish schmissig schnittig chic flott todschick schnieke kleidsam frech fesch schnatz modisch geil cool
+Kontingent Anteil Beitrag Quote Mitwirkung
+Trennschleifer Feuerradl Trennhexe Schleifhexe Winkelschleifer Flex
+Premierenfeier Auftaktveranstaltung Eröffnungsveranstaltung Kick-off-Veranstaltung Kick-off-Event
+audiovisuell hörbar-sichtbar
+Aktivitätsstrahl Prozessstrahl
+Zuflucht Schutzort Zufluchtsstätte Zufluchtsort Fluchtpunkt Asyl
+Dress Trikot
+Wiederbildung Wiederherstellung Erholung Regeneration
+Belastungsprobe Dauertest Langzeittest
+Verdinglichung Objektivation Vergegenständlichung
+fürsorglich aufmerksam rücksichtsvoll
+Feilspäne Schleifstaub
+Geographie Geografie Erdkunde
+pfiffig findig vigilant originell geistreich blitzgescheit witzig
+nil nichts nix null
+Wrack Wrackgut Schiffswrack Schiffstrümmer
+Ausgleichszahlung Ausgleichsleistung
+geschickt kunstfertig gewandt fingerfertig begabt
+Einheitspreis Pauschalbetrag Preispauschale Pauschalpreis Pauschale
+Abreibung Abnützung Abschaben Abschleifung
+Altwaren Altmaterial Schrott
+Pfändungsbeschluss Arrestbeschluss
+ausglühen tempern anlassen vergüten
+behüten bewachen schützen
+Begräbnis Beisetzung Bestattung Beerdigung
+Kupfer-Zink-Legierung Tombak
+Amtsdauer Amtszeit Amtsperiode
+Bemerkung Kommentar Erläuterung Anmerkung
+herumlaufen herumrennen
+diesig feucht beschlagen dunstig dampfig
+hinunterrennen hinunterlaufen
+Fahrgast Reisender Mitfahrender Beförderungsfall Insasse Passagier
+Überdruss Müdigkeit
+Industriebetrieb Industrieunternehmen
+Reitgerte Gerte
+abrüsten entwaffnen
+Hörer Hörmuschel
+Geisteskraft Geistigkeit
+knautschen quetschen stopfen zwängen pfropfen pferchen drücken pressen proppen
+Standhaftigkeit Unentwegtheit Beharrlichkeit
+wetterhart wetterbeständig wetterfest
+quer diagonal schief schräg
+Miete Mietbetrag Mietpreis Leihgebühr
+umschlagen umblättern
+Bleichen Entfärbung Verblassen Verblassung Verbleichen Ausbleichen
+feuerfest unbrennbar
+Prospekt Broschüre Katalog
+Bonbon Bömsken Täfeli Klümpchen Zältli Zuckerl
+ungesellig distanziert unnahbar menschenscheu
+Kloß Knödel
+abschilfern abschälen abblättern abpellen
+Windgeschwindigkeitsmesser Windmesser Anemometer
+Meriten Errungenschaft Verdienst Verdienste Leistung
+Schellenring Schellenkranz Schellenreif
+Füllfeder Füllfederhalter Füller Patronenfüller
+Schulaufsatz Essay Aufsatz
+abtrocknen trocknen
+impertinent unverfroren schamlos unverschämt
+Müll-Entsorgung Entsorgung Abfallentsorgung
+lithografisch lithographisch
+umschlagen aufkrempeln umkrempeln hochschlagen hochkrempeln
+tibetanisch tibetisch
+Heizkörper Radiator
+kontaktscheu zaghaft zurückhaltend schüchtern kontaktarm scheu unsicher gehemmt verklemmt selbstunsicher
+Freundeskreis Blase Bande Combo Clique
+Gelehrsamkeit Belesenheit
+Vorzimmer Vorkammer
+Torsionsmoment Drehmoment
+Spülmaschine Geschirrspüler Geschirrspülmaschine Abwaschmaschine Spüler
+Bildungsweg Bildungsgang
+Flankenanstiegszeit Anstiegszeit
+Häme Hohn Sarkasmus Verspottung
+verloren preisgegeben
+unkompliziert undramatisch
+Elend Bedrängnis Leid Notlage Not
+Entgegennahme Annahme Übernahme
+Narkotikum Betäubungsmittel Anästhetikum Narkosemittel
+Rechnungsprüfung Revision Prüfungswesen
+Parkanlage Park Grünanlage Stadtgarten Stadtpark
+erspähen entdecken
+duplizieren verdoppeln klonen klonieren kopieren replizieren abziehen vervielfältigen
+Arbeitsraum Gruppenraum
+Dresseur Dompteur Tierbändiger
+Einmischung Intervention Eingreifen Eingriff
+Beschenkung Einbescherung Bescherung Weihnachtsbescherung
+Modellprojekt Modellversuch
+engstirnig blindgläubig frömmelnd bigott frömmlerisch
+Empfangshalle Wandelhalle Vorhalle Vorraum Foyer Vestibül Lobby Eingangshalle Lounge
+Abhörstation Horchstelle
+Kürzel Zeichen
+Verwaltungsstelle Verwaltungskostenstelle
+Zwang Begrenzung Einschränkung Beschränkung Deckelung Einengung Restriktion
+Banalität Bedeutungslosigkeit Unwichtigkeit Belanglosigkeit Trivialität Plattheit Irrelevanz Schnickschnack Gehaltlosigkeit Nichtigkeit
+einstreichen einheimsen kassieren einkassieren einnehmen einstecken abräumen scheffeln
+Audit Betriebsprüfung
+scharfsinnig ausgeklügelt
+abwickeln abrollen
+offenbaren outen
+schräg abgeschrägt
+Wundbrand Brand
+Entsendung Deputation Delegierung Absenden Abkommandierung
+Bestückung Ladung Füllung
+anabol leistungsfördernd
+Erfinder Mächler Tüftler
+winkelförmig winklig winkelig
+kraftvoll kraftstrotzend bärenstark stark kräftig kämpferisch machtvoll
+Häcksler Schredder
+Rowdy Hooligan Randalierer
+Abnahmebescheinigung Abnahmeprotokoll
+Traubenmost Maische Most Sauser Süßmost Federweißer
+anhören zuhören mithören
+schlecken schnabulieren naschen knabbern knuspern
+unterstützend hilfreich subsidiär fördernd behilflich zuträglich förderlich dienlich
+Pelz Haut Decke Fell
+Wohlstand Pracht Pomp Aufwand Luxus
+Vordenker Bahnbrecher Wegbereiter Ideengeber Revolutionär Neuerer
+Rüstung Harnisch Schutzkleidung Panzer
+betriebsbereit startbar betriebsfähig
+Charaktermerkmal Charakteristik Merkmal Eigenschaft Wesensmerkmal Haltung Wesenszug Zug Charaktereigenschaft Charakterzug Einstellung
+Radialbohrmaschine Schwenkbohrmaschine Raboma
+Kraft Stärke Einfluss
+Korngröße Teilchengröße
+bodenständig hiesig autochthon eingeboren endemisch indigen ureingesessen alteingesessen einheimisch
+Menü Karte Speisekarte Speisezettel Speisenkarte
+Stecker Steckkontakt Anschluss Buchse
+Beglaubigung Beurkundung
+seelisch psychisch psychologisch
+eingehend reichhaltig ausführlich ausgiebig extensiv enzyklopädisch
+Rummelplatz Festplatz Jahrmarktsplatz
+Anzeiger Anzeigenblatt Stadtteil-Zeitung Anzeigenzeitung Intelligenzblatt
+Einziehung Einberufung
+Abstreifgummi Rakel Abstreifer
+Kolonnade Wandelgang
+analysieren auswerten untersuchen
+Einsetzkammer Brennkammer
+Postscript Nachschrift Nachtrag
+wahrnehmen verspüren fühlen spüren empfinden
+Stoß Stich
+anhören vernehmen
+gruselig grauenvoll erschreckend schauervoll bedrohlich schaurig albtraumhaft ängstigend schauderhaft beängstigend grausig furchteinflößend schreckenerregend grauenerregend schrecklich furchterregend entsetzlich angsteinflößend schauerlich
+samtig samtartig
+Exploration Erforschung Untersuchung Erprobung
+Schrift Skript Schriftsystem
+Dispersität Kornfeinheit
+weiten extendieren vergrößern dehnen ausdehnen expandieren aufweiten ausweiten erweitern ausleiern spreizen
+Scheinwerferlicht Scheinwerfer
+Ausgabeaufschlag Aufpreis Aufschlag Aufgeld Agio
+bestimmbar zuordnungsfähig
+zukünftig kommend dereinst künftig demnächst bevorstehend nächstens
+Wacht Wachtposten Aufsicht Bewachung Beaufsichtigung Beschützung Patrouille Wachestehen Beschirmung Posten Wache Wachmannschaft Wachdienst Überwachung Schutzaufsicht Sicherheitsdienst Wachehalten Wachposten
+Fang Fischzug
+abteilen abgrenzen demarkieren eingrenzen aufteilen
+Durchschnittsertrag Durchschnittsrendite
+geduldig ruhig gelassen behäbig
+Nervenbahn Tractus
+Reaktanz Blindwiderstand
+abdämmen eindämmen
+mild zahm sanft friedlich gutmütig seelenruhig
+Kontaktfeder Federband
+allgemein allg.
+länglich abgeplattet oblong gestreckt langgezogen
+Abbaustoffwechsel Stoffwechsel Katabolismus
+Deka Dekagramm
+Verbundfahrkarte Verbundkarte
+Anleitung Benutzerhandbuch Leitfaden Richtschnur Manual Handbuch
+Verspaar Reimpaar
+Rückführung Rückbildung Regression Rückschritt Rückgang
+Dachdeckung Bedachung
+Aushauchung Ausatmung Exspiration Exhalation
+Zimmervermittlung Wohnungsvermittlung
+Galadiner Festmahl Schmauserei Festessen Bankett Göttermahl Festbankett Gastmahl Schmaus Festmahlzeit
+formell steif unpersönlich förmlich
+durchnässen durchtränken durchfeuchten
+Rammler Hasenbock
+Vorkasse Vorauszahlung Vorauskasse Vorausbezahlung
+ideal tadellos vollkommen untadelig vortrefflich vorbildhaft makellos fehlerlos vorzüglich fehlerfrei mustergültig vollendet klaglos vorbildlich perfekt einwandlos tipptopp einwandfrei
+beschwören zaubern hexen
+Magendrücken Leibschmerzen Bauchgrimmen Magenweh Magenschmerzen Bauchschmerzen Bauchweh Leibschneiden Magengrimmen
+via über
+Duft Duftwolke
+Manifest Programm Grundsatzerklärung
+dediziert gewidmet eigens extra speziell gesondert
+verhärmt abgehärmt vergrämt gramerfüllt
+Kapitalfluss Kapitalstrom
+Apenninenhalbinsel Apenninhalbinsel
+hinaufsteigen hinaufkraxeln emporklettern hinaufklettern
+Fluch Verfluchung Vermaledeiung Fluchen Verwünschung
+Ablenkung Zeitvertreib Beschäftigung Zerstreuung Abwechslung Divertissement
+zuallererst zuerst zunächst erstmal zuvörderst vorrangig primär
+Pressespiegel Presseschau
+holzschnittartig allumfassend undifferenziert vereinfachend global verallgemeinernd schlechthin allgemein überhaupt generalisierend pauschal
+Sättigungspunkt Sättigungsgrenze
+Regentschaft Herrschaft
+imposant gewaltig immens groß krass enorm himmelweit exorbitant riesig mächtig extrem
+haushälterisch ökonomisch wirtschaftlich sparsam
+Theatergruppe Theaterensemble
+menügeführt menügesteuert
+Aufführung Inszenierung Abhaltung
+Verarbeitung Prozess Weiterverarbeitung
+Verwebung Verflechtung
+Weißrusse Belorusse
+Konterfei Physiognomie Antlitz Gesicht
+konstatieren festsetzen festlegen feststellen
+Topografie Topographie Ortsbeschreibung Lagebeschreibung Geländekunde
+Lochstelle Lochung
+Komponente Baustein Einzelheit Stück Punkt Bestandteil Gegenstand Konstituens Modul Element Teil Detail Glied
+hineinziehen involvieren verwickeln
+diesbezüglich bezüglich bezugnehmend
+stet stetig
+Briefträger Postbote Briefzusteller Pöstler Postler Postzusteller Postillon Zusteller Postmann
+Spross Schössling
+Weichheit Milde Sanftheit Mildheit Nachgiebigkeit
+Stimmbezirk Wahlsprengel Wahlbezirk
+Gnadengeschenk Gabe Almosen Spende Scherflein Armengeld Gnadenbrot Zuwendung Obolus
+Aroma Würzessenz Würze
+übersetzen deuten transkribieren
+Emendation Berichtigung Verbesserung
+Ermächtigung Segen Bevollmächtigung Erlaubnis Konzession Befugnis Zulassung Einwilligung Genehmigung Plazet Recht Billigung Berechtigung Autorisierung Okay Lizenz Absegnung Autorisation
+Vanillinzucker Vanillezucker
+meineidig eidbrüchig
+zurechtgebastelt getakelt
+bruchlanden scheitern
+Rute Zweig Gerte
+Starkstromleitung Hochspannungsleitung
+Proliferation Wildwuchs Wucherung Weiterverbreitung Zellproliferation
+Blumenzwiebel Zwiebel
+Photokopierer Fotokopierer Kopierapparat Kopiergerät Kopierer
+Modezeitschrift Modemagazin
+Bürge Garant Gewährsmann Sicherheitsgeber
+Starrsucht Katalepsie
+toben herumtoben aufdrehen tollen aufgedreht herumtollen rumbandusen ausgelassen
+dreiwertig trivalent
+röhrenförmig tubulär schlauchförmig
+Geschäftsstunden Geschäftszeiten Öffnungszeit
+Volksjustiz Selbstjustiz Lynchjustiz
+Ausspülung Elution
+Faustkampf Boxen Boxkampf
+Geröll Geschiebe
+ausweichen abspeisen vertrösten hinhalten trösten
+Euphorie Festtagslaune Jubelstimmung Hochgefühl Hochstimmung
+verstärken untermauern stützen ankurbeln stärken vertiefen intensivieren
+Oktroi Verbrauchsabgabe Akzise
+Aufrührer Tumultant
+bedürfnislos genügsam
+kundtun zeigen offenbaren bekunden
+TU TH
+Zusicherung Versprechen Absichtserklärung Assertion Versicherung Beteuerung
+Beschaulichkeit Stille
+feucht nass humid
+Aktiengesellschaft AG
+Scheingrab Ehrengrabmal Kenotaph Zenotaph Ehrenmal
+wohl zwar freilich
+Liberier Liberianer
+Flugpassage Flugreise Luftreise Luftbeförderung Flug
+Schiedsgericht Schiedsgerichtshof
+Schneidbrenner Lötbrenner
+Arbeitsgemeinschaft Projektgruppe Arbeitskreis Fachgruppe Arbeitsgruppe
+lodern hochschlagen lohen züngeln zucken auflodern flackern aufflammen brennen verbrennen emporflammen hochflammen
+Gesetzesentwurf Gesetzentwurf Gesetzesvorlage
+Blasphemie Gotteslästerung
+Felsenriff Felsbank
+Test Prüfung Leistungsnachweis
+verantwortungsvoll pflichtbewusst zuverlässig verantwortungsbewusst gewissenhaft
+Verlängerung Spielverlängerung
+Lachflash Lachkrampf Lachanfall
+Verteiler Zuteiler Verteilerliste
+erbost aggressiv fuchtig empört erzürnt angepisst zornig eingeschnappt sickig aufgebracht indigniert stinkig wütend geladen pissig böse
+Streuer Streubüchse
+Zusammenfassung Inhaltsangabe
+durchziehen durchfließen
+Montagewerkstatt Montagehalle
+Wacholderschnaps Wacholderbranntwein Gin
+Nachprüfung Wiederholungsprüfung Nachzipf
+Schot Bändsel Segelleine Tampen
+Irin Irländerin
+Bewohner Einwohner Bevölkerung Volk Bürger
+Bekanntgabe Publikation Kundgabe Veröffentlichung
+Herrschaft Regierung Führerschaft
+auswählen abkommandieren detachieren
+Nachbilder Emulator Nachahmer
+Lieferauto Lieferwagen
+Power-Leser Vielleser Büchernarr Leser Bücherwurm Leseratte Aktenfresser
+Türsteher Einlasser Concierge Pförtner Türhüter Portier
+gegenwärtig gegeben dort vorhanden existent seiend bestehend
+Zwang Weisung Anweisung Diktat Order Befehl
+Anwendersoftware Programmsystem Anwendungssoftware Applikation Anwendungsprogramm
+Wildnis Dschungel Busch Urwald
+wetten spielen tippen zocken
+Rind Rindvieh Bovinae Hausrind
+verderblich vergänglich
+ehrgeizig hochgesteckt ambitiös hochfliegend sportlich hehr ambitioniert anspruchsvoll
+Frivolität Schamlosigkeit Anzüglichkeit Schlüpfrigkeit Obszönität Zweideutigkeit Pikanterie Anstößigkeit
+Schnappriegel Sperrklinke Schnappschloss Schaltklinke
+Zensur Schulnote Note Beurteilung Zeugniszensur
+Demolierung Abbruch Abriss Zerstörung
+Mitteilung Notifizierung Benachrichtigung
+Jagen Jagd Weidwerk Jagdwesen Waidwerk Jägerei
+bejahend affirmativ zustimmend positiv bestätigend
+kompilieren compilieren übersetzen
+gleichgestellt gleichrangig vollwertig ebenbürtig paritätisch gleichberechtigt
+Verdichter Presse
+selbst auch sogar
+abschmecken nachwürzen
+denn als wie
+Riss Ritz Ritze
+schrullenhaft launenhaft
+Ausritt Ritt
+Arbeitstag Werktag
+Präzipitation Ausflockung Fällung
+Tonnengewölbe Schildbogen
+kommandieren befehligen befehlen
+Steuerung Aussteuerung Optimierung Angleichung
+vorschlagen nahebringen aussprechen nahelegen empfehlen antragen näherbringen andeuten anregen
+Gedenktag Erinnerungstag Jahrestag
+Anzeigenraum Reklamefläche Werbefläche
+äußerster endgültig letzter verblieben
+Nachleben Nachwirkung Nachwehen
+Feinkost Delikatessen
+Hektometerstein Meilenstein Kilometerstein
+Radarbildschirm Radarsichtgerät
+weit weithin groß weitläufig
+eingefroren tiefgekühlt
+erhältlich zugänglich verfügbar abrufbar
+Kerbe Scharte Einschnitt Spalte Inzision Spalt
+Microprozessor Mikroprozessor Rechenwerk Prozessor
+Zahl Anzahl
+Vorlesung Vortrag
+Ordner Mappe
+Kreise Umwelt Szene Umfeld Milieu Lebenswelt Ambiente
+Protein Eiweißstoff Polypeptid Eiweiß
+Beförderer Beschleuniger Katalysator Kat
+HI-Virus AIDS-Erreger HIV HIV-Virus
+ackerbautreibend agrarisch bäuerlich landwirtschaftlich
+Abschabung Ausschabung Abrasion
+verschlafen verpennt dösig schlaftrunken hundemüde müde todmüde übermüdet schlafbedürftig sterbensmüde übernächtigt schläfrig
+Schlagzeile Titelzeile Headline Balkenüberschrift
+Holzkloben Holzscheit Holzklotz
+Joch Mühle Alltagstrott Regelmäßigkeit Trott Gewohnheit Hamsterrad Tretmühle Alltag Routine
+Hinweistext Erläuterung Erklärung
+klassifizieren kategorisieren aufteilen einteilen rubrizieren einordnen
+unpassierbar unbefahrbar weglos unwegsam
+Absperrung Sperre Verbarrikadierung Blockade Barriere
+Pfründe Sinekure
+Sortiment Spektrum Auswahl Palette Bandbreite Spanne Skala
+mosambikanisch mosambikisch
+Hotelbesitzer Hotelier
+Bühne Podium Szene
+Wachheit Vigilität Vigilanz
+biologisch ökologisch
+Tonraum Umfang
+einrichten ausrichten einstellen kalibrieren konfigurieren fluchten justieren eichen
+Mairübchen Navette Nevette Mairübe
+Nichteinhaltung Unterlassung Versäumnis Versäumung
+Aufarbeitung Überholung Erneuerung Wiederherstellung
+Zusammenspiel Mitarbeit Zusammenwirken Kooperation Unterstützung Zusammenarbeit Mithilfe
+versehentlich unabsichtlich unbeabsichtigt Versehen ungewollt
+Umgehung Vermeidung Vermeiden Meiden
+Richtstrahl Leitstrahl Peilstrahl Strahl
+Handhabbarkeit Nutzerfreundlichkeit Gebrauchstauglichkeit Bedienerfreundlichkeit Anwenderfreundlichkeit Usability Nutzbarkeit Benutzerfreundlichkeit Benutzbarkeit
+Übersiedlung Übersiedelung
+Sortimenter Sortimentsbuchhändler
+Rollbrett Skateboard Rollerbrett
+Schönheitspflege Kosmetik
+Handwerkskunst Kunstfertigkeit
+brutal gewalttätig gewaltsam gewaltbereit
+gleichgültig lustlos achselzuckend desinteressiert schulterzuckend indifferent unengagiert denkfaul uninteressiert
+rosig rötlich
+unbegrenzt uneingeschränkt unbeschränkt unlimitiert bedingungslos
+großartig stark phantastisch krass bombastisch fantastisch irre endgeil ultrakrass fulminant phänomenal cool abgefahren
+hohl geschröpft
+Durchmesser Diameter
+wogegen wobei wohingegen wenngleich
+rautenförmig rhombisch
+Vorwahlnummer Ortsvorwahl Vorwahl
+Stier Bulle Muni
+leistungsfähig leistungsstark performant
+befestigen montieren anbringen festmachen anfügen
+rumlümmeln herumgammeln dahinvegetieren rumhängen
+Kristallisation Kristallbildung
+Verbindungsträger Querbalken
+vorangegangen grundsätzlich vorausgehend vorherig vorig grundlegend
+Aufschlussbohrung Explorationsbohrung
+Direktor Rektor
+TK-Ware Tiefkühlware Tiefkühlkost
+präsentieren herzeigen
+Ausscheidung Exkretion
+Enthaltsamkeit Zölibat Ehelosigkeit
+Verfügung Richtlinie Verordnung Vorschrift Regel Order
+Leitlinie Leitsatz Leitmotiv Leitprinzip
+Bestimmung Determiniertheit Festsetzung
+Tomografie Schichtaufnahmeverfahren Tomographie Schnittbildverfahren
+Handgriff Henkel Heft Anfasser Griff Haltegriff Knauf Halt
+Aufschwung Steigen Aufgang
+Ausbildungsförderung Bundesausbildungsförderungsgesetz BAföG
+Wettbewerbsklausel Konkurrenzklausel
+protestantisch evangelisch
+stählen immunisieren abhärten
+Nachahmung Nachahmen Nachäfferei Nachäffen
+korrekt salonfähig einwandfrei anständig schicklich
+pappig klumpig
+Geruch Duft Ausdünstung Aroma
+PR-Kampagne Promotion Werbekampagne Werbefeldzug
+Gelübde Versprechen Zusage Annahme Aufgabe Verpflichtung
+nachlesen nachschauen nachschlagen nachblättern nachsehen
+krankheitserregend pathogen
+schnöde verächtlich schändlich verachtenswert erbärmlich niederträchtig schandbar
+Schwere Gravitation Schwerkraft Anziehungskraft
+verjüngen zuspitzen
+Kaktee Kaktus
+Pulver Puder Staub
+Preiskampf Preiskrieg
+anleiten beibringen einbegleiten instruieren unterweisen einleiten
+juvenil heranwachsend halbwüchsig adoleszent jugendlich
+gewinnbringend fruchtbar nutzbringend ertragreich produktiv ergiebig
+enthemmt unverhältnismäßig schrankenlos übertrieben grenzenlos überhöht überhandnehmend übersteigert unmäßig überschwänglich ungebremst exzessiv exorbitant ungehemmt entfesselt uferlos maßlos ausufernd außerordentlich übermäßig astronomisch hemmungslos überbordend überzogen
+eröffnen introduzieren einarbeiten anfangen herbeiführen einleiten lancieren einführen
+Funktionsumfang Systemfunktionalität Funktionsvielfalt Funktionalität
+abschaffen abwickeln
+praxisfremd theorielastig akademisch philosophisch praxisfern
+Menschenliebe Menschenfreundlichkeit Philanthropie
+Schatzmeister Finanzer Säckelmeister Kassenwart Inkassant Treasurer Kassier Kassenführer Finanzvorstand
+Schlucht Klamm
+Taucher Froschmann
+Ableitung Herleitung Dissipation
+tangieren berühren angehen betreffen
+Polizeiwache Polizeirevier Revier Polizeidienststelle Wache Kommissariat Posten
+Dosierventil Zumessventil
+Reizbarkeit Erregbarkeit
+verstopfen verrammeln
+Rundsteuerung Rundsteuertechnik
+Ausgabensenkung Einsparung
+Umstellung Umsetzung Vertauschung Jitter Permutation
+überwältigen übermannen bezwingen
+Verlosung Lotterie Tombola Auslosung Ziehung
+irgendwer irgendeiner irgendjemand jemand wer Unbekannter
+hereinreichen hineinreichen einreichen
+Schürstange Schüreisen Feuerhaken Schürhaken Stocheisen
+Leitseite Hauptseite Titelseite Indexseite Frontpage Startseite Homepage Einstiegsseite
+Geschöpf Lebewesen Kreatur Wesen Organismus
+H-Bombe Wasserstoffbombe Fusionsbombe
+Empfang Aufnahme Eingang Rezeption
+Bodenertrag Bonität
+fähig qualifiziert fit tauglich firm
+systemorientiert systemgebunden
+umweltbewusst umweltfreundlich grün umweltverträglich umweltschonend
+Sonderbündler Separatist Sektierer
+Saatkörner Saatgut Samen Saat Körner
+Innung Gilde Gewerk Zunft
+irreal erlogen zusammenfantasiert ausgedacht imaginiert erfunden eingebildet surreal haltlos fiktiv belegfrei spekulativ imaginär
+Leergewicht Tara Verpackungsgewicht
+Beschlagnagel Knauf Knopf
+Filigranarbeit Filigran
+Belegung Zuteilung Zuweisung Zuordnung
+Verladung Einschiffung
+Hinweis Verweis Ratschlag Rat Tipp Empfehlung Proposition Vorschlag
+Staatsfeiertag Nationalfeiertag
+Umschwung Revolution Umsturz Umwälzung Subversion Sturz
+aufgliedern zergliedern zerlegen analysieren
+erklären referieren elaborieren erläutern ausmalen ausrollen erörtern resümieren schildern ausführen umschreiben darstellen darlegen wiedergeben beschreiben offenlegen verzälle erzählen ausdrücken beleuchten
+Eckpunkt Orientierungspunkt Orientierungshilfe
+zeitig beizeiten frühzeitig rechtzeitig
+Zuneigung Sympathie Vorliebe Wohlwollen Präferenz Geneigtheit Hang
+Badenser Badener
+seelisch geistig zerebral
+stromdurchlässig leitfähig
+Blutvergiftung Sepsis
+Versorger Ernährer
+Putztuch Wischtuch Lumpen Feudel Lappen Putzlappen Wischlappen Tuch
+Reklamation Zurückgabe Abgeltung Zurückerstattung Abtragung Rücksendung Rückgabe Erstattung Umtausch
+gießen besprengen wässern bewässern begießen
+Mostert Mostrich Senf
+aufschrauben abschrauben
+Funkeln Glanzton Glanz
+tiefdenkend hintergründig profund tiefschürfend tief
+übermäßig übertrieben überaus unverhältnismäßig
+Garantie Garantievertrag
+Schlagschatten Schatten
+Beiboot Dinghy
+freischaffend freiberuflich selbständig
+untreu treulos treubrüchig
+keckern gackern feixen gickeln kichern prusten lachen johlen
+Station Krankenstation
+Hörbehinderung Gehörfehler Hörschaden
+Rühreier Eierspeise Rührei
+Schneewehe Schneebrett Schneeverwehung Schneewechte Wechte Schneeablagerung
+gesundheitsschädlich toxisch giftig gesundheitsgefährdend gesundheitsschädigend
+einfach gewöhnlich banal simpel normal kunstlos schlicht gering
+Küchenchef Küchenmeister Chefkoch
+Platzanweisung Platzierung
+Ranken Böschung Steilhang
+gravierend drakonisch dramatisch einschneidend drastisch durchgreifend schockierend hart krass streng ultrakrass heftig
+Richtzeichen Zielzeichen Richtkreis
+flugfähig lufttüchtig flugtauglich
+Behältnis Behälter Gefäß Aufbewahrungslösung Container
+Fallen Sinken Niedergang Fall Sturz Abfall Untergang
+Anmaßung Hochmut Hybris Vermessenheit Selbstüberhöhung
+Folgerichtigkeit Stimmigkeit Logik
+zugehörend zugeordnet angegliedert angehörend gehörig
+Trick Winkelzug Kabinettstück Kniff Volte Kabinettstückchen Schachzug
+tipptopp rein proper blitzsauber sauber blitzeblank schlierenfrei blitzesauber blitzblank hygienisch pieksauber picobello spiegelblank
+s/w farblos schwarz/weiß
+Spielwarenhandlung Spielwarengeschäft
+klassisch altsprachlich
+organisieren ordnen kommissionieren gruppieren sortieren zusammenstellen
+Waisenkind Waise
+Tätigkeit Handlung Dienst Aktion
+Röntgenstrahlung X-Strahlen Röntgenstrahlen
+gefühlvoll rührselig schmalzig schnulzig gefühlsselig gefühlsbeladen sentimental
+Globetrotter Weltenbummler Weltreisender
+Anmut Liebreiz Reiz Ästhetik Schönheit Ebenmaß Grazie
+Pressearbeit PR Öffentlichkeitsarbeit PR-Arbeit
+Pfandflasche Mehrwegflasche
+Adaptabilität Flexibilität Anpassungsfähigkeit Adaptivität
+Vorhangstoffe Schnittwaren
+ausmerzen tilgen plätten vernichten austilgen plattmachen ausrotten beseitigen exterminieren
+daheim zuhause
+anspruchsvoll anstrengend aufwändig fordernd mühsam belastend beschwerlich strapaziös aufwendig schwierig heavy mühselig
+reuelos unbußfertig
+Kreditgeschäft Kreditgewerbe
+Austragungsort Schauplatz Veranstaltungsort
+scherzhaft lästernd ironisch spöttelnd spöttisch lästerlich halbernst scharfzüngig spitz
+schreien grölen johlen brüllen
+ermutigen aufbauen trösten
+Orthographie Rechtschreibung Orthografie
+Starter Anlasser
+Autarkie Selbstversorgung Selbständigkeit Subsistenzwirtschaft Selbstständigkeit
+abspeichern speichern sichern zwischenspeichern
+polyvalent mehrwertig
+sehen aufklären verorten erkennen ermitteln detektieren herausfinden festmachen feststellen konstatieren aufdecken ausmachen eruieren identifizieren entdecken
+Eiskunstläufer Schlittschuhläufer
+streitig strittig
+Anstrengung Bestreben Bemühung Bemühen Bestrebung Anlauf Versuch
+Tabellenführung Tabellenspitze
+Rezept Arzneimittelverordnung Medikation Medikamentation
+Taktgeber Vorruderer Schlagmann
+Tagesbericht Bekanntmachungsblatt Report
+Ansiedler Siedler
+Erleuchtung Einfall Idee Eingebung Gedanke
+Abtastrate Samplingrate Samplerate Abtastfrequenz
+Landjunker Junker
+Neugier Offenheit Interesse Interessiertsein Interessiertheit Neugierde
+Halskette Kollier Collier Halsband
+Reinigungskraft Zugehfrau Raumpflegerin Gebäudereinigungskraft Putzkraft Putzteufel Raumkosmetikerin Putzhilfe Bedienerin Reinemachefrau Putze Reinmachefrau Putzfee Putzfrau
+Barausschüttung Bardividende
+besamen befruchten inseminieren
+Studieren Studium Hochschulausbildung
+Errettung Rettung Bergung
+überpenibel kleinlich kleinkariert detailbesessen buchhalterisch übergenau akribisch penibel pedantisch minutiös hyperkorrekt detailverliebt pingelig perfektionistisch minuziös detailversessen pinselig
+Schrägstellung Zeichenneigung
+wellig schief windschief verzogen krumm verbogen
+ermutigen stärken bringen stimulieren animieren ermuntern bestärken anregen aufrufen anspornen
+Habseligkeiten Besitzung Habe Eigentum Vermögen Besitzstand Siebensachen Besitz
+Gerichtshof Gericht
+sinnentstellend verfälschend
+Kollektivierung Vergesellschaftung Enteignung Nationalisierung Verstaatlichung
+Vorderarm Unterarm
+Opportunität Gelegenheit Möglichkeit Anlass
+eingreifen einmischen eingreifen intervenieren einschalten dazwischentreten dazwischengehen einschreiten reinhängen
+Wandteppich Wandbehang
+Verkleidung Ummantelung Verschalung
+Verbindungsdauer Anrufzeit
+Guckloch Türspion Schauloch
+Frauenrechtlertum Feminismus Frauenemanzipation
+Asche Verbrennungsrückstand Schlacke Brandrückstand
+erfüllen akzeptieren beherzigen befolgen annehmen halten folgen einhalten hören
+abzählen zählen
+seetauglich seefest seetüchtig
+schmälern nachlassen verkleinern ermäßigen kürzen herabsetzen runterfahren mindern heruntersetzen absenken zurückfahren unterbieten reduzieren erniedrigen senken dämpfen runtergehen herunterschrauben herunterfahren einschränken
+Trichter Erdfall Krater Kessel
+Overheadfolie Folie Overhead-Projektor-Folie
+Cer Zer Zerium Cerium
+zugleich zusammen
+Forschungsanstalt Forschungsinstitut
+Unterbekleidung Unterwäsche Weißwäsche Wäsche Dessous Leibwäsche Trikotagen
+Zugriffsart Zugriffsverfahren
+versäumen vergessen verpennen verfehlen verpassen verschlafen verschwitzen übersehen verabsäumen verbaseln
+zuordnen zuweisen
+Leinwand Reifengewebe
+ungeschlechtlich geschlechtslos
+zerlegen dekomponieren sezieren zergliedern
+erzielen umsetzen erwirtschaften einnehmen
+Küste Gestade Strand Ufer
+Buchse Büchse
+Amt Amtsstelle Dienststelle Behörde
+reifizieren verdinglichen hypostasieren vergegenständlichen
+zirpen zwitschern
+schnellen schnipsen schnalzen schnicken schnippen
+Galvanotechnik Galvanik Elektroplattieren
+Ablage Abheften Aufstapeln Ablagerung Kellern Ablagekasten Ablegen
+ultraviolett UV
+Stachys Japanknolle
+Pyrometer Strahlungsthermometer
+Werbekosten Werbungskosten
+Kundschafter Eklaireur Späher Aufklärer
+robust zäh widerstandsfähig strapazierfähig ausdauernd
+Requisiteur Requisite
+Wölbung Gewölbe
+Gebildetsein Bildung
+Abholzung Abforstung
+aufpusten aufpumpen aufblasen aufblähen
+Lob Ehrenbezeigung
+Pflänzling Sämling Jungpflanze Steckling Setzling Sprössling Spross
+Parteilichkeit Voreingenommenheit Einseitigkeit
+geädert granuliert
+geschockt konsterniert schockiert entgeistert ratlos durcheinander verständnislos verdattert fassungslos
+Zufahrtsstraße Zugang Zutritt Anfahrt
+essentiell ureigen innewohnend wesenhaft arteigen essenziell immanent
+bekanntgeben ankündigen melden annoncieren ansagen verkünden künden
+Federballspiel Badminton Federball
+parteifrei wertfrei parteilos neutral unparteiisch
+Anfall Zusammenbruch Attacke
+Montageplan Bauplan Lieferplan
+Inselbewohner Insulaner
+Anzeigentarif Anzeigenpreis
+untergehen aussterben erlöschen
+Hybrid Bastard Halbblut Mischling
+Vertrauen Gewissheit Glaube Zuversicht
+gehorsam folgsam erbittlich willig
+Fachwerk Gefach Holzgerüst Ständerfachwerk
+Ebene Fläche
+genusssüchtig epikureisch epikurisch
+Absatzgebiet Handelszentrum Börse Markt Umschlagplatz Handelsplatz Absatzmarkt
+durchstreichen ausstreichen
+Maischkessel Maischbottich
+Geschichtswissenschaftler Geschichtsforscher Historiker
+Salzlake Lake Pökellake Gewürzlake
+übersprudeln überschäumen
+erleuchten erhellen beleuchten ausleuchten
+Bestandgeber Verpächter Vermieter Verleiher
+glanzlos dumpf stumpf kontrastarm matt
+Bekanntmachung Informationsaustausch Mitteilung Nachricht Kunde Botschaft Bericht
+Winkelfrequenz Kreisfrequenz
+erbringen hereinholen abwerfen einbringen abfallen
+Einsendung Einreichung
+vereindeutigen disambiguieren
+Verschluss Verriegelung Schließmechanismus
+Mindesthaltbarkeit Mindesthaltbarkeitsdatum Verfalldatum Verfallsdatum Fälligkeitsdatum Ablaufdatum MHD
+Regress Rückgriff
+Hilfsmittel Vorschub Beihilfe
+okkult heimlich geheim verstohlen verborgen verhohlen
+jedoch bloß indes doch dennoch nur trotzdem indessen allein dabei aber
+Radiotherapie Radioonkologie Strahlentherapie Bestrahlung Strahlenbehandlung Strahlenheilkunde
+gesellig kontaktfreudig
+originell neuartig neu innovativ frisch
+narbig schrammig
+einberufen einziehen
+unterbrechen intermittieren
+Themenbereich Themenkreis Thema
+Sparpackung Familienpackung Haushaltspackung
+leimen kitten kleben kleistern
+Niederdeutsch Plattdeutsch Platt
+Faltblatt Faltprospekt Broschüre Flyer
+Mittäterschaft Komplizenschaft Tatbeteiligung
+Beschränkung Begrenzung Limitierung Grenze Limit Limitation Limite
+Reaktionär Konservativer
+Neufassung Neuauflage Neugestaltung Remake
+jemals je
+Stockung Einstellung Stagnation Stillstand
+Grasdecke Grasnarbe Grasteppich
+Dichtstoff Dichtungsmittel Füllmaterial
+Sockelleiste Scheuerleiste
+Entspannungsmittel Relaxans
+Vielschreiber Schreiberling Wortedrechsler Skribent Schmierfink
+Unbedenklichkeitsbescheinigung Unbedenklichkeitsnachweis Unbedenklichkeitserklärung Persilschein
+Murren Knurren
+Fallstudie Fallbeispiel
+Kuweit Kuwait
+Erscheinungsbild Figur Erscheinung Gestalt Aussehen
+Insiderhandel Insidergeschäft
+Wurfmaschine Katapult
+Ausweitung Verlängerung Dilatation Dehnung Erweiterung
+Copilot Kopilot
+anspannen verspannen
+Morgenrot Morgenröte
+Ernannter Beauftragter
+Tintenstrahldrucker Tintendrucker Tintenpisser
+Bulletin Bekanntgabe Bekanntmachung Kundmachung Offenlegung Ankündigung Kommuniqué Verlautbarung Notifikation Mitteilung
+Erkenntlichkeit Dankbarkeit
+würdigen honorieren bestätigen quittieren anerkennen
+Protektionist Verfechter
+Selbstbestimmung Eigenverantwortung Eigenverantwortlichkeit Selbstverantwortung
+Befugnis Kompetenz Verantwortlichkeit Bereich Verantwortung Obliegenschaft Verantwortungsbereich Zuständigkeit
+Bimsstein Bims
+verbringen verleben zubringen
+weinerlich überempfindlich wehleidig tränenvoll tränenselig übersensibel selbstmitleidig larmoyant
+Angebotskurs Briefkurs
+schnittig schmissig rassig
+Verschleppungstaktiker Filibuster Verzögerungstaktiker
+heiter klar wolkenlos hell
+Motivation Interesse
+Emporheben Anstieg Erhöhung
+Ansehen Renommee Bedeutung Geltung Achtung Standing Wertschätzung Hochachtung Einfluss Prestige Autorität Würdigung
+Beförderung Nachsendung Versand
+einbruchssicher aufbruchsicher einbruchsicher diebstahlsicher
+Kohlenstofffaser Karbonfaser Carbonfaser Carbon Kohlefaser
+zypriotisch zyprisch
+überwiegend schwerpunktmäßig insbesondere hauptsächlich vorrangig primär größtenteils vorwiegend
+Tagtraum Wachtraum
+Verzögerung Zeitverzögerung Verspätung Verzug
+Sittenlehre Ethik Morallehre Tugendlehre
+Jüngling Bursche Knabe Bursch
+Neubürger Immigrant Migrant Neuzuzüger Einwanderer Zuzüger Zugezogener Zugereister Zuwanderer Zuzügler Reigschmeckter
+Androhung Drohung Bedrohung
+Knallgeräusch Knackgeräusch
+Mechanik Funktionsweise Arbeitsweise Prinzip
+Münster Kathedrale Dom
+Zeremoniell Ritual Ritus Übung Zeremonie
+Weltgesundheitsorganisation WHO
+Wiederverwertbarkeit Recyclebarkeit Recyclierbarkeit Recycelbarkeit Wiederverwendbarkeit
+besiedeln bevölkern
+Krankheitskeim Keim Krankheitserreger Bazillus
+trägerlos schulterfrei
+schleusen regieren geleiten dirigieren navigieren manövrieren bugsieren lotsen leiten führen
+Verwahrgebühr Depotgebühr
+Ausschaltung Trennung
+lockig onduliert gekräuselt gewellt gelockt wellig kraus
+verzapfen einstemmen einzapfen
+Aufspürbarkeit Verfolgbarkeit
+Herzentzündung Karditis
+Mentor Berater Ratgeber
+Fission Zellteilung
+Position Stätte Punkt Fleck Lage Ort Lokalität Standort Location Stelle
+Zivilisation Gesittung
+Ziegelton Lehm
+verräterisch trügerisch täuschend
+Lid Augendeckel Augenlid
+akustisch phonetisch
+eitern schwären vereitern
+Verstoß Ordnungswidrigkeit Verletzung Nichteinhaltung Zuwiderhandlung Überschreitung Übertretung
+Wirtschaft Speisegaststätte Speisewirtschaft Gasthof Grieche Gasthaus Lokal Gaststätte Gastwirtschaft Wirtshaus Restaurant
+Bildmischer Bildmischpult
+Buschwald Gesträuch Buschwerk Gestrüpp Macchie Gebüsch Dickicht Maquis Unterholz Macchia Strauchwerk
+Kerlchen Junge Kleiner Steppke Kurzer Knirps Bub Knabe Wicht Jungchen Bube Bengel Pimpf
+Isolierstein Schaumstein
+Eintrag Aufschrift Widmung Eintragung Inschrift
+Kaje Anlegeplatz Quai Kai
+Respektlosigkeit Überheblichkeit
+Co. Kompagnie Handelsgesellschaft Compagnie Handelskompanie Kompanie
+hoheitsvoll königlich royal fürstlich erlaucht regal majestätisch
+Überbrückungsdraht Überbrückung
+Schlaufe Masche Schleife Schlinge
+verheißen vorhersagen
+nervenstark unaufgeregt gleichmütig gefasst kühl kaltblütig unerschütterlich seelenruhig ungerührt stoisch ruhig
+Nahselektion Trennschärfe Empfindlichkeit
+zuweisbar angebbar
+einspannen abkommandieren forcieren einfordern zwingen verpflichten erzwingen bestimmen verdonnern nötigen anhalten vergattern
+Rate Satz Tarif
+schwammig samten flauschig samtig soft flaumig fluffig wollig flauschweich samtweich weich sanft
+Luftversorgung Belüftung Ventilierung Entlüftung Ventilation Lufterneuerung Luftzufuhr Lüftung
+Altbier Alt
+vorausbemerken vorgreifen vorwegnehmen antizipieren
+Knochenentkalkung Osteoporose Knochenschwund
+Schuhnagel Stiefelnagel Schuhzwecke
+Laster Unzucht Schamlosigkeit Triebhaftigkeit Lüsternheit Geilheit
+Durchkontaktierung Durchschaltung
+Erwerbsunfähigkeit Arbeitsunfähigkeit Invalidität
+Fasson Gestalt Form
+submarin unterseeisch
+Aufführung Vorstellung Inszenierung
+Wirtel Quirl
+Apparate Maschinenpark Maschinen Maschinerie Apparaturen
+Zucht Haltung Aufzucht
+Zwischenregierung Interregnum
+Entwicklungszustand Punkt Stufe Periode Abschnitt Entwicklungsstand Phase Entwicklungsabschnitt Entwicklungsstadium Station Stadium Entwicklungsstufe Entwicklungsphase
+Taufpate Patenonkel Pate Gevatter
+Trophäe Siegeszeichen
+höchstens maximal max.
+Felsvorsprung Kliff
+Vorherrschen Überhandnehmen Prävalenz
+Projektion Vorsprung Vorhersage Vorausschau Schätzung Prognose
+Fehlempfindung Parästhesie
+pünktlich fahrplanmäßig planmäßig
+Gruppe Elementgruppe
+verflechten verweben
+Auflage Überzug Metallüberzug Schutzschicht
+Flanke Rand Flügel Seite
+Popularität Beliebtheit
+Kaffeehaus Café
+Entscheidung Urteilsfindung Abstimmung Abstimmen
+Rückschrägstrich Backslash Rückstrich
+Spieldauer Laufzeit Spielzeit
+Gebühr Beitrag
+Anzeigenakquisiteur Anzeigenverkäufer Anzeigenvertreter
+Sterblichkeitsrate Sterberate Mortalität Sterblichkeit
+bezaubern verwandeln verhexen verwünschen verzaubern
+krampfähnlich krampfhaft konvulsivisch spasmisch konvulsiv spasmodisch krampfartig
+staatsfeindlich umstürzlerisch subversiv
+Erfolgsaussicht Erfolgschance
+Fuchsschwanz Handsäge
+Augenwischerei Selbstbetrug Selbsttäuschung Lebenslüge Realitätsverleugnung Schönfärberei
+Mäzen Förderer Impresario Sponsor Gönner
+Schändung Entehrung Missbrauch Vergewohltätigung Vergewaltigung Notzucht
+Erdichtung Dichtung
+Beglaubigung Akkreditierung
+Sichtfeld Blickwinkel Blickrichtung Aspekt Ansicht Sicht Anschauungsweise Standpunkt Perspektive Sichtweise
+StVO Straßenverkehrsordnung
+Gemütlichkeit Komfort Bequemlichkeit
+überstürzen huddeln überhasten übereilen
+Urteil Ausspruch Diktum
+Kelle Mörtelkelle Maurerkelle
+holprig abgehackt ruckartig
+Mahlstein Schleifstein
+Schein-Tiefsinn Geschwätz Geschwurbel Geseire Geschwafel Gelaber Gerede Blabla Gefasel Geschwalle Geblubber Schmus Luftblasen Sermon Geplänkel Gemunkel Gewäsch
+Messband Bandmaß Maßband Rollbandmaß Rollmeter
+Läusebefall Pedikulose Phthiriasis
+schädlich ungünstig lausig widrig ungut nachteilig negativ schlecht dürftig
+Kasten Box Packung Päckchen Schachtel
+Denkweise Ausdruck Auffassung Vorstellung Begriff Idee Anschauung
+Sperrung Blockierung Hemmung Inhibition
+Befruchtung Insemination
+Verdunkelungsschalter Dimmer
+Empfangsdame Empfangschefin Rezeptionistin Concierge
+Gummischuh Gummiüberschuh Galosche
+kritisch riskant besorgniserregend beunruhigend gefahrenträchtig abenteuerlich brenzlig bedrohlich gefährlich unsicher bedenklich ernst
+Drehring Radiallager Drehlager
+Dämpfung Schwund Dekreszenz Degression Regression Abnahme Verringerung Einbuße Nachlassen Rückgang Abfall
+Dasein Existenz Leben
+Nelkenpfeffer Piment
+Topfwurst Blunzen Rotwurst Puttes Blunzn Blutwurst Flönz Schwarzwurst
+verbannen verfemen ächten
+Auszeichnung Preis Ehrung Dekorierung
+Liquidator Masseverwalter Abwickler Konkursverwalter Gesamtvollstreckungsverwalter Insolvenzverwalter
+Startpunkt Start Ausgangspunkt Keimzelle
+Scheinarzneimittel Scheinmedikament Scheinarznei Placebo
+abtasten scannen ablesen
+einrichten gestalten
+Wölbstein Wölber Gewölbestein Keilstein
+aufgeladen geladen voll
+Auslese Wahl Bevorzugung Auswahl Präferenz Selektion Blütenlese Körung
+Immobilieneigentum Eigenheim
+Herstellungsdatum Produktionsdatum
+Gejammer Wehgeschrei Herumgejammer Jammerei Gezeter Geheul Klage Lamento Wehklagen Jammer
+Okzident Europa Abendland Westen
+Selbstbezogenheit Eigensinn Eigennutz Egoismus Eigennützigkeit Eigensüchtigkeit Selbstsucht Ichsucht
+Burggraben Festungsgraben
+Haltung Positur Körperhaltung Stellung Gestus Pose
+Orchestergraben Orchesterraum
+knüpfen knoten
+regeln managen herrschen beherrschen
+Zierleiste Leiste Profilleiste Latte Holzleiste
+Trägerschwingung Trägerwelle
+Raspel Reibeisen
+Badeteich Schwimmteich Badeweiher
+Verkündigung Verhängung
+selbstständig selbständig selbstbeweglich automatisch automagisch maschinell automatisiert
+Abfallcontainer Müllcontainer
+Hutkrempe Krempe
+maskieren verbergen
+Räson Wirklichkeitssinn Hausverstand Ratio Vernunft
+Bestellungsannahme Auftragsbestätigung
+Qualm Rauch
+Klemmstück Klemmschelle
+Industrieland Industriestaat
+Übereinstimmung Deckungsgleichheit Kongruenz
+Backenknochen Kinnbackenknochen
+Puffern Caching Zwischenspeichern
+Mistgabel Heugabel
+machthaberisch despotisch
+Personalausweis Identitätskarte Lichtbildausweis Perso
+ausplaudernd ausplappernd
+Versuch Unternehmung Vorsatz
+repräsentativ abbildend vertretend
+Ufer Küste Seeufer Meeresufer
+Berechenbarkeit Vorhersagbarkeit
+spinnert spleenig sonderbar merkwürdig kauzig absonderlich verschroben wunderlich skurril schrullig speziell strange überspannt schrullenhaft eigenartig schräg abgedreht ungewöhnlich
+Bewältigung Lösung Erfüllung Vollendung Vollbringung Abschluss
+zielstrebig beharrlich eisern konsequent penetrant hartnäckig
+Fastenzeit Fasten
+Schlummerrolle Nackenrolle
+Geleitwort Einleitung Vorwort Präambel
+beladen laden belasten
+Atrium Hof Innenhof Patio Kreuzgang Lichthof
+bestrickend anziehend verführerisch reizvoll reizend hinreißend anlockend anmächelig herzig attraktiv ansprechend liebenswert bezaubernd verlockend betörend gefällig zauberhaft
+Bergbewohner Hochländer Hochlandbewohner
+Systementwurf Systemplanung
+begehrenswert erstrebenswert begrüßenswert willkommen erwünscht gerngesehen wünschenswert
+Drehstange Achse Welle
+Finale Endrunde Finalrunde
+knarzen kratzen ächzen quietschen schnarren knirschen knarren
+Führerhaus Kabine Führerkabine Führerstand Fahrerhaus Fahrerkabine
+Schadensachbearbeiter Schadensachverständiger
+möglicherweise eventuell sollte potenziell notfalls ggf. vielleicht gegebenenfalls u.U. mögen potentiell evtl. eventualiter womöglich
+anführen vorbringen zitieren nennen
+wienern polieren
+verknüpfen stapeln zusammenfassen erfassen
+Ständchen Serenade
+Trampelpfad Pfad Weg Steg Steig
+interpretieren auslegen deuten deuteln
+empfehlen anempfehlen anraten zuraten raten vorschlagen nahelegen
+Einzelfall Ausnahme Ausnahmefall Sonderfall
+behalten aufbewahren erhalten aufheben bewahren konservieren lagern verwahren asservieren
+Gehörlosigkeit Taubheit Surditas
+unterbrechen abbrechen stoppen schmeißen
+herumbrüllen rumbrüllen auffahren blöken herumschreien brüllen aufbrausen
+Bücherei Bibliothek
+Buchführer Buchhalter
+Anhängsel Suffix Nachsilbe
+Kniebundhose Knickerbocker Kniehose Kniehosen Culotte
+Dekolleté Décolleté Dekolletee Ausschnitt
+Zellophan Cellophan Zellglas Cellulosehydrat
+Färöer Färöer-Inseln Schafsinseln
+Bursche Dienstbote Butler Ordonnanz Bediensteter Kammerdiener Page Hausbursche Hausangestellter Domestik Diener Boy
+Durchtreiber Durchschläger
+Offenlegung Aufdeckung Entschleierung Bloßlegung Bloßlegen Bloßstellung Demaskierung Enthüllung Entlarvung
+zusammenrechnen zusammenzählen addieren zusammenziehen
+ebenso dito dgl. desgleichen detto
+Ruf Ausruf Exclamatio Schrei
+Fertilisation Befruchtung
+Haltlosigkeit Unbeständigkeit
+retten sichern
+bleiben ausruhen ruhen
+Drehimpulssatz Drallsatz
+Grad Celsius C
+Break-even-Punkt Rentabilitätsschwelle Break-even-Point Gewinnschwelle
+Präsent Geschenk Gabe Aufmerksamkeit
+sigmoidal sigmoid s-förmig
+außerirdisch extraterrestrisch
+inhalieren einatmen
+Sterbehilfe Euthanasie
+betäubt besinnungslos narkotisiert bewusstlos weg komatös ohnmächtig
+vertrauenerweckend seriös vertrauenswürdig
+Spitze Vorhut Führung
+naturbelassen urwüchsig ungekünstelt natürlich urchig kernig naturgemäß
+Reparatursatz Reparaturset
+entfrosten auftauen
+Gemischzusammensetzung Luft-Kraftstoff-Verhältnis
+Übersprudeln Überschäumen
+Zugkraft Wirkungskraft
+Geldkasten Kasse Kassa Geldkasse Geldschublade Geldkassette Ladenkasse
+aufschnüren abbinden aufbinden losbinden
+Wirkursache Auslöser Anregung Anreiz Beweggrund Anlass Impuls Veranlassung Initialzündung Motiv Stimulans Quelle Ursache Anstoß Hintergrund Grund
+blutleer käsig leichenblass kreideweiß kreidebleich totenblass kalkweiß aschfahl blass käseweiß fahl
+Feuerfestziegel Schamottestein
+Krampfader Venenknoten Varix Varize
+Kompresse Bandage Verband Umschlag
+störend hinderlich behindernd
+Aushalten Erdulden Ertragen
+CB-Funk CB
+Mehrwertsteuer Umsatzsteuer Märchensteuer MwSt.
+Musterfall Präzedenzfall Präzedenz Präjudiz
+Schulbeginn Schulanfang Einschulung
+dermaßen so derart dergestalt solcherart
+Bundesverband Bundesvereinigung
+Fürsorge Obhut Geborgenheit Sorge Verantwortung Schutz Geborgensein Gewahrsam Verfügungsgewalt Fürsorglichkeit Aufsicht
+Ressentiment Voreingenommenheit Befangenheit Vorurteil Vorbehalt
+eingearbeitet hineingearbeitet eingearbeitet
+Stärkung Erquickung Erfrischung
+Produkt Erzeugnis Fabrikat
+Scheuerlappen Aufnehmer Feudel Scheuertuch
+Kniefall Niederwerfung Proskynese
+glühend unruhig heftig furios wild ungestüm hitzig turbulent ungezügelt rasend stürmisch
+Skull Ruder Riemen
+hinein in rein
+Bürde Belastung Last
+sagen sprechen reden
+Schaufensterauslage Auslage
+Systemanalytiker Systemberater
+Variante Abart Derivat Spielart Modifikation Anpassung Alternative Variation Mutation Version Abwandlung Veränderung Ausführung
+Vorausplanung Vorausdisposition
+Urteilsspruch Spruch Urteil Verdikt
+VB Verhandlungsbasis
+Sachverhalt Kern Fall Kernpunkt
+hereinrufen aufrufen
+Wettbewerbsfähigkeit Konkurrenzfähigkeit
+Anzeige Monitor Anzeigegerät Display Schirm Bildschirm
+übermüdet schlapp unausgeschlafen übernächtigt
+Sterndeuter Astrologe
+Haftreibung Ruhereibung
+Effektivwert Quadratmittel
+Tetrachlorkohlenstoff Kohlenstofftetrachlorid
+Ausgleiten Fehltritt Ausrutschen
+erklettern hochsteigen besteigen erklimmen kraxeln steigen hochkraxeln klettern hochklettern
+zutreffend korrekt exakt goldrichtig richtig
+Bodenverfestiger Bodenverdichter
+Eindämmung Uferdamm Damm Kai Deich
+Lupe Leseglas Vergrößerungsglas
+dennoch obwohl während gleichwohl trotzdem wiewohl wenngleich obzwar obschon obgleich wennschon
+Verwertung Auswertung Ausnutzung Nutzbarmachung Verwendung
+nuscheln murmeln brummeln
+Gemisch Gebräu Mixtur Melange Cocktail Mix Mischung
+Unternehmenstochter Tochterfirma Tochtergesellschaft Tochter Tochterunternehmen
+wirtschaftlich profitabel nutzbringend ertragreich erstrebsam vorteilhaft
+Steuer Zehnt Zehnter Zent Zehent Abgabe Zehend
+Schabe Kakerlak Küchenschabe Kakerlake
+kameradschaftlich kumpelhaft
+Ungeeignetheit Untauglichkeit
+kollationieren vergleichen
+Sparren Dachsparren
+trampelt stampfen stapfen treten
+Blütenstaub Blütenpollen Pollenkörner Pollen
+Maßnahme Maßregel
+Misston Dissonanz Missklang Kakophonie Geschrammel Disharmonie Kakofonie
+Abstufung Schattierung Nuancierung Abschattung Nuance Tönung Zwischenstufe Stich
+UPU Weltpostverein
+flüchtig abgängig abgehauen ausgebüxt entkommen weg weggelaufen absent entfleucht abwesend ausgeflogen fort getürmt geflohen ausgerissen durchgebrannt entflohen geflüchtet
+Verwaltungspraxis Verwaltungsgepflogenheit
+ausgelassen überbordend überschäumend quirlig sprudelnd
+behindert gehandikapt gehandicapt eingeschränkt
+Eliminierung Beseitigung Erledigung Ausschluss Elimination
+Programmstopp Anhaltepunkt
+Schiedsabkommen Schiedsvertrag
+Schicklichkeit Anstand Usus Gepflogenheit
+Logbuch Bordbuch Schiffstagebuch
+Feuchtwarze Condyloma Genitalwarze Feigwarze
+Gemüsebeet Blumenbeet Beet
+Menü Befehlsübersicht
+Skrofeln Skrofulose Skrofuloderm
+weiblich feminin fraulich
+philisterhaft spießbürgerlich
+sprachwissenschaftlich philologisch
+Glucksen Kichern
+Tyrann Diktator Unterdrücker Despot Zwingherr Gewaltherrscher
+Black-out Erinnerungslücke Aussetzer Blackout Alzheimer Gedächtnislücke
+seicht flach untief
+verbinden assoziieren verketten verknüpfen
+Unterhändler Vermittler Nuntius Legat
+marktfähig handelbar absatzfähig monetarisierbar liquidierbar handelsfähig
+Zahlungseinstellungserklärung Insolvenzerklärung Bankrotterklärung Zahlungsunfähigkeitserklärung Konkurserklärung
+zärtlich sanft sacht lieb zart behutsam einfühlsam liebevoll
+Auktionator Versteigerer
+belegen aufzeigen beweisen nachweisen zeigen bestätigen
+Meisterleistung Meisterstück Glanzstück Meilenstein Bravourleistung Bravurstück Geniestreich Ruhmesblatt Großtat Bravurleistung Glanznummer Bravourstück Meisterwerk
+Stromversorgungseinheit Netzteil
+barock schnörkelhaft schnörkelig überladen arabesk manieriert verschnörkelt
+serienmäßig seriell nacheinander sequentiell
+Beiheften Anheften
+überholen schnupfen versägen übertreffen einholen
+Beraubung Raub Raubüberfall Räuberei
+Adressenausfallrisiko Adressrisiko Kreditrisiko Ausfallrisiko
+Anschluss Knotenpunkt
+Steueraufschlag Zusatzsteuer
+Krampf Muskelkrampf Spasmus Verkrampfung
+hinten rückseitig endend dahinter
+loslaufen losstürzen
+Ersatzpatrone Ersatzkartusche Ersatzmine
+zart feinfühlend weich feinfühlig zartfühlend empfindlich
+ausheben ausbuddeln ausgraben ausschachten
+umleiten ableiten
+Domino Dominospiel
+Ernährungsweise Ernährung
+Realitätsflucht Wirklichkeitsflucht Eskapismus Weltflucht
+ausgefallen uncharakteristisch kurios untypisch atypisch außergewöhnlich ungewöhnlich schräg unnormal speziell
+Ehegespons Männe Alter Gatte Lebensgefährte Gespons Ehepartner Partner Kerl Ehemann Mustergatte Macker Ehegatte Angetrauter Gemahl Mann Göttergatte
+Wahlberechtigung Stimmrecht Wahlrecht
+Wasserstoffperoxid Wasserstoffperoxyd Wasserstoffsuperoxid Wasserstoffsuperoxyd
+Wärmeisolierung Wärmeschutz Wärmedämmung
+Anwendungsgebiet Anwendungsbereich
+Note Lappen Papiergeld Nötli Banknote Geldschein Schein Notenschein
+Ausschreibung Angebotseinholung
+Verbreiterung Zunahme
+Bastelei Bastelarbeit Bastelkram Gebastel
+Freistellung Dispens Befreiung
+Mittelamerika Zentralamerika
+abschätzig abfällig absprechend geringschätzig gönnerhaft despektierlich abwertend respektlos naserümpfend verachtungsvoll gleichgültig gnädig missbilligend diskriminierend pejorativ herablassend missfällig verächtlich
+Differenzierglied Differenzierer
+Schätzpreis Schätzungspreis
+Veranlagung Erbanlage Gene
+Gegenwehr Widersetzlichkeit Widerworte Unbotmäßigkeit Widerstand Aufbegehren Ungehorsam Gegenwind Aufmüpfigkeit Unfolgsamkeit Insubordination
+Glosse Randbemerkung
+eitrig purulent
+Kreuzgelenk Kardangelenk
+Beförderung Aufstieg
+Geldstück Münze Klimpergeld Kupfer Kleingeld Münzgeld Hartgeld
+Umrechnungsfaktor Konvertierungsfaktor
+Effemination Fraulichkeit Weiblichkeit
+Lautsprecherbox Brüllwürfel Lautsprecher Klanggeber Box
+anschlagen anstechen anzapfen
+Bitversatz Schräglauf
+massiv fest eng dicht gedrängt
+Gerichtsdiener Saaldiener Amtsdiener Büttel Fronbote
+Extra Nachschlag Zugabe Naturalrabatt Bonus Draufgabe Dreingabe Bonbon Beigabe
+Befragung Umfrage Nachforschung Untersuchung Erfassung Erkundigung Enquete Erhebung
+kompetent fähig ausgebildet
+Abschaltung Passivierung Deaktivierung
+Spezialgeschäft Fachgeschäft Fachmarkt Fachhändler
+Erfassungsliste Zugangsliste
+Wasserstrudel Wirbel Strudel
+pfeifen piepsen piepen fiepen fiepsen quieksen quieken
+horten aufbewahren eindecken hamstern bunkern
+Spachtel Spatel
+Uneinheitlichkeit Inhomogenität Disparität Verschiedenartigkeit Ungleichartigkeit Heterogenität
+Kelch Gral Becher Kelchglas
+wiederholend turnusmäßig zyklisch wiederkehrend periodisch regelmäßig
+Unversehrtheit Unbescholtenheit Integrität
+sozusagen gewissermaßen
+Treffpunkt Meetingpoint Tummelplatz Sammelstelle Sammelplatz Sammelpunkt
+Gelenkschmerz Arthralgie
+Gewindekontrollapparat Gewindekomparator
+Teilhaber Mitbesitzer Partizipant Kompagnon
+schwirren surren strudeln flattern
+Anrechnung Berechnung
+Abfrage Nachfrage Anfrage
+Aktieninhaber Börsenspekulant Shareholder Aktionär Aktienbesitzer Teilhaber Anteilseigner
+unaufgefordert unverlangt ungefragt selbsttätig automatisch
+Fliehen Flucht Abhauen Entkommen Durchbrennen
+Selbstkenntnis Selbstkonzept Selbstwahrnehmung Selbstbewusstsein
+Kargheit Dürftigkeit Entbehrung Not Mangel Armut Armseligkeit
+Spaltung Teilung Aufspaltung Trennung Aufsplittung
+nachrennen hinterherrennen nachlaufen hinterherlaufen
+Wirsingkohl Welschkohl Wirz Kohl Welschkraut Wirsing
+Lötverbindung Lötung Lötstelle Lötnaht
+Wiederholung Wiederaufflammung Rückkehr Iteration Turnus Repetition Rotation Wiederauftauchen Wiederkehr
+tabu verboten verpönt untersagt
+verfleckt besudelt befleckt fleckig
+Mauser Haarwechsel Häutung
+Bildnis Abbildung Darstellung Bild Illustration Ebenbild
+Auschecken Ausbuchen
+anständig geradeheraus grundanständig lauter wahrhaft aufrecht fair kreuzbrav grundehrlich rechtschaffen grundgut ehrbar veritabel treu ehrlich aufrichtig redlich honett unverstellt patent
+Desorption Austreiben
+Tagesanbruch Morgenstund Morgenstunde Morgen Früh
+ausweiten weiten
+Kickstarter Tretanlasser
+weitere andere alternative zusätzliche übrige sonstige
+Fürsprecher Lobbyist Fürbitter
+Spleiß Spreißel Spältel Span Speudel Splitter Schiefing Speil Schiefer Schnitzel Spanholz Speu Bruchstück
+entfernt weit fern
+Rentenbezieher Rentenempfänger Pensionär Pensionist Ruheständler Rentner Pensionsbezieher Rentier
+Spiralspannstift Spannstift
+Anleihen Kreditbeanspruchung
+tastbar palpabel spürbar fühlbar
+Kebab Fleischspieß
+gezielt präzis präzise spezifisch
+Harnvergiftung Urämie
+Baschkortostan Baschkirien
+aufwühlen aufrühren umrühren rühren
+Taschenklemme Clipschelle Klemme Schelle
+Kleinhändler Krämer Höker
+Selbstdisziplin Selbstbeherrschung Disziplin
+Stützbalken Strebe
+Abstreifer Wischer
+forensisch gerichtsmedizinisch
+Helfer Retter
+transportieren schleppen tragen
+Mittagessen Lunch
+Festkleben Verkleben Kleben
+Gefährte Wegbegleiter Begleiter Sozius Weggefährte
+Messfühler Detektor Fühler Sensor Messwertgeber
+Abschlagsdividende Zwischendividende
+zusprechen zuerkennen verleihen vergeben erteilen
+Dienst Service Dienstleistung
+Luftverkehrsgesellschaft Fluglinie Fluggesellschaft Luftfahrtgesellschaft Airline
+Schussweite Schussbereich
+Prozession Festzug
+Dach Kuppel Gewölbe
+abmachen abhängen loslösen entfernen separieren ablösen abkuppeln abtrennen loseisen trennen
+Schwadron Geschwader
+schlagen stoßen
+Operation Aktion Handlung Tat
+Frühe Frühzeitigkeit
+zwei beide
+Ausbrennen Ätzung Kauterisieren
+Vorlast Preload
+liberalisieren freigeben entblocken
+Raufbold Schläger Haudrauf Rambo Radaubruder Schlägertyp Rowdy Schulhofschläger
+Ohrentzündung Otitis
+biegsam geschmeidig streckbar duktil
+tropentauglich tropenfest
+Rückstellung Rücklage Rückhalt
+ausarbeiten planen abbilden
+stufig abgestuft
+Nachschub Zufuhr
+Steifigkeit Festigkeitsgrad Festigkeit Dicke
+Einschaltung Aktivierung Anschaltung Inbetriebnahme Start
+umfassen zusammenfassen
+maschinennah maschinenorientiert
+Rechnersystem Computersystem
+Heldenmut Heroismus Heldentum Mannhaftigkeit
+Punziereisen Punze Bunze
+inaktivieren deaktivieren ausschalten abschalten stilllegen passivieren
+modern vergammeln herunterkommen gammeln verfaulen verfallen faulen vermodern verkommen verlottern verwesen verrotten
+Einkerbung Einschnitt Ausschnitt Aussparung Notch Einbuchtung
+Kaninchenloch Kaninchenbau Hasenloch Kaninchenhöhle
+Missstimmung Gedrücktheit Übellaunigkeit Dysphorie
+Wohlwollen Gewogenheit Gunst Zugewandtheit Huld Geneigtheit
+prickeln kribbeln
+Inger Schleimaal
+gelegen befindlich angesiedelt
+Briefkuvert Enveloppe Briefhülle Couvert Briefcouvert Briefumschlag Umschlag Kuvert
+Weite Breite Stärke Umfang Dicke
+Anhang Gefolgschaft Leute Begleitperson Höfling Schlepptau Begleitung Eskorte Schranze Entourage Hofschranze Hofstaat Gefolge Gefolgsleute Tross
+Vorsprung Nase
+szenisch landschaftlich
+Zielerreichung Zielrealisierung
+verzichten passen entsagen entbehren
+Fachwortschatz Thesaurus
+absichtlich wohlüberlegt geplant strategisch
+tief stark lange nachhaltig
+Stiefelhose Breeches Reithosen Jodhpur
+Dotand Dotierungsstoff Dotiermittel
+niedermachen schlechtmachen diskreditieren abwerten herabwürdigen mobben abkanzeln
+Reizgeber Signalgeber Anreger Stimulator
+Zeichenvorrat Zeichenmenge Zeichenrepertoire
+Hafengebühr Ufergeld Werftgebühr Kainutzungsgebühr
+kleinstädtisch ländlich ländlich-sittlich provinziell dörflich
+konjunkturell periodisch
+Endbenutzer Endanwender User
+Befestigung Festigung Bindung
+Veränderlichkeit Wankelmut Variabilität Wandlungsfähigkeit Flüchtigkeit
+Gerechtigkeit Recht
+Plakette Abzeichen Medaille Insigne Emblem
+unterlassen ableiten ablassen
+tauchen tunken eintauchen eintunken stippen
+Widerlegung Elenchus Falsifizierung Entkräftung Gegenbeweis Gegenargument Falsifikation
+Fleckenreiniger Fleckentferner
+Gestell Stellage Ständer
+Durchschuss Type
+Aktienportefeuille Aktienportfolio Aktienbestand
+Kleinmut Defaitismus Furchtsamkeit Defätismus Decouragiertheit Mutlosigkeit Verzagtheit Kleinmütigkeit Ängstlichkeit
+Maurerhandwerk Maurerarbeit Steinmetzarbeit
+behindern blocken sperren hindern entgegentreten blockieren obstruieren querstellen versperren abhalten stoppen abblocken reingrätschen hemmen verhindern mauern abwehren
+Dachvorsprung Dachüberhang Dachgesims
+Erstaunen Verblüffung
+Herausbildung Formation Anordnung
+Zwischenstadium Übergangsstadium
+Marktbefragung Marktumfrage Markterhebung Marktanalyse
+rachgierig rachedurstig rachsüchtig
+Presspassung Presssitz
+Gewebewucherung Geschwulst Wucherung Exkreszenz Neubildung Wulst Tumor Raumforderung Neoplasie Auswuchs
+Rinde Borke
+Zusammenhalt Geschlossenheit
+berichtigen emendieren korrigieren überarbeiten ausbessern fixen verbessern ausbügeln
+Aufriss Projektion Aufrisszeichnung Ansicht
+Reeder Schiffseigentümer Schiffseigner
+Renommee Bild Prestige Ansehen Leumund Ruf Namen Reputation Stellung Image
+zappeln strampeln
+Verrechnungsstelle Abrechnungsstelle
+rückbauen einreißen plattmachen zurückbauen abreißen wegreißen
+Kleinigkeit Einzelheit Detail
+knausern restringieren beschränken knapphalten einschränken
+Dekubitalgeschwür Druckgeschwür Decubitus Dekubitalulkus Druckulkus Wundliegegeschwür Wundliegen Dekubitus
+Zwischenraumtaste Space Leertaste
+Stanzen Lochen
+Aufgabe Zweck Rolle Funktion
+zupfropfen verstopfen
+ätzen radieren
+Geldentwertung Teuerungsrate Inflation Kaufkraftverlust Teuerung Preissteigerung Preisauftrieb Verteuerung Preisanstieg
+Prophezeiung Weissagung Voraussage Verheißung
+Übersetzungsprogramm Translator Übersetzerprogramm
+Auflageziffern Ausgaben Auflage
+Miniatur Minibild Vorschaubild
+Weltauffassung Denkweise Sinnesart Weltsicht Gesinnung Ideologie Wertauffassung Grundeinstellung Denke Weltanschauung Weltbild Philosophie Geisteshaltung Denkungsart Grundhaltung Grundüberzeugung Weltverständnis
+heiratsfähig ehemündig
+Flugzeughalle Hangar
+Rübensirup Zuckerrübensirup Rübenkraut
+Menschen Personen Leute Volk
+schwängern befruchten
+Leiche Leichnam Toter
+vorzeigen vorweisen
+Honigwabe Wabe
+verschleißen ausleiern abnutzen abnützen
+Moder Putrefaktion Putreszenz Fäulnis Verfall Verwesung
+durchschütteln schütteln aufwühlen
+Erschrecken Schreck Entsetzen Schrecken
+Gleichstellung Chancengleichheit Gleichordnung Gleichberechtigung Gleichsetzung Gleichheit
+Nordatlantikpakt Nordatlantikpakt-Organisation NATO
+Anführung Textstelle Zitat Belegstelle Beleg
+geschützt beschützt ungefährdet gesichert sicher behütet wohlbehütet geborgen gefeit
+Farbkarte Farbenkarte
+Marssegel Toppsegel
+Anstrengung Fitz Mühe Bemühen Effort Strapaze Entgegenkommen Bemühung Mühewaltung
+unrentabel unrentierlich unwirtschaftlich unprofitabel uneinträglich unökonomisch
+Tacho Geschwindigkeitsmesser Tachometer
+adeln auszeichnen aufwerten erheben nobilitieren verfeinern upgraden veredeln verbessern heben
+Reue Buße
+Regelungstechnik Steuertechnik Kybernetik
+Nähstich Nadelstich
+Umformung Extrudierung Verformung
+Schlussrede Schlusswort Nachwort Epilog
+Prüfer Prüfgerät
+Symbol Vorzeichen Zeichen Signal
+Marinade Dressing Salatsoße Salatdressing Vinaigrette
+Heiserkeit Raucitas Halskratzen
+Gegenstand Teil Etwas Objekt Gizmo Ding Sache
+Sündenerlass Freisprechung Lossprechung Ablass Gnade Absolution Straferlass
+Weiher Tümpel See Teich
+bedeutungsgleich synonym synonymisch kongruent sinngleich sinnverwandt bedeutungsähnlich gleichbedeutend sinnähnlich bedeutungsverwandt homosem
+Zweitname Alias-Name Parallelbezeichnung Alias Nickname Pseudonym
+Barmann Schankkellner Barkeeper Bartender
+Verfassersystem Autorensystem
+differenziell Differenzial Differential
+Anschaffungskosten Akquisitionskosten Abschlusskosten
+Wohngemeinschaft Kommune Wohngruppe WG
+Massaker Gemetzel Blutbad Abschlachten Massenmorden Metzelei Abschlachtung
+hervorrufen erregen antreiben innervieren powern aufputschen puschen aufpeitschen anspornen stimulieren pushen anregen aktivieren ankurbeln
+aufspannen spannen aufziehen
+Bevölkerungsstatistik Demografie Bevölkerungslehre Bevölkerungsentwicklung Bevölkerungswissenschaft Demographie
+Filmmaterial Bildmaterial
+Falte Bügelfalte
+Satz Sprung
+seicht oberflächlich flach platt belanglos
+Schwindel Machenschaft Unregelmäßigkeit
+bringen herbeischaffen herschaffen herbringen herbeibringen mitbringen
+Isolation Abgliederung Separation Ausfällung Absonderung Abscheidung Abgeschlossenheit Abkapselung Isolierung Vereinsamung Trennung Segregation Abtrennung Separierung Vereinzelung
+durchkneten walken massieren kneten
+Engagement Hingabefähigkeit Bereitwilligkeit Willigkeit Einsatzbereitschaft Bereitschaft Einsatzfreude Commitment
+Reaktion Gegenwirkung Echo
+Beeinträchtigung Betriebsstörung Unregelmäßigkeit Fehlfunktion Störung
+zweckmäßig zweckbetont zweckbestimmt
+Errettung Befreiung Rettung Erlösung
+Turf Pferderennbahn
+Bundesnachrichtendienst BND
+Baustil Architekturstil Architektur
+Kannbestimmung Kannregelung
+verschneit schneeig schneebedeckt
+Geschlechtsorgan Genital Fortpflanzungsorgan Geschlechtsteil
+originalgetreu vorbildgetreu vorbildgerecht
+Grasfläche Gemeindeland Dorfanger Dorfwiese Gemeindewiese Anger Grasplatz
+federweich federartig
+Fehlerkorrektur Rektifikation Fehlerbehebung Richtigstellung Bereinigung Berichtigung
+Mokick Mofa Moped Kleinkraftrad
+Garderobiere Ankleider
+Seitenansicht Profilbild
+kratzig rau heiser
+Klebung Verbindungsstelle
+Ehrgeizling Streber Ehrgeizler Karrierist Karrieremacher
+zurückhaltend bedacht behutsam
+tief flach niedrig
+Hebung Heben Hochziehen
+bedeckt wolkig trübe bewölkt bezogen trüb
+Hauptbüro Zentrale Leitstelle Hauptstelle
+Hinuntersteigen Heruntersteigen Abstieg Talfahrt
+korrumpieren schmieren bestechen
+Alchimist Goldmacher Alchemist
+nachwachsend erneuerbar regenerativ
+Protektion Schutz Abschirmung
+inhaltslos wesenlos
+Volksentscheid Plebiszit Volksbefragung Volksabstimmung Volksbegehren Referendum
+Aufstoßen Eruktation
+Zwang Erforderlichkeit Bedingung Auflage Muss
+Strecke Linie Strich Gerade
+Brie Briekäse
+Tentakel Fangarm Fühler
+Regenschirm Parapluie Paraplü Schirm
+Pfropfen Stöpsel Proppen Stoppel Korken Verschlussstopfen Zapfen Stopfen
+Schubkarre Schiebkarre Schubkarren Schiebetruhe Scheibtruhe Karette
+Zugriffsart Zugriffsmodus
+Rekuperator Wärmeaustauscher Abhitzeverwerter Vorwärmer
+Herd Küchenherd
+Mittellosigkeit Armut Geldnot
+Symbol Bildzeichen Ikon Piktogramm
+begehrlich begierig
+Zuschlag Auftragsvergabe
+Kurssturz Deroute Kursverfall Konjunktureinbruch Bärenmarkt Baisse Einbruch Kursabfall Abschwung Preissturz
+Konfiguration Justierung Regulierung Kalibrierung Umstellung Adaption Adaptierung Anpassung Einstellen Angleichung Ausrichtung Einstellung
+Laborschale Petrischale
+Sperling Haussperling Spatz
+fortgeschritten leistungsfähig
+Bohrmaschine Bohrer Bohrgerät
+korrodieren oxidieren einrosten rosten verrosten
+bereithalten feilbieten anbieten feilhalten offerieren bereitstellen bieten entbieten
+Geldautomat Bancomat Geldausgabeautomat Postomat Bankautomat Bankomat
+weinselig beschwipst berauscht betütert angetrunken bierselig angesäuselt knüll angeheitert alkoholisiert knülle angetüdelt angetütert
+geisterhaft schemenhaft gespenstisch spukhaft
+Schneesturm Blizzard
+Ausgangssituation Ausgangslage
+Entsagung Abschwörung Abschwören Abkehr
+abfeuern abschießen
+Hals Nacken Genick Schlafittchen
+entladen auskippen abladen ausladen schütten
+Essbesteck Tischbesteck Besteck
+großzügig großflächig großräumig ausgedehnt weitläufig weiträumig weit
+Obstanbau Obstbau
+Leitsatz Parole Sinnspruch Losung Devise Slogan Mantra Wahlspruch Maxime Motto Leitspruch
+verletzt leidend arbeitsunfähig malade kränklich malad siech krank erkrankt
+Ausfallzeit Standzeit Stillstandszeit
+Kreis Landstrich Bezirk
+stoßen festrammen einrammen stauchen rammen
+Vollziehungsbefehl Pouvoir Freibrief Handlungsvollmacht Kommittiv Bevollmächtigung Befugnis Ermächtigung Prokura Vollmacht Mandat
+Vorhandensein Disponibilität Verfügbarkeit Nutzbarkeit
+Sandmann Sandmännchen
+Symposion Kolloquium Symposium
+Mondsichel Halbmond
+zonal zonenartig
+Erholungsurlaub Erholungsaufenthalt
+Helligkeit Licht Belichtung Beleuchtung
+Anfeindung Unfriede
+Bottich Kübel Eimer Kessel
+Wiedereintritt Wiedereintreten
+Tuch Plane
+Berichterstatter Rhetoriker Referierender Redner Sprecher Rhetor Orator Vortragender Referent
+verkratzen verschrammen
+Messingschild Messingtafel
+Bauaufsicht Bauüberwachung
+Raffinesse Finesse Gewandtheit
+Lohnstreifen Entgeltnachweis Verdienstnachweis Gehaltsabrechnung Verdienstabrechnung
+Brutalität Unmenschlichkeit Rohheit
+Kursnotierung Quotation Börsenkurs Kurs
+Gewinnspiel Preisausschreiben
+Geilstellen Mistplätze
+hervorkommen aufkeimen auskeimen vorwagen keimen auflaufen aufgehen hervorwachsen sprießen
+Unvoreingenommenheit Unbefangenheit Objektivität
+Sperre Startverbot
+Preziosität Pretiosität Affektiertheit Ziererei
+umgekehrt andersrum umgedreht entgegengesetzt invers andersherum invertiert reziprok
+einklemmen spießen klemmen einzwicken
+Demograph Demograf
+zähflüssig teigig
+abfeuern abdrücken losballern ballern schießen
+Sexobjekt Sexualobjekt
+Messegelände Ausstellungsgelände Ausstellungsplatz
+Malignom Neoplasma Krebs Krebsgeschwulst
+konkordant konform einstimmig unisono einmütig einhellig übereinstimmend kongruent
+Arbeitsjahr Personenjahr Mannjahr
+außerstande untauglich unfähig inkompetent unkompetent ungeeignet
+vergraulen vergällen ereifern ärgern vergrätzen vergrämen verärgern aufregen erregen verdrießen echauffieren
+bedenken voraussehen absehen vorhersehen einplanen
+Dopingtest Dopingkontrolle
+Nervenarzt Psychiater Irrenarzt Seelenklempner Klapsdoktor
+Entschädigung Erstattung Rückvergütung
+erfreuen belustigen amüsieren beschwingen aufmuntern erheitern aufheitern
+ordnen einrichten hinstellen
+losmachen lösen trennen lockern
+verhalten moderat gemäßigt mäßig maßvoll
+Vorwand Deckmantel Feigenblatt Alibi Ausrede Scheingrund
+Bittgesuch Petition Bitte Gesuch
+Verhaftung Inhaftnahme Arretierung Festnahme Gefangennahme Ergreifung
+zitterig tattrig zittrig tatterig
+Geschwindigkeit Zügigkeit Schnelle Tempo Hurtigkeit Schnelligkeit Raschheit
+ausschöpfen absaugen auspumpen
+Reparation Belohnung Entschädigung Nachzahlung Abfindung Wiedergutmachung
+Schlaflied Wiegenlied Gutenachtlied
+erklären exemplifizieren illustrieren verdeutlichen
+Schutt Trümmer
+Annäherungslinie Asymptote
+filtern abseihen sieben durchsieben
+gefroren eisgekühlt
+plappern labern quasseln salbadern ergehen sabbeln daherplappern faseln verbreiten daherreden schwafeln auslassen schwätzen schwadronieren schwatzen
+meinen glauben einbilden
+unnennbar anonym unbenannt unpersönlich namenlos
+Anhörung Verhör Vernehmung Einvernahme Befragung Einvernehmung Untersuchung
+angleichen synchronisieren vereinheitlichen abgleichen
+Dampfkessel Siedekessel
+Amplitudenmodulation AM
+Streitlustigkeit Streitlust
+aufgezwungen erzwungen oktroyiert
+aufsässig widerborstig renitent widerspenstig
+Therme Thermalquelle
+entlasten erlösen säubern befreien
+Winzigkeit Kleinheit
+stählern stahlhart
+Überstürzung Tempo Hektik Übereilung Rasanz Hastigkeit Eile Hast Eilfertigkeit
+Verquickung Einmischung Verflochtenheit Verstrickung Verwicklung Verschränkung
+Inauguraldissertation Diss Promotionsschrift Antrittsdissertation Diss. Dissertation Doktorschrift Einführungsdissertation Doktorarbeit Dissertationsschrift
+Vielfalt Diversität Differenziertheit Abwechslung Mannigfaltigkeit Vielfältigkeit Vielzahl
+Anschauung Gutachten Votum Bewertung Stellungnahme Meinung Statement Ansicht
+Luftschutzraum Schutzraum Luftschutzkeller Schutzbau
+preisen rühmen
+abstammen entspringen hervorgehen herrühren austreten herstammen zurückgehen entsprießen
+schleppen abschleppen
+Europide Bleichgesicht Weißer Kaukasier Langnase Europider Weißbrot
+Querelen Schererei Zerwürfnisse Differenzen Streitigkeiten Reibereien Auseinandersetzung Brüche Dispute
+Anwendungsebene Anwendungsschicht
+Zeichen Merkmal Markierung Symbol
+Bindung Koppelung Querverbindung Kopplung
+Schmiererei Kritzelei Geschmier Geschmiere
+angenagt benagt angeknabbert angefressen
+zusammenprallen kollidieren zusammenstoßen
+attraktiv hochinteressant spannend hochspannend interessant faszinierend
+Unterbau Grundlage Fundament Grundstein
+Sicherheit Gewissheit Zuversichtlichkeit
+jahrtausendfähig jahrtausendtauglich jahrtausendsicher
+gewinnorientiert gewerblich wirtschaftlich privatwirtschaftlich unternehmerisch kommerziell kaufmännisch profitorientiert merkantil
+Landbau Agrar Ackerbau Landwirtschaft
+Brautpaar Hochzeitspaar
+einbehalten beibehalten erhalten
+Kardinalzahlwort Grundzahl Grundzahlwort Kardinalzahl Kardinale
+Gerontologe Altersforscher
+Schattierer Shader
+Wasserkasten Wasserbehälter
+Mängelhaftung Mängelbürgschaft Gewährleistung
+Auslieferung Anlieferung Überbringung Lieferung Sendung Rutsche Belieferung Zustellung Fuhre
+ausarten verflachen entkoppeln auskoppeln herabsinken
+Rhythmus Takt
+Kapitalanlage Kapitalaufwand Investment Investition
+Trübung Trübheit
+zwitterhaft hybrid
+voraussetzen verlangen erheischen gebieten benötigen bedingen bedürfen erfordern beanspruchen
+Schubfach Schubkasten Schoss Schublade
+Ergänzungsunterricht Hausaufgabenhilfe Hilfsunterricht Zusatzunterricht Förderunterricht Nachhilfeunterricht Nachhilfe
+Drilling Triole
+Datenübertragung Informationsübertragung
+unbeschriftet ungekennzeichnet
+Zuschnitt Anpassung
+ausstatten spenden stiften zuwenden dotieren
+bewerten schätzen beziffern taxieren festsetzen wertschätzen
+einseifen abseifen
+Zeltpflock Leinennagel Spannnagel Hering Seilnagel Erdnagel Zeltnagel Zelthering
+Geiger Fiedler Violinspieler Geigenspieler Violinist Violinenspieler
+undurchsichtig lichtundurchlässig opak
+Hauptlinie Hauptzweig
+Kleinverkauf Einzelhandelsabsatz
+qualmig rauchig
+Einsatz Applikation Anwendung Verwendung
+talentlos leistungsschwach schwach minderbegabt untalentiert unfähig unbegabt talentfrei
+Zigarettenstummel Zigarettenkippe Kippe
+einzäunen umzäunen einfrieden umfrieden einfassen einfriedigen
+unabdingbar vonnöten zwingend unvermeidlich obligat vorgeschrieben nötig benötigt erforderlich notwendig obligatorisch mandatorisch
+Winterzeit Winter
+blutschänderisch inzestuös
+Vermögenseinbuße Vermögensschaden
+Moorland Moor Sumpf Bruch Feuchtgebiet Morast
+Mehrfachgabe Mehrfachdosis
+Feuerprobe Nagelprobe Lackmustest Feuertaufe Test Bewährungsprobe
+Mehrpreis Zuschlag Aufpreis
+Holm Wörth Werder Werth
+Zugangsberechtigung Zutrittsberechtigung
+Barrenholm Holm
+Wahlzettel Stimmzettel
+Skipper Schiffsführer Kapitän Schiffer Käpt'n
+Annehmlichkeit Anmut Behaglichkeit
+umarbeiten aufpolieren
+Markierung Leuchtzeichen Echozeichen
+fatal mörderisch zerstörend todbringend letal tödlich
+Zugehörigkeit Relation Beziehung Angliederung Zuordnung Vereinigung
+Kühlschmiermittel Kühlmittel Kühlwasser Kältemittel Schmiermittel
+Leierkasten Drehorgel
+Verdrahtung Schaltung
+gelbbraun falb vergilbt
+zugehörig verwandt
+Karte Landkarte Plan
+Unterentwicklung Dysplasie Fehlbildung Fehlentwicklung
+Etagenwohnung Apartment Kleinwohnung
+Gegenrevolution Konterrevolution
+Gentechnologie Genmanipulation Gentechnik
+bedrückt betrübt traurig bekümmert geknickt gedrückt resigniert trübsinnig trübselig unglücklich unlustig niedergeschlagen niedergedrückt freudlos kummervoll lustlos unfroh
+verlassen herrenlos zurückgelassen
+Formation Reihung Spalier Hintereinanderstellung Abfolge Anordnung Aufstellung
+Wahlresultat Wahlergebnis Wahlausgang
+Sammlung Kollektion
+Vorwiderstand Multiplikator Verstärker
+Entlüftungsanlage Entlüftung
+Koeffizient Beiwert Faktor
+Isolationshaft Isolierhaft Isolierungshaft
+Bankleitzahl BLZ
+Ausprägung Deutlichkeit Exaktheit Prägnanz Eindeutigkeit Auffälligkeit
+trocknen dörren
+Farbenmeer Farbenpracht
+normieren standardisieren vereinheitlichen
+Selbsttötung Selbstmord Freitod Harakiri Suizid
+Reproduktion Gleichstück Replikation Ektypus Nachbau Kopie Replika Replikat Nachbildung Replik
+Montageanleitung Montageanweisung Aufbauanleitung
+Aufgeregtheit Echauffiertheit Stinkwut Empörtheit Ärger Aufgebrachtheit Verärgerung Gereiztheit Furor Erbostheit Raserei Wüterei Jähzorn Indignation Empörung Feindseligkeit Wut Aufregung Scheißwut Aufgebrachtsein Rage Echauffierung Gefrett Ingrimm Zorn Gfrett Entrüstung
+Stechen Stich
+Körperflüssigkeit Liquor Flüssigkeit
+überwiegend zumeist häufig meistens meist mehrheitlich hauptsächlich größtenteils
+bieten besitzen haben aufweisen verfügen
+Flugticket Ticket Flugschein
+Mischsprache Kreol Kauderwelsch Pidginsprache Kreolsprache
+ergeben betragen ausmachen beziffern belaufen
+Tragrad Laufrad Stützrad
+Kammerzofe Zimmermädchen
+nachdenklich besinnlich
+Klärung Aufklärung Klarstellung Abklärung Beantwortung Aufschluss
+Stahlseil Drahtseil
+abträglich nachteilig schädlich hinderlich
+Abzweigung Abstich
+Hirn Oberstübchen Denkorgan Enzephalon Denkapparat Gehirn
+Bodenkammer Dachkammer Mansarde
+Schokoladenriegel Schokoriegel
+Make-up Schminke
+Wiedereinführung Neueinführung
+Faltensaum Falbel
+Sonderzeichen Zusatzzeichen
+Verhafteter Knasti Gefangengenommener Inhaftierter Knastologe Gefangener Arrestant Verurteilter Knacki Häftling Zuchthäusler Sacklpicker Insasse Strafgefangener Knastbruder Sträfling Gefängnisinsasse
+zusammensetzen komponieren
+erforschen durchleuchten eruieren untersuchen nachforschen
+Büfett Buffet
+rücksichtslos bedenkenlos hemmungslos brachial inhuman skrupellos
+Bindemittel Arzneistoffträger Hilfsstoff
+Schifahrer Skifahrer Skiläufer Schiläufer
+Wärmetauscher Wärmeübertrager Wärmeaustauscher
+Mangel Not
+Flüchtigkeit Verdampfbarkeit
+zurückgewinnend wiedergewinnend
+Irrfahrt Odyssee
+Hauptstadt Kapitale
+Damnum Abschlag Disagio Abgeld Ausgabeabschlag
+Puderzucker Staubzucker Streuzucker Feinzucker
+Wulstnarbe Keloid
+bersten zerbersten zerbrechen
+Erquickung Labung Labsal
+Kessel Druckbehälter
+überragen übertreffen hinausragen
+Mietverhältnis Pachtverhältnis
+Verschlagenheit Tücke Hinterlist Heimtücke Teufelei Bosheit Biestigkeit Böswilligkeit Niedertracht Ruchlosigkeit Gemeinheit Arglist Sadismus Schweinerei Gehässigkeit Hinterhältigkeit Bösartigkeit Boshaftigkeit
+erweichen schmelzen
+Donner Dröhnen Brausen
+Parität Gleichstellung
+Gebrauchsgegenstand Bedarfsartikel
+Strebe Strebebalken
+ahnungslos unvorbereitet ungewappnet nichtsahnend
+Frühstücksfleisch Schinkenfleisch
+apodiktisch unwiderleglich
+Billigung Segen Einverständnis Befürwortung Zustimmung
+Acker Feld
+Animateur Stimmungsmacher Unterhalter
+Entspannung Meditation Lockerung
+zerdrücken zerquetschen
+Spatel Kelle
+traversieren durchqueren durchfahren queren überqueren
+Pessimismus Defaitismus Endzeitstimmung Lebensverneinung Dekadenz Miesmacherei Weltuntergangsstimmung Defätismus Schwarzseherei Untergangsstimmung
+Verpflanzung Transplantation
+störungsfrei ungestört unbeeinträchtigt
+Addierer Addierwerk
+Schubfestigkeit Scherfestigkeit
+unanwendbar ungeeignet
+Schneidbrennerdüse Schneidbrennerspitze
+empirisch erfahrungsgemäß
+auferlegen aufbrummen aufnötigen aufdrücken zwangsbeglücken aufoktroyieren aufhalsen aufbürden oktroyieren aufzwingen
+ankaufen kaufen aufkaufen erstehen erkaufen erwerben
+zuknallen zuschlagen zuhauen zukrachen zuballern
+Tribut Lobgesang
+französisch frz.
+errichten aufstellen
+frühzeitig zeitig früh
+angestrengt düster ernst grimmig entschlossen finster streng verbissen grimm
+Tastenanschlag Tastendruck
+einzwängen einkeilen zwängen einpferchen keilen
+ermitteln erheben bestimmen vermessen abzirkeln abmessen messen eichen
+Fahnenmast Fahnenstange
+Bilanz Ausgleich Rechnung Schlussrechnung Abrechnung
+einweichen durchtränken
+Errichtung Konstruktion Bau
+Bar Theke Schanktisch
+Unfassbarkeit Unbegreiflichkeit
+Wanne Kübel Tank Trog Zuber Bottich
+strukturiert planmäßig geordnet ordentlich systematisch
+Bad Heilbad Heilquelle Badeort Kurbad
+geschwulsthemmend antitumorös
+Familienzuschuss Familienzuschlag
+fern weg
+Mitbeklagter Mitangeklagter
+Scheidung Ehescheidung Ehe-Aus
+Grenzkosten Differenzkosten
+tauen betauen
+Herbstanfang Herbstbeginn
+gedanklich seelisch mental geistig innerlich psychisch
+Plüschtier Stofftier Kuscheltier
+Zugeständnis Konzession
+Auffälligkeit Unregelmäßigkeit Regelwidrigkeit Normabweichung Besonderheit Abnormität Anomalie
+Zapfen Spund
+Lastschriftenanzeige Lastschriftanzeige
+Schatulle Döschen Kassette Kästchen
+tadeln rüffeln schelten schimpfen
+Klempnerei Klempnerarbeit
+Eileiterentzündung Salpingitis
+zusammenrollen aufrollen
+Felsvorsprung Gesims
+Flugzeugabwehrkanone Flugabwehrkanone Fliegerabwehrkanone FlaK Flak Flakgeschütz
+Lukentür Luke
+individuell maßgeschneidert zugeschnitten individualisiert angepasst
+Geschwätzigkeit Schwatzhaftigkeit
+Pseudotumor Scheingeschwulst
+diskutieren durchsprechen besprechen erörtern wörteln bereden
+Scheidewand Septum
+beschämen niedermachen demütigen erniedrigen entehren entwürdigen
+Messwarte Führerstand Leitstand Bedienstand Leitwarte
+Zeitteilverfahren Teilnehmerverfahren
+Dynamo Gleichstromerzeuger
+Deckenbalken Deckenträger
+Kranführer Kranfahrer
+gesäubert gewienert poliert geputzt sauber gereinigt
+desillusionieren frustrieren entmutigen enttäuschen deprimieren
+Region Rayon Areal Horizont Sphäre Fläche Ort Platz Sektor Raum Gegend Bereich
+knuspern knabbern nagen schnurpseln mümmeln mummeln
+diensteifrig verbindlich
+Atemstörung Dyspnoe
+Drossel Drosselspule
+Imker Bienenzüchter Zeidler
+Fremder Fremdling Unbekannter
+Überbringer Träger Transporteur Bote Übermittler
+Faden Zwirn Garn
+knistern prasseln knacken bullern
+Giarol Rostflügel-Brachschwalbe
+knapp ärmlich mau kläglich knausrig dürftig kümmerlich karg spärlich kärglich
+Puzzle Legespiel Puzzlespiel
+verabreichen darreichen applizieren
+Schnalle Spange
+Widerspenstigkeit Unbotmäßigkeit
+protzen prunken prangen
+Tafel Tisch
+Scheckbuch Scheckheft
+Bandende Abspann Nachspann
+Latenzzeit Latenzperiode Verzögerung
+Verwahrstelle Verwahrer Hinterlegungsstelle
+genauso ebenfalls sowie dito gleichermaßen gleichfalls fernerhin auch ebenso
+Galle Gallensekret
+Spezialfall Ausreißer Ausnahmefall Sonderfall
+Rückprall-Effekt Rebound-Effekt
+unverheiratet frei partnerlos unverehelicht ledig solo unbemannt Single alleinstehend allein ungebunden ehelos unvermählt unbeweibt
+Vortragender Lehrbeauftragter Lehrender Dozent
+Übersicht Syllabus Überblick Zusammenfassung Gesamtschau
+Verfügbarkeitskontrolle Mengenverfügbarkeitskontrolle
+angepasst abgestimmt
+rupfen zupfen
+Ausstreuung Verteilung
+verstreben stützen verankern versteifen abstützen befestigen
+Väterchen Gevatter Alterchen
+Zylinderkopfschraube Zylinderschraube
+Hochkultur Kultur Zivilisation Kulturkreis
+Hackfleisch Haschee Hack Faschiertes Gewiegtes Gehacktes
+bedienen erledigen ausüben machen handhaben verrichten praktizieren betätigen
+Rammklotz Hammerkopf
+Anleitung Strickmuster Schema Formel Rezept Muster
+Lohngruppe Tarifgruppe
+Steuergerät Regulator Regulierer Regler
+vertuschen zudecken verschweigen verdecken verschleiern manipulieren verheimlichen
+keck vorwitzig klugscheißerisch neunmalklug vorlaut frühreif naseweis siebengescheit altklug
+Gleichartigkeit Einheitlichkeit Homogenität Gleichwertigkeit
+Dauerhaftigkeit Beständigkeit Stetigkeit Kontinuität Perennität Langlebigkeit
+geprüft nachgewiesen begutachtet
+Regime Regierung Herrschaftsform Regierungsform
+Blöker Gelbstrieme
+übernatürlich überirdisch
+Kompressor Verdichter
+verstimmt unpässlich
+Vorahnung Gespür Gefühl Instinkt Intuition Ahnung Bauchgefühl Eingebung
+Geldgeber Finanzier Investor Kapitalanleger Anleger
+Baustahl Schmiedestahl
+ungehorsam unfolgsam
+Umspannung Umformung
+spöttisch gehässig höhnisch hämisch dreckig
+hingebungsvoll passioniert engagiert fanatisch enthusiastisch leidenschaftlich rückhaltlos fleißig flammend vehement intensiv glühend begeistert
+hinüberlaufen hinüberrennen
+Stimulation Belebung Anregung Ansporn
+Adressierung Adressieren
+nördlich nordwärts
+Stahlband Federband
+Harmonie Wohlklang
+eluieren ausspülen herauslösen
+Sexshop Sexboutique
+zehren schwächen
+Zubehör Zubehörteile
+Aktentasche Aktenkoffer Attachékoffer Diplomatenkoffer
+erhaben sublim
+Photograph Bildermacher Fotograf
+Roheisenblock Bramme
+schmettern rasseln scheppern klirren
+Firma Betrieb Fa. Laden Unternehmen
+Glaubenskrieger Kreuzfahrer Kreuzritter
+Fassung Steckdose
+abhacken abschlagen
+Stoff Gegenstand Inhalt Gehalt Thema Sujet
+machen verbrechen erstellen herstellen fabrizieren erzeugen generieren verfertigen anfertigen fertigen
+Übergeben Vomitus Emesis Erbrechungen Erbrechen
+Familienangehöriger Anverwandter Gevatter Verwandter Familienmitglied Angehöriger
+Radiumheilverfahren Radiumtherapie
+Ausstattung Aufmachung Ausstaffierung Putz
+Überangebot Grenzenlosigkeit Übermaß Zuviel Überfluss Unmenge Überfülle Unmaß Exzess Füllhorn
+grundlegend radikal fundamental gründlich rigoros entschieden
+Besorgnis Gefühl Befürchtung Vorahnung Ahnung Vorgefühl
+hemmungslos bacchisch ungezähmt überschwänglich zügellos stürmisch überschäumend übermütig ungezügelt ungestüm ausgelassen wild orgiastisch
+Tönung Schattierung Kolorit Farbe Farbton Schimmer Nuance Ton
+Schandmal Makel Schandfleck Schönheitsfehler
+praxistauglich praktikabel geschickt zweckmäßig empfehlenswert praktisch dienlich zweckdienlich patent
+Abguss Gepräge Abdruck Guss Abbildung
+Turbulenz Volatilität Abweichung Unstetigkeit Fluktuation Schwankung
+Umwälzung Umlauf
+Lichtspielhaus Lichtspieltheater Filmtheater Kintopp Kino
+Forschungsteam Forschungsgruppe
+Lichtempfindlichkeit Photosensibilität
+Flutlicht Scheinwerfer
+Begrenzer Abgrenzer
+geschmeidig schlangenartig elastisch
+diverse ausgewählte unterschiedliche verschiedene
+Schutzanzug Overall Blaumann Rüstung Einteiler Ganzanzug
+Messe Vorstellung Panoptikum Ausstellung Schau
+Diätologie Diätetik Diätlehre
+Randgebiet Anewand Grenzgebiet Mark
+Missbehagen Unbehagen Unruhe Sorge Unausgeglichenheit Gedanken Besorgnis
+informativ interessant bemerkenswert aussagekräftig wissenswert erstaunlich sehenswert lehrreich staunenswert informierend erhellend edukativ belehrend aufschlussreich
+Alpdruck Albdruck Nachtmahr Alptraum Angsttraum Albtraum Nachtschaden
+Anspannung Kraftaufwand Anstrengung
+Zähflüssigkeit Viskosität Zähigkeit
+Mutationsprodukt Mutation
+kath. katholisch
+photomagnetisch lichtmagnetisch
+vergehen legen vorübergehen vorbeigehen
+Sezessionsbestrebungen Autonomiestreben Separatismus Loslösungsbestreben
+Überdosis Überdosierung
+Seitenzahl Seitennummer
+Wippsäge Laubsäge Stichsäge Laubsägemaschine
+Grundkapital Nominalkapital
+Walzblech Blech
+Bücherbord Bord Bücherbrett Abstellbrett Wandbrett
+unverblümt unverhüllt nackt
+Delfinschwimmen Delphinschwimmen Delphin Delfin
+Brutschrank Brutkasten Inkubator
+Bandbeschichten Bandbeschichtung
+Überbleibsel Reliquie Rudiment Restbestand Hinterlassenschaft Überrest Relikt Spreu Rückstand Rest Residuum
+Drill Exerzieren
+Skript Drehbuch Libretto Textbuch
+Modi Kirchentonarten
+Gegenwart Dasein Präsenz Anwesenheit Zugegensein Beisein
+Schimmer Flimmer
+Gallensteinleiden Cholelithiasis
+Kampflust Kampfbegierde
+Bedienungsfeld Bedienpanel Schalterleiste
+Werbemedium Werbeträger Werbemittel
+Benelux Beneluxstaaten Beneluxländer
+eingewandert eingereist immigriert zugewandert
+forsch selbstbewusst souverän selbstsicher
+Zuordnung Allozierung Allokation
+zerschrammen schrammen durchfurchen
+abhelfen abstellen beheben bereinigen geradebiegen klären bewältigen ausmerzen lösen beseitigen
+Sklave Leibeigener Fronarbeiter Untertan
+Aspekt Facette Fassette Seite
+halb recht ziemlich verhältnismäßig vergleichsweise halbwegs einigermaßen ganz hinlänglich relativ reichlich leidlich durchaus mäßig
+Akkuladegerät Batterieladegerät Ladegerät
+auslagern räumen ausräumen verlagern migrieren
+Todesopfer Opfer
+schwach wenig kümmerlich gering
+Blutplättchen Thrombozyt
+blubbern sprudeln brizzeln spritzeln zischeln zischen
+nebulös schleierhaft diffus konturlos schemenhaft undeutlich unklar verschwommen nebelhaft vage
+verzweigen verästeln
+Struktur Gitter Matrix Mikrostruktur Gefüge
+gesittet ordentlich züchtig standhaft moralinsauer moralistisch sittsam anständig rein vernünftig moralisch tugendhaft tugendsam
+Junior jr. jun.
+begünstigen voranbringen weiterbringen
+Ergonomie Arbeitswissenschaft Arbeitswissenschaften
+schmackhaft pikant
+Pflichtbewusstsein Pflichtgefühl
+Siliziumscheibe Silizium-Wafer
+Schnapsbrennerei Branntweinbrennerei Destille Brennerei Destillerie
+einstellen tun legen setzen stellen
+Dämpfungsgrad Dämpfungsmaß
+Shampoon Haarshampoo Haarwaschmittel Haarpflegeshampoo Shampoo
+dicht zu geschlossen gesperrt
+niedlich putzig süß knuffig drollig goldig possierlich knuddelig
+Slalom Torlauf
+orientieren auskundschaften erkunden ausspähen ausspionieren ausbaldowern
+öffnen aufmachen
+Reflux Rückfluss
+Stauchung Knick
+Akzeptbank Wechselbank
+unaussprechlich unsäglich unsagbar
+Führung Leitung Anführung Verwaltung
+Exodus Abwanderung Emigration Auswanderung
+Ewigkeit Zeitalter Ära Äon Weltalter
+Hodenentzündung Orchitis
+verwandeln konvertieren umwandeln transformieren umgestalten überführen umformen
+Parasitismus Schmarotzertum
+Lage Position Stellung Standpunkt
+Dip Sauce Tunke Soße
+fluchen verfluchen verdammen maledeien
+peripher dezentral
+Schlafplatz Schlafstelle
+abgenutzt ausgeschöpft
+würdig entsprechend wert
+raunzen murren grollen brummen knurren grummeln
+rheumaähnlich rheumatoid
+Ratsche Knarre Sperrklinke Rücklaufsperre
+auffordern vorladen
+Strip Striptease Tabledance Entkleidungsnummer Entkleidung
+verzeihlich lässlich entschuldbar verzeihbar
+Übernahme Kauf Zukauf Erwerb Aufkauf Akquisition
+Vorliebe Neigung Hang Faible Prädilektion Bevorzugung Präferenz Schwäche
+Obligation Schuldverschreibung Anleihe Rentenpapier Bond
+kundig fachkundig
+Ununterscheidbarkeit Einerlei Langeweile Langweile Gleichförmigkeit Stumpfsinn Eintönigkeit Monotonie Öde Ennui Ödnis
+Einrückung Einzug
+Bieruntersetzer Bierfilzl Bierfilz Bierdeckel
+mannbar heiratsfähig
+zittrig schlottrig schlotterig zitterig
+Bischofsstab Virga Hirtenstab Lituus Pastoralstab Krummstab Pastorale Abtsstab Pedum
+einplanen einschließen vorsehen
+unendlich endlos unzählig unermesslich unmessbar unaufhörlich überlang uferlos unbeschränkt
+Diözese Bistum
+Stempel Kennzeichen
+Apparatur Gerät Apparat Gerätschaft Vorrichtung
+bedürftig hilfsbedürftig
+Geldanweisung Geldüberweisung Geldsendung Überweisung
+laktieren säugen stillen
+auslegen täfeln parkettieren
+Anfahrtsweg Anfahrt
+Bewehrungsmatte Armierungsmatte
+verankern verspannen
+einexerzieren abrichten drillen
+Rebstock Rebe Wein Weinstock
+Speichelfluss Speichelabsonderung Salivation
+Erregung Wallung Schwung
+bereit griffbereit parat
+irritieren kirremachen beirren verwirren verunsichern irreführen derangieren
+Beiwerk Beifügung Anhängsel Parergon Zierwerk
+Kompressionsverhältnis Verdichtungsverhältnis
+Autorität Amtsbefugnis
+zerwühlen zerknüllen
+scharlachrot karminrot orangerot
+Bock Hippe Geißbock Geiß Ziegenbock Ziege
+Unterleibsentzündung Adnexitis
+Hahn Gockel
+Gemütsart Veranlagung Profil Charakter Wesenheit Natur Persönlichkeit Gemüt Temperament Format Eigenart Wesen Wesensart Gepräge Naturell
+Unbeholfenheit Tollpatschigkeit Tölpelei Ungeschicklichkeit
+Stimmung Gemütsverfassung Gemütslage Gefühlslage Gestimmtheit Gemütszustand
+Akt Vorgehen Ablauf Vorgang
+zigfach vielfach mehrfach multipel
+Aufschluss Erschließung
+Fatum Fügung Los Vorbestimmung Vorsehung Karma Vorherbestimmung Schicksal Geschick Zufall Prädestination Schickung Bestimmung Kismet
+schaffen erledigen besorgen
+zugehörig verbunden angeschlossen einig angegliedert
+Implantation Einpflanzung
+Spektator Zuschauer Zuseher Beobachter Betrachter Publikum
+kichern glucksen
+zurechnungsfähig vernünftig denkfähig verständig urteilsfähig
+Bewegungsvermögen Motilität
+abstoßend unerträglich ätzend widerwärtig eklig unausstehlich unsympathisch
+Tiefststand Tiefstkurs
+sittenlos unsittlich
+bereitstellen bewilligen
+Litfaßsäule Werbesäule Plakatsäule Anschlagsäule
+Merkwürdigkeit Kuriosität Skurrilität Sonderbarkeit Seltsamkeit
+Träger Tragbalken
+Festland Land
+Kneifzange Beißzange
+Schraubzwinge Schraubstock
+Balkan Balkanstaaten
+VHF UKW Ultrakurzwelle Ultrakurzwellenbereich
+abgleichen auswuchten
+Abstellplatz Einstellplatz Parkplatz Stellplatz Parkbox
+Kommerzialisierung Vermarktung
+Schwung Leistungsabgabe Dampf Leistungsfähigkeit Energie Leistung Kraft
+Bewilligungsausschuss Haushaltsausschuss
+max. höchstenfalls maximal höchstens günstigstenfalls äußerstenfalls bestenfalls allenfalls
+Mal Zeichen Fleck
+Aufhebung Annullierung
+Drüsenentzündung Adenitis
+Busen Vorbau Titten Hupen Möpse Brüste Mammae Büste Melonen Oberweite
+Stabilität Zuverlässigkeit Verlässlichkeit Beständigkeit Systemstabilität Reliabilität
+Einbuße Entbehrung Mangel Schmälerung Einschränkung Opfer
+Wiederaufbereitung Recycling Wiederverwertung Regenerierung Rohstoffrückgewinnung Wiedergewinnung Wiederverwendung
+Nomination Nominierung Aufstellung
+Zapfhahn Spund Hahn Zapfen
+seitlich nebenher
+eigenartig gruselig beklemmend geisterhaft gespenstig gespenstisch Hexenwerk schaurig creepy dämonisch übernatürlich unheimlich
+Stockbroker Broker Börsianer Wertpapierhändler Börsenhändler Börsenmakler Effektenmakler Wertpapiermakler
+Politikwissenschaft Politologie
+inflexibel unbiegsam unflexibel starr unbeweglich
+widerstehen opponieren widersetzen erwehren
+eigensinnig rebellisch aufrührerisch meuterisch tumultuarisch aufständisch sperrig widersetzlich
+Kritizität Kritikalität
+Porosität Durchlässigkeit
+Notiz Kommentar Anmerkung
+überspannen beinhalten umfassen einschließen
+zurückschaudern abhorrieren hüten zurückschrecken abhorreszieren zögern
+gemäß qua entsprechend nach getreu laut zufolge
+Bestürzung Konsternierung Entsetzen
+untätig passiv
+Nutzbarkeit Verwendbarkeit
+einzeilig einreihig
+Aufwartung Anstandsbesuch Höflichkeitsbesuch
+Nut Falz Stemmloch Fuge Spalte Zapfenloch Spalt
+Dienstunterbrechung Beurlaubung Suspension Suspendierung Dienstenthebung
+Nierenbaum Cashewbaum
+Anemone Windröschen
+wegbringen wegschaffen entfernen beseitigen wegräumen fortbringen verbringen fortschaffen forttragen abtransportieren ausräumen verfrachten beiseiteräumen
+anwurzeln festwachsen einwurzeln angehen anwachsen
+Gebärde Fingerzeig Handbewegung Geste
+purpurfarbig karmesinrot purpurfarben purpur purpurn
+beachten einplanen berücksichtigen
+abschnitzeln abraspeln
+Zimmermann Zimmerer
+regulär regelmäßig gleichmäßig
+Gebinde Fass Bottich Tonne
+ehrfürchtig respektvoll ehrfurchtsvoll ehrerbietig
+Schutzvorrichtung Sicherung
+Balladensänger Liedermacher
+Waren Güter Artikel
+Kontrolluhr Stechuhr Stempeluhr
+Ankunftsrate Zugangsrate
+Emergenz Auftauchen Übersummativität Fulguration Sichtbarwerden
+heimisch heimelig
+Dienstgrad Charge
+Schulfreund Klassenkamerad Schulkollege Mitschüler Schulkamerad
+Lehrlingssystem Lehrlingsausbildungssystem
+Kasack Hemdbluse
+zurückblickend zurückschauend rückblickend retrospektiv
+Kontinentalsockel Küstenflachmeer Schelf Kontinentalschelf Festlandssockel
+beschützend protektiv kustodial
+Gedankenlosigkeit Zerstreutheit Konzentrationsschwäche Verstörtheit Konfusion Verwirrung Zerfahrenheit
+beisetzen bestatten einbuddeln beerdigen verscharren begraben
+übersatt übersättigt
+Karikatur Spottbild Zerrbild Cartoon
+Gründer Mutter Gründervater Erschaffer Gründungsvater Vater Schöpfer Begründer
+Vorwort Prodromus Vorrede Geleitwort Prolog
+Luftstoß Windstoß Bö Böe Luftwoge
+unangefochten unstreitig wahr zutreffend unbestritten unumstritten erwiesen unstrittig
+unbezwinglich unbezwingbar unangreifbar
+Referenzpunkt Bezugspunkt Ausgangspunkt Koordinatenursprung Null Nullpunkt
+altmodisch archaisch veraltet gestrig unmodern
+verweben durchflechten durchwirken
+Privatbesitz Privateigentum
+kränklich pathologisch krankhaft
+Beherrschung Suprematie Hegemonie Vormachtstellung Vorherrschaft Präponderanz Übergewicht Herrschaft
+Zwischenträger Unterträger
+FC Fußballklub Fußballclub
+FH Fachhochschule
+Branche Gewerbe Industriebranche Industrie Industriezweig
+vorbehalten widmen belegen zuteilen zurückhalten zusichern reservieren
+Frequenzmodulation FM
+Verfassung Zustand Konstitution Status Befindlichkeit Stand
+erhaben feudal hehr edelmütig großzügig großmütig nobel
+Stimmenwerbung Wahlpropaganda Wahlwerbung
+Höhe Stand Level Schicht Pegel Ebene Niveau Stufe
+locken ködern anlocken
+Ausbruchsversuch Fluchtversuch
+Korrekturfahne Korrekturbogen
+militant kämpferisch
+Nachkommen Nachwelt Nachgeborenen Nachfahren Nachkommenschaft
+Umgehungsstraße Umgehung
+Sozialfürsorge Fürsorge Wohlfahrt Armenpflege Diakonie
+Transaktionsnummer TAN
+Report Bulletin Rapport Bericht
+verkannt unerkannt
+heranziehen großziehen aufziehen bemuttern pflegen aufpflegen
+anhaftend intrinsisch systeminhärent inhärent
+Rechnerkode Maschinenkode Zielkode
+Verbreitung Ausbreitung
+bei unter nebst zwischen
+Verkehrssünde Verkehrsvergehen
+Hierarchie Stufenordnung Rangordnung Baumstruktur
+Lehmgrube Tongrube
+Erläuterung Beschreibung Darstellung Schilderung Erklärung Charakterisierung
+Oberstübchen Dachkammer Mansarde Dachstube Mansardenzimmer Dachzimmer
+Festakt Fest Feierlichkeit Feier Feierstunde
+schonungslos schlankweg unbeschönigt direkt unverhohlen unverblümt offen unumwunden
+Veränderung Wechsel Änderung
+angeschwollen aufgeschwemmt verquollen schwulstig aufgeschwollen aufgedunsen verschwiemelt dostig aufgetrieben bamstig verschwollen geschwollen gedunsen
+Halskrause Mühlstein Duttenkragen Kröse Fraise
+einklagbar verklagbar
+verfremden befremden abalinieren entfremden
+buschig zottig zottelig
+Röteln Rubeola
+merklich fühlbar markant stark augenfällig deutlich charakteristisch signifikant ausgeprägt bezeichnend prägnant spürbar
+Begierde Anziehung Hang Affinität Lust Geneigtheit Tendenz Verlangen Neigung
+Funkfernsprecher Handtelefon Mobilfunktelefon Ackerschnacker Natel Gurke Taschentelefon Funktelefon Mobiltelefon Handy
+Parade Ballabwehr
+Dorn Stachel
+Schwall Sturzbach
+überblicken überschauen
+Missbilligung Missfallen
+Ansatzschraube Bundschraube
+Neuigkeit Information Nachricht Kunde Meldung Mitteilung Botschaft
+Holzblock Holzklotz Sägeblock
+Verbindung Kontakt Brückenschlag Verhältnis Annäherung Berührung Konnex Interaktion Kommunikation Umgang Beziehung
+Vokabeltest Vokabelprüfung
+Direktzugriffsspeicher Arbeitsspeicher Kurzspeicher Hauptspeicher Zentralspeicher RAM Kurzzeitspeicher
+Klampe Klemme
+Scheideweg Verästelung Bifurkation Dichotomie Verzweigung Gabelung Wegscheid Abzweigung
+Positionsänderung Translokation Verschiebung Bewegung
+Umbruch Umschwung Verwerfungen Umwälzung
+erfüllen nachkommen entsprechen vollbringen vollziehen
+Betriebskapital Betriebsmittel
+knoten durchschlingen weben
+Verdünnung Verdünnungsmittel Verdünner
+Kraftlosigkeit Schwäche Schmächtigkeit Asthenie Körperschwäche
+Wirksamkeit Wirkungsgrad Effektivität Leistungsfähigkeit
+Opfer Beute
+untersuchen nachforschen recherchieren requirieren ermitteln erkunden detektieren
+Prasserei Maßlosigkeit Gepränge Prunk Verschwendung Verschleuderung Geaase Luxus Vergeudung Unmäßigkeit
+ausräumen entrümpeln abräumen leerräumen
+Inspektor Untersucher Kontrolleur Inspizient Kontrollor Prüfer Überprüfer
+Ursprung Entstehen Herkunft Werden Anfang Zustandekommen
+Kollokation Zusammenstellung Kompilation
+kribbeln jucken
+jenes dies dieses das dasjenige welches
+Antrag Gesuch Eingabe
+Sexualerziehung Sexualkunde
+Moderator Regulierer Organisator Veranstalter Lenker Ausrichter
+Bahnstationsanlage Station Bahnhof Verkehrsstation
+Schmähung Ehrverletzung Beleidigung Kränkung Insultation Affront
+Wunder Rätsel Phänomen Chiffre Geheimnis Mysterium
+Absperrkette Postenkette
+Tauwerk Geißelung
+Ziehfeder Feder Schreibfeder Zeichenfeder Federkiel Tuschfeder
+Marktbegleiter Mitbewerber Wettbewerber Konkurrent
+eigenwillig eigensinnig individuell
+Anleitung Unterrichtung Unterricht Ausbildung Lektion Belehrung
+Verlegenheit Erniedrigung Beschämung
+Popanz Übertreibung Extravaganz Überspanntheit
+Reinkarnation Wiederfleischwerdung Wiedergeburt Wiederverkörperung Palingenese
+Bestimmtheit Entschiedenheit
+zurückfallend rückfällig
+Segelausstattung Takelwerk Takelage Takelung
+Entmannter Eunuche Kastrat Eunuch
+Radspeiche Speiche
+Selbständigkeit Eigenständigkeit Selbstständigkeit Selbstbestimmung Autonomie Selbstgesetzgebung Mündigkeit
+Luftschadstoffe Luftverschmutzung Luftverunreinigung Smog Peroxiacetylnitrat
+Alleinherrschaft Autokratie
+unbeholfen tapsig linkisch ungeschickt ungeübt ungelenk tollpatschig täppisch patschert ungewandt trampelig
+Absage Streichung
+Scharren Schaben Kratzen
+zusammenstreichen einsparen kürzen
+einnehmen schlucken hinunterschlucken
+Schrunde Kratzer Schramme Riefe Katsch Kratzspur
+Wendel Spule Wicklung
+verstummt sprachlos still stumm wortlos schweigsam verschwiegen
+geheiligt ausgesondert heilig
+Habgier Habsucht
+Wohnsitzaufgabe Wegzug Fortzug
+Verabschiedung Abschiedsakt Abschiednehmen Abschied
+Unterwassersauerstoffapparat Sauerstoffflasche
+Festumzug Umzug
+Ausrufezeichen Ausrufungszeichen Ausrufzeichen Rufzeichen
+wertschätzen würdigen schätzen akzeptieren achten ästimieren respektieren ehren anerkennen
+Bankrottfall Konkursfall Zahlungseinstellung Pleite Insolvenz Zahlungsunfähigkeit Ruin Konkurs Illiquidität Bankrott
+Privileg Vorrecht
+veranschaulichen darlegen beweisen aufzeigen demonstrieren aufweisen vorlegen
+Pfarrei Pfarre Kirchengemeinde Gemeinschaft Pfarrgemeinde Gemeinde Kirchgemeinde
+Schlepper Schleppdampfer Schleppkahn
+Gastfreundlichkeit Hospitalität Gastfreundschaft Gastlichkeit
+Verstocktheit Unerbittlichkeit Hartnäckigkeit
+magnetisch anziehend
+Festigkeit Langlebigkeit Robustheit Resistenz Konstanz Stabilität Dauerhaftigkeit Haltbarkeit Alterungsbeständigkeit Widerstandsfähigkeit
+Dividendenzuschlag Sonderdividende
+Abwrackung Verschrottung Abwracken Verschrotten
+Auslösen Ansteuerung
+Dingwort Substantiv Hauptwort Namenwort Nomen
+maßgeschneidert maßgearbeitet
+fruchtlos unproduktiv ergebnislos unergiebig
+Bestätigung Anerkennung Ehrerbietung Hochachtung Achtung Zuspruch Wertschätzung Rückenwind Beachtung Respekt Bewunderung
+Profileisen Formeisen
+Fassung Halterung
+Fluss Durchfluss
+Schrittsteuerung Stufensteuerung
+Markttrend Marktentwicklung
+Ansprache Monolog Vortrag Rede
+ISB-Nummer ISBN
+Türflügel Türblatt
+Teilnehmer Sozius Beteiligter Teilhaber Gesellschafter Partner
+Krume Brotkrume Bröckchen Brosamen
+Übergang Überleitung
+nirgendwo nirgends
+Ratlosigkeit Verwirrung
+Übungsheft Schulheft
+hinten achteraus heckwärts achtern
+kassieren einnehmen
+Becken Schale
+Trott Trab
+Nachsichtigkeit Konnivenz Geduld Duldsamkeit Verständnis Nachsicht
+Relation Verhältnis Bezug Zusammenhang Verknüpfung Wechselbeziehung Verbindung Beziehung
+Graubrot Mischbrot
+abzupfen pflücken abpflücken abbrocken
+mitfahren trampen
+Tetanus Wundstarrkrampf
+fröhlich heiter ausgelassen munter angeregt
+gefällig charmant freundlich nett
+Hinweiszeichen Markierung
+Einfuhr Zufuhr
+Nahrung Futter Kost
+Gehöft Heimstätte
+zuerkennen zuschreiben attestieren beigeben prädizieren unterstellen zusprechen attribuieren beimessen
+ungerade uneben
+Valorisierung Wertsteigerung Aufwertung
+Auftriebskraft Auftrieb
+Abendschule VHS Volkshochschule Kolleg
+Käuzchen Kauz
+Instandsetzung Problemlösung Mangelbeseitigung Berichtigung Reparatur Fehlerbehebung Fehlerbeseitigung Korrektur Verbesserung Nachbesserung
+Denkmalpflege Denkmalspflege
+Arbeitskraft Arbeitnehmer Bediensteter Beschäftigter Mitarbeiter Angestellter
+falzen nuten
+Entschlüsseler Decoder Decodierer
+neugierig wissbegierig interessiert wissensdurstig
+Einkauf Gekauftes
+vielleicht vermutlich dürfte wohl wahrscheinlich mutmaßlich
+Gewalttätigkeit Brutalität
+zerdrücken einstampfen zermalmen entfleischen zermatschen
+zylindrisch walzenförmig
+folgern konkludieren schlussfolgern ableiten schließen herleiten deduzieren kombinieren
+unklar trübe trüb
+Vertriebener Evakuierter Umsiedler
+Korbflechter Flechtwerkgestalter Korbmacher
+Ausgleichsgewicht Balancier
+StGB Strafgesetzbuch
+Bestätigung Rückmeldung Zuspruch Quittierung Zusage Bekräftigung Zusicherung Befürwortung Quittung Versicherung Nachweis
+Agrarier Agrarwissenschaftler Agronom
+Verflüssigungsmittel Entflockungsmittel
+aufwärmen erwärmen wärmen
+Lagewort Vorwort Verhältniswort Präposition
+Gerangel Balgerei Händel Handgreiflichkeiten Streiterei Rangelei Handgemenge
+Wortfülle Erguss Redefluss Redeschwall Suade Sermon Suada Tirade Wortschwall
+Nebenschilddrüse Epithelkörperchen Parathyreoidea Parathyroidea
+verbessern bessern optimieren
+Sterbensforschung Sterbekunde Thanatologie
+national bundesweit landesweit
+Kneipenwirt Barbesitzer
+Umschlagtext Klappentext Waschzettel
+Streifen Etikett Schlaufe Öse Lasche
+Unabdingbarkeit Mussbestimmung
+umstehend umseitig
+Aggregat Triebwerk Motor Maschine Murl Antrieb
+ungewöhnlich sonderlich befremdend befremdlich paradox seltsam absonderlich sonderbar kurios verquer komisch skurril
+Quäntchen Spur Anflug Hauch Prise Andeutung Touch Tick Etwas Winzigkeit Stich
+Stärke Stärkemehl
+konsistent fest dicht
+Gesenk Gussform
+Blutlinie Abstammungstafel Familienchronik Familienstammbaum Stammbaum Ahnentafel
+Kohlengrube Kohlenbergwerk
+Kanuslalom Wildwasserslalom
+winseln wimmern jaulen fiepen
+Ausgangszustand Normalstellung Ausgangslage Ausgangsstellung
+Blockieren Sperren Versperren
+Hacke Gartenhacke
+Fiasko Pleite Verlust Debakel Niederlage
+aufschrecken emporreißen erschüttern alarmieren aufwecken wecken wachrütteln aufscheuchen aufrütteln elektrisieren
+knirschen bruxen zermalmen
+nachkommen mithalten
+Droge Rauschmittel Suchtgift Suchtstoff Betäubungsmittel Rauschgift Suchtmittel Stoff Dope
+Strebe Versteifung Stütze Pfeiler
+Gratulation Glückwunsch
+Vernetzung Zusammenhang Verkettung Verbindung Verpflichtung
+Intelligenzquotient IQ
+Klettern Bergsteigerei Bergsteigen
+Aussendung Ausstrahlung Abstrahlung Emission
+Treffen Hoggedse Versammlung Zusammenkunft Zusammentreffen Treff Beisammensein Begegnung Wiedersehen Zusammensein Miteinander
+pulverisieren zerreiben
+umgesetzt vollzogen ausgeführt
+Detoxifikation Detoxikation Entgiftung Entseuchung
+Klugheit Bildung Gelahrtheit Schlauheit Weisheit Gelehrtheit
+Haushalt Budget Topf Etat Finanzplan Haushaltsplan
+Sahnebonbon Toffee
+zerfressend korrosiv zersetzend
+Gurt Tragband Stützband
+Vorausblick Vorausschau Prognose Ausblick
+Perzeption Empfindung
+unsymmetrisch asymmetrisch ungleichmäßig ungleichförmig
+Seminararbeit Studienarbeit Semesterarbeit Hausarbeit
+überreizt überdreht angespannt gespannt überempfindlich
+poppig grellbunt farbenfroh knallig quietschbunt knallbunt farbstark knallebunt giftig farbenprächtig bonbonfarben
+herumkaspern herumblödeln blödeln flachsen rumblödeln herumkalbern scherzen juxen witzeln ulken herumalbern rumspacken spaßen albern rumalbern
+Begrenztheit Limitation
+gastronomisch feinschmeckerisch
+infrarot Infrarotlicht IR
+ungeregelt chaotisch unordentlich
+Zinsrechnung Berechnung Rechnung Liquidation Abrechnung Prozentrechnung Faktura Faktur
+Höchststufe Extremum Spitzenwert Höchstwert Spitze Maximalwert Maximum Hochpunkt
+Ovation Beifallklatschen Applaus Jubel Beifall Beifallssturm Beifallsäußerung Beifallsbezeugung Beifallsbezeigung Beifallsbekundung Beifallsorkan Handgeklapper Klatschen Akklamation Beifallsrauschen
+Sedimentierung Sedimentbildung Sedimentation Ablagerung
+Währungsbank Emissionsbank
+solch dahingehend solchergestalt derartig derweise son
+Liga Bündnis Bund
+Durchlasszustand Ein-Zustand
+Einheit Friede-Freude-Eierkuchen Eintracht Einssein Einigkeit Übereinstimmung Harmonie
+Spielkamerad Gespiele Spielgefährte
+Derivat Abkömmling
+hiernach danach hernach daraufhin darauf später hinterher worauf folgend woraufhin sodann nachfolgend nach darnach nachträglich alsdann späterhin hierauf darauffolgend nachher anschließend dann
+bessern abändern berichtigen ändern
+Distanz Entfernung Abstand
+Ausfuhrartikel Exportartikel
+Staatsetat Staatshaushalt Kasse Staatsfinanzen Staatskasse Fiskus Staatssäckel
+Aushub Ausbeute
+Respekt Ehrfurcht Achtung
+U-Bahn Metro Sozialschlauch Untergrundbahn
+Teilhabe Einbindung Anteilnahme Verwicklung Teilnahme Einschluss Beteiligtsein Verstrickung Mitwirkung Beteiligung Partizipation
+Schärfe Schroffheit
+ausbleiben wegfallen ausfallen verschwinden verfliegen unterbleiben entfallen
+Verzweiflung Kummer Sorge Leiden Leid
+Buckel Höcker Auswuchs
+Zwischenraum Leerfeld
+zahlungskräftig schuldenfrei flüssig solvent zahlungsfähig liquide liquid
+retten erlösen
+Trader Börsenspekulant
+Tick Eigenheit Grille Kaprice Kaprize Marotte Fimmel Macke Caprice Angewohnheit Spleen Eigenart Tic Schrulle Allüren
+spiralenförmig schneckenförmig
+Wechselstrommaschine Wechselstromgenerator
+Vernünftigkeit Rationalität
+Kopffüßer Cephalopod Tintenfisch
+Kontostand Kontosaldo
+absinken niedergehen fallen abfallen abstürzen
+Wildbret Jagdbeute Wild Wildfleisch
+einmütig harmonisierend geistesverwandt kongenial
+Verbindungsperson Kontaktperson Ansprechpartner Ansprechperson Vertrauensperson
+einüben abrichten trainieren konditionieren dressieren trimmen
+GmbH GesmbH Ges.m.b.H.
+Dornbusch Dornstrauch
+gleichartig ident dasselbe wie identisch ebenso gleich genauso
+Außerkraftsetzung Aufhebung Kündigung Abrogation
+tschüss adieu Servus tschüs ciao vale ade
+Ehre Andacht Ehrung Anerkennung Achtung
+gegenzeichnen bestätigen
+Knüppel Keule Prügel Schläger
+Block Grätzel Wohngegend Wohnquartier Barrio Wohnblock Wohnviertel Veedel Wohnbezirk Kiez Wohngebiet Grätzl
+ausgewuchtet ausgeglichen geglättet
+Vorsteher Prinzipal
+Firmenerscheinungsbild Firmenbild Firmenimage Markenauftritt
+Drahtrolle Drahtbund
+aufbrechen aufhebeln knacken
+Steigleitung Steigrohr
+supermodern ultramodern
+Zypriot Zyprer
+Anzeigentarif Werbetarif Anzeigenkosten
+Akzeptanz Akzeptierung Aufnahme Annahme
+Gaumenkitzel Delikatesse Genuss Gustostückerl Schmankerl Hochgenuss Köstlichkeit Spezialität Leckerli Leckerbissen Hochgenuss Gaumenfreude Gaumenschmaus
+losstürzen forthetzen
+Gerinnung Koagulation Gerinnen
+x-fach zigmal häufig
+Persiflage Spöttelei Ridikülisierung Verspottung
+Kommunikationssteuerung Übermittlungskontrolle
+Sodalität Fraternität Kongregation Bruderschaft
+verhalten taktvoll zurückhaltend leise unaufdringlich diskret schonend unauffällig rücksichtsvoll dezent vorsichtig zurückgenommen
+Funktionsprüfung Funktionstest
+Urheber Architekt Macher Verantwortlicher Verursacher Hauptmatador Gestalter Initiant Initiator Auslöser
+Gegenstimme Widerrede Intervention Aber Gegenargument Vorbehalt Entgegnung Widerspruch Protest Beanstandung Einwand Einsprache Reklamation Einwendung Einspruch Rekurs
+Jugendjahre Pubertät Flegeljahre Reifezeit Jugendalter Entwicklungsjahre Pubertätsjahre Adoleszenz Pubertätszeit Entwicklungsalter
+Umstellung Umschaltung
+zensieren säubern kürzen reinigen
+hinhören horchen lauschen losen zuhören
+Geistesverwandtschaft Interessengleichheit
+kompetent fachkundig sachverständig erfahren beschlagen kenntnisreich qualifiziert sachkundig bewandert kundig professionell
+Zeitstempel Zeitabdruck
+Narkosearzt Anästhesist Anästhesiologe
+vielgestaltig gemischt vielschichtig bunt facettenreich mancherlei vielfältig multiperspektivisch mannigfach verschiedenartig mannigfaltig Kaleidoskop
+Schielen Strabismus
+trocken spröde
+verdicken abbinden
+Prüfsumme Checksumme Quersumme
+verpäppeln betutteln verpimpeln verzärteln betuddeln verhätscheln überbehüten verziehen verweichlichen betütern betüddeln verwöhnen
+unbedacht leichtfüßig unbekümmert unverantwortlich bedenkenlos verantwortungslos sorglos gedankenlos leichtfertig
+kontrahieren zusammenziehen
+Reiniger Säuberer
+gern sicher sicherlich selbstredend anstandslos gerne freudig freilich selbstverfreilich natürlich selbstverständlich gewiss bereitwillig
+äolisch aeolisch
+Sonderausgabe Sondernummer Spezialausgabe
+Teerstuhl Melaena
+salopp kess
+Despotismus Gewaltherrschaft Diktatur Terror Tyrannis Despotie Schreckensherrschaft Tyrannei Zwangsherrschaft Willkürherrschaft
+Zulauf Run Andrang Ansturm Zustrom
+Blütenstiel Stiel Blattstiel
+Geltendmachung Ausübung
+Idealbild Klassiker Schulbeispiel Musterbild Prototyp Inbegriff Paradebeispiel Modell Verkörperung Musterbeispiel Idealtyp Präzedenzfall
+Modellpuppe Schaufensterpuppe
+schmoren schwelen glimmen
+strähnig zottig zerzaust struppig zottelig
+mustergültig maßgebend
+Vereidigter Geschworener
+dazwischenfahren dazwischengehen dazwischenhauen dazwischenkommen
+Erzeugung Erstellung Fertigung Aufbau Generierung Schaffung Fabrikation Verfertigung Hervorbringung Zubereitung Herstellung Anfertigung Produktion
+Pedal Fußhebel
+klingeln klimpern
+prallen stoßen prellen auftreffen zusammenstoßen
+Dienstprogramm Systemprogramm Hilfsprogramm Tool
+Einlegearbeit Intarsie Intarsia
+vermitteln konkretisieren erläutern verklugfiedeln präzisieren erklären ausführen verklickern darbringen explizieren darlegen herüberbringen klarmachen rüberbringen
+Desodorant Deodorant Deo
+Forst Holz Wald Tann
+Wall Damm Ufer Böschung
+hektisch fieberhaft übereilt hastig
+Neurologe Nervenarzt
+Violinenbauer Geigenbauer Violinenhersteller Geigenhersteller
+Packung Box Karton Schachtel
+Wissensdurst Neugierde Neugier Wissbegierde Entdeckerfreude
+Schote Schale Hülse
+knubbelig knotig tuberkular höckerig warzig
+Selbstaufopferung Altruismus Opferbereitschaft Uneigennützigkeit Hilfsbereitschaft Selbstlosigkeit Selbstverleugnung
+Apotheke Arzneiausgabe
+Herbeiführen Einleitung
+versteinern verknöchern
+ausbalancieren austarieren
+hineinstopfen reinzwängen reinquetschen reinpacken hineinzwängen hineinquetschen hineinpacken
+unschätzbar unübersehbar
+Hoheitszeichen Emblem Symbol Wahrzeichen
+Wortstamm Stammwort Stammmorphem Wurzelwort Stamm Stem
+Druck Kompression Zusammendrückung Verdichtung Pressung Komprimierung
+eckig kantig
+abkühlen abschrecken
+fratzenhaft absurd grotesk
+Verkalkung Kalzinieren
+Zusammenhang Zusammengehörigkeit Zusammenhalt Rahmen Kohärenz Kontext Umfeld
+Eiland Insel
+linsenförmig lentikular
+mundwärts oral mündlich
+Klangnachahmung Lautnachahmung Onomatopoie Schallwortbildung Onomatopoesie Tonwortbildung Klangnachbildung Tonmalerei Onomatopöie Schallnachahmung Lautmalerei Onomatopoiie
+wählen abstimmen votieren entscheiden stimmen voten
+Umzäunung Zaun Einzäunung Fenz
+Reduziergetriebe Untersetzungsgetriebe Reduktionsgetriebe
+abschleppen zerren ziehen reißen trecken mitreißen schleppen
+gleichbleibend kontinuierlich stetig unabänderlich invariant konstant unveränderlich beständig invariabel ständig inert jederzeit feststehend
+Zugkraft Anziehungskraft Anziehung
+Auslöser Trigger Triggerereignis Auslösemechanismus
+Staatsbürgerschaft Staatszugehörigkeit Nationalität Staatsangehörigkeit
+Senker Spitzsenker
+selbstgefällig selbstzufrieden blasiert
+bildhaft eidetisch anschaulich ikonisch
+Besitzer Träger Inh. Inhaber Eigentümer Eigner
+Betteppich Gebetsteppich
+Verfügbarkeit Käuflichkeit
+Mehrzahl Plural
+Beweis Nachweis Beweismittel Beweisstück Beweismaterial Beleg
+entzündungshemmend antiinflammatorisch antiphlogistisch
+Zeitanzeiger Uhr Zeitmesser Zeiteisen Chronometer
+Pfeiler Pfosten Pfahl Stange Mast Stab Pohl
+Umlaufmarkt Sekundärmarkt Anschlussmarkt
+tückisch bösartig verwerflich hundsgemein schäbig schuftig hinterfotzig verabscheuungswürdig gemein niederträchtig garstig fies boshaft arglistig schurkisch ruchlos gehässig übel böse verabscheuenswert verrucht infam perfide schädlich mies hundig perfid schofel
+Fremdenführer Wegweiser Touristenführer
+Gangster Halunke Gauner Lump Schurke Galgenvogel Bandit Ganove Verbrecher Galgenstrick
+Druck Hektik Nervosität Belastung Stress Aufregung
+Großbritannien GB UK England
+Feinverteilung Streuung
+Gasse Weg Altstadtgasse Gässlein Gässchen Sträßchen Twiete
+Schwemmland Marschland Masch Mersch Marsch
+Maßnahme Schritte Kampagne Aktion Initiative
+Nervenschmerz Neuralgie
+Datenendgerät Terminal Sichtgerät
+Schularbeit Hausübung Hausarbeit Heimarbeit Schulaufgabe Hausaufgabe
+üppig reichhaltig opulent reichlich ausgiebig ausführlich
+Rätsel Knobelspiel Knobelei Vexier Geduldsspiel Geduldspiel
+glasieren lackieren emaillieren
+töricht vertrauensselig naiv leichtgläubig bedenkenlos nichtsahnend unbekümmert tumb blauäugig unbedarft arglos sorglos ahnungslos
+gefühlvoll einfühlsam sensibel empfindsam
+Postfach Sortierfach Mailbox
+ungewiss unbeständig unzuverlässig wankend wechselhaft ungleichmäßig schwankend
+Ortszulage Ortszuschlag
+englisch engl.
+schädlich nachteilig
+kirchengeistlich kirchlich
+bearbeiten behauen hauen
+Quelle Vorkommen Lagerstätte
+Flachschleifmaschine Innenrundschleifmaschine Schleifmaschine Rundschleifmaschine
+Körperlichkeit Stofflichkeit
+Zerlegung Dekomposition Zersetzung
+Seitenwagen Beiwagen
+Weinbeere Weintraube
+Umweltbilanz Ökobilanz Lebenszyklusanalyse
+dekretieren anordnen verfügen vorschreiben verhängen befehlen anweisen
+Kryptographie Kryptografie Verschlüsselung
+Armreif Armspange
+Gräte Fischgräte
+Glucose D-Glukose Glukose Dextrose Traubenzucker
+Rasenstück Sode
+Fülle Überfluss Menge
+Schlammablagerung Schlick Schlamm Mulm Morast
+Kanal Sender Programm
+Umerziehung Umschulung
+Liebenswürdigkeit Gefallen Gefälligkeit
+Hochzeit Hausse Blüte Boom Glanzzeit Hochphase Hochkonjunktur Blütezeit Hoch-Zeit Hochblüte
+Katenoide Kettenkurve Seilkurve Kettenlinie
+Zartmacher Weichmacher
+eigensinnig verbohrt widerstandsfähig refraktär unnachgiebig starrköpfig hartnäckig starrsinnig obstinat formalistisch
+Verbrauchsmaterialien Verbrauchsstoffe
+Geschmack Würze Geschmacksrichtung Wohlgeschmack
+überprüfen examinieren untersuchen auditieren evaluieren abklopfen studieren hinterfragen austesten prüfen
+Fiaker Pferdedroschke Droschke
+abzahlen abstottern tilgen
+Zwischenruf Ausruf Einwurf
+Augenhöhle Orbita
+aufblitzen aufflackern aufleuchten
+Verzahnung Integration Einbeziehung Einbeziehen Aufnahme Zusammenführung Eingliederung
+Autowaschanlage Autowäsche Waschstraße Waschanlage
+Innovation Neuheit Neuerung Neuschöpfung
+kolossal formidabel gigantisch überdimensional gewaltig titanisch immensurabel ungeheuer enorm monströs überdimensioniert riesengroß unermesslich astronomisch riesig monumental mächtig immens aberwitzig riesenhaft
+Förderrecht Schürfrecht Claim Schürferlaubnis
+beschreiben abstecken festsetzen definieren begrenzen bestimmen festlegen abgrenzen
+Antibabypille Pille
+Tauber Täuberich Täuber
+Geld Währung Valuta Zahlungsmittel Kapital Devisen
+Momentaufnahme Foto Schnappschuss
+Angreifer Attackierender Aggressor Eindringling
+kleinhalten knebeln knuten unterjochen opprimieren versklaven unterbuttern unterdrücken
+Preisreduzierung Preisreduktion Preissenkung
+Kolumne Spalte
+Synäresis Kontraktion Synizesis Synärese Synizese
+Authentizität Glaubwürdigkeit Zuverlässigkeit Originalität Echtheit
+Seefahrer Seemann Fahrensmann Seebär Schiffer Matrose
+Eroberer Invasor
+Rapier Florett Degen Fechtwaffe Stoßdegen
+ordern anfordern
+Schleifen Schliff
+eng intim innig nah
+Revision Redigieren Veränderung Änderung Abänderung Durchsicht
+Einzelsteuerung Antriebssteuerung
+Lagerbestandskontrolle Bestandsüberwachung Lagerkontrolle
+Diskus Schwebedeckel Frisbee Wurfscheibe
+Abnahmebereich Gutbereich
+Sonorität Wohlklang
+Adressat Warenempfänger Empfänger
+Betrüger Bauernfänger Schwindler Scharlatan Abzocker Nepper Rosstäuscher
+ablegen abstellen zurechtrücken positionieren ausrichten hinstellen platzieren
+Leitfähigkeit Konduktivität
+Isolation Einöde Abgeschiedenheit Abgelegenheit Einsamkeit
+Spielerei Kinderspiel Sonntagsspaziergang Pipifax Klacks Kleinigkeit Spaziergang Leichtes Kinderspiel Leichtigkeit Fingerübung Pappenstiel
+Drahtzange Drahtschere
+Blasenspiegelung Zystoskopie
+Moment Zeitpunkt Augenblick
+Zeitalter Ära Zeitabschnitt Periode Epoche Phase
+gesundheitlich sanitär
+Fernleitung Pipeline Rohrfernleitung
+mitgenommen beschädigt lädiert schadhaft defekt angestoßen angeknackst wurmstichig angeschlagen ramponiert
+Hautatmung Perspiration
+Reproduktion Fortpflanzung Vermehrung
+kippen neigen
+hinterlistig schlau heimtückisch clever listig verschlagen gerissen durchtrieben tückisch
+Werber Agent
+Unfähigkeit Unvermögen Impotenz
+Nostalgie Retrophilie Rückwärtsgewandtheit
+rational gescheit vernunftgemäß sinnvoll sinnig vernünftig
+Gedächtnisschwund Gedächtnisstörung Erinnerungsverlust Erinnerungslosigkeit Amnesie
+Schablone Stereotyp Schublade Klischeevorstellung Vorurteil Klischee
+Gallestauung Gallenstauung Cholestase
+Refrain Kehrreim
+Haushaltung Haushaltsorganisation
+Zustimmung Abnahme Bewilligung Erlaubnis Freigabe
+Werbeslogan Werbespruch
+Nilpferd Flusspferd Hippo Hippopotamus Großflusspferd
+Berufskraftfahrer Brummifahrer Fernlastfahrer Trucker Fernfahrer LKW-Fahrer Truckerfahrer Lastwagenfahrer Lastwagenchauffeur
+wedeln wackeln
+Erschöpfung Exhaustion Abgeschlagenheit Niedergeschlagenheit Burnout-Syndrom Burnout Lassitudo
+Ziel Zielsetzung Zielvorstellung Perspektive Zweck
+entwickeln entwerfen erarbeiten erstellen
+Erdteil Kontinent
+Aushändigung Erteilung Verteilung Herausgabe Ausgabe
+Anschlussmöglichkeit Konnektivität Verbindung
+Komik Humor Witz
+Erweiterungen Ausbauten Vergrößerungen
+Ausstellen Auflegen
+Neutralisation Neutralisierung
+kubisch würfelförmig würfelig
+Klosterfrau Nonne
+Inbetriebsetzung Indienststellung Inbetriebnahme
+Alchimie Transmutation Alchemie Elementumwandlung Goldmacherkunst
+Auslöser Steuerelement Stellglied
+Ausflussöffnung Ablauf Ausguss Ausfluss
+Nutzholz Gehölz Holz
+ausgleiten abrutschen ausrutschen wegrutschen
+Vormund Hirte Hüter
+Pfote Tatze Pranke Klaue
+dampfen dunsten
+eskortieren begleiten
+Watt W
+Bauch Abdomen Unterleib
+Runde Ring Kreis
+Taxwert Schätzwert
+Schnitzarbeit Schnitzerei
+Trümmer Bruchstein
+erzieherisch edukativ
+Kernbohrer Kronenbohrer
+Statuen Standbilder
+Knochendurchtrennung Osteotomie
+Jahresring Jahrring
+Vibration Stoß Gerüttel Schwingung Erschütterung
+Arrangement Anordnung Komposition Positionierung
+Schiefer Schiefergestein Schieferton
+Irreführung Schmu Betrug Schummelei Nepp Schwindel Täuschung Fraud Mogelpackung Trickserei Beschmu Abzocke Bauernfängerei Scam Rosstäuscherei Gaunerei Manipulation
+Kürbis Kürbisgewächs
+irgendjemand jemand
+spät tardiv
+aufrollen aufwickeln aufspulen
+Gunstbezeugung Stärkung Förderung Gunstbezeigung Schützenhilfe Zutun Hilfe Unterstützung Rückhalt
+Gepäckhalter Gepäcknetz
+Anschriftsteil Adressteil Adressenteil
+vollenden leisten schaffen durchsetzen erzielen erwirken umsetzen erreichen vollbringen
+Karambolage Anprall Zusammenprall Zusammenstoß Kollision Aufprall Auffahrunfall
+Photosynthese Fotosynthese
+Prunk Wichtigtuerei
+sorglos nachlässig leichtsinnig grobfahrlässig
+ducken kauern hinkauern knien hocken hinknien niederkauern
+überstreichen beschichten überziehen anstreichen
+Camper Zeltbewohner
+Neigung Neigungswinkel
+Leibesfülle Korpulenz Beleibtheit Dickleibigkeit
+Biberratte Schweifbiber Sumpfbiber Nutria Schweifratte Coypu
+Seelenkunde Psychologie
+Gang Gangart
+anhaken abhaken ankreuzen
+iterativ wiederholend zyklisch
+benachbart seitlich kollateral
+trauern mutlos enttäuscht traurig leiden deprimiert betrauern resigniert
+Vermögensverwaltung Anlagenwertführung Anlagenverwaltung
+Viertel Gegend
+Umhüllung Drumherum Hülle Verpackung
+innerhalb innen drin innerlich
+Ausfuhrgenehmigung Exportgenehmigung
+Vermählung Ja-Wort Verheiratung Verehelichung Heirat Verpartnerung Eheschließung Hochzeit Jawort Trauungszeremonie Trauzeremonie Trauung
+Machtausübung Stärke Gewalt Macht Power Herrschaft Beherrschung
+Gehweg Gehbahn Fußweg Bürgersteig Gehsteig Trottoir
+hierfür dazu dafür diesbezwecks
+anhalten auffordern bitten einladen
+Grundeinstellung Mentalität Philosophie Haltung Einstellung
+verblassen erblassen erbleichen
+Mauer Wall Wand
+Reichweite Aktionsradius Skopus Wirkungsbereich Einwirkungsbereich Spannweite Wirkungskreis Einflussbereich
+aufquellen aufweichen
+legen setzen lagern
+Antonym Gegenteil Oppositionswort Gegenbegriff Gegentum Umkehrung Gegensatzwort Gegenwort Komplement Gegensatz
+Baugewerbe Bauwirtschaft
+schwinden dahingehen vergehen dahinschwinden dahinschmelzen schmelzen zerschmelzen zergehen
+real eigentlich wirklich echt tatsächlich konkret
+Kaufkraftabsorption Kaufkraftabschöpfung
+Existenz Vorliegen Bestehen Vorhandensein
+anschwemmen schlämmen
+Datenintegrität Datensicherheit
+buschig waldig
+Brechbarkeit Brechungsvermögen
+fuzzy verwaschen verschwommen unscharf flaumig wuschelig
+Kalebasse Flaschenkürbis
+Spieleinsatz Gig Auftritt Einsatz Performance Auftritt
+Bestellnummer Best.-Nr.
+überanstrengen überbeanspruchen überstrapazieren
+Genosse Parteikollege Parteiangehöriger Parteigenosse Parteifreund Parteimitglied
+parodistisch possenhaft burlesk
+Waghals Heißsporn Wagehals Haudegen Hitzkopf Draufgänger Zornigel Teufelskerl
+Substitution Ersatz
+Nebeneinander Parallelismus Parallelität
+Preisgabe Aussetzen
+vergehend degenerativ
+Ökonom Volkswirtschaftler Wirtschaftswissenschaftler Wirtschafter
+verfechten vertreten einsetzen rechtfertigen aussprechen verteidigen soutenieren einstehen
+Nebensprechen Übersprechen
+Kammstück Lendenstück
+Bogen Kurve
+selbstsüchtig unsozial egoman eigennützig eigensüchtig egoistisch selbstbezogen ichbezogen egozentrisch narzisstisch subjektivistisch selbstverliebt egomanisch ichbefangen ichsüchtig
+sieden kochen aufbrühen
+Rückgewähr Refundierung Rückerstattung Restitution Rückzahlung Rückvergütung Zurückzahlung Erstattung
+Stärke Dynamik Energie
+Fremdgehen Liebesaffäre Frauengeschichten Liebelei Seitensprung Liebesverhältnis Krösken Liebschaft Gspusi Nebenbeziehung Verhältnis Liaison Affäre Techtelmechtel Buhlerei
+Verkaufslokal Verkaufslager Verkaufsraum
+Blutung Hämorrhagie
+Kabelbahn Seilbahn Drahtbahn
+rhetorisch phrasenhaft
+Schlaflosigkeit Insomnie Agrypnie Hyposomnie
+Maserung Textur
+unvollkommen unvollständig fragmentarisch holzschnittartig lückenhaft teilweise verkürzt bruchstückhaft inkomplett unvollendet oberflächlich skizzenhaft
+Strähne Haarstrang Haarsträhne
+Deformation Verzerrung Deformierung Entstellung
+umadressieren umleiten
+Kodierungstechnik Kryptologie
+renovierungsbedürftig heruntergekommen zersetzen verfallen zerfallen
+verjüngend konisch
+zurückschrecken zurückweichen zurückschnellen
+Paradebeispiel Inkarnation Musterfall Vorzeigebeispiel Beispiel Inbegriff Exempel Muster Ausgeburt Musterbeispiel Ausbund
+belästigen anmachen anpöbeln
+Reichhaltigkeit Fülle Wohlhabenheit Reichtum
+Kampfgenosse Kamerad Waffenbruder
+Entwurf Design Plan Konzept Konzeption
+typischerweise typisch
+Nocke Mitnehmer
+Toast Trinkspruch Tischrede
+Pappe Karton
+Zeitpunkt Datum Zeitangabe
+rebellisch abtrünnig
+ansonsten andernfalls alternativ widrigenfalls sonst anderweitig anderenfalls
+Außendienst Kundendienst
+flexibel adaptiv anpassbar wandlungsfähig anpassungsfähig polytrop
+überstehen durchlaufen ertragen verleben passieren durchleben erfahren miterleben durchmachen erleben mitmachen erleiden durchhalten zustoßen hinnehmen ausstehen einstecken
+paddeln pullen rudern skullen
+Brenneröffnung Brennerloch
+IOC IOK
+Frauenkloster Abtei Nonnenkloster
+Wappenherold Herold
+Seelenruhe Ataraxie Gelassenheit Gleichmut Gemütsruhe Unerschütterlichkeit
+ertragsarm unfruchtbar
+Spitze Kegelspitze Scheitelpunkt
+Schlag Schicksalsschlag
+wechselhaft launisch launenhaft kapriziös
+Sicherheit Bürgschaft
+geschwächt paretisch
+überblicken nachvollziehen kennen verstehen wissen
+Portal Einlass Durchgang Eingang Pforte Entree
+Gottesglauben Religion Theismus
+Zeilensetzmaschine Linotype
+opulent prahlerisch verschwenderisch prachtvoll prächtig bombastisch üppig
+Zusatzprogramm Software-Erweiterung Add-on Erweiterung Plug-in Zusatzmodul Programmerweiterung Extension Programmmodul
+Substanz Grundidee Kernaussage Essenz Kerninhalt Hauptaussage Kerngehalt Grundaussage Wesentliche Hauptgedanke
+Stellungnahme Verlautbarung Bescheid Info Statement Kommunikee Adresse Kommuniqué Aussendung
+abheftbar beilegbar anfügbar zuschreibbar beifügbar
+Abtrift Abdrift
+Time-out Karenz Unterbruch Unterbrechung Tätigkeitsunterbrechung Pause Auszeit Stopp Unterlass
+Motivation Motivierung Sinnesreiz Inzentiv Ansporn Aufhänger Antrieb Anreiz Anregung Reiz
+Anpassungsmöglichkeit Anpassbarkeit
+Einführungspreis Vorzugspreis Angebotspreis Werbepreis
+Franchise Verkaufskonzession Lizenz
+Rohöl Erdöl Öl Petroleum Mineralöl
+limitieren einhegen begrenzen beschränken kontingentieren beschränken
+Verein Klub Club
+Aufbewahrungszeitraum Sperrfrist
+ausrenken verrenken auskugeln
+Schlag Hieb Stoß
+Rüstung Mobilmachung Bewaffnung Aufrüstung
+stationieren formieren aufstellen
+Ausgangsverbot Ausgangssperre Ausgehverbot
+Schocktherapie Schockbehandlung
+Revanchepartie Rückspiel Revanche
+Kanalisation Abwasserleitung
+Studienkollege Kommilitone Mitstudent Studienfreund Studiengenosse
+Satz Gruppe Galerie Reihe Serie Zusammenstellung Set Garnitur Palette
+Gewandtheit Zungenfertigkeit
+Tiara Papstkrone
+Strahlenkunde Strahlenforschung Radiologie
+Strebsamkeit Ehrgeiz Strebertum Nacheiferung Wetteifer Zielstrebigkeit Ambition
+Windung Wicklung Wickelung
+Differenzierung Differentiation Distinktion Diskriminierung Abgrenzung Trennung Unterscheidung
+Fließbild Fließschema Flussbild
+agierend aktiv tätig handelnd
+komfortabel behaglich bequem
+Hotte Butte Kiepe Bütte
+umlegen verstellen verschieben umstellen
+Neuerwerbungsliste Neuerwerbungsverzeichnis
+Horizont Skyline
+hauen boxen kloppen schlagen prügeln dreschen
+charmant bezaubernd anziehend gewinnend aufregend apart reizvoll entzückend liebreizend faszinierend
+Programmablaufplan Programmstrukturplan Programmflussdiagramm
+Kooptation Kooption Kooptierung Ersatzwahl Ergänzungswahl
+Altwarenhändler Schrotter Schrotthändler
+Erwiderung Echo Widerhall
+Kohlendioxid Kohlenstoffdioxid CO2 CO₂
+Abfallstoff Abfallprodukt
+Sessellift Sesselbahn
+Nachtwandeln Somnambulismus Somnambulie Schlafwandeln Lunatismus Mondsucht Noktambulismus
+Bestellung Ackerbau Anbau
+Lagerumsatz Lagerbestandswechsel Lagerumschlag
+Alien Außerirdischer
+Erdrutsch Bergrutsch
+Rechenkapazität Rechenleistung
+Bastelarbeiten Bastelei Basteln
+Radiator Heizkörper Heizung
+Fischerboot Huker
+Sperrklinke Bohrknarre Sperrhaken
+durchsuchen durchgehen durchkämmen durchstöbern abgrasen
+unantastbar unzugänglich unnahbar unerreichbar
+täfeln paneelieren
+hebeln aushebeln
+Palmenzweig Palmenwedel
+Substrat Trägermaterial
+Streicheln Zärtlichkeit Befummeln Schmusen Ankuscheln Liebkosen
+Oberherrschaft Staatshoheit
+Phenylethen Vinylbenzol Styren Styrol
+Messinstrument Messapparat Messgerät Messeinheit Messer
+erwähnenswert bemerkenswert nennenswert beachtenswert beeindruckend anmerkenswert observabel
+amorph gestaltlos unkristallinisch formlos
+Wapiti Wapitihirsch
+irreparabel unersetzlich inoperabel
+Durchschlag Kopie Abschrift Ausfertigung Durchschrift Doppel Duplikat
+Berufsgruppe Fachgruppe
+Behauptung These Unterstellung Ansicht
+probieren kosten degustieren versuchen abschmecken schmecken testen verkosten
+Born Quelle Brunnen
+Sirene Tröte Horn Hupe
+Schafshaut Amnion
+eingebettet integriert eingebaut
+entsprechend gebührend anständig stimmig angemessen adäquat passend ordentlich
+Hinweisschild Hinweistafel Infoschild Informationstafel
+Novelle Story Geschichte Narration Erzählung
+Schubspannung Scherspannung
+Fehlereingrenzung Fehleranalyse
+prächtig glorreich
+Illustration Abbildung
+Mollymauk Schwarzbrauenalbatros
+Halbpension HP
+überwältigen brechen überwinden
+Anhäufung Kumulation Kumulierung
+zerlegen zertrennen
+Posse Schwank Burleske Klamotte
+Nachgebühr Nachbelastung
+Verschleiß Abnutzung Verbrauch
+Weinliebhaber Weinkenner
+Loblied Kirchenlied
+Remedium Toleranz
+Boulevardzeitung Schundblatt Käseblatt Boulevardblatt Revolverblatt
+Lautstärke Tonstärke Geräuschpegel
+Kolorimeter Farbenmesser
+Auskunftei Auskunftsdienst Informationsdienst
+glücklich froh zufrieden happy
+Schmelzmittel Flussmittel
+posieren posen
+Zeh Zehe
+zufällig aleatorisch zufälligerweise
+Stromschiene Sammelschiene
+Eigenwilligkeit Eigensinn
+Enteisungsanlage Entfroster
+lethargisch passiv schwerfällig phlegmatisch indolent träge apathisch teilnahmslos
+rollstuhlgerecht rollstuhlgängig barrierefrei rollstuhltauglich behindertengerecht
+Einsatzbereitschaft Opferwille
+Hader Missstimmung Uneinigkeit Dissens Zwietracht Nichtübereinstimmung
+Nierenerkrankung Nephropathie
+inkomplett unvollkommen defektiv verkümmert rudimentär unvollständig
+Anzeige Annonce Werbebanner
+Einlaufen Eingehen Krumpfung
+verblühen verdorren welken
+dominierend dominant tonangebend beherrschend vorherrschend bestimmend herrschend maßgebend maßgeblich führend prädominant
+Laden Shop Handlung Kaufhaus Verkaufsstelle Geschäft Handel
+rasant schwungvoll feurig
+Einweihung Einweihungsfeier
+Bodenplatte Bodenfliese Kachel
+Anschlusstafel Steckschalttafel Anschlussleiste
+triebhaft unkontrolliert ungebremst ungesteuert
+Gesamtkonzept Gesamtkonzeption
+Betrieb Werkstatt
+Verdrehung Torsion Verwindung
+zurück retour retro rückwärts
+Sehbehinderung Sehschaden
+Ausgesetztsein Preisgegebensein Exposition
+Auftragssteuersprache Kommandosprache
+Kranbaum Ladebaum
+Bindehautentzündung Konjunktivitis Trachom
+manövrieren führen leiten lenken regieren dirigieren kontrollieren steuern
+mieten anmieten leasen pachten
+rehabilitieren wiederherstellen
+Richtlinie Maßstab Standard Vorgabe Regel Norm Leistungssoll
+Preisung Würdigung Aretalogie Lobschrift Lobpreisung Laudatio Elogium Aretologie Weihrauch Lobeshymne Lobrede Eloge
+Methodik Methode Konzept Betrachtungsweise Verfahren Verfahrensweise Ansatz Vorgehen Technik Prozedere Herangehensweise Prozedur Arbeitsweise Vorgehensweise
+aufschieben hinausschieben hintanstellen verschieben retardieren verzögern prokrastinieren verdrängen verschleppen zurückhalten
+anlagebedingt konstitutionell
+Industriedunst Smog
+beiseitelegen zurückhalten zurücklegen reservieren hinterlegen
+taub blutleer empfindungslos gefühllos
+Einheitsführer Kompaniechef Kompanieführer
+Buchhaltung Rechnungswesen Rechnungsführung
+zuletzt hinterst letzter
+Imitation Imitat Nachbildung Nachahmung
+aufbäumen auflehnen
+Jaulen Gekläff Gekläffe Kläffen
+Sockel Fundament Basis
+verblassen verwelken verklingen
+anstrahlen beleuchten illuminieren erleuchten anleuchten
+Kieselgel Silikagel Silicagel Kieselsäuregel
+ausfallsicher verlässlich betriebssicher zuverlässig standfest störungssicher
+hassen abhorreszieren verachten verabscheuen degoutieren abhorrieren
+Fuzzylogik Fuzzylogic
+Praktikabilität Zweckmäßigkeit Anwendbarkeit Brauchbarkeit Tauglichkeit Opportunität Einsetzbarkeit Eignung
+speichern festhalten aufzeichnen
+aufschichten schichten anhäufen aufhäufeln aufhäufen aufschütten aufschaufeln
+Ausläufer Ableger Vorberge
+allumfassend ausgedehnt weitschweifig umfänglich umfangreich extensiv voluminös umfassend geräumig erweiternd weitreichend
+Ren Rentier
+unvermögend mittellos arm bedürftig finanzschwach verarmt hilfebedürftig notleidend ärmlich dürftig prekär
+Computerbetrug Computerkriminalität
+Bruchteil Fraktur Bruch
+Kaulbarsch Döbel
+befruchten motivieren anspornen anregen beflügeln inspirieren begeistern bereichern
+versicherungsstatistisch versicherungsmathematisch aktuarisch
+begehrt gefragt beliebt populär gesucht nachgefragt
+Jet-Lag Jetlag
+Absicht Intention Vorhaben Behuf Zweck Ansinnen Plan
+Außentemperatur Umgebungstemperatur
+Abkömmling Spross Nachkomme Nachfahre Nachwuchs Abkomme
+wolkenbruchartig sintflutartig
+Besiedler Kolonialist
+umkehrbar konvertierbar konvertibel tauschbar abänderlich umdrehbar reversibel invertierbar umwendbar umtauschbar
+stechend quälend schmerzlich peinigend bohrend brennend wehtuend quälerisch beißend marternd nagend peinvoll qualvoll schmerzhaft schmerzvoll
+chartern mieten
+örtlich dezentral lokal regional
+Rankenfußkrebs Rankenfüßer
+tragisch dramatisch katastrophal
+Schnellzug Expresszug Durchgangszug D-Zug Eilzug
+Zentrifuge Schleudermaschine Trennschleuder
+ableisten vollziehen absolvieren durchführen
+Istzustand Iststand
+Liebenswürdigkeit Herzlichkeit Freundlichkeit Warmherzigkeit Gewogenheit
+Talboden Talgrund Talsohle Sohle
+Übermut Keckheit Dreistigkeit
+fleckenförmig makulopapulös knötchenförmig
+verletzen wehtun versehren verwunden traumatisieren
+Grad Klasse Stufe Rang Qualität
+Automation Automatisierung
+Warnsignal Alarmruf Notruf Gefahrenmeldung Alarmsignal Alarm Warnton
+Spule Elektromagnet Hubmagnet
+Betrag Absolutwert
+Tollheit Irrsinn Wahnsinn
+Nebensache Nebenerscheinung Nebeneffekt Nebengeräusch
+Fixpreis Festpreis
+Seehecht Hechtdorsch
+Friktion Reibung
+umwerben propagieren werben anpreisen hochhalten bewerben promoten
+absperren abriegeln
+Rohertrag Bruttoertrag
+Trauma Körperverletzung Verletzung Blessur Verwundung Läsion
+Anlaufzeit Startzeit
+Abschätzung Begutachtung Urteil Beurteilung Bewertung Einschätzung Gutachten
+Backofen Röhre Ofen
+Kiesel Kieselstein
+Ärgerlichkeiten Stress Krach Huddel Theater Verdrießlichkeiten Schererei Ärger Streit Probleme Trouble Unmut Misshelligkeiten Konflikte
+Theokratie Gottesstaat
+Vademecum Handreichung Handout Darreichung Enchiridion Handbuch Ratgeberbuch Ratgeber Vademekum
+schrumpfen einschrumpfen verringern zusammenschrumpfen
+Angleichung Anpassung Assimilation Assimilierung
+Luftfeder Luftkissen
+Aufbereitung Vorbereitung
+Aufschwemmung Suspension
+schieben drängeln drängen drücken pferchen
+Kilt Schottenrock
+Ziegenfell Ziegenleder
+sprießen hervorschießen herausbrechen entbrennen entladen herausschießen hervorbrechen lösen hervorkommen losbrechen ausbrechen entzünden heraussprudeln
+Präparator Ausstopfer
+Entnahme Abhebung
+Freilassung Entlassung
+Scharniergelenk Gelenk Scharnier
+unmittelbar unverzüglich sofortig prompt instantan umgehend postwendend schnurstracks spornstreichs sofort fix
+Barometer Manometer Druckanzeiger Druckmesser
+informell sportlich lässig leger casual salopp
+Speise Mahlzeit Mahl Essen Gericht
+Flitterkram Accessoire Kinkerlitzchen Chichi Schmuck Verzierungen Tand Schnörkel
+Hosenschritt Schritt
+Knebelung Knechtschaft Bevormundung Unterjochung Versklavung Unterdrückung Unterwerfung
+pompös wuchtig
+Vermutung Verdacht Anfangsverdacht Verdächtigung
+Gesellschaft Gruppe Körperschaft
+Melange Gemisch Allerlei Mix Mischung
+Erneuerung Wiederherstellung Wiederinstandsetzung Rekonstruktion Wiederaufbau Wiedererrichtung Sanierung
+Ausgleicher Entzerrer
+Werbefachfrau Werbefachmann
+Verlagshaus Verlag
+Einspritzventil Injektor Düse Einspritzdüse
+perfektionieren vervollkommnen feilen
+auflockern lockern
+angeschaltet an aktiv eingeschaltet
+anpeilen orten peilen lokalisieren
+Abgang Absendung Versand
+auskundschaften durchstöbern nachspüren suchen ausforschen recherchieren ausspähen aufspüren nachschlagen
+duplex wechselseitig beidseitig
+herbeischaffen vermitteln hertransportieren herankarren ankarren beitreiben beibringen herbeiholen herholen anschleppen herschaffen beschaffen
+Schädlichkeit Übeltätigkeit
+unabsehbar endlos
+Reiniger Putzmittel Reinigungsmittel
+Eigelb Eidotter
+wenn sobald sowie
+auswaschen erodieren
+Nebenzweig Zweig Schiene Seitenast Nebenlinie
+Ausschuss Kehricht Schrott Hausabfall Abfall Hausmüll Müll Unrat Spreu
+Gelenkwelle Kardanwelle
+Besonderheiten Merkmale Spezialitäten
+hetzen aufstacheln vorantreiben jagen antreiben voranbringen vorwärtstreiben scheuchen treiben
+unsereins wir unsereiner
+Drehbank Drehmaschine
+Laderaum Frachtraum
+Katzenkind Kätzlein Katzenbaby Kätzchen
+besprechen rezensieren
+drücken herabsetzen
+Erregung Anregung
+eingehüllt verpackt eingepackt abgepackt
+Parabel Gleichnis Lehrstück Fabel Allegorie
+Somali Somalier
+Dauerbeschuss Sperrfeuer Dauerfeuer Trommelfeuer Artillerie-Beschuss
+Knabenliebe Päderastie
+Versicherungsnehmer Versicherter
+undurchlässig dicht hermetisch luftdicht undurchdringlich
+Alraune Alraun Alraunwurzel Mandragora
+wesentlich grundlegend bestimmend kritisch entscheidend ausschlaggebend maßgeblich
+Bestie Biest Untier Scheusal Schimäre Chimäre Kreatur Ungetüm Monster Monstrum Ungeheuer
+seltsamerweise paradoxerweise merkwürdigerweise seltsam komischerweise kurioserweise ironischerweise
+passabel fair akzeptabel vertretbar okay OK adäquat
+warzenförmig papillär
+Preistreiberei Mondpreise Wucher Überteuerung
+Glatzkopf Platte Kahlkopf Glatze
+erdrosseln erwürgen strangulieren würgen ersticken
+Risiko Wagestück Unterfangen Wagnis
+Gütekriterium Gütefaktor
+Überforderungsklausel Härtefallregelung
+Prototyp Urform Urfigur Archetyp Urgestalt Urbild
+Hintersatz Nachsatz
+Zusatz Beigabe Zubehör
+außen habituell äußerlich
+listen auflisten verzeichnen
+Trick List Finte Tücke Hinterlist Streich Kniff
+Aufrichtigkeit Offenherzigkeit Freimut Offenheit
+Schleimhaut Mukosa
+Vernickeln Vernickelung
+Bürozubehör Büroset
+freundlich konziliant diplomatisch sozialverträglich verbindlich entgegenkommend galant zuvorkommend höflich
+Nordlicht Polarlicht Aurora
+Bock Auflagebock
+synchron zeitgleich gleichzeitig taktgesteuert
+Vorrang Prio Bedeutung Wichtigkeit Vorzug Dringlichkeit Priorität
+fad labberig muffig vermufft abgestanden schal lasch fade
+Rechteck Vierling Quadrat Geviert Orthogon
+Tragfähigkeit Tonnage
+abgeschlossen separat
+Kreiselbewegung Präzession
+Eiterflechte Borkenflechte Impetigo
+Leitwert Leitfähigkeit
+Aufschrift Epigramm Sinngedicht
+schüchtern mutlos hasenfüßig feig hasenherzig kleinmütig ängstlich klammern duckmäuserisch feige memmenhaft
+Stander Wimpel
+Suppenlöffel Esslöffel
+zurückerstatten restituieren
+seitlich seitwärts
+Entscheidungsmacht Potenz Machtfülle Einfluss Durchsetzungsfähigkeit Macht
+Gewebsschwund Atrophia Atrophie Gewebeschwund
+wohnhaft ortsansässig ansässig beheimatet domiziliert
+Behandlungsweise Praktik Handhabung Bedienung Methode
+Puffer Freiraum Platz Spielraum Luft Handlungsspielraum
+Großhirn Zerebrum
+nussig nussartig nussreich
+Postadresse Anschrift Postanschrift Adresse
+Papiersack Papiertüte
+Pfingsten Pfingstfest
+Teebüchse Teedose
+ewig ewiglich perpetuell dauerhaft perpetuierlich unaufhörlich unendlich
+Mauersims Mauerkranz
+Einsatz Auftrag Arbeitseinsatz
+Entziehung Extraktion Entzug Extrakt Auszug
+Inzucht Inzest Blutschande
+Signatarstaat Signatarmacht Unterzeichnerstaat
+unrein unreinlich
+Verzierung Musterung
+Sachverhalt Tatsache Gegebenheit Fakt Faktum
+isoliert extra monadisch einzeln abseits alleinig einzig
+Pragmatik Pragmatismus Sachbezogenheit
+Aufdruck Etikett Label
+kochen dämpfen schmoren garen dünsten
+Beweis Vorführung Demonstration
+absetzen entheben entthronen
+Florist Blumenhändler
+schrumpfen schrumpeln
+Inbusschraube Innensechskantschraube
+digestiv verdauungsfördernd
+galvanisieren metallisieren metallbeschichten
+Florettseide Schappeseide
+Fahrpreis Fahrgeld Beförderungsentgelt Fahrtkosten
+Kabinett Nebenraum
+rostfrei rostfest rostbeständig
+Adjutant Handlanger Unterstützer Adlatus Assistent Gehilfe Hilfskraft Beistand Referent Helfer
+progressiv voran vorwärts weiter
+Begründung Bekräftigung
+geläufig vertraut alltäglich gängig gewohnt
+Rigipsplatte Gipskartonplatte
+Nachtrag Appendix Anfügung Annex Beilage Hinzufügung Anhang Zusatz Paralipomenon Anlage Ergänzung Addendum
+durchspielen üben proben
+ausgeglichen gleichmäßig symmetrisch gleichförmig
+Gehörsinn Gehör
+fehlerbehebend korrigierend
+Postskriptum PS
+Unterstützung Supervision Beratung Mentoring
+steril entkeimt sterilisiert desinfiziert keimfrei sauber hygienisch aseptisch
+bewiesen erwiesen erprobt anerkannt
+emporstreben aufstreben streben
+Tschüss Bye Tschüssie! Ade baba Adele Tschüs bye-bye! Wiedersehen! Tschüssikowski Adieu Tschö Tschüssle! salü Tüsskes ciao! servus cheerio! Tschau Tschü Tschauie!
+Schaber Kratzer
+armselig erbärmlich unwürdig kläglich schäbig würdelos bemitleidenswert unsäglich nichtswürdig Trauerspiel
+Schrittflanke Signalbegrenzung
+exklusiv alleinig ausschließlich
+Umschalttaste Shift-Taste
+Fremdenverkehrsamt Touristik-Information Tourist-Information Verkehrsverein Touristenbüro Verkehrsamt
+Mikrowelle Mikro Mikrowellengerät Mikrowellenherd Mikrowellenofen
+Anliegen Wunsch Nachfrage Ersuchen Wunschliste Antrag Desiderat Desideratum Bitte Gesuch Ansuchen
+Unterteller Untertasse
+Säbel Schwert
+Weinernte Traubenlese
+süperb exzellent vorzüglich unbeschreiblich hervorragend superb exquisit
+Kusine Base Cousine
+Beweglichkeit Betriebsamkeit Umtrieb Geschäftigkeit Rührigkeit Regsamkeit Aktivität Unternehmungsgeist Rastlosigkeit
+Speisestärke Kartoffelmehl Kartoffelstärke Erdäpfelstärke
+aufschlagen aufprallen
+einschätzen beurteilen abwägen prüfen
+schachbrettartig gescheckt kariert
+Archivar Registrator
+Niederträchtigkeit Tücke Niedertracht
+nachfüllen auffüllen
+Rahmung Einrahmung
+Scheidenentzündung Vulvovaginitis
+Rollbalken Bildlaufleiste Scrollbar Schiebebalken
+Angestellte Belegschaft Personalbestand Arbeitnehmer Personal
+Senkwaage Normale Senkrechte Vertikale Lot
+Gezetere Gekeife Geplärre Gezänk Gezeter Geplärr
+Nachzahlung Zuzahlung
+unangefochten unübertroffen
+verspritzen spritzen
+Raum Territorium Areal Gebiet Gegend
+Unsicherheit Unstetigkeit
+Bruttoregistertonnen BRT
+Desertion Fahnenflucht Übertritt
+Amphibie Lurch
+Volk Nation Bevölkerung
+Lichterbaum Weihnachtsbaum Christbaum Tannenbaum
+unbegrenzt infinit unaufhörlich endlos
+berechenbar evaluierbar auswertbar
+Quartierzettel Quartierschein
+temperamentvoll impulsiv lebhaft
+schrecken erschrecken
+Symbol Glyphe Grafem Graph Letter Schriftzeichen Graphem
+legitimieren verargumentieren argumentieren begründen rechtfertigen erklären
+Gefüge Rahmen Rand
+Eigensucht Selbstsucht Egozentrik Egoismus
+anrempeln anstoßen
+Obligationenmarkt Rentenmarkt Anleihenmarkt
+Abbrucharbeiten Abrissarbeiten
+Kolonnenführer Truppführer Kapo Vorarbeiter Brigadier Polier
+Äußerung Behauptung Erklärung Statement Aussage Stellungnahme Einlassung
+Flugbegleiter Steward
+Überzieher Übermantel
+Zwischenwand Trennwand Scheidewand
+Stewardess Hostess Saftschubse Flugbegleiterin
+Schichtablösung Delamination
+Geleit Eskorte Geleitzug Konvoi
+Besatzungsstreitkräfte Besatzungstruppe Okkupationstruppe Quardi Besatzer Besatzungsarmee Besatzung
+Wandteppich Bildteppich Tapisserieware
+Polierleder Fensterleder
+ölen abschmieren schmieren verschmieren
+Note Memorandum
+Runde Durchlauf Durchgang Arbeitsgang
+rangeln balgen kämpfen raufen herumbalgen balgen schlagen
+Eiteransammlung Abszess Empyem
+elliptisch ellipsenförmig
+Länderparlament Landtag Landesparlament
+Bittsteller Bettler Supplikant
+Hinterlegung Aufbewahrung Deponierung
+befriedigen erfüllen
+Wellness Wohlbefinden
+Vergrämung Ausstoßung Austreibung Vertreibung
+Großreich Supermacht Weltreich Großmacht Imperium Weltmacht
+Verbeugung Verneigung
+anhimmeln verehren anschmachten umschwärmen vergöttern
+Halbleiterplättchen Halbleiterwafer
+ungeordnet desorganisiert unstrukturiert unorganisiert chaotisch durcheinander entgleist
+Arbeitsplan Ablaufplan
+Inline-skaten Inlineskaten inlinen
+benommen benebelt rammdösig beduselt
+unbeständig flüchtig kursorisch rasch
+Müll Unrat Abfall Dreck Unflat Schmutz Siff
+Familienbetrieb Familienunternehmen Familienfirma
+Pflaster Straßenpflaster
+keusch anständig mädchenhaft rein züchtig unbefleckt unschuldig unverdorben jungfräulich unbescholten unberührt sittsam
+kostenpflichtig gebührenpflichtig entgeltpflichtig
+Verlauf Geschehen Ablauf Fortgang Fortschritt
+herausnehmen entfernen herausschneiden ausschneiden dekupieren exzidieren
+Kirchenspaltung Schisma
+Brauch Sitte Gewohnheit Usance Regel Usus Usanz Konvention Gepflogenheit
+stehenbleiben! stopp! halt!
+regimekritisch dissident
+Schaumkuss Schwedenbombe Mohrenkopf Bumskopf Schokokuss Negerkuss
+verdunkeln verfinstern verdüstern
+zurückdrehen zurückrollen
+schwergewichtig schwer
+präzise richtig exakt präzis gewissenhaft korrekt prägnant haargenau genau akkurat fehlerfrei
+Schubstange Stoßfänger Stoßstange
+Leitwand Leitmauer
+Kongress Symposium Tagung Meeting Konferenz
+Wortneuschöpfung Neologismus Wortneubildung Neuwort
+Verhütungsmittel Kontrazeptivum Empfängnisverhütungsmittel
+Erbnachweis Erbschein
+Salzglasur Anflugglasur
+verdrehen verzerren krümmen
+Delphinarium Delfinarium
+Rechtfertigung Verteidigung Apologie Verteidigungsrede
+eindeutschen germanisieren verdeutschen
+mild nachsichtig barmherzig glimpflich
+Gelenkerkrankung Arthropathie
+Freundlichkeit Entgegenkommen Zuvorkommenheit Gefälligkeit Höflichkeit Courtoisie Verbindlichkeit
+Adressfeld Anschriftsfeld Adressenfeld
+Auswuchs Extrem
+Morgendämmerung Morgengrauen Tagesanbruch Sonnenaufgang
+Kulisse Theaterkulisse Bühnenbild
+wesentlich grundlegend wichtig primär essenziell Grund- eminent fundamental prinzipiell elementar basal substanziell essentiell
+Konstruktionszeichner Bauzeichner Zeichner
+Rüstzeug Horizont Sachverstand Wissen Fähigkeit Kompetenz Kenntnis Kenntnisstand Können Ahnung Wissensstand Kenne Sachkenntnis Sachkunde Know-how Techne Expertise
+sperren verzahnen
+nachgehen ausüben betreiben
+Habgier Begehrlichkeit Habsucht Gierigkeit Gier Konsumrausch Raffgier
+Erwerbslosigkeit Beschäftigungslosigkeit Arbeitslosigkeit
+aufschreien aufjaulen jaulen aufkreischen
+Streifenkode Strichcode Balkencode Barcode
+Anästhesie Allgemeinanästhesie Betäubung Narkose
+schauern zittern erbeben erzittern schuckern schlottern erschaudern bibbern schaudern erschauern
+Alkoholrausch Betrunkenheit Trunkenheit
+Phantasiewelt Traumwelt Fantasiewelt Wunschwelt
+freigebig gönnerhaft generös spendabel nobel großherzig großzügig hochherzig spendierfreudig großmütig freigiebig
+Diversifikation Diversifizierung
+Falschspieler Betrüger Schwindler
+Annonce Zeitungsannonce Anzeige Fließtextanzeige Zeitungsinserat Inserat Zeitungsanzeige Kleinanzeige
+Kieferknochen Kiefer
+Anzeigenvertreter Werbevertreter
+zwischen inmitten
+bespritzen besprühen anspritzen
+Wappenwesen Wappenkunde Heroldskunst Heraldik
+Einzug Beschlagnahmung Beschlagnahme
+Verneinung Weigerung Zurückweisung Abfuhr Ablehnung Absage Rückweisung Verweigerung
+beleben laben auffrischen
+Vorbeugung Abwendung Prävention Vorbeugungsmaßnahme Prophylaxe Verhütung Vorsorgemaßnahme
+unüberwindbar unüberwindlich unüberbrückbar
+planlos chaotisch durcheinandergewürfelt schlampig unaufgeräumt zusammengewürfelt kunterbunt strukturlos durcheinander wirr unordentlich
+Atmosphäre Lufthülle
+bewusst gewahr klar gegenwärtig
+inkludieren beinhalten einschließen beherbergen umschließen mitbringen enthalten umfassen tragen involvieren integrieren einbeziehen bergen
+Marktstudie Marktanalyse
+Absorption Einsaugung Aufsaugung Aufsaugen
+Einzelzimmer Einbettzimmer
+Skalpell Seziermesser
+Sehvermögen Sehkraft Augenlicht
+Drehzylinder Induktor Motorläufer
+Himmelszelt Himmelskugel Firmament Himmelsgewölbe Himmelssphäre Himmel Sternenzelt
+ungebleicht naturfarben ecru ekrü
+Heiratsgut Heiratsausstattung Heimsteuer Aussteuer Dotation Brautaussteuer Mitgift
+verbrecherisch illegal sträflich rechtswidrig kriminell mafiös ungesetzlich
+Einschätzungsspielraum Gutdünken Ermessen
+Reißzwecke Heftzwecke Reißbrettstift
+Leichtbeton Gasbeton
+Zusammensetzen Montage Befestigung Installation Einbau Zusammenbau
+beziffern quantifizieren
+Originalfassung Urfassung
+abscheulich ekelhaft abstoßend widerwärtig degoutant unangenehm ekelerregend widerlich eklig ungustiös unappetitlich ekelig
+Este Estländer
+Angusskanal Angussverteiler Abstichrinne
+Straßenverkehr Autoverkehr
+Jazzband Jazzkapelle
+Verzweigungstabelle Sprungtabelle Sprungleiste
+erbärmlich armselig heruntergekommen unglücklich bejammernswert jämmerlich hoffnungslos miserabel bemitleidenswert bedauernswert erbarmungswürdig kläglich letztklassig arm jammervoll beklagenswert
+Kissen Polster
+Keller Untergeschoss Kellergeschoss
+amber bernsteinfarben
+Aufwertung Umwertung Umbewertung
+Gleichlaufstörung Gleichlaufschwankung
+Erdhügel Aufschüttung Koppe Erhebung Höhe Anhöhe Erdwall Kuppe
+Hit Kassenschlager Zugpferd Cashcow Knüller Bestseller Verkaufsschlager Melkkuh Publikumserfolg Schnelldreher Goldesel Renner Kassenmagnet Reißer Kassenerfolg Milchkuh
+Kinnbacke Kinnlade
+Neonbeleuchtung Neonlicht
+Bildseitenverhältnis Seitenverhältnis
+selbstüberzeugt geschwollen aufgeblasen großspurig selbstwichtig
+Lungenheilkunde Pneumonologie Pulmologie Pulmonologie Lungenlehre Pneumologie
+suspendiert beurlaubt
+Arbeit Position Job Beschäftigungsverhältnis Stelle Posten Arbeitsverhältnis Arbeitsstelle Stellung Arbeitsplatz Anstellung Amt
+zusammengehen vereinen
+grobschlächtig rabiat handgreiflich brachial ruppig grob gewalttätig roh
+festgelegt festgesetzt verbindlich klar geregelt ausgemacht
+Systemzusammenbruch Systemabsturz
+Million Mio. 1.000.000
+Befehlszähler Programmschrittzähler
+ausweiten hinausschieben verlängern ausspannen ausdehnen erweitern prolongieren
+Postgebühr Porto Beförderungsentgelt Briefporto
+Fahrtdauer Fahrzeit
+Entwicklung Entstehung Entfaltung Umsetzung
+Pflanzenwelt Pflanzenbewuchs Bewuchs Grün Vegetation Pflanzenwuchs Flora Botanik Pflanzenreich
+Wiederherstellung Wiederherstellen Rückgewinnung
+besuchen anschauen besichtigen ansehen
+abschwören entsagen widerrufen
+Dürre Trockenheit
+Kühlung Abkühlung
+Wechselbeziehung Zusammenhang Korrelation Aufeinanderbezogensein
+Heraufbeschwören Evokation
+Familie Verwandtschaft Clan Anhang Sippe Geschlecht Bagage Muschpoke Klan Familienverband Angehörige Blase Mischpoke Familienclan Sippschaft
+praktisch eher eigentlich
+Wochenbett Kindbett Puerperium
+Pollenallergie Heufieber Heuschnupfen Pollinose
+Schweißausrüstung Schweißgeräte
+benehmen handeln reagieren agieren verhalten
+Vorsilbe Präfix
+ICE Hochgeschwindigkeitszug Intercity-Express
+eingebildet hochgestochen anmaßend prätentiös selbstgefällig hochnäsig stolz
+gemietet geleast gepachtet
+Salzlauge Sole
+Reiseplan Marschroute Kurs Reiseweg Weg Route Wegstrecke Strecke Richtung Reiseroute
+Steuerraum Warte Leitwarte
+abtransportieren abholen holen einsammeln
+Blutegel Egel
+Sammelschiene Stromanschluss
+Buchen Reservierung Bestellung Order Buchung
+Handapparat Telefonhörer
+antik uralt alt altertümlich frühzeitlich archaisch
+Käserei Molkerei Meierei
+Verpflegungssatz Provision Tagessatz
+Prüfungsbericht Bestätigungsvermerk
+zündeln entflammen anstecken entfachen anzünden entzünden
+retten bergen zurückholen
+Haarsträuben Gänsehaut Piloarrektion Haaresträuben Hühnerhaut Ganslhaut Erpelpelle
+diesbezüglich hierzu
+Doppelzimmer Zweibettzimmer
+Fährboot Ponte Fährschiff Fährkahn Fähre
+Zifferblatt Ziffernblatt
+Bitfrequenz Bitgeschwindigkeit
+kahlköpfig kahl glatzköpfig
+Ginster Stechginster
+schnittig spritzig temperamentvoll sprühend prickelnd schmissig
+Betriebswirtschaftslehre Betriebsökonomie BWL Betriebswirtschaft
+Kasten Box
+Postleitzahl PLZ
+hervor heraus
+Einstimmigkeit Einhelligkeit
+Abverkauf Sale Schlussverkauf Sales Ausverkauf
+Verlockung Versuchung Anfechtung Verführung
+Auslauf Auslass
+Ovulation Follikelsprung Eisprung
+Entschuldigung Verzeihung
+hervorragend außergewöhnlich eminent außerordentlich extraordinär
+Gesetzwidrigkeit Illegalität Ungesetzlichkeit Widerrechtlichkeit Unrechtmäßigkeit
+Gewalttat Freveltat Gräueltat Schreckenstat Schandtat
+Süßholz Bärendreck Bärenzucker Lakritze Lakritz
+wild grausam roh hart
+Rastplatz Rasthaus Raststätte Raststation
+abgelten begleichen wiedergutmachen ausgleichen ausbügeln wettmachen
+NE-Metall Nichteisenmetall
+Treibhaus Gewächshaus Glashaus
+Herstellungsjahr Baujahr
+Polio Kinderlähmung Heine-Medin-Krankheit Poliomyelitis
+Kasten Gehäuse Verkleidung Schalung
+Prozessanalyse Aktivitätsanalyse
+alt altbacken
+zerlumpt abgerissen ausgefranst
+Stammesverband Sippe Volksstamm Stamm
+Selbsterregung Eigenerregung
+zurückhalten mäßigen zurückhalten bändigen
+Splintbolzen Ringbolzen
+Anstoß Initiierung Auslöser Impetus Impuls Anregung
+Fehlschlag Erfolglosigkeit
+Evaluierung Bewertung Einstufung Evaluation Beurteilung
+Mietwagen Mietauto Leihauto Leihwagen
+Schräge Einseitigkeit Unausgewogenheit
+Jahreszeit Saison
+Vereinfachung Abstraktion
+Fresko Freskomalerei Frischmalerei
+Unendlichkeit Unsterblichkeit Immortalität Unvergänglichkeit
+Werkzeugkiste Werkzeugkoffer Werkzeugbox Werkzeugkasten
+Gegenauslese Antiselektion
+Exekution Hinrichtung
+Rebellion Aufstand Revolte Aufwiegelung Aufruhr Meuterei
+Gefäß Blutgefäß Blutader Ader
+Altersgliederung Altersaufbau
+Strichcodeleser Strichcode-Lesegerät Bar-Code-Leser
+Unterlegscheibe Zwischenscheibe Unterlagsscheibe Beilagscheibe
+Abstellgleis Seitengleis
+Eintritt Zugang Zutritt Einlass
+Microcomputertechnik Mikrocomputertechnik
+Festveranstaltung Gala Festlichkeit Galaveranstaltung Festivität
+Vorausabteilung Vortrupp
+Schaufensterdekorateur Dekorateur
+Pein Qual Tortur Strapaze Hölle Quälerei Agonie
+transferieren substituieren ablösen austauschen auswechseln tauschen ersetzen
+Konsonantenverdoppelung Gemination
+lesen entziffern knacken dechiffrieren enträtseln dekryptieren decodieren entschlüsseln dekodieren
+widerborstig unfügsam trotzig unduldsam widersetzlich störrisch widerspenstig bockbeinig bockig dickköpfig dickschädelig
+Gliedmaße Glied
+Übersättigung Überangebot Schwemme
+Zugriffsdauer Zugriffszeit
+anbringen hinzufügen
+Grundsatz Typ Norm Regel
+eindringend invasiv eingreifend
+betrauern bejammern weinen beklagen trauern beweinen
+Meisterstück Meisterwerk
+Kompetenzkonflikt Kompetenzstreitigkeit
+Katastrophe Inferno Havarie Desaster Armageddon
+Landenge Isthmus Landbrücke
+unverkäuflich unveräußerlich
+Außenwirtschaft Auslandshandel Außenhandel
+Rennen Wettlaufen Lauf Wettlauf Wettrennen
+Iterationsverfahren Annäherungsverfahren Näherungsverfahren
+Absurdität Widersinnigkeit Irrwitz Unding Unsinnigkeit Wahnwitz Aberwitz
+Rennbahn Kurs Rundkurs
+Holocaust Massenvernichtung Genozid Völkermord Ausrottung Massenmord Austilgung Exterminierung
+Abmagerung Gewichtsabnahme Abzehrung Gewichtsverlust Auszehrung
+KL KZ Schutzhaftlager Konzentrationslager
+determinieren bestimmen festlegen festschreiben stipulieren verankern befinden beschließen entscheiden vereinbaren
+Militär Truppe Streitkräfte Barras Streitmacht Armee Wehr
+Bewaffnung Bewehrung Ausrüstung Armierung Rüstzeug
+anschirren aufzäumen
+Schlips Krawatte Binder Ehrbarkeit Halsbinder Langbinder
+sättigend nährstoffreich nährend reichhaltig kalorienreich nahrhaft mächtig gehaltvoll
+gerechtfertigterweise legitimerweise richtigerweise berechtigterweise gerechtfertigtermaßen billigerweise füglich erlaubterweise rechtmäßig billigermaßen korrekterweise
+immobil bewegungslos statisch unbeweglich steif rigide feststehend starr unveränderlich
+Bodenkultivierung Bodenbebauung Bodenbestellung Bestellung
+Mangelhaftigkeit Schadhaftigkeit
+Fenstersims Fensterbrett Fensterbank
+weiterleiten teilen übergeben weitergeben durchgeben
+Ansicht Blick Ausblick Anblick Aussicht Sicht
+Dentallaut Dental Zahnlaut
+aufspießen durchbohren
+Bestandteil Modul Komponente Glied Element Teil
+Grundstoff Binder Beschlag
+Voliere Vogelhaus Aviarium
+Kamera Knipse Fotokamera Stehbildkamera Fotoapparat
+verordnen diktieren vorgeben veranlassen vorschreiben verfügen festlegen anweisen befinden anordnen entscheiden aufzwingen verpassen bestimmen regeln
+Konzertflügel Flügel
+modular bausteinförmig
+keltern gären brauen destillieren brennen
+Kernwaffe A-Bombe Atombombe Nuklearbombe Nuklearwaffe
+nachlässig schludrig schluderig oberflächlich leichthin obenhin hudlig flüchtig nebenbei hudelig unaufmerksam
+ausspreizen ausstrecken
+Ausstellungsstück Museumsstück Exponat
+Rah Querstange
+behelfsmäßig ersatzweise hilfsweise improvisiert aushilfsweise notdürftig probeweise behelfsweise provisorisch
+Link Hyperlink Verknüpfung Querverweis
+Kabel Leitung
+Chiton Tunica Tunika
+Subtraktion Abzug
+ermöglichen lassen erlauben gewähren gestatten autorisieren bewilligen sanktionieren zulassen lizenzieren legalisieren
+Wagemut Mut Beherztheit Waghalsigkeit Risikobereitschaft
+Betätigung Tätigkeit Wirken
+kollegial zusammenwirkend kooperativ zusammenarbeitend
+feindselig spinnefeind animos verfeindet hasserfüllt übelwollend phobisch unversöhnlich
+Riege Turnriege
+Teilmontage Unterbaugruppe
+prägen münzen
+Trefflichkeit Brillanz Vortrefflichkeit Vorzüglichkeit
+anheften anklammern
+Nachgeburt Plazenta Mutterkuchen
+Betttuch Linnen Laken Bettlaken Leinen Leintuch
+Önologie Weinlehre Weinkunde Kellerwirtschaft
+Ritterschaft Ritterstand
+Valenz Stelligkeit Wertigkeit
+Zustimmung Bejahung Entgegenkommen Zuspruch Wohlwollen Akzeptanz
+Fertigungsanlage Fabrik Werk Betrieb
+Block Klotz
+Sittenlosigkeit Unmoral Unsittlichkeit
+Sortiment Warenspektrum Angebotsvielfalt Produktportfolio Produktauswahl Leistungsangebot Angebotsspektrum Range Auswahl Produktpalette Leistungsportfolio Angebotsportfolio Produktangebot Produktsortiment Leistungsspektrum Warensortiment Warenangebot
+Tonware Töpferei
+pazifistisch friedfertig herzensgut gutmütig friedlich versöhnlich
+Gleichlaut Gleichklang
+Pacht Miete Mietzins
+Killer Totmacher Mörder Mordbube
+aufnehmen unterkriegen verstauen deponieren einquartieren unterbringen beherbergen
+Aufnahmespule Aufwickelspule
+Personalreferat Personaldezernat
+fromm gottergeben frömmlerisch gottgefällig gottesfürchtig
+Geflüster Getuschel Geraune Flüstern Gemunkel Murmeln Raunen
+Rinne Rutschbahn Rutsche
+Dotter Eidotter
+verzieren beschlagen
+blank leer
+zerfleischen verstümmeln
+glätten polieren abschleifen
+Vorlage Schablone Template
+Prozedur Verfahren Mechanismus Handlungsweise Verfahrensweise
+Lichtung Waldwiese Flur
+Zugangshilfe Zugriffshilfe
+Kirschkernbeißer Kernbeißer
+Abänderungsantrag Ergänzungsantrag
+mengenmäßig zahlenmäßig quantitativ
+Kitsch Trash Ramsch Schund
+Übermut Überschwang Überschwänglichkeit Überschwall Ausgelassenheit
+Umsetzer Umwandler Energieumwandler
+sumpfig schlammig matschig morastig
+Auswirkung Beeinflussung
+gewissenlos skrupellos
+kreisförmig zirkulär kreisrund rund
+Legende Bildlegende Bildunterschrift
+Kriterium These Vorannahme Grundsatz Grundannahme Bedingung Notwendigkeit Vorbedingung Kondition Prämisse Grundlage Voraussetzung Annahme Grundvoraussetzung Grundwahrheit Axiom
+säumen grenzen
+Kollektor Sammel-Elektrode Sammler
+allerdings gewiss fürwahr
+Spill Laufkatze Winde
+Bündel Ballen
+Irrstern Meteor Komet Schweifstern
+einwecken einmachen einkochen
+Enge Bedrängnis Platzmangel Gedrängtheit
+Zeichenabtastung Schriftlesen
+Spießertum Miefigkeit Spießigkeit Kleingeistigkeit Piefigkeit
+Oppositioneller Kontra
+Erleben Erfahrung Erlebnis
+Getreuer Ergebener Gefolgsmann
+Umlenkung Umweg Umleitung Abstecher Schlenker
+Zeit Uhrzeit
+Test Trockentest Trockenlauf Studie Probelauf Versuch Testlauf Experiment Testballon Versuchsballon
+Sammelbestellung Sammelauftrag
+Zurechnungsfähigkeit Verantwortlichkeit Verantwortung Rechenschaft
+Zeiger Zeigestock
+Rechteckimpuls Bitimpuls
+dienstuntauglich erwerbsunfähig arbeitsunfähig invalid
+Inkompetenz Unvermögen Unfähigkeit Untauglichkeit
+Verbandwatte Watte
+Rundschreiben Kurrende Zirkular Rundbrief
+Ger Lanze Wurfspeer Speer Spieß Wurfspieß
+reputabel bekannt berühmt hochgestellt prominent prestigeträchtig prestigevoll namhaft
+aufreißen zerreißen reißen zerren
+Windschutzscheibe Frontscheibe
+Spinner Sonderling Exzentriker
+Gleichgestimmtheit Konformismus Einstimmigkeit Konsensus Übereinstimmung Einhelligkeit Harmonie Konsens Einigkeit Konformität Einvernehmen Einklang Übereinkommen Zustimmung Eintracht Einmütigkeit
+Unabhängigkeit Freiheit Ungebundenheit Ungezwungenheit Independenz
+Distribution Austeilung Verteilung
+Durchschnitt Profil Längsschnitt Quere Mittelmaß Querschnitt Breitenmaß
+ablutschen lecken abschlecken abschlabbern ablecken lutschen schlecken
+Zeichen Buchstabe Charakter Alphazeichen Letter
+zusammenfassen subsumieren konzentrieren unterordnen verdichten
+Sozialfürsorge Stütze Sozialhilfe Grundsicherung
+glühen glimmen schmoren rösten kokeln ausglühen brennen
+Arbeitsbelastung Arbeitsbeanspruchung Arbeitspensum Arbeitssoll Aufgabenpensum Arbeitslast
+ausstechen zuvortun
+Balkenkopf Stütze Widerlager Gewölbepfeiler Stützpfeiler
+Gebälk Hauptgesims Balken
+Insider Esoteriker Eingeweihter Kenner
+Erhöhung Zuwachs Anstieg Wachstum Steigerung Zunahme
+Kultivierung Nutzbarmachung Urbarmachung
+speziell besonders namentlich gerade insbesondere
+Wettbewerb Ausscheidungswettkampf Contest Ausscheidung Championat Spiele Cup Entscheidung Meisterschaft Championship Wettkampf Turnier Ausscheid
+Tonfrequenz Niederfrequenz
+Kathedralkapitel Domkapitel Domstift
+Transpiration Evaporation Verdunstung Verflüchtigung
+Kältegefühl Frostgefühl Frösteln
+Schuldschein Pfandbrief
+Zugang Login Anmeldevorgang
+einträchtig einhellig einmütig einig harmonisch brüderlich einverständlich einstimmig friedlich einvernehmlich geschlossen gleichgesinnt
+Ausstellungsraum Vorführungssaal
+zweifelhaft ungesichert hypothetisch
+Ansiedlung Kolonisierung Besiedlung Besiedelung Kolonisation Landnahme
+Knall Schlag
+Mannschaftsführer Spielführer Mannschaftskapitän
+Lateralisation Seitigkeit
+Hingebung Schaffensfreude Hingabe Engagement Eifer Inbrunst Tatendrang Einsatz
+Megaphon Megafon Sprachrohr Flüstertüte
+Verdacht Argwohn Misstrauen
+Klagelied Jammer Gejammer Lamento Klagegesang Wehklagen Wehgeschrei Klage
+Sternensystem Sternsystem
+Kopfschuppen Hautschuppen Schuppen
+tückisch hundsgemein falsch link hinterfotzig niederträchtig charakterlos durchtrieben schurkisch biestig heimtückisch schofel gemein hinterhältig schofelig
+Barracuda Pfeilhecht
+unproblematisch banal primitiv einfach geschenkt simpel leicht unkompliziert
+Wohlwollen Herzlichkeit Milde Wärme Mildtätigkeit Warmherzigkeit Herzensgüte Freundlichkeit Indulgenz Entgegenkommen Güte Liebenswürdigkeit Gütigkeit
+Eifer Tüchtigkeit Emsigkeit Beflissenheit Fleiß
+entsetzlich abgründig miserabel abgrundtief
+verständig aufgeweckt schlau klug gescheit intelligent gewieft scharfsinnig blitzgescheit
+Laufroboter Schreitroboter
+Bußfertigkeit Zerknirschung Selbstanklage Reuegefühl Reue Bedauern Reumütigkeit Zerknirschtheit
+Amazonas-Sotalia Tucuxi
+schwachbrüstig energielos müde schwach
+vorsichtig sachte sorgsam sachtemang achtsam behutsam sorgfältig wachsam
+Umstand Tatsache Eigenschaft Gegebenheit Randbedingung Faktor Rahmenbedingung
+verluststark vergeblich erfolglos fruchtlos wirkungslos ineffektiv verlustreich frustran unwirksam nutzlos
+Auftragsabwicklung Jobabwicklung
+entartet dekadent degeneriert verkommen volksfremd
+konfrontieren entgegenstellen gegenüberstellen
+Öse Nase Fahne
+Versehen Irrtum Patzer Fehler Lapsus Missgriff Ausrutscher Inkorrektheit Fauxpas Flüchtigkeitsfehler Schnitzer
+Richtkosten Plankosten Sollkosten
+Atavismus Rückschlag Entwicklungsrückschlag
+Steifigkeit Starrheit Unbeugsamkeit Rigidität Inflexibilität Steifheit
+Pauschalbetrag Pauschalsumme
+Turmarik Gurkume Tumerik Gelbwurz Safranwurz Safranwurzel Mülleringwer Gurkumey Gilbwurzel Gelbwurzel Gelbsuchtswurz Gilbwurz Curcuma Kurkuma Kurkume Gilbwurzimber Gilbwurtzel
+Flugkrankheit Luftkrankheit
+Rauheit Härte
+vorausdatieren vordatieren
+Gehrungsschneidlade Gehrungslade
+Kunde Käufer Bezieher Abnehmer
+Spaziergang Gang Bummel
+Gradeinteilung Maßeinteilung Skala
+Rezept Kochrezept
+aufspalten unterteilen aufgliedern untergliedern kleinarbeiten aufschlüsseln herunterbrechen kategorisieren
+recken ausstrecken rekeln strecken dehnen
+Obhut Regie Regentschaft Patronanz Präsidium Führung Protektorat Ägide Leitung Schirmherrschaft
+Spitze Gipfel Zinne
+Verschiedenheit Nichtübereinstimmung Unstimmigkeit Widersprüchlichkeit Misshelligkeit Unterschied Diskrepanz Ungereimtheit Inkonsistenz Widerspruch Uneinigkeit Missverhältnis Abweichung Nichtübereinstimmen
+Expansionsmuffe Kompensator
+verstärken bestärken stärken
+klappern scheppern rasseln rattern prasseln knattern rappeln klackern
+UHF Ultrahochfrequenz
+Detonation Explosion Schlag
+unschätzbar unbezahlbar wertvoll
+Diskussionsrunde Forum Podiumsdiskussion
+Gesuch Bitte Ausrufung Proklamation Befürwortung Aufgebot Aufforderung Appell Aufruf
+einspritzen spritzen injizieren
+Flechtwerk Gitterwerk
+Akkordarbeit Stückakkord Akkord Fließbandarbeit
+ungebeten ungewollt ungewünscht Unperson unerwünscht unwillkommen unerbeten
+querulantisch missmutig genervt grämlich maulig gefrustet nörglerisch quengelig querulantenhaft unruhig angesäuert
+Zeitunterschied Zeitverschiebung
+luv windwärts
+Manschette Hülse Muffe
+Speicher Reservoir Reserve Repositorium Lager Vorrat Rücklage
+Sennerin Almerin Milchmädchen
+Trosse Kabeltau
+gleichfarbig isochrom isochromatisch
+flaumig fadenförmig fusselig strähnig faserig
+Benefiziant Präsentant Begünstigter Nutznießer
+Kundgebung Protestmarsch Protestation Demonstration Protest Protestzug Demo
+geruhsam herzensgut sanft gütlich friedliebend gütig verträglich friedfertig friedlich gewaltlos amikal gewaltfrei
+gebieterisch achtunggebietend herrisch
+Standleitung Mietleitung
+Profession Beschäftigung Job Beruf Arbeit Maloche Anstellung Gewerbe Tätigkeit
+Tipi Indianerzelt Wigwam
+Isolation Dämmung Isolierung
+erhärten begründen beweisen beglaubigen erweisen besagen
+Rückstand Rückstau
+deliktfähig schuldfähig
+Gedankenstrich Halbgeviertstrich Streckenstrich bis-Strich
+einlegen furnieren
+Ladung Einladung Vorladung
+Abart Varietät Unterart
+Spiel Wette Hasardspiel Glücksspiel
+vordergründig scheinbar oberflächlich
+Dramatiker Stückeschreiber Bühnenautor Bühnendichter Theaterautor
+abstammen entspringen resultieren ergeben stammen herkommen
+abzüglich außer exklusive ausgenommen ohne bar sonder mangels
+Kreditbrief Akkreditiv Beglaubigungsschreiben
+zügeln bändigen
+solide verlässlich vertrauenerweckend ordentlich währschaft zuverlässig reliabel integer
+inhouse intern innerbetrieblich hausintern
+Hochburg Stützpunkt
+Beweisgrund Prämisse Beleg Beweis Grund Begründung Argument
+Wickeltuch Umhangtuch
+Entwässerungsgraben Abfluss Rinne Abzugskanal Gully Ablasskanal Abflusskanal Gosse
+Monatsanfang Monatsbeginn
+Erschütterung Trauma
+Schließer Schließerkontakt
+inbrünstig eifrig begierig
+labil prekär
+Blumenstrauß Bukett Gebinde Strauß Bouquet
+Kennungsgeber Namensgeber
+Tochterunternehmen Niederlassung Vertretung Zweigniederlassung Comptoir Dependance Zweiggeschäft Kontor Zweigbetrieb Nebenstelle Außenstelle Filiale Standort Zweigstelle Außenstandort Geschäftsstelle Repräsentanz
+Autopflege Wagenpflege
+Klecks Makel Fleck
+Schadensersatzklage Schadenersatzklage
+Bedacht Vorsicht Behutsamkeit Besonnenheit Bedachtsamkeit
+Lichtbild Dia
+selbstvergessen solidarisch hilfsbereit uneigennützig selbstlos edelmütig edel aufopfernd altruistisch
+Krebstier Krebs
+Gegensatz Gegenthese Gegenstimme Kontrapunkt Unterschied Antithese
+Ausbruch Eruption Explosion
+entgegensehen erwarten
+Universum All Weltraum Kosmos Weltenraum Weltall Sphäre Raum
+gemischt vielseitig disparat kunterbunt inkongruent verschiedenartig
+Umstand Zustand Kontext Gegebenheit Situation Lage Fall Status Sachverhalt Konstellation
+Empfängnis Befruchtung Konzeption
+Abnahmeprüfung Abnahmekontrolle
+gabelig gespalten gabelnd
+mehrjährig perenn pollakanth perennierend
+beliebig akzidentiell wahllos zufällig wahlfrei arbiträr willkürlich zufallsgesteuert zufallsbasiert stichprobenartig akzidentell
+Verriss Schmähkritik
+Feinheiten Einzelheiten Finessen Details
+Log Logge
+löschen eliminieren annihilieren auslöschen tilgen
+Einsicht Abruf Einblick Zugriff Zugang
+Böswilligkeit Bosheit Verruchtheit
+Einfuhr Import
+Wange Backe
+offenkundig anscheinend hindeuten möglicherweise scheinbar wohl wahrscheinlich offensichtlich offenbar vermutlich womöglich
+Instabilität Wechselhaftigkeit Unbeständigkeit Schnelllebigkeit Wandel
+Votum Abstimmung Kür Urnengang Stimmabgabe Wahlgang Wahl
+Schwarzdorn Schlehdorn
+Nachlassempfänger Erbe
+Trenner Trennschalter
+Kriminalpolizist Kriminalbeamter Kriminaler Ermittler
+Apfelsaftschorle Apfelschorle
+meldepflichtig anmeldepflichtig
+Grippe Influenza
+Vollkommenheit Idealergebnis Ausgereiftheit Ideal Perfektion Vollendung
+Startfreigabe Starterlaubnis
+stricken handarbeiten knüpfen
+Zerspanungstechnik Zerspanen
+Dose Büchse Blechbüchse Konservenbüchse Konserve Konservendose
+Sachwalter Sachverwalter Verwalter
+Frauentracht Dirndlkleid Dirndl Trachtenkleid
+Bruttonationaleinkommen Bruttosozialprodukt
+Bergwandern Trekking Trecking
+Gerichtsvollzieher Inkassobevollmächtigter Exekutor Schuldeneintreiber
+Großartigkeit Unermesslichkeit
+niederträchtig übelwollend bösartig dolos arglistig maliziös übelgesinnt infam boshaft böswillig
+infertil zeugungsunfähig fruchtlos steril unfruchtbar
+Dezernent Sachbearbeiter Referent
+blütenweiß lilienweiß reinweiß grellweiß neonweiß schneeweiß schlohweiß perlweiß
+verheimlichen maskieren tarnen verhehlen kaschieren verbergen camouflieren verstecken
+abgeschirmt gedämpft ruhig stille geräuscharm tonlos leise still geräuschgedämpft schallgedämpft geräuschreduziert piano
+Nabe Fahrradnabe Radnabe
+laufmaschensicher laufmaschenfest
+zerknüllen zerknautschen
+Schutzmaßnahme Vorkehrung
+Teilbereich Stückchen Bereich Segment Fetzen Stück Ausschnitt Fragment Bruchstück Teilstück Unvollendetes Teil Abschnitt
+Verschmelzung Vermischung
+genormt serienmäßig standardmäßig
+Augenschraube Ösenschraube
+gefahrvoll perniziös unheilvoll gefährlich verderblich
+Mediator Überträgerstoff
+weitestgehend gleichsam fast eigentlich praktisch sozusagen gewissermaßen quasi
+Besiedeln Ansiedlung Ansiedeln
+passend dialogfähig kompatibel vereinbar kongruent konvergent verträglich zusammenpassend interoperabel passgenau
+Vorschieben Vorwölbung Schwellung Protrusion
+widersetzlich obstruktiv
+abkürzen stutzen kürzen kappen abbreviieren verkürzen raffen
+Schurkerei Übel Spitzbüberei Gemeinheit Übeltat Teufelei Böses
+Polster Polsterung
+fremdenfeindlich ausländerfeindlich xenophob
+ertragen erdulden durchstehen aushalten ausstehen verkraften standhalten
+Väter Altvorderen Ahnen Vorfahren Vorväter
+Juwel Stein Edelstein Schmuckwerk Schmuckstein Klunker
+Operationsverstärker OP-Verstärker
+Lebensdauer Nutzungsdauer
+Urkundenpapier Aktenpapier
+gefestigt fest fix ehern
+prüfen ermitteln inspizieren untersuchen begutachten testen überprüfen herausfinden abtesten
+dröhnen brausen tosen donnern
+Fliese Kachel Platte
+Marmorsteinbruch Marmorbruch
+Flunke Ankerarm
+Impression Anmutung Eindruck
+Ferien Urlaub
+schwerfällig tranig behäbig schleppend träge langsam bummelig lahm lahmarschig
+Dissoziation Herauslösung Aufsplittung Abspaltung Trennung
+Eisschießen Curling Eisstockschießen
+gehen latschen laufen
+Tonband Magnettonband Band
+diversifiziert diffus zerstreut diffundiert verteilt
+begrenzt abgespeckt reduziert limitiert eingeschränkt beschränkt
+Korso Festzug Parade
+Federbügel Federbride
+Muschelperle Perle
+rutschen verrutschen
+pervers anormal unnormal pervertiert anomal abweichend abartig abnormal widernatürlich abnorm unnatürlich
+Abstufung Stufung
+härten stählen aushärten vulkanisieren
+Brötchen Weckerl Rundstück Semmel Schrippe Weggli
+einführen anbahnen
+belohnen honorieren
+beantragen verlangen anfordern fordern
+erwerbstätig angestellt beschäftigt tätig
+vorübergehen vorbeigehen passieren
+Befestigung Verankerung Bindung Fixierung
+kaputtschlagen zerschmettern
+Anthrax Milzbrand
+Hausfriedensbruch Besitzstörung
+Ruhe Funkstille Geräuschlosigkeit Stillschweigen Stille Lautlosigkeit Schweigen Verschwiegenheit
+Aufschüttung Erdaufschüttung
+schaufeln schöpfen
+Herrlichkeit Pracht Ruhm Glamour
+Additionsübertrag Übertrag
+ungeschützt offen
+Schulderlass Freispruch
+Feuermelder Flammenwächter Brandmelder
+Annahme Erwartung Aussicht Vorausnahme
+Lieferbedingungen Lieferkonditionen
+mittelbar mehrstufig indirekt
+Soufflee Eierauflauf Auflauf Soufflé
+windeln wickeln
+Ansiedelung Ansiedlung Niederlassung Siedlung
+Anschreiben Schrieb Epistel Zuschrift Brief Wisch Schreiben Liebesbrief
+Nebenkosten Nebenausgaben
+Naturell Gemütsanlage Sinnesart Temperament Gemütsart Gemüt
+Personifizierung Personalisierung
+Aktionsprogramm Handlungsprogramm
+ausschoten enthülsen
+gießen formen
+Verwahrung Aufbewahrung
+überquer quer kreuzweise
+Zeiteinteilung Timing
+Durchsetzungskraft Kampfgeist Durchsetzungsvermögen
+Knopf Taster Taste Schalter Druckschalter
+Schnellwaage Laufgewichtswaage
+Platzregen Regenschauer Regenguss Guss Dusche Sturzregen Husche Wolkenbruch Schauer
+Seemannslied Matrosenlied Shanty
+Abenteuerlust Abenteuerdurst
+Sternforscher Astronom Sternengucker
+Verderblichkeit Vergänglichkeit
+zurückführen wiederherstellen
+huldigen heiligen verehren anbeten adorieren vergöttern
+kurzweilig vergnüglich amüsant
+Abhärtung Gewöhnung
+kontextabhängig kontextspezifisch kontextsensitiv
+hoch droben obig über oben
+Termin Verabredung Date
+überwältigen niederringen niedermachen niederkämpfen
+tierisch animalisch
+Strebe Pfosten Stütze Pfeiler Säule
+ortsgebunden stationär
+unverriegelt unverschlossen auf unabgeschlossen offen aufgesperrt unversperrt
+Dammschnitt Scheidendammschnitt Episiotomie
+Stammvater Begründer Vorläufer Ahne Ahnherr Gründer Ahn Urahn
+Geistergeschichte Spukgeschichte Gespenstergeschichte
+Gegenklage Gegenanklage
+Selbstporträt Selbstbildnis Selfie
+erwartungswidrig verwunderlich erstaunlich frappierend frappant stupend verblüffend überraschend
+Preisgabe Verzicht Übertragung Aufgabe
+hinterlistig hinterfotzig hinterhältig niederträchtig intrigant perfid trickreich perfide verräterisch link heimtückisch verschlagen hintertrieben
+vakant ausgeschrieben frei offen unbesetzt
+verschnaufen ausruhen rasten pausieren entspannen relaxen erholen durchatmen ausspannen ausrasten abspannen
+Steifigkeit Steifheit Erstarrung
+montieren einbauen zusammenfügen einsetzen installieren einrichten einpassen einarbeiten
+Outsourcing Ausgliederung Auslagerung Spin-Off Fremdvergabe Outsourcen
+Nonnengans Weißwangengans
+subtrahieren abziehen absetzen abrechnen
+Vergrößerung Verbreiterung
+aufrecht senkrecht
+weltläufig weltmännisch weltoffen weltgewandt kosmopolitisch
+durchdringbar porös permeabel durchgängig zugänglich durchlässig
+Buchgemeinschaft Buchclub Literaturverein Buchklub
+Straßenkreuzung Kreuzung
+Linienstärke Linienbreite
+Verwechselung Verwechslung
+Abwesenheit Fehlen Mangel Defizit Absenz
+zusammentragen erarbeiten zusammenstellen
+uneingerichtet unmöbliert
+flackern aufblinken blinken
+Denomination Bekenntnis Konfession Glaube
+hemmen behindern hindern stören
+biwakieren kampieren campen campieren zelten lagern
+volkswirtschaftlich wirtschaftlich nationalökonomisch gesamtwirtschaftlich
+drastisch heftig vehement unaufschiebbar akut dringend urgent resolut
+Irritation Zinower Desorientierung Verwirrung
+verwendungsfähig anwendbar gebrauchsfähig tauglich nutzbar geeignet verwendbar benutzbar verwertungsfähig verwertbar brauchbar
+mitkriegen aufschnappen erfahren mitbekommen hören erhaschen vernehmen
+Überlagerung Überschneidung
+vielmehr mehr eher lieber
+einzahlen einlösen
+Materialliste Lagerliste Bauteileliste Artikelstamm Stückliste Warenbestandsliste BOM
+dränieren trockenlegen entwässern
+frequenzunabhängig unabgestimmt azyklisch aperiodisch
+Gallenblasenentzündung Cholezystitis
+supraleitend widerstandslos supraleitfähig
+nass regnerisch feucht verregnet
+Kontrollpunkt Überwachungsstelle
+Gültigkeit Validität
+Moslem Muslim Muslimin Musel Muselmane Mohammedaner Muselmann Muselman Islamit
+Giebelwand Giebelseite
+entkernen dezentralisieren
+Schwierigkeit Komplexität Kompliziertheit
+Seereise Schiffsreise Kreuzfahrt
+Verfeinerung Sublimierung Veredelung Sublimation
+Dehnbarkeit Geschmeidigkeit
+sammeln aneignen erringen erwerben
+Verschluss Okklusion
+Kapitalertragssteuer Kapitalgewinnsteuer Kapitalertragsteuer
+Hautfarbe Teint
+Strumpfwaren Strümpfe
+Sensationsmache Effekthascherei
+Lasche Zunge
+Violoncello Cello
+Vorraum Vorhölle Limbus
+Defaultwert Vorgabe
+Distanziertheit Reserviertheit Zurückhaltung
+Förderdruck Druckhöhe Gegendruck
+Verabreichung Gabe Zuteilung Zuweisung
+Streifenfisch Ährenfisch
+generisch allgemeingültig universell universal
+gaffen spannen
+Egozentrik Autophilie Ichbezogenheit Selbstverliebtheit Autoerotismus
+aufkommen ergeben erwachsen entstehen bilden
+kläffen blaffen bellen belfern
+anekeln degoutieren anwidern verabscheuen
+Komposite Korbblütler
+eifersüchtig neidisch
+Parameter Kenngröße Maß Hilfsvariable
+onanieren masturbieren wichsen
+Hinweis Moment Anzeichen Indizienbeweis Anhaltspunkt Verdachtsmoment Indiz Verdachtsgrund
+Sägestaub Sägemehl Sägespäne
+Verwürfelung Verschlüsselung Scrambling
+benutzerspezifisch benutzerbestimmt benutzerdefiniert
+Verwegenheit Kühnheit Mut Schneid
+Konservator Restaurator
+ungehorsam ungezogen unartig böse
+Einzigartigkeit Einmaligkeit Beispiellosigkeit Individualität Novum
+schreien brüllen krakeelen kreischen skandieren rufen krähen
+zustimmen huldigen bejubeln zujubeln klatschen akklamieren gutheißen
+Freiheitsentzug Freiheitsentziehung Gewahrsam Gefängnis Arrest Sicherheitsverwahrung Haft Sicherungsverwahrung
+Umgang Bekanntschaften Bekannte
+Ehegelöbnis Eheversprechen Verlobung Ehegelübde Verlöbnis
+tupfen abtupfen
+wohlgesinnt entgegenkommend wohlwollend liebenswürdig
+Bahnneigung Inklination
+10-Pfennig-Münze Zehnpfennigstück Groschen Tacken 10-Pfennig-Stück
+Reiseziel Destination Bestimmungsort Ziel
+bewiesenermaßen anerkanntermaßen
+verübeln krummnehmen verargen nachtragen verdenken ankreiden übelnehmen
+verinnerlichen internalisieren inkorporieren
+aufquatschen unterjubeln loswerden andrehen aufschwätzen aufschwatzen
+Hockstellung Kauerstellung Hocke
+brüten grübeln sinnieren
+Steuerwerk Steuereinheit
+Aktienoptionsplan Aktienbezugsplan
+Echelon Staffelstellung
+generell durchgängig gesamt komplett durchweg pauschal durchwegs restlos hundertprozentig ausnahmslos vollzählig vollständig einstimmig
+veritabel wahr richtig unverfälscht überzeugend echt wahrhaftig authentisch unverändert
+zerstörend destruktiv obliterierend vernichtend zerstörerisch schädlich
+Taschenrechner Rechner Rechenmaschine
+entbinden entpflichten freistellen
+unglaubhaft zweifelhaft fragwürdig unglaubwürdig fraglich unglaublich unplausibel
+Bildungsreise Lehrfahrt Studienreise Studienfahrt
+Glied Akre Extremität
+wobei womit wodurch
+Geschäftsunfähigkeit Rechtsunfähigkeit
+Küste Küstenlinie Ufer
+Päckchen Paket
+Interrogativpronomen Fragefürwort Fragepronomen
+Geländewagen Geländefahrzeug Jeep Offroader Offroadfahrzeug
+Fehlsichtigkeit Sehschwäche Sehfehler Asthenopie
+streitlustig offensiv aggressiv angriffslustig
+Hinweis Bezugnahme Belegstelle
+Pädiater Kinderarzt
+Festigkeitsprüfung Zugprüfung Zugversuch Zerreißversuch
+KG Kommanditgesellschaft
+Hinscheiden Hinschied Sterbefall Abberufung Tod Sterben Heimgang Exitus Ableben Lebensende Abschied Versterben
+Waidmann Hubertusjünger Nimrod Jägersmann Waidgenosse Jäger
+Gehweg Fußpfad
+Verstopfung Obstipation
+Maat Marineunteroffizier
+Untersuchung Evaluation Studie Erörterung Erhebung
+Knappe Subalterner Knecht Diener Büttel Lakai
+entkuppeln auskuppeln
+kapitalstark kaufstark kapitalkräftig kaufkräftig
+Meteorologie Wetterkunde Wettergeschehen Atmosphärenphysik Klimakunde
+Verletzbarkeit Prädisposition Verletzlichkeit Verwundbarkeit Vulnerabilität
+Rechenzeichen Operator
+Fließband Montagestraße Montageband Band
+Flugzeugabsturz Flugzeugunglück Crash
+Kaplan Hilfspriester Vikar
+überspringen fortlassen aussparen skippen weglassen auslassen
+schnörkellos stichpunktartig kurzgefasst stichwortartig summarisch lapidar schmucklos lakonisch zusammengefasst gerafft überblicksartig konzis
+Hinhaltetaktik Katz-und-Mausspiel Verschleppungstaktik Verzögerungstaktik
+ausgenutzt ausgebeutet
+profitieren gewinnen lukrieren
+ungelehrt ungelernt
+Zusatz Ausdehnung Entfaltung Erweiterung Ausbau
+Erzeuger Generator Stromerzeuger Stromgenerator Lichtmaschine Dynamo
+schwemmen wässern weichen
+Gejammer Gewimmer Gewinsel Gejaule
+anführen aufführen angeben erwähnen zeigen auflisten
+Pfanne Schaffen Tiegel
+Burgvogt Kastellan
+maßstabsgetreu maßstabsgerecht maßstäblich
+einblenden mischen überlagern einkopieren zusammenschneiden mengen
+abschaffen abbauen aufheben auflösen beseitigen
+narkotisch betäubend
+anheimelnd lauschig heimelig gemütlich behaglich wohnlich
+vertrauensselig treudoof gutgläubig fromm harmlos undistanziert treuherzig leichtgläubig arglos kindsköpfig naiv
+abreißen enden aufhören
+Bundesgerichtshof BGH
+Schuppenflechte Psoriasis
+Befehl Anordnung Direktive Dienstanweisung Auftrag Geheiß Arbeitsauftrag Quest Aufgabenstellung Order Arbeitsanweisung Aufgabe Mandat Weisung Anweisung
+Baustoff Baumaterial
+Verstopfung Verschluss Obstruktion Darmverstopfung
+Zwergflechte Erythrasma
+Poliermittel Politur Putzmittel
+Lorbeeren Erfolg Gelingen Heil Fortuna
+Veranlagung Anlage
+videografieren abfilmen aufnehmen filmen mitschneiden videographieren
+Burg Kastell Festung
+versatil facettenreich vielseitig universell
+Anschluss Interface Schnittstelle Verbindung
+Kitz Bambi Rehkalb Rehkitz Rehlein
+Jangtsekiang Jangtse Yangtsekiang
+hineinreichen erstrecken ausbreiten ausdehnen
+Prostataentzündung Prostatitis
+Klasse Schulklasse Kurs
+einfliegen anfliegen
+Todesursache Sterbegrund Sterbeursache Todesart
+Bedeutungsgleichheit Synonymie
+Kenner Experte Fachmann Sachverständiger Auskenner
+trocken wasserarm dürr arid wüstenhaft niederschlagsarm
+Bewegungsstörung Athetose
+plastifizieren plastizieren
+seither seit seitdem
+begleitend parallel konkomitierend gleichzeitig
+Abroller Abwickeleinrichtung
+Marktwirtschaft Verkehrswirtschaft Kapitalismus
+Standardisierung Normierung Normung
+Orthodoxie Strenggläubigkeit Rechtgläubigkeit
+Verkaufsstand Stand Flohmarktstand
+Sachverständiger Gutachter Referent
+weltweit global weltumspannend international multinational
+Studienordnung Curriculum Studienplan
+Treckingschuhe Bergschuh Outdoorschuh Wanderstiefel Trekkingschuhe Wanderschuh
+Massenträgheit Trägheit
+Trockner Tumbler Wäschetrockner
+autoritativ maßgebend amtlich
+Zwischenkreis Gleichspannungs-Zwischenkreis
+Weihnachtsscheit Weihnachtsklotz Christklotz
+Aha! Verstehe.
+spirituell gläubig religiös fromm
+Sinneseindruck Empfindung Gefühlseindruck
+Rasterung Auflösung Zerlegungsgrad Granularität
+Trassierung Ziehung Tratte Wechsel
+abtransportieren wegbringen fortschaffen wegtransportieren
+Tiefladewagen Tieflader
+befördern fördern
+Laufrad Rolle Trommel Walze Spule Zylinder
+Belastung Verschuldung
+beenden abschließen finalisieren beschließen fertigstellen vollenden terminieren durchziehen erledigen
+Gattungsbegriff Appellativ Gattungsname Gattungsbezeichnung Appellativum
+Bestand Vorrat Repertoire
+Cinderella Aschenbrödel Aschenputtel
+Bestallung Ernennung Berufung
+Gärmittel Hefe Bierhefe Germ Triebmittel Bärme Backhefe Gest Bäckerhefe
+Gefängnis Gefängniszelle Kerker Verlies Loch
+klischeeartig schablonenhaft stereotyp klischeebeladen klischeehaft
+Gedankenaustausch Meinungsaustausch Diskussion Erkenntnisaustausch Diskurs
+Kehre Umkehr Umschwung Umschlag Kehrtwende 180-Grad-Wende Verkehrung Umschlagen Wende Kehrtwendung Wendung
+zusammenflechten flechten
+Skandalpresse Boulevard Sensationspresse Regenbogenpresse Klatschpresse Boulevardpresse
+Gedächtnis Gedenken Andenken
+Schubfach Schublade Fach
+beliefern besorgen versorgen verschaffen geben
+Abhilfemaßnahme Hilfsmaßnahme
+Legasthenie Lese-Rechtschreib-Schwäche Lese-Rechtschreib-Störung Lese-Rechtschreibstörung Lese-Rechtschreib-Schwierigkeit LRS
+fachübergreifend multidisziplinär interdisziplinär fächerübergreifend
+gebildet gelehrt wissenschaftlich szientifisch akademisch
+Durchschnittspreis Durchschnittskurs
+kontinuieren fortfahren fortführen weitermachen fortsetzen weiterführen
+Bestsellerliste Hitparade Hitliste Charts
+Schüttelsieb Schwingsieb
+schelmisch lustig spaßig launig humoristisch witzig scherzhaft humorvoll humorig fröhlich
+verringern schmälern
+Ladegut Frachtgut Fracht
+warm thermisch
+Angeberei Großmäuligkeit Angebertum Aufgeblasenheit Großspurigkeit Großkotzigkeit
+Vorkommnis Geschehnis Begebenheit Geschehen Ereignis Episode Vorgang Vorfall Zwischenfall
+Tiefdruckgebiet Tief Störung
+Verrat Denunziation Vernaderung Denunzierung
+konkurrenzfähig wettbewerbsfähig
+Senkung Loch Kuhle Mulde Vertiefung Nische Senke Grube
+Ziffer Nummer Zahlzeichen Chiffre Zahl
+Leinpfad Treidelpfad
+erfinderisch geschickt einfallsreich ausgebufft gescheit schlau findig clever ausgeschlafen helle aufgeweckt raffiniert gewitzt pfiffig jenisch gefitzt plietsch gewieft alert originell
+Fluss Strom Wasserlauf
+Autogas LPG Flüssiggas
+Beibehaltung Erhaltung Bewahrung Rettung Erhalt Aufrechterhaltung
+Gelbsucht Ikterus
+monatlich mtl.
+Kriegstrompete Hornsignal Kriegsfanfare
+Lotpaste Lötpaste
+Granarium Kornspeicher Schüttkasten Getreidekasten Getreidespeicher Troadkastn Traidkasten Kornhaus
+turnusmäßig wechselnd alternierend wechselweise abwechselnd wechselhaft
+Reif Raureif Raufrost
+Benefiz Gefallen Wohltat Wohltätigkeit Vergünstigung Mildtätigkeit
+fetten abschmieren schmieren
+Anheben Anhebung
+Ideologie Ideenlehre
+Gruppierung Clusterung Bündelung
+speckig fettig schmalzig
+Gebühr Preis Taxe Abgabe
+Sumpfhuhn Moorhuhn
+Regel Prinzip Leitfaden Grundregel Grundsatz Maxime
+Ölstandsanzeiger Ölmesser
+Geistlicher Pope Seelsorger Kleriker
+Faxnachricht Telefax Fax Telefaxnachricht Faxkopie Fernkopie
+Spanndraht Abspanndraht
+Führer Kopf Anführer Capo Leiter Hauptmann Chef Oberhaupt Häuptling
+Vogeljagd Vogelfang
+zuckerig süßlich süß
+überhäufend übersättigend
+Vorderhand Vorhand
+Eingeständnis Offenbarung Offenlegung Preisgebung Enthüllung
+Tauchkolben Taucher
+Eiferer Zelot Fanatiker
+Brecher Grundsee Woge Welle
+überbezahlt überzahlt
+Korridor Entree Durchgang Flur Diele Gang
+auslaugen auswaschen
+Aktiensplit Aktienaufteilung
+Aufschlämmung Schlamm
+Dumdum Dumdumgeschoss
+ruhelos zappelig rastlos unruhig getrieben
+Einlieferung Übergabe
+Hornhautentzündung Keratitis
+Strafanzeige Anzeige
+Kommission Delegation Abordnung Komitee
+Kannibale Menschenfresser Anthropophage
+aufmuntern anfeuern ermutigen
+Kahn Schute
+Palisade Einpfählung Pfahlbefestigung Staket
+verlangen fordern erbitten ausbitten
+ausstoßen hinauswerfen ausschließen auswerfen
+Verzweigungsbefehl Sprungbefehl
+Skizze Schema Grundriss Plan Entwurf Layout Vorlage Planung Zeichnung Konzeption
+Jumper Steckbrücke
+Südpolargebiet Südpolgebiet Antarktis
+UNDP UNO-Entwicklungsprogramm
+Sabotage Manipulation Manipulierung Sabotierung
+Kirchdiener Mini Messdiener Ministrant Akoluth Messgehilfe Akolyth
+Bezugsquelle Lieferquelle
+Artbestand Individuenbestand Tierbestand Population Fortpflanzungsgemeinschaft
+stapeln zusammentragen aufbewahren erheben anhäufen zusammenbringen ansammeln speichern sammeln erfassen einsammeln
+Alternsforschung Gerontologie Alternswissenschaft Altersforschung Alterswissenschaft
+vermachen vererben anheimstellen verleihen abtreten überschreiben übertragen überantworten überlassen
+volltönend geräuschvoll dröhnend ohrenbetäubend überlaut lärmig schallend donnernd lärmend
+Arbeitsmonat Personenmonat Mannmonat
+anspitzen schärfen
+Pirsch Pirschjagd
+vorbeirollen dahinziehen vorbeiziehen
+habgierig unbescheiden habsüchtig raffgierig konsumistisch materialistisch gierig konsumgeil unersättlich geldgierig geldgeil besitzgierig
+bedacht aufmerksam
+Nahrungsmittelvergiftung Botulismus Wurstvergiftung
+Mediziner Heilkundiger Arzt Doc Weißkittel Doktor Medikus
+werten finden abgewinnen ermessen finden evaluieren bewerten einschätzen würdigen befinden gewichten beurteilen schätzen
+Dachschräge Dachneigung Dachgefälle
+Scheuern Reiben Reibung Abreibung
+Stachelwalze Stachelrad
+Tanzveranstaltung Ball Tanzerei Tanzfest Tanzabend
+Pein Leid Schmerz Weh
+abschmecken würzen
+Angriffslust Streitlust Aggressionsbereitschaft Aggressivität
+Parallelität Gleichlauf Gleichzeitigkeit Simultanität Simultaneität
+Vergrößerungsgerät Vergrößerungsapparat
+Glasfaserkabel Lichtwellenleiter Lichtleitkabel
+Rechnungsprüfung Controlling
+Bewegungslosigkeit Starre Reaktionslosigkeit Stupor Inflexibilität
+Anschaulichkeit Übersichtlichkeit Plastizität Bildhaftigkeit Einprägsamkeit Deutlichkeit Klarheit Ausdruckskraft
+Vertrag Kontrakt Abkommen
+abmagern ausmergeln
+Temperaturregler Thermostat
+Lokalisation Lokalisierung Ortsbestimmung Verortung Positionsbestimmung
+Fantasie Vorstellungsvermögen Imagination Einbildungskraft Phantasie
+verweigern versagen abschlagen ablehnen abschmettern verwehren abweisen
+kfm. kaufmännisch
+Gleichrichter Stromwender Stromrichter
+Menschlichkeit Humanität
+klangvoll feierlich affektvoll affektgeladen pathetisch ausdrucksvoll festlich erhaben
+formatieren anordnen arrangieren zurechtstellen zusammenstellen
+Land Nationalstaat Staat Nation
+Eintrübung Verschlechterung Abwärtsentwicklung
+Sechskant-Schraubendreher Inbusschlüssel Sechskant-Stiftschlüssel
+Leidwesen Verstimmung Verärgerung Grant Missfallen Missmut Unmut Missvergnügen Groll Ärger Verdruss
+Organvergrößerung Hypertrophie
+Nesselausschlag Urtikaria Nesselsucht
+Vertragspartner Handelspartner
+Impetus Stoßkraft
+abtrennen lösen
+Ehrabschneider Verleumder
+y-Koordinate Ordinate Ordinatenachse Senkrechte y-Achse
+ausmergeln abmagern auszehren abzehren
+Ranch Hof Bauernhof Bauerngut
+Proposition Aussage
+kulturfähig anbaufähig
+Weideland Weide Viehweide Grasland
+Farbstoff Farbstoffteilchen Färbestoff Pigment
+Übertragung Vererbung Übergang
+dahinrieseln plätschern kräuseln
+Spielwürfel Würfel
+Superuser Systemoperator Root-User Sysop Admin Administrator Operator Systemadministrator Systembetreuer Sysadmin
+Klosterbruder Bruder Mönch Ordensbruder
+Ausweisung Identifikation Identifizierung
+krümlig bröcklig bröselig bröckelig krümelig mürbe
+gleichliegend entsprechend homolog ähnlich übereinstimmend
+Fehlerstromschutzschalter Fehlerstrom-Schutzschalter FI-Schalter FI-Schutzschalter
+Auftragswesen Auftragsvergabe
+einfach unprätentiös modest spärlich schlicht uneitel spartanisch anspruchslos karg bescheiden genügsam frugal unverwöhnt
+Augenlidentzündung Blepharitis
+abkanten abschrägen abrunden abfasen
+Eispickel Pickel
+Raffinade Zuckerraffinade
+Bankhaus Geldinstitut Finanzinstitut Sparkasse Geldhaus Finanzinstitution Bank Kreditinstitut Geschäftsbank Kreditanstalt
+Überprüfung Verifikation Beurteilung Validierung Validation Evaluation
+Menschentraube Masse Menschenansammlung Menschenschar Pulk Ansammlung Menschenmenge Gewühl Menschenauflauf Auflauf Menschengewühl Menschenmasse Menge Zusammenrottung
+satanisch diabolisch teuflisch
+bemängeln beanstanden reklamieren bemäkeln monieren rügen
+Sprachforschung Linguistik Sprachwissenschaft
+Helikopter Hubschrauber Hubi Heli
+Schande Affäre Aufsehen Skandal
+Treffer Tor
+bestens vollendet vollkommen perfekt optimal bestmöglich spitze ideal
+Brand Feuer
+Otto-Kraftstoff Benzin Sprit
+Sohle Laufsohle Schuhsohle
+Papierblatt Papier Seite Zettel Bogen Blatt
+Fußbekleidung Schuhwerk Schlappen Schuh Schuhe Treter Latschen
+GNU/Linux Linux
+Unwille Unlust Trotz Widerwille
+Ausdruck Term
+Kritik Besprechung Rezension Beurteilung Urteil Einschätzung Durchsicht
+Logistik Nachschubwesen
+vielzählig viel massenweise reich reichlich zuhauf reihenweise reichhaltig zahlreich massig haufenweise massenhaft unzählig unbegrenzt abundant waggonweise üppig
+Häme Schadensfreude Schadenfreude
+bewalden aufforsten
+Briefkasten Postkasten
+Ire Irländer
+haushoch ausgeprägt erheblich viel wesentlich deutlich immens beträchtlich ausnehmend sehr tierisch enorm allerhand arg ziemlich weit
+wirken knüpfen flechten weben spinnen
+Tragfläche Flugzeugflügel Flügel
+Mobilität Unabhängigkeit Beweglichkeit
+Fehlannahme Paralogismus Missverständnis Denkfehler Trugschluss Fehlschluss Fehleinschätzung Irrglaube Irrtum Fangschluss
+Schwein Wutz Hausschwein Borstenvieh
+zuwandern einwandern immigrieren
+Inkontinenz Blasenschwäche
+Bulldog Trecker Zugmaschine Schlepper Traktor
+Wildtier Wild
+konform konformistisch standardisiert normiert
+Mythus Fantasy-Story Mär Fabel Mythos Saga Märchen Überlieferung Sage Legende
+Schuft Krimineller Straftäter Übeltäter Gesetzesbrecher Schächer Delinquent Verbrecher Malefikant Täter
+vereinfachen erleichtern
+hecheln schnauben keuchen röcheln japsen schnaufen
+Radiogerät Radioapparat Radio Radioempfänger Rundfunkgerät
+publik öffentlich
+Freudenhaus Bordell Puff Laufhaus Stundenhotel Etablissement
+brabbeln radebrechen nuscheln
+modellieren abbilden
+Export Ausfuhr
+Staatsverfassung Verfassung Grundgesetz Konstitution
+Voyeur Spanner Spechtler
+weiterkommen vorangehen fortschreiten voranschreiten vorrücken weiterschreiten vorankommen
+Anti-Pilzmittel Fungizid
+bandagieren verbinden umwickeln
+dämmen abdichten
+Instruktor Ausbilder Instrukteur Kursleiter Dozent Lehrer
+Schwarzmalerei Schwarzseherei Pessimismus
+Schlichtheit Einfalt Torheit Einfältigkeit Dummheit Niaiserie Unvernunft
+Luftsprung Kapriole
+Bezieher Abonnent
+Ehrenmal Monument Denkmal Mahnmal
+Engel Cherub Kerub Gottesbote Seraphim
+Aussicht Rundblick Blick Panorama
+nachbilden nacheifern
+Eiweiß Eiklar
+Untermenge Teilmenge
+Weide Grün Rasenfläche Grünland Bleiche Wiese Matte Grünfläche Rasen
+Weinbauer Winzer Weingärtner Weinhauer
+Seher Prophet Weissager Augur Hellseher Vorbote Wahrsager
+Realitätssinn Realismus Wirklichkeitssinn
+Sterz Schwanz Bürzel Schweif Rute
+vergesslich tüdelig schusslig schusselig trottelig tüddelig zerstreut
+Erlass Verordnung Edikt Kodex Dekret Gebot Verfügung Codex
+Schnuller Lutscher Nuggi Nuckel
+Falte Runzel
+Zusammenbruch Einsturz
+Finanzen Vermögen Geldmittel Kapital
+Schwärmerei Romantik Gefühlsüberschwang Gefühlsduselei
+leichtfertig risikoaffin risikofreudig gewagt waghalsig leichtsinnig
+Regierungskabinett Regierungsmannschaft Kabinett Ministerrunde Ministerriege Regierung
+Quintessenz Ausgang Resultat Endergebnis Fazit Ergebnis
+Bindewort Konjunktion
+verdichten zusammendrücken komprimieren
+Prismenfernglas Fernrohr Feldstecher Fernglas Binokular
+Akkumulator Speicherzelle Akku Stromspeicher
+* Stern Asterisk Sternchen Asteriskus
+Larmoyanz Weinerlichkeit Tränendrüse Gefühligkeit Gefühlsduselei Herzschmerz Empfindsamkeit Rührseligkeit Tränenseligkeit Sentimentalität
+Gruppe Team Kollektiv Zelle
+Kurzlehrbuch Nachschlagewerk Kompendium Handbuch
+Zähnepressen Bruxismus Zähneknirschen
+Dichtung Abdichtung
+Compagnon Co. Partner Mitinhaber
+übertölpeln neppen übervorteilen überrumpeln
+zerlegen splitten zerteilen teilen aufteilen segmentieren stückeln
+Irrgarten Labyrinth
+Holzvernichtungstüte Sperrholztasche
+Ofenheizungshitze Heizungswärmewarmheit
+menschengerecht menschenwürdig human menschlich philanthropisch menschenfreundlich
+Entwertung Devaluation Abwertung Diskreditierung Deklassierung
+Hippie Blumenkind
+Fleischwerdung Verkörperung Inkarnation Menschwerdung
+zusammenbrechen kollabieren
+hervorquellen hervortreten
+Habitat Lebensraum
+Geldvernichtung Preisverfall Deflation Preisrückgang
+Staatenbund Nationengemeinschaft
+Ausbildung Lehre
+Nivellierung Gleichmacherei Gleichschaltung
+Morgenland Orient Osten Levante
+Erziehungswissenschaft Pädagogik
+Remis Unentschieden Gleichstand
+Satire Verspottung Hohn Farce
+unvereinbar gegensätzlich oppositär entgegengesetzt antithetisch dualistisch konträr advers polar diskrepant adversativ widerstreitend gegenteilig diametral antagonistisch widersprüchlich
+erhöhen steigern aufbessern
+Befriedung Umgrenzung Einzäunung Einhegung Umfassung Einfriedigung Eingrenzung Absperrung Umfriedung Abgrenzung Einfriedung
+Drang Begierde Verlangen Sehnsucht Bedürfnis Durst Sehnen Bedarf Begehren Gier Wunsch
+Angler Fischer Petrijünger
+Flachland Ebene
+Verflossenheit Vergangenheit Geschichte Historie
+reißen splittern zerspringen springen zerbrechen zerplatzen aufplatzen bersten zerschellen zersplittern platzen
+transportieren verfrachten verbringen karren bringen fahren überführen schaffen befördern
+Fußboden Boden
+Untergrund Erdreich Boden Erdboden Erde
+Basis Ausgangspunkt Ausgangsebene Grundstein Grundlage
+Nachtruhe Schlaf Ruhe Schlummer
+Lebensstil Lebensart Lebensweise
+desolat beklagenswert trostlos verlassen bedauernswert einsam
+Auseinandersetzung Kontroverse Fehde Konflikt Streit
+Gattung Art Klasse Menge
+anspruchsvoll niveauvoll intelligent
+gebildet formgewandt kultiviert soigniert gesittet
+Couch Ruhemöbel Diwan Kanapee Sofa Ottomane Liege Récamière Chaiselongue Triclinium
+Pfandhaus Leihhaus
+Abweichung Verschiedenheit Unterschied Differenz
+Interpret Sänger Vokalist Gesangssolist Gesangskünstler
+Versmaß Rhythmus Metrum
+ungeheizt unbeheizt
+ungekocht roh
+Amt Aufgabe
+Zerspanungsmechaniker Zerspaner Zerspanungstechniker
+verscharren eingraben einbuddeln verbuddeln vergraben
+Verbund Vereinigung Verein Zusammenschluss Verband
+Hochgefühl Glücksgefühl Glück
+Wäschesteif Wäschestärke
+Abgeordneter Volksvertreter Mandatsträger Parlamentarier Delegierter Repräsentant Mandatar Deputierter
+Kirmes Volksfest Markt Rummel Dult Kirtag Dorffest Jahrmarkt Kirchtag Kerwe Kirchweih Hoggedse
+gesotten gegrillt geröstet gebraten
+köcheln simmern
+Speisefolge Menü
+Schnupftuch Stofftaschentuch Nastuch Schneuztuch Papiertaschentuch Schnuderlumpen Taschentuch Rotzfahne Tempo Tempotaschentuch Sacktuch
+Wochenmarkt Gemüsemarkt Markt
+Schaufenster Auslage
+Kautablette Brausetablette Kapsel Pille Globuli Tablette Dragée
+Heilkunde Iatrik Gesundheitslehre Medizin Heilkunst
+Musikdrama Singspiel Oper
+Finale Schlusspunkt Ende
+Hass Abscheu
+Vehikel Gefährt Fahrmaschine Fahrzeug Fahrgerät
+Durchsuchung Hausdurchsuchung Haussuchung
+Nachtwandler Somnambulerich Schlafwandler Mondsüchtiger Somnambuler
+Elektrizität Saft Strom
+organisieren abhalten veranstalten aufführen ausrichten
+unkonkret begrifflich unwirklich abstrakt unanschaulich ungegenständlich
+Übung Probe Training
+schwenkend schaukelnd wechselvoll schwankend volatil
+Knallrot Signalrot
+leer alle aus aufgebraucht gar
+deskriptiv beschreibend
+besiegelt determiniert festgelegt bestimmt
+Gusto Geschmack Gout
+zeigen manifestieren niederschlagen
+tabu unaussprechlich unverletzlich sakrosankt heilig unantastbar
+zentral mittig
+selbstverständlich evidenterweise klarerweise trivialerweise
+verderblich verheerend katastrophal vernichtend desaströs
+durchsetzen durchdringen einführen penetrieren eindringen
+belegt ausverkauft voll besetzt
+alkoholisiert blau bezecht hacke hackevoll abgefüllt voll berauscht trunken strack zu breit stoned besoffen betrunken dicht strunz
+valide perfekt komplett gültig rechtskräftig
+Attentat Anschlag
+Balance Gleichgewicht Ausgewogenheit Equilibrium
+unbegrenzt unvorstellbar unendlich
+einheitlich durchgehend durchweg konsistent konsequent durchgängig durchwegs
+verwehren verweigern vorenthalten
+reell anwendungsbezogen gegenständlich greifbar anschaulich sachbezogen wirklich konkret fassbar echt bestimmt handfest
+Computerwissenschaft Informatik
+Stellenplan Organisationsdiagramm Organisationsplan Organigramm Organisationsschaubild
+Hobby Freizeitaktivität Freizeitbeschäftigung Steckenpferd
+Fuchsschwanz Standarte
+Becherglas Pokal
+Made Engerling Larve Raupe
+wiederholen nachvollziehen reproduzieren nachstellen
+Bierseidel Henkel Humpen Maß Seidel Maßkrug Steinkrug Augenkanne Bierbembel Bierkrug Schnelle
+vervielfachen multiplizieren malnehmen
+Mitschrift Skript
+Herrenjackett Jackett Sakko
+Bon Marke
+geordnet bereinigt säuberlich aufgeräumt ordentlich
+Schnitt Schnittwunde
+hochzählen erhöhen aufzählen inkrementieren
+Interieur Innenausstattung
+Gedankenübertragung Telepathie
+Synergie Zusammenwirken Synergismus
+Antlitz Angesicht Fratze Fresse Visage Gesicht
+Kamin Ofen
+Abartigkeit Perversion Perversität
+entlassen abhalftern abberufen absetzen entmachten ablösen
+wiedergeben abbilden
+Darstellung Abbild Wiedergabe Visualisierung Abbildung Spiegelbild Illustration
+verdrängen wegschieben abdrängen
+Ereignis Spannung Abenteuer
+aberkennen absprechen
+Aberglaube Gespensterglaube Geisterglaube Superstition
+Abendbrot Souper Abendmahlzeit Nachtessen Vesper Abendessen Nachtmahl Brotzeit Znacht
+Weggang Fortgang Abgang Aufbruch Abreise Verschwinden Fahrtbeginn Abzug Abfahrt Start
+abfangen abhalten parieren aufhalten abwehren
+Abflug Departure Start
+erschöpft ausgebrannt abgearbeitet erschlafft ausgelaugt mitgenommen fertig abgerackert kaputt entkräftet abgehetzt angeschlagen ausgepowert verratzt schlapp abgespannt gestresst abgeschlagen verausgabt abgekämpft verbraucht überanstrengt
+isoliert einsam insular zurückgezogen kontaktlos kontaktarm beziehungslos
+bedacht taktisch abgeklärt besonnen klug ausgeglichen
+abgerundet harmonisch abgestimmt geschmackvoll
+Resümee Analyse Schlussbemerkung Résumé Schluss Schlusswort Schlussfolgerung Fazit Schlussbetrachtung Zusammenfassung
+Delegat Parlamentär Bote Ordonnanz Bevollmächtigter Kurier Delegierter Beauftragter Abgesandter Emissär
+abgeschwollen abgeklungen
+Dunst Qualm
+Gedanke Einfall Einsicht Idee Anwandlung Inspiration Aha-Effekt Erleuchtung Intuition Anregung Offenbarung Erkenntnis Impuls Eingebung Offenbarungserlebnis
+Fernsehprogramm Programm
+abgemacht festgelegt geritzt stehen perfekt geklärt feststehen abgesprochen ausgemacht verabredet vereinbart
+Abgrenzung Grenze Grenzlinie Begrenzung
+abhängig unselbständig untergeordnet gebunden unmündig unfrei
+Abhängigkeit Hörigkeit Unselbständigkeit Unmündigkeit
+absägen roden umhauen umsägen fällen abholzen schlagen
+Kopie Plagiat Attrappe Simulierung Fälschung Klischee Falsifikat Imitation Imitat Nachahmung Abklatsch Mimikry Schablone Simulation Nachbildung Fake
+abkömmlich unwichtig entbehrlich
+abkoppeln trennen losbinden abkuppeln
+Konstrukt Gebilde
+Proband Prüfungsteilnehmer Prüfling Prüfungskandidat
+leitend federführend führend
+posthum postum
+Lockvogel Lockmittel Köder
+Praxis Arztpraxis
+Praxis Realität
+Wartungsarbeiten Überholung Erhaltung Pflege Unterhaltung Instandhaltung Unterhalt Wartung
+Anlage Möglichkeit Potential Gegebenheit Potenzial
+Organismus Anlage Organisation Gebilde System Struktur
+Genesungsheim Heilanstalt Klinik Sanatorium Heilstätte Rehabilitationszentrum
+Waffengang Duell Zweikampf
+Atheist Ungläubiger Agnostiker Gottesleugner Glaubensloser Gottloser Heide
+Wilddieb Jagdfrevler Wildschütz Wilderer
+Wackelpudding Götterspeise Wackelpeter
+Kontrolle Haltung Fassung Contenance Beherrschung
+Unikum Einzelanfertigung Unikat Einzelstück
+asozial assig asi unsozial gesellschaftsschädlich
+Zeitungswesen Presse Totholzmedien Printmedien
+Fiskus Finanzamt
+Schicksalsergebenheit Schicksalsgläubigkeit Fatalismus
+designiert nominiert zukünftig kommend künftig angehend perspektivisch vorgesehen nächste
+vorsehen auftragen designieren bestimmen mandatieren verdingen betrauen beauftragen zuweisen
+hinreißen mitreißen euphorisieren begeistern enthusiasmieren anregen entzücken
+Verniedlichungsform Verkleinerungsform Deminutiv Diminutivum Diminutiv
+exponieren betonen herausstellen
+herausgehoben exponiert herausgestellt
+transsexuell androgyn hermaphroditisch hermaphrodit zwittrig zweigeschlechtlich zweigeschlechtig zwitterhaft
+Intersex Zwitter Hermaphrodit Gynander
+Lehrbefugnis Lehrerlaubnis Lehrberechtigung Lehrbefähigung Fakultas
+deutsch germanisch teutonisch
+mortal sterblich vergänglich
+Nachahmung Kopie Imitat Fälschung Nachbau Plagiat Nachbildung
+Sterilisation Sterilisierung
+Gegenwart Präsens Gegenwartsform
+Vorvergangenheit Plusquamperfekt
+Ausscheidung Körperausscheidung Sekret
+Infertilität Unfruchtbarkeit Sterilität
+wägen wiegen
+wassersüchtig hydropisch
+Auswahl Güteklasse
+Mehrzahl Mehrheit Überzahl Majorität
+Minderheit Unterzahl Minorität Minderzahl
+MfS Stasi Staatssicherheit Staatssicherheitsdienst
+Delir Umnebelung Delirium Verwirrtheit Umnachtung Bewusstseinstrübung Black-out Bewusstseinsstörung Mattscheibe
+wehtun schmerzen
+Streich Mätzchen Schelmenstreich Eskapade Kapriole
+Liierung Verbindung Bindung
+probat gefestigt erprobt eingeführt altbewährt verlässlich Klassiker alterprobt altbekannt etabliert anerkannt bewährt
+projizieren übertragen abbilden reproduzieren
+Pomade Brillantine Frisiercreme Brisk Haarcreme Haarfett
+verschämt spröde zimperlich genant schamhaft prüde
+Aufdringlichkeit Starrsinn Penetranz Hartnäckigkeit Zudringlichkeit
+Bester Gewinner Erster Bestplatzierter Favorit Preisträger Sieger Tabellenerster Champ Champion Rekordhalter Meister Erstplatzierter
+dagegenhalten entgegentreten entgegensetzen kontern
+Darmspiegelung Koloskopie
+wirken dienen taugen eignen fungieren herhalten
+Preissteigerungsrate Teuerungsrate Geldentwertungsrate Teuerung Inflationsrate
+Kamera Camcorder Videokamera
+Gegenüberstellung Konfrontation
+Beschattung Überwachung Observation Observierung Beobachtung
+kaustisch scharf ätzend reizend beißend
+unerkannt inkognito
+damit hierdurch indem darüber hierbei hiermit dabei dadurch
+Dreimonatsabschnitt Vierteljahr Trimenon Quartal Trimester
+Streitschrift Pasquill Spottschrift Schmähschrift Traktat Pamphlet
+verneinen leugnen abstreiten negieren
+Gebäudekomplex Komplex
+Anspruchslosigkeit Bescheidenheit Bedürfnislosigkeit Genügsamkeit
+begrenzt restriktiv limitiert eingeschränkt eingeengt
+schwulenfeindlich homophob
+Zuspitzung Verstärkung Verschärfung Eskalation Verschlimmerung Ausuferung Pointierung Ausweitung Steigerung
+Sprudelbad Jacuzzi Whirlpool
+Harmonisierung Vereinheitlichung Normalisierung
+fein positiv schön gut manierlich
+Korrosion Rost
+Genugtuung Genuss Beglückung Vergnügen Zufriedenstellung Satisfaktion Pläsier Zufriedenheit Erfüllung Befriedigung
+Winzling Heinzelmännchen Däumling Wicht Gnom Wichtel Wichtelmännchen Kobold Zwerg Wichtelmann
+Notebook Schlepptop Laptop Klapprechner Mobilrechner
+Scrotum Sack Hodensack Skrotum
+Normalnull Meeresniveau Meeresspiegel
+Fußpflege Pediküre
+Flügel Fittiche Schwinge
+Elb Albe Sylphe Luftgeist Fee Elfe Elbe
+verklappen beseitigen entsorgen vernichten entfernen
+kalt kühl unerregbar gefühlskalt frigide
+Fluchwort Schimpfwort Ordinärwort
+Entführer Kidnapper Geiselnehmer Hijacker Geiselgangster
+Visite Krankenbesuch
+Rad Velo Hirsch Bike Zweirad Drahtesel Radl Fahrrad
+genesen erholen auskurieren gesunden berappeln überwinden
+Duo Zweierkombination Duett Doppelpack Paar Gespann Zweierverbindung Zweierkombi Pärchen Tandem
+speien spucken rotzen
+Pneu Rad Schluffen Bereifung Reifen Luftreifen
+Sumpf Pfuhl Tümpel
+Schwarzbrot Pumpernickel
+Satzmelodie Tongebung Tonhöhenverlauf Intonation Sprachmelodie Betonung
+verwundern erstaunen wundern überraschen frappieren verblüffen verdutzen
+lichtlos aphotisch
+Schikane Mobbing
+Terrorist Saboteur Attentäter Untergrundkämpfer
+Unschuldsengel Kindfrau Nymphchen Nymphe Lolita
+einwiegen abwiegen auswiegen wiegen
+Guthaben Gutschrift Haben
+Fließgeld Schwundgeld Freigeld
+Zinssystem Schuldsystem
+holistisch gesamtheitlich allumfassend absolut total ganzheitlich uneingeschränkt
+Urlaubsgast Tourist Reisender Touri Sommerfrischler Urlauber Fremder Feriengast Urlaubsreisender
+patriarchalisch würdevoll altväterlich
+aufgeschlossen weltoffen extravertiert extrovertiert
+unzugänglich introvertiert distanziert verschwiegen zurückhaltend verschlossen zugeknöpft reserviert unaufgeschlossen
+Villa Landgut Anwesen Finca Domaine Landhaus Manor Herrenhaus Landsitz
+Alleinherrschaft Monarchie
+Glaubenssatz Lehre Lehrmeinung Dogma Doktrin Evangelium
+Grundsatz Doktrin
+Verständnis Rücksicht Toleranz
+Bildpostkarte Briefkarte Karte Korrespondenzkarte Postkarte Grußkarte
+Beisammensein Beieinandersein Zusammensein
+Ahnungslosigkeit Ignoranz Unwissen Nichtwissen Kenntnislosigkeit
+Dysbalance Imbalance Ungleichgewicht
+abgeltend aufwiegend kompensatorisch ausgleichend
+Umkreisung Drehbewegung Umlauf Rotationsbewegung Rotation Umdrehung Drehung Kreisbewegung
+Krankheitssymptom Beschwerde Symptom Krankheitszeichen
+zusammenwirkend synergistisch
+gefäßbedingt vasomotorisch
+qualvoll schmerzvoll leidvoll
+diskriminieren benachteiligen
+teilbar zerlegbar aufteilbar
+kränklich schwächlich kränkelnd labil anfällig
+Kälte Taubheit Gleichgültigkeit Hartherzigkeit Härte Gefühllosigkeit Herzlosigkeit
+herumhüpfen herumtanzen herumspringen
+freiheitlich libertär liberalistisch freisinnig liberal
+vorurteilsfrei vorurteilslos liberal
+herrschaftslos gesetzlos libertär anarchistisch
+Volksstaat Volksherrschaft Parlamentarismus Demokratie
+Verbrämung Verfälschung Verschleierung Beeinflussung Manipulation
+vorführen darbieten aufführen inszenieren
+artikulieren ausdrücken
+Szenario Anwendungsbereich Verarbeitungssequenz Anwendungsfall
+Ruder Steuerruder Steuer
+lehren lesen dozieren
+Didaktik Unterrichtslehre Unterrichtskunde
+Zusammenfassung Kurzfassung Kurzversion Verkürzung Kurzform
+Machtmissbrauch Autoritätsmissbrauch Amtsmissbrauch
+Typ Kaliber Sorte Schlag
+ungewöhnlich unregelmäßig irregulär
+Seiltänzer Seilakrobat
+Übereinstimmung Ähnlichkeit Similarität Gleichheit Analogie Gleichartigkeit
+analytisch zerlegend zergliedernd
+Encoder Verschlüssler Verschlüsseler Enkoder Kodierer Codierer
+codieren verschlüsseln encodieren enkodieren chiffrieren
+Endstufe Endverstärker Leistungsverstärker Verstärker
+Staatenbund Bündnis Schulterschluss Föderation Zusammenschluss Bund Vereinigung Konföderation Pakt Union Koalition Allianz
+beieinander mitsammen vereint gemeinsam zusammen miteinander beisammen
+Zwiespältigkeit Ambivalenz Unentschiedenheit
+Krankenwagen Krankenkraftwagen Notarztwagen Rettungswagen Sanitätskraftwagen Krankentransportwagen Sanka
+Dualität Zweiheit
+kontrollieren revidieren überprüfen prüfen
+Ausgedachtes Fiktionales Vorgestelltes Erdachtes Erdichtung Fiktion
+narrativ erzählerisch episch
+konzentrieren verdichten kürzen eindampfen konspektieren komprimieren resümieren zusammenfassen
+Lyrik Poesie Gedichte Dichtung
+Kokain Coke Schnee C₁₇H₂₁NO₄ Snow C17H21NO4 Koks
+Injektionsspritze Spritze Pumpe
+Schlaftablette Schlafpille Hypnotikum Einschlafmittel Schlafmittel
+Reduktionsdiät Abmagerungsdiät
+stärkend tonisch kräftigend
+kräftigen tonisieren
+Eistherapie Kryotherapie Vereisungsbehandlung Kälteanwendung
+Fruchtbarkeit Fortpflanzungsfähigkeit Fertilität
+Hauterkrankung Hautkrankheit Dermatose
+Potenzmittel Aphrodisiakum
+Koexistenz Nebeneinanderbestehen
+Subkultur Teilkultur Gruppenkultur
+titulieren anzeigen darstellen bezeichnen signifizieren
+trügerisch schimärisch
+Denkweise Paradigma Denkmuster Muster Sichtweise Denke Denkungsart Beispiel Leitvorstellung Vorbild
+ruinös schadhaft baufällig
+Rarität Besonderheit Kuriosum Seltenheit Singularität
+Sendbote Besorger Botengänger Bote Laufbursche Kurier Botenjunge Laufjunge
+Mandellikör Amaretto
+Begleiterin Hostess Gefährtin
+Synthese Zusammenschau Zusammenfügung Panoptikum Vermittlung Gesamtschau
+vereint kollegial hilfsbereit zusammenstehend kameradschaftlich partnerschaftlich gleichgesinnt kollektiv geeint verbündet einvernehmlich kooperativ solidarisch einmütig zusammenhaltend unanim geschlossen einträchtig miteinander
+Umgänglichkeit Menschenfreundlichkeit Soziabilität Geselligkeit
+vergesellschaften verstaatlichen kollektivieren sozialisieren enteignen nationalisieren
+einschließen implizieren einbeziehen
+Kennzeichnung Brandmarkung Stigmatisierung
+Stigma Merkmal Kennzeichen Zeichen
+Umdrehung Invertierung Reversion Umkehrung Inversion
+Sensibilität Einfühlsamkeit Einfühlung Verständnis Feingefühl Mitgefühl Empfindungsvermögen Empathie Fingerspitzengefühl Gespür Einfühlungsvermögen Sensitivität Herz Zartgefühl Einfühlungsgabe
+Unterdrückung Suppression
+Mündlichkeit Oralität
+Schriftlichkeit Literalität
+eigenverantwortlich mündig
+Härte Beständigkeit Persistenz Festigkeit
+Auslöser Zünder Zündvorrichtung
+Komödie Lustspiel
+misanthropisch menschenfeindlich
+weltabgewandt kontaktgestört menschenscheu kontaktarm kontaktschwach eigenbrötlerisch einzelgängerisch isoliert
+Schwärmerei Idealisierung Träumerei
+Selbstverstümmelung Autoaggression Artefakthandlung Autodestruktion Selbstverletzung
+Genauigkeit Gewissenhaftigkeit Sorgfalt
+unvorhersehbar unerwartet ungeahnt
+streitsüchtig zänkisch zanksüchtig zickig kratzbürstig kiebig provozierend
+Hochzahl Exponent
+Gegenwert Äquivalenz Gleichwertigkeit
+arbeitstauglich erwerbsfähig arbeitsfähig
+verdienen einbringen
+Bildungsanstalt Bildungsstätte Schulungszentrum Schule Bildungsinstitution Bildungszentrum Lehranstalt Akademie Bildungseinrichtung
+Bildungsfreistellung Fortbildungsurlaub Bildungsurlaub
+Bildungsniveau Bildungsstand Ausbildungsniveau Bildungsgrad
+Anspruchsberechtigung Leistungsberechtigung
+Liegenschaft Grundbesitz Landbesitz
+Wundertrank Elixier Heiltrank Zaubertrank
+Ausführer Exporteur
+Schadenssumme Schadenswert Schadenshöhe Schadensumfang Schadensausmaß
+Copyright Urheberrecht
+Aula Multifunktionsraum Audimax Versammlungshalle Veranstaltungsraum Festsaal
+Aula Hörsaal Zuhörerraum Auditorium
+Architekt Konstrukteur Baumeister Erbauer
+fremdländisch unbekannt fremdartig apart exotisch fremd
+Widerhall Mitschwingen Nachklang Resonanz
+Singular Einzahl
+Zahlwort Numeral Numerale
+Begleiter Geschlechtswort Artikel
+Umstandswort Adverb Nebenwort
+Empfindungswort Ausrufewort Interjektion
+allegorisch gleichnishaft symbolisch sinnbildhaft
+Erklärung Ausführung Auslassung Explikation Erläuterung Äußerung Darlegung
+Syntagma Zusammenordnung Zusammengesetztes
+Bedeutungsgegensatz Antonymie
+Hyponym Unterbegriff Hyponymie
+unterdrückend inhibitorisch suppressiv hemmend repressiv
+vorausschauend vorausblickend prospektiv
+Segmentierung Segmentation Zerlegung Unterteilung
+visionär unrealistisch realitätsfremd unerfüllbar realitätsfern utopisch wirklichkeitsfremd
+Kuratel Vormundschaft Pflegschaft
+entmündigen bevormunden
+Menschenfeind Misanthrop Menschenhasser
+Ambivalenz Doppeldeutigkeit
+Ausgabepreis Emissionspreis
+Abschlusszwang Kontrahierungszwang
+bestätigen ratifizieren
+hinuntersehen herabsehen hinabsehen heruntersehen
+hochschauen hinaufschauen
+kegelförmig konisch
+Kegelkörper Kegel Konus
+Vierflach Vierflächner Tetraeder
+Achtflach Achtflächner Oktaeder
+Zeitmessung Chronometrie
+chronologisch zeitlich chronometrisch
+Hohlnadel Kanüle Injektionsnadel
+Gegenleistung Ausgleich Kompensation
+angeboren konnatal
+Koma Bewusstlosigkeit
+Landschule Einklassenschule Gesamtschule Dorfschule Zwergschule
+Vormund Verwalter Vertreter Bevollmächtigter Kurator Repräsentant
+Kuratorium Aufsichtsbehörde Kontrollorgan
+Opposition Gegenseite
+antagonistisch gegnerisch oppositionell gegensätzlich
+Schulpflicht Schulobligatorium Unterrichtspflicht Schulzwang
+diktatorisch totalitär
+Zehnjahreszeitraum Dezennium Dekade Jahrzehnt
+Gesellschaftssystem Gesellschaft Sozialstruktur Gesellschaftsstruktur
+Unwort Nicht-Wort
+Haut Pelle Wursthaut
+Konkurrenzkampf Wettbewerb Verdrängungskampf
+Gehirnwäsche Manipulation Programmierung Konditionierung
+Individualitätsmerkmal Persönlichkeitsmerkmal
+Meinungsbildung Meinungsmache Meinungsmanipulation
+beherrschbar suggestibel kontrollierbar lenkbar steuerbar regelbar beeinflussbar manipulierbar
+anklagend vorwurfsvoll
+Brauchtum Brauch Gepflogenheit Gebräuche Tradition Überlieferung
+Beichte Bekenntnis Geständnis
+Bestellformular Bestellzettel
+abmelden ausloggen aussteigen
+benutzerfreundlich anwenderfreundlich
+Demagoge Agitator Scharfmacher Aufwiegler Aufhetzer Seelenvergifter Volksverhetzer Volksaufwiegler Provokateur Einpeitscher Volksverführer Hetzer Populist Hassprediger Aufrührer Brunnenvergifter Brandstifter
+Artist Zirkusdarsteller Zirkuskünstler
+vermählen verheiraten trauen
+rechtgläubig orthodox strenggläubig
+Geheimbund Geheimgesellschaft
+Lohnarbeiter Arbeitnehmer Malocher Werktätiger Arbeiter Hackler
+Bankanweisung Scheck
+anbetenswert verehrungswürdig
+Schiffsausbesserungswerk Schiffswerft Werft Reparaturwerft Dock
+bewaffnen rüsten armieren
+Straßenpflaster Asphalt Straßenbelag Erdpech
+Gebäck Backwerk
+Biwak Feldlager
+hundertteilig zentesimal
+Hochhaus Wolkenkratzer
+Gesetzesbruch Gesetzesverstoß Rechtsverletzung Rechtsbruch
+Verallgemeinerung Induktion
+begründen stärken erhärten fundieren untermauern
+wegschicken deputieren abkommandieren delegieren fortschicken aussenden abordnen entsenden schicken beordern
+Abschweifung Ablenkung Abweichung
+Verbindlichkeit Schuldigkeit Obliegenheit Muss Verpflichtung Agenda Pflicht
+Spötter Sarkast Spottdrossel Satiriker Spottvogel Zyniker Ironiker
+artistisch künstlerisch
+akrobatisch artistisch
+unwillkürlich unabsichtlich unbeabsichtigt reflexartig unwillentlich reflexhaft unbewusst ungewollt automatisch
+extravagant outriert überspannt verstiegen überdreht
+nachsehen entschuldigen amnestieren verzeihen vergeben exkulpieren begnadigen
+Entwicklungsprozess Evolution Weiterentwicklung Reifung Fortgang Entwicklungsverlauf Entwicklung Ausarbeitung Fortentwicklung
+Pharmazeutik Arzneikunde Pharmazie Arzneimittelkunde
+Ergehen Befinden
+Kartonage Pappverpackung Karton Pappkarton Schachtel
+Halbtagsarbeit Halbtagsbeschäftigung Halbtagsstelle Halbtagsjob
+zusammenlaufen konvergieren
+Markt Absatzgebiet Marktgebiet
+nacheinander gereiht aufeinanderfolgend aneinandergereiht sequentiell sequenziell
+enthüllend investigativ aufdeckend
+Bocksgesang Trauerspiel Tragödie
+Lebensbejahung Optimismus Zuversichtlichkeit Zuversicht
+Verhaltensregel Normenkatalog Anstandsregel Verhaltensvorschrift Benimmregel
+enthüllend investigativ nachforschend
+Investigation Nachforschung
+Notruf Hilferuf
+getrost bedenkenfrei unbedenklich gefahrenfrei bedenkenlos
+herausstechend herausragend
+einsehbar abrufbar
+überzeugbar überredbar
+substantiiert solide ausgereift gerechtfertigt untermauert begründet fundiert
+definitionslos unbestimmt undefiniert
+Begriffsbestimmung Begriffserklärung Definition Bestimmung Begriffsklärung Eingrenzung Erklärung Abgrenzung Spezifizierung Festlegung
+Sacherklärung Realdefinition
+Worterklärung Nominaldefinition
+mitteilsam extrovertiert gesprächig extravertiert kommunikativ
+strapazieren überanstrengen
+herstellerspezifisch proprietär
+darstellen abbilden abzeichnen zeichnen zeigen nachzeichnen wiedergeben porträtieren malen repräsentieren fotografieren konterfeien abmalen
+Themenkatalog Tagesprogramm Tagesordnung Aktionsprogramm Traktandenliste Agenda
+ausbrennen abfackeln verbrennen abbrennen niederbrennen
+ausgehen erlöschen
+losfahren abgehen fahren anfahren abfahren
+einsinken einstürzen zusammenbrechen zusammenstürzen einbrechen einfallen zusammensacken zusammenfallen zusammensinken zusammenkrachen einkrachen
+durchkämpfen auskämpfen durchfechten
+abfinden entschädigen
+hinüberfahren überqueren rüberfahren
+Erscheinung Phänomen Gegebenheit
+Tischdecke Tischtuch
+Rotwelsch Gaunersprache Ganovensprache
+Ohrenschützer Ohrenwärmer
+Normalität Durchschnittlichkeit Gebräuchlichkeit Gewöhnlichkeit
+Privatmann Privatmensch Privatperson
+Mittelsteinzeit Mesolithikum
+Jungsteinzeit Neolithikum
+Äneolithikum Kupfersteinzeit Kupferzeit Chalkolithikum
+Prophezeiung Orakelspruch Wahrsagung Weissagung Prognose Prädiktion Orakel Vorhersage Prophetie Voraussage
+anheften beigeben beilegen beifügen
+hingeben opfern drangeben aufopfern darangeben
+umfangen umhüllen umschließen umgeben
+Lebensfreude Lebenslust Heiterkeit Daseinsfreude Vitalität
+Stadtkern Innenstadt Stadtmitte Zentrum Stadtzentrum City
+wiedergeben zurückstellen zurückgeben wiederbringen zurückschicken
+zurückerlangen wiederbekommen zurückbekommen zurückerhalten
+addieren hinzugeben zugeben dazugeben
+vermengen panschen vermischen einrühren durchmischen durchmengen mixen verquicken durcheinanderwürfeln verschneiden anrühren untermischen pantschen vermanschen durchrühren verquirlen verrühren vermixen mischen konfundieren verwursten
+hinausgehen rausgehen
+absenken heruntersetzen ablassen erniedrigen senken herunterlassen
+geistesverwandt gleichgesinnt wesensverwandt
+Kosmonautik Weltraumfahrt Astronautik Raumfahrt
+Astronaut Weltraumfahrer Taikonaut Raumfahrer Kosmonaut
+eruptiv hervorbrechend ausbrechend
+Turbulenz Unruhe
+vermelden bekanntgeben bekanntmachen kundgeben heißen ausrufen kundtun proklamieren verkünden mitteilen publikmachen veröffentlichen
+Prohibition Verbot Untersagung
+landnehmen einnehmen okkupieren erobern besetzen erstürmen
+unausgewogen subjektiv parteiisch persönlich unsachlich einseitig
+verhältnismäßig bedingt eher vergleichsweise relativ tendenziell eingeschränkt
+Indiskretion Vertrauensmissbrauch Vertrauensbruch
+ventilieren belüften lüften
+hinsiechen daniederliegen dahinsiechen darniederliegen abserbeln
+Gartenanlage Grünanlage Anlage Garten
+beglückwünschen gratulieren
+Hausmaus Maus
+Ente Erpel Enterich
+Auswirkung Folge Wirkung Effekt Einfluss Reaktion
+unterentwickelt unterbelichtet zurückgeblieben hinterwäldlerisch
+Konzert Musikaufführung
+Fabrikat Modell Typ Bauart Muster
+Zahlenlehre Arithmetik Rechenkunst
+rechnerisch arithmetisch
+Taktlosigkeit Indiskretion
+gewinnend persuasiv persuasorisch überredend überzeugend
+Überredung Suada Persuasion Überredungskunst
+Oktagon Oktogon Achteck
+exekutieren vollstrecken vollziehen
+exekutieren hinrichten liquidieren richten
+Geschlechtsreifung Geschlechtsreife Pubeszenz
+Erfindung Planung Schöpfung Entwicklung Hervorbringung Kreation Erschaffung
+heterogen ungleich inhomogen ungleichartig uneinheitlich gemischt
+avantgardistisch vorkämpferisch
+Produzent Fertiger Erzeuger Hersteller Fabrikant
+sonnig heiter unbewölkt wolkenlos
+Miete Mieteinnahme
+erbarmungsvoll barmherzig mitfühlend mitleidig gnädig
+Überlagerung Wechselwirkung Beeinträchtigung Beeinflussung Überschneidung Interferenz
+überschaulich begrenzt übersichtlich überblickbar überschaubar
+Nachbildung Nachahmung Emulation
+Imitator Epigone Nachmacher Nachahmer
+geprägt beeinflusst gelenkt
+Selbstmanipulation Autosuggestion Selbstbeeinflussung Selbstsuggestion
+widerspenstig widersetzlich wehrhaft renitent
+würdelos ehrlos
+katzbucklig dienerisch kriecherisch lakaienhaft knechtisch servil
+Bergweide Alpe Bergwiese Alpweide Alp Alm Alb Matte
+erstmals erstmalig
+Junta Militärjunta Militärdiktatur
+unbestechlich integer
+Kantine Casino Cafete Personalrestaurant Cafeteria Refektorium Schulrestaurant Betriebsrestaurant Kasino Mensa
+Schlafstadt Satellitenstadt Trabantensiedlung Trabantenstadt
+Nachbarschaft Umkreis Umgebung Umfeld Anwohner
+Gnadenfrist Galgenfrist Nachfrist
+Garantiezeit Garantiedauer
+Bewährung Probezeit Strafaussetzung
+Gültigkeitsdauer Laufzeit
+zweiseitig beidseitig bilateral
+mehrseitig vielseitig multilateral
+Werbebudget Werbeetat
+Weihnachtsgratifikation Jahressonderzahlung Weihnachtsgeld Weihnachtsremuneration Weihnachtszuwendung
+Privatisierung Liberalisierung Deregulierung
+kohärent zusammenhängend
+Festigung Konsolidierung
+Apartheid Rassentrennung
+Defensive Verteidigung Abwehr Widerstand Gegenwehr
+verteidigend defensiv abwehrend apotropäisch
+Phonologie Lautstruktur
+Morphematik Pleremik Morphemik Wortbildung Morphologie Plerematik
+Beifügung Beisatz Apposition
+Hilfswort Auxiliar Hilfszeitwort Hilfsverb Auxiliarverb
+Wirklichkeitsform Indikativ
+Steigerung Graduierung Gradation Komparation
+Prädikat Aussagekern Satzaussage
+Präpositionalobjekt Verhältnisergänzung
+Subjekt Satzgegenstand
+Zeitform Tempusform Tempus Zeitstufe Zeit
+Aussageweise Modus
+Hindernis Barrikade Straßensperre
+Parterre Erdgeschoss
+Durchgang Durchfahrt Durchreise Transit Passage
+Derivation Ableitung
+Innereien Geschling Eingeweide Kaldaunen Gedärme Gescheide Aufbruch Gekröse
+Feststellung Entdeckung Kenntniserlangung Fund
+Ehrlichkeit Aufrichtigkeit
+verformt missgebildet missgestaltet verunstaltet entstellt deformiert
+Faktor Kriterium Kennzeichen Merkmal
+verhasst missliebig unbeliebt unpopulär
+Zustimmung Affirmation Bejahung Beipflichtung Zuspruch Bekräftigung Bestätigung Zusagung
+zurechtrücken zurechtbiegen
+geheimnisumwoben sibyllenhaft geheimnisvoll arkan delphisch sibyllinisch geheimnisumwittert mysteriös nebulös schleierhaft wundersam okkult rätselhaft orphisch unergründlich sagenumwoben
+kuschlig kuschelig anschmiegsam
+langjährig jahrelang mehrjährig
+bedrückend deprimierend dämpfend zermürbend ernüchternd niederdrückend düster erdrückend
+Begnadigung Amnestie Straferlass
+Publikum Zuhörerschaft Zuhörer Hörer Auditorium
+Vorbestellung Reservierung Vormerkung Vorausbuchung
+Geschäftsbeziehung Partnerschaft
+Kundenbetreuung Kundenberatung
+Kundenbetreuer Kundenberater
+Starrluftschiff Zeppelin
+Blackbox Flugschreiber Flugdatenschreiber
+Fristende Ultimo Deadline Stichtag Ablieferungstermin Abgabetermin Frist
+Feature Funktionalität Leistungsmerkmal Funktionsmerkmal Charakteristikum Funktion Ausstattungsmerkmal Besonderheit Kennzeichen Eigenschaft
+Börsensturz Börsenkrach Zusammenbruch Börsenkrise Börsencrash Einbruch Crash Kursverfall Wertverlust
+Reservekopie Datensicherung Sicherungskopie Sicherheitskopie Backup Back-up
+Polizeistaat Überwachungsstaat Big-Brother-Staat
+Gaukler Blender Bluffer
+Flaschenhals Nadelöhr Engpass
+Strichgesicht Emoticon Smiley
+verwerten aufarbeiten rückgewinnen
+Kontrollliste Checkliste Abhakliste Prüfliste
+bildfüllend Großaufnahme
+Arbeitskleidung Blaumann Montur Arbeitsanzug Arbeitsoutfit
+Upper-cut Aufwärtshaken Kinnhaken Uppercut Cut
+auspacken entpacken
+Problemlösung Störungsbehebung Problembewältigung Problembeseitigung Lösung
+Trivialroman Groschenroman Machwerk Trivialschmöker Billigroman Kitschroman Rührschinken Heftroman Schmachtfetzen Groschenheft Schundroman Seifenoper Schmonzette Hintertreppenroman
+Anhalter Hitchhiker Tramper
+geheim vertraulich
+Spitzenmodell Topmodell
+Werkzeugausstattung Werkzeugsatz Werkzeugset
+Gutschein Wertschein Voucher Wertmarke
+Verhandlungstermin Gerichtstermin
+Sachverständigengutachten Gutachten
+satt ausgelastet gesättigt
+Zusammenarbeit Gruppenarbeit Teamarbeit Gemeinschaftsarbeit
+Strukturveränderung Strukturwandel
+Audiospur Tonkanal Tonspur
+Selterswasser Mineralwasser Wasser Sodawasser Arbeitersekt Soda Eskimo-Flip Selters Mineral Tafelwasser Kribbelwasser Sprudel Sprudelwasser
+Angebotsoligopol Oligopol
+Spitzenzeit Berufsverkehr Rushhour Stoßzeit Spitzenverkehrszeit Hauptverkehrszeit
+Hauptverzeichnis Stammverzeichnis Grundverzeichnis
+Wohl Wohlbehagen Wohlbefinden Wohlergehen Wohlgefühl Wohlsein Wohlfühlen Behagen
+spritzig analeptisch stimulierend belebend aktivierend aufmunternd vitalisierend erfrischend stärkend erquickend anregend herzerfrischend prickelnd
+nacherleben folgen nachvollziehen nachfühlen nachempfinden
+appetitlich appetitanregend einladend
+ermutigend antreibend aufputschend anregend motivierend anspornend aufbauend animierend
+wohltuend erholsam beruhigend entspannend
+heilsam gesund
+schlaffördernd einschläfernd ermüdend
+schmerzstillend betäubend schmerzhemmend schmerzlindernd anästhetisch
+herabsetzen abwerten herabstufen deklassieren
+durchsonnt sonnendurchflutet
+schaffensfreudig arbeitswillig einsatzfreudig arbeitsfreudig leistungsorientiert eifrig motiviert
+Abgeklärtheit Weisheit Lebenserfahrung Reife Weltkenntnis
+Ausgeglichenheit Harmonie Ausbalanciertheit Ausgewogenheit Balance
+ausgeglichen harmonisch ausgewogen quitt pari
+zurückblicken zurückerinnern zurückdenken zurückschauen
+wohlüberlegt wohlbedacht
+lebenslustig lebensbejahend lebensfroh
+schleudern zentrifugieren ausschleudern
+unerschwinglich unbezahlbar
+Handlungsabfolge Handlungssequenz
+Alkoholkrankheit Alkoholismus Äthylismus Potomanie Trunksucht Dipsomanie Alkoholkonsumstörung Alkoholsucht Alkoholabhängigkeit
+Apparat Hilfsmittel Apparatur Hilfsgerät Hilfsvorrichtung
+Tragfähigkeit Belastbarkeit Strapazierfähigkeit Belastungsfähigkeit Widerstandskraft
+Ausstattung Meublement Einrichtung Möblierung Wohnungseinrichtung
+Gönnerschaft Zuschuss Unterstützung Beihilfe Fördermittel Unterstützungszahlung Finanzspritze Förderung Subvention
+Lohnkostensubvention Lohnkostenzuschuss
+Mühe Arbeitsaufwand Anstrengung Aufwand Aufwendung Kraftaufwand
+dauerhaft chronisch andauernd langwierig anhaltend bleibend
+einbauen einsetzen entwickeln implementieren umsetzen prägen einspeisen einführen realisieren
+eingetrocknet verdorrt dehydriert vertrocknet ausgetrocknet ausgedörrt ausgedorrt
+Kurort Erholungsort
+Wahrnehmung Bewusstsein
+Selbstvertrauen Selbstachtung Ego Eigenwert Selbstüberzeugung Selbstwertschätzung Sendungsbewusstsein Stolz Ich-Stärke Selbstgewissheit Selbstwertgefühl Selbstsicherheit Selbstwert Selbstbewusstsein
+Sonderpreis Aktionspreis Angebot
+Ortsansässiger Ureinwohner Eingeborener Einheimischer
+Machtbereich Einflussbereich
+nacheifern gleichziehen nachtun gleichtun nachmachen nachstreben
+Abrüstung Demilitarisierung Entwaffnung Entmilitarisierung
+Straßenkehrer Straßenfeger
+unhörbar lautlos geräuschlos
+Seele Gemüt Innenleben Thymos
+träumen tagträumen fantasieren phantasieren
+hochgemut zukunftsfroh hoffnungsfroh optimistisch zukunftsgläubig hoffnungsvoll hoffnungsfreudig erwartungsfroh wohlgemut zuversichtlich
+Hiebe Dresche Prügel Haue Kloppe
+dienstunfähig dienstuntauglich
+Dienstordnung Dienstvorschrift
+Amtsweg Amtsschimmel Dienstweg Instanzenweg Behördenweg
+Interaktion Wechselwirkung Wechselbeziehung
+Grundbedingung Rahmenbedingung
+destillieren herauslösen
+eingängig merkbar einprägsam mnemonisch
+Politelite Politadel
+domestizieren zähmen
+normabweichend psychopathisch
+Wahrnehmung Kognition Rezeption
+Zahlungsfrist Zahlungsziel Aufschub Stundung Moratorium
+Introspektion Innenschau Selbstbeobachtung
+Lakaienregierung Marionettenregierung
+Marionette Puppenfigur Puppe
+doppelwertig ambivalent zweigeteilt zwiespältig dichotom dichotomisch
+diametral entgegengesetzt gegenüberliegend
+einleuchtend luzid überzeugend
+vorherrschaftlich hegemonial
+kollektiv gemeinschaftlich gruppenweise zusammen
+ausweisen legitimieren
+triangulär dreieckig
+Triade Dreiheit
+Wahlberechtigter Stimmberechtigter
+Vaterlandsliebe Patriotismus Staatsgesinnung Nationalbewusstsein Nationalismus Nationalgefühl Nationalstolz
+didaktisch lehrhaft
+herauslocken hervorlocken
+steigernd kumulativ zunehmend
+Altersgrenze Höchstalter
+bolschewistisch kommunistisch
+Entgleisung Ausrutscher
+Hauptrichtung Mainstream
+unstetig zusammenhangslos diskontinuierlich unterbrochen
+Appell Postulat Forderung
+Isomorphie Strukturgleichheit
+Glaubensbekenntnis Credo Kredo
+Distanz Entfernung Ferne Weite
+Griffweite Reichweite
+umkreisen einkreisen einkesseln umringen umstellen umzingeln
+axiomatisch unanzweifelbar vorausgesetzt
+Herrentier Primat
+verbessern abändern ergänzen novellieren
+Motiv Leitgedanke Beweggrund Grund Ansporn Antrieb
+Haushaltsbedarf Haushaltswaren Haushaltsartikel
+Judengegner Antisemit
+antisemitisch judenfeindlich
+wohlduftend duftend aromatisch wohlriechend
+Bewerbungsbrief Bewerbungsschreiben Bewerbungsunterlage Bewerbung
+Bewerbungsvorlage Musterbewerbung
+Bewerbungsformular Bewerbungsbogen
+Regel Gesetzmäßigkeit
+Tortur Folterung Marter Peinigung Folter Misshandlung Quälerei Drangsal
+gekürzt zensiert
+machtversessen machtgierig machtbesessen herrschsüchtig machthungrig machtgeil
+nationalistisch national patriotisch
+Übereifer Fanatismus Akklamation
+esoterisch überwirklich metaphysisch parapsychologisch spirituell parapsychisch transzendent magisch übersinnlich
+überprüfbar feststellbar verifizierbar beweisbar beobachtbar nachweisbar sichtbar
+beifügen addieren hinzufügen zusetzen dazugeben beimischen
+bescheinigen bezeugen attestieren
+Respektsperson Autorität
+Freiheitsentzug Freiheitsberaubung
+mitfühlen mitempfinden mitleiden
+schulmeisternd gouvernantenhaft oberlehrerhaft belehrend warnend besserwisserisch mahnend schulmeisterlich
+Arbeitnehmerlobby Gewerkschaft Arbeitnehmerorganisation Arbeitnehmervertreter Arbeitnehmervertretung
+unfortschrittlich restaurativ reaktionär rückwärtsgewandt rückschrittlich
+Arbeiterklasse Unterschicht Proletariat Arbeiterschaft
+sanierungsbedürftig heruntergekommen marode abbruchreif unbewohnbar baufällig
+abenteuerlich bewegt ereignisreich erlebnisreich abenteuerreich
+abrufbereit disponibel betriebsbereit verfügbar
+abschlägig inkonziliant abweisend verweigernd negativistisch ablehnend
+Fundamentalrecht Grundrecht
+überliefern vermitteln tradieren weitergeben übermitteln
+Hort Kinderhort Kindergarten
+Kriegsbeginn Kriegsausbruch
+Rückhalt Stütze
+Meinungsäußerungsfreiheit Redefreiheit
+Partisan Freiheitskämpfer Rebell Guerilla Insurgent Untergrundkämpfer Freischärler Widerstandskämpfer Aufständischer Guerillero Franc-tireur Befreiungskämpfer
+Gesellschaftseigentum Gemeinschaftseigentum Allgemeinbesitz Gemeineigentum Allgemeingut
+Kemenate Frauengemach Harem
+Hydrogen Wasserstoffgas Hydrogenium Wasserstoff
+Unwissenheit Ahnungslosigkeit Unkenntnis Unerfahrenheit Naivität
+Wasserkur Wasserheilkunde Wasserheilverfahren Hydrotherapie
+Blickfeld Wahrnehmungshorizont Gesichtskreis Horizont Gesichtsfeld
+Heftigkeit Kraft Schwung Wucht Schmackes Gewalt Karacho Vehemenz Ungestüm
+einführen importieren
+Propaganda Agitation Manipulation Täuschung Hetze Volksverdummung
+Hypokrisie Verstellung Heuchelei Vortäuschung
+Studienteilnehmer Versuchsteilnehmer Versuchsobjekt Testperson Versuchsperson Proband
+impotent beischlafsunfähig
+humanoid menschenähnlich
+fortpflanzungsfähig fruchtbar fertil vermehrungsfähig pubeszent geschlechtsreif
+zeugungsfähig potent
+potent stark einflussreich hochmögend mächtig
+luxuriös wertvoll fein kostbar exzellent meisterhaft vortrefflich edel erlesen hochwertig hochklassig pipifein
+Frauenheilkunde Gynäkologie
+vorhersagend prognostisch vorauswissend voraussagend
+fortschreitend progressiv progredient
+Sedation Beschwichtigung Sedierung Beruhigung Ruhigstellung Besänftigung
+beeinflussend suggestiv
+Parasit Schmarotzer
+entmannt kastriert sterilisiert
+intolerant verbohrt engstirnig unverbesserlich vernagelt borniert verbiestert unbelehrbar beschränkt
+entgiften entseuchen dekontaminieren
+Informationsstand Auskunftsstelle
+verkehren umkehren wenden reversieren invertieren
+Gesprächsteilnehmer Gesprächspartner Gegenüber Diskutant
+eklektisch selektiv elektiv auswählend
+Demagogie Propaganda Volksverführung Volksverhetzung
+wellenartig wellenförmig
+Augenzeuge Beobachter Zeuge
+Lazarett Militärkrankenhaus Militärhospital Soldatenkrankenanstalt
+Geschäftsführung Geschäftsleitung Leitung Stab Direktion
+unergründlich unerfindlich änigmatisch enigmatisch unbegreiflich unfassbar geheimnisvoll rätselhaft unfasslich
+unbefriedigend unzufriedenstellend
+unverschämt keck taktlos indiskret unvorsichtig
+unflexibel unanpassungsfähig
+unsystematisch strukturlos planlos regellos systemlos unstrukturiert unmethodisch
+entzweien entgegensetzen scheiden verfeinden polarisieren spalten trennen
+Milizarmee Bürgerheer Volksheer Volksmiliz
+kriegstreiberisch bellizistisch
+Kriegs-Befürworter Bellizist Kriegstreiber Kriegshetzer
+Urkundenlehre Diplomatik
+Briefmarkenkunde Philatelie
+3D dreidimensional räumlich körperhaft 3-D plastisch
+Volksvertreter Politiker Berufspolitiker
+Gegensatz Kontrast Unterschied
+2D flächig zweidimensional
+einzigartig unvergleichlich unnachahmlich außerordentlich
+Unterbau Infrastruktur
+transparent durchschaubar erkennbar
+erkennbar entzifferbar kenntlich erkenntlich ablesbar
+Luzidität Erkennbarkeit Durchschaubarkeit
+Ordnungsprinzip Ordnung Regelmäßigkeit Systematik
+auftafeln servieren auftragen hinstellen auffahren vorsetzen auftischen anrichten aufwarten kredenzen anbieten
+konstruktiv förderlich aufbauend
+Ausschuss Komitee Kommission
+Angelpunkt Kernpunkt Hauptsache Kernstück Kern Schlüsselbereich Drehpunkt Hauptgegenstand Zentrum Herzstück
+Vorzug Primat Vorrang Höherrangigkeit Präzedenz Vorrangigkeit Vortritt Vorrangstellung
+schmerzlich bitter schlimm hart schmerzvoll
+Gegensatz Antagonismus Widerstreit Widerstand
+schmarotzerhaft parasitär
+Schicksalsergebenheit Hinnahmebereitschaft Ergebenheit Gottergebenheit Demut
+Lebenssinn Lebensziel Berufung
+Tauglichkeit Potential Fähigkeit Profil Kompetenzprofil Qualifikation Vermögen Befähigung Potenzial Eignung Kompetenz
+erhöhen potenzieren steigern
+Präferenz Primat Vorzug Bevorzugung Vorrang
+Verhaltensbiologie Verhaltensforschung
+Handlungsablauf Handlungsverlauf
+Vortäuschung Vorspielung Simulierung Simulation Vorspiegelung
+verästelt dendritisch verzweigt
+Vorstellung Ideal Vorbild Vision Zukunftsbild Utopie
+unzusammenhängend inkoordiniert unverbunden asyndetisch anakoluthisch unkoordiniert inkohärent zusammenhanglos anakoluth
+Depersonalisation Depersonalisierung Entpersönlichung Selbstentfremdung
+prädestinieren vorherbestimmen
+prädestiniert vorherbestimmt vorbestimmt determiniert vorgezeichnet
+Wiedererleben Erinnerung Retraumatisierung Flashback
+Verknüpfung Konnotation Verbindung Gedankenverbindung Assoziation
+psychedelisch bewusstseinserweiternd halluzinogen bewusstseinsverändernd
+Selbsterhaltungstrieb Lebenslust Lebensdrang Lebenswille Überlebenswille
+Redundanz Tautologie Pleonasmus Doppelaussage
+Allergie Überempfindlichkeit
+Videoüberwachung Kameraüberwachung
+ernst trocken humorlos ernsthaft nüchtern humorfrei
+Begründung Argumentation Beweis Beweisführung
+feststellbar ermittelbar errechenbar bestimmbar
+Beitragsleistung Prämie Beitragszahlung
+Teilzahlungskredit Ratenkredit
+Auszahlung Ausschüttung
+auszahlen ausschütten
+zweckmäßig passend funktional zweckdienlich funktionierend einsetzbar viabel geeignet
+Prinzipienlosigkeit Opportunismus Gesinnungslosigkeit
+Ja-Sager Opportunist Radfahrer Wendehals Mitläufer Handlanger Gesinnungslump Gesinnungsakrobat Abnicker Konformist Jasager Erfüllungsgehilfe
+untauglich importun unangebracht unbrauchbar ungeeignet inadäquat ungünstig unpassend widrig unzweckmäßig unangemessen
+begleiten flankieren
+gewappnet gerüstet geübt vorbereitet
+Profiteur Nutznießer
+sprachgewandt sprachfertig
+Unterrichtsraum Seminarraum Vortragsraum Schulungsraum
+Bettler Mittelloser Hungerleider Knochenrappler Armer Habenichts
+Sekretariat Geschäftszimmer
+Entscheidung Beschluss Resolution Entschließung
+Lehrplan Kurrikulum Curriculum Lehrprogramm
+Zelle Verwahrraum Haftraum Gefängniszelle
+Abitur Reifeprüfung Maturitätsprüfung Matur Abiturprüfung Maturitätsexamen
+Annektierung Einmarsch Eroberung Angliederung Aneignung Inbesitznahme Eindringen Invasion Einzug Annexion Gebietsaneignung Besetzung Okkupation
+Atomkraft Kernenergie Atomenergie Kernkraft Nuklearenergie
+Signal Fanal Zeichen
+auftreffen treffen berühren
+Sinnesänderung Sinneswandel Umkehr Bekehrung
+metabolisch veränderlich
+Metabolismus Veränderung Umwandlung
+Privatleben Intimsphäre Privatbereich Intimbereich Privatsphäre
+Frust Enttäuschung Unzufriedenheit Frustration Desillusion
+freiwillig unentgeltlich ehrenamtlich karitativ
+übergroß überdimensioniert
+Netzhaut Retina
+Iris Regenbogenhaut Stern
+Ergebnis Feststellung Resultat Befund
+verschleiern zukleistern verhüllen überkleistern verdecken überdecken bedecken verkleistern übertünchen
+Schlussrede Schlussvortrag Plädoyer
+abhetzen entnerven zermürben kleinkriegen ermüden strapazieren ermatten entkräften aufreiben heimsuchen brechen enervieren
+Formalie Formsache Formalität
+Hintermann Strippenzieher Dunkelmann Schreibtischtäter Drahtzieher
+Tor Portal Durchgang Pforte
+zumuten antun
+Ausländerfreundlichkeit Fremdenfreundlichkeit Xenophilie
+tot unbelebt abiotisch leblos entseelt
+Fructose Fruktose Fruchtzucker Lävulose
+Affekt Gefühlsausbruch Gemütsbewegung
+Letalität Sterblichkeit
+Mutation Veränderung Wandlung
+heilbar kurabel kurierbar
+beginnend einsetzend
+wahnhaft paranoid
+Brennpunkt Mittelpunkt Mittelpunkt Blickpunkt Augenmerk Zentrum Fokus
+Namenforschung Onomatologie Onomastik Namenkunde
+wühlen pulen gruscheln stochern gruschen kramen
+sachlich sachbezogen detachiert unpersönlich
+geheimbündlerisch konspirativ klandestin verschwörerisch geheimnistuerisch
+Ess-Brech-Sucht Bulimie
+Andacht Mette Messfeier Messe Gottesdienst
+Personalmanagement Mitarbeiterführung Personalwirtschaft Personalpolitik
+Land Bundesland
+zerkauen zerbeißen zermahlen
+reiben abreiben trocknen abtrocknen frottieren trockenreiben abfrottieren
+herangehen herantreten
+Umsiedlung Migration Wanderung
+beugen flektieren
+Adventmarkt Adventsmarkt Weihnachtsmarkt Christkindlmarkt
+Lage Ebene Schicht
+ausweisen ausschaffen verweisen
+Zeitintervall Periode Zeitraum Zeitrahmen Zeitlang Zeitdifferenz Abstand Zeit Phase Spanne Weile Zeitabstand Intervall Zeitspanne Zeitabschnitt Dauer Zeitdauer Frist
+Atomkrieg Nuklearkrieg
+Stimmheilkunde Logopädie Sprachheilkunde
+Kreativität Innovationskraft Ideenreichtum Einfallsreichtum Erfindungsgabe Erfindungsreichtum
+Antrag Heiratsantrag
+schaffen anlegen aufstellen aufbauen erstellen hochziehen errichten hinklotzen erbauen konstruieren erzeugen hinstellen aufrichten
+Raumfähre Raumschiff Raumfahrzeug Sternenschiff
+Titel Band Lektüre Buch Schmöker Schinken Bd.
+Manuskriptprüfer Lektor
+Viadukt Querung Überführung Brücke Übergang
+Brücke Kommandostand
+Tank Panzer Panzerwagen
+Standbild Plastik Statue Büste Skulptur Statuette
+Nachrichter Freimann Vollstrecker Carnifex Scharfrichter Henker
+Forschung Wissenschaft
+Erfindung Entdeckung
+Gewürzkuchen Lebzelten Printe Pfefferkuchen Lebkuchen Honigkuchen
+Tagesgestirn Sonne Zentralgestirn Sol
+Geburt Entbindung Niederkunft Gebären
+Neujahr Jahresbeginn Jahresanfang Neujahrstag
+Wiedergeburt Renaissance Rückkehr Auferweckung Wiederauferstehung Comeback Wiederauflebung
+Olympia Olympiade
+Weltbestzeit Weltrekord WR
+Anstand Schliff Höflichkeit Umgangsform Chic Umgangsformen Galanterie Etikette Benimm Benehmen Stil Manieren
+zweisprachig bilingual
+Explosivmaterial Sprengstoff Sprengsatz Explosivstoff Bombe
+Medienereignis Knaller Sensation Kracher Brüller Bombe Clou Aufsehen Knüller
+Wiegenfest Wiegentag Purzeltag Ehrentag Geburtstag Burzeltag
+Video Streifen Lichtspiel Film
+Nordpolargebiet Arktis Nordpolgebiet
+Oberkommandierender Generalissimus Oberbefehlshaber Feldherr
+Druck Publikation Druckerzeugnis Abdruck Reproduktion Veröffentlichung Druckwerk
+Wasserstraße Kanal Wasserweg
+Schleuse Schiffshebewerk
+Überlandstraße Bundesstraße Bundesfernstraße Schnellstraße
+Kampfgas Giftgas
+Glasbläser Glaser Glasmacher
+Gesetzgebung Legislative Legislatur Legislation Gesetzgeber
+Staatsgewalt Exekutive Staatsmacht Obrigkeit Regierung Verwaltung
+Litze Faser Faden
+Kommune Gemeinde
+Unterwassergeschoss Torpedo Aal
+HTTP-Server Webserver
+Schnellbahn S-Bahn Stadtschnellbahn
+Schwimmbad Badeanstalt Bad
+Damm Stauwerk Staudamm Talsperre
+Blähung Winde Schoas Pupser Vapeur Flatus Flatulenz Pups Furz Schas Leibwind Darmwind
+Verweis Referenz
+Hilfsmittel Betriebsmittel Ressource Produktionsmittel Rohstoff Arbeitsmittel
+Wendepunkt Bruch Einschnitt Unterbrechung Zäsur
+Villa Palast Palais Schloss Prachtbau Chateau
+Melancholiker Wehmütiger Schwermütiger Elegiker
+Choleriker Hitzkopf Krawallmacher Krawallbürste Feuerkopf
+Bericht Denkschrift Ausarbeitung Exposee Darlegung Exposé Ausführung
+Exposé Zusammenfassung Exposee Skizze Plan
+indiskret unverschwiegen
+Pietätlosigkeit Entgleisung Respektlosigkeit Taktlosigkeit Fauxpas Ungehörigkeit Tabubruch Geschmacklosigkeit
+Instanz Entität
+Landsmann Mitbürger Einwohner Volksgenosse
+Kampfgerät Waffe
+Zwischenfall Vorfall
+Bratensud Fleischsaft Fond Sud
+draufgängerisch riskant verwegen tolldreist risikofreudig risikobereit waghalsig tollkühn todesmutig vermessen
+Institut Anstalt Laden Organisation Institution Einrichtung
+Kommandant Kommandeur Befehlshaber Kommentur
+Vermischung Verschmelzung Synkretismus
+Residenz Heim Domizil Sitz Wohnsitz Heimatort
+Maßeinheit Einheit Maß
+Hardware Computerkomponente Gerätschaft
+Schaumkrone Blume
+Datenspeicher Speicher
+Musikinstrument Instrument
+Ermordung Mord
+Grundstoff Urstoff Element
+€ Euroletten Euronen EUR ECU Euro
+Euphonie Wohlklang Eufonie
+schönredend euphemistisch beschönigend verbrämend verhüllend abmildernd aufwertend verschleiernd schönfärberisch
+Demonstrant Demonstrierender Protestler Demonstrationsteilnehmer
+Nasenschleim Butzen Nasensekret Rotz Rotze Schnodder Popel
+berichten reportieren rapportieren melden
+Meinungsforschung Demoskopie
+heterosexuell hetero
+bayerisch bayrisch bajuwarisch
+Liebe Zuneigung
+Wetterphänomen Wetterereignis
+Trinkröhrchen Strohhalm Plastikstrohhalm Trinkhalm
+Roboter Blechkamerad Agent Maschine Automat
+Aas Tierleiche Kadaver Tierkörper
+Raubein Bauer Rohling Barbar Wilder Grobian
+grasen äsen weiden
+anmachen mischen verkneten verarbeiten verrühren anrühren zubereiten
+färben anmalen bepinseln tünchen übermalen bemalen
+weichlich mimosenhaft verzogen verzärtelt verhätschelt Prinzessin weich Prinzesschen verwöhnt verweichlicht zimperlich verpimpelt
+nervenaufreibend erregend furios aufwühlend dramatisch
+Abwicklung Liquidation Kahlschlag Auflösung Schließung Stilllegung
+Einstellung Annullierung Aufhebung Abschaffung Auflösung Beseitigung Streichung
+entsagungsvoll entbehrungsvoll entbehrungsreich aufopferungsvoll aufopfernd
+Schädigung Aderlass Verlust Schaden
+knispeln werkeln basteln pfriemeln nesteln wurschteln friemeln fingern bosseln fieseln fummeln
+Hammer Fäustel
+Eiche Quercus
+Baum Makrophanerophyt
+Orange Apfelsine
+Erdbeere Ananas
+Sitz Platz Sitzgelegenheit Sitzplatz
+Falschgeld Blüte
+Konservativismus Konservatismus
+Fraktion Lager Gruppe Gruppierung Flügel Block Spektrum
+Jeansstoff Jeans
+Nicki T-Shirt
+Hemd Shirt
+Damenunterwäsche Reizwäsche Damenwäsche Dessous
+Wein Rebensaft
+Insekt Kerf Krabbeltier Krabbelviech Kerbtier Hexapode
+Videorecorder Videokassettenrekorder Videorekorder
+Paprikaschote Paprika
+Küchenwerkzeug Küchengerät Küchenutensil
+Kaffeemaschine Kaffeeaufbereiter
+Fensterglas Glas
+Jacht Yacht
+Vorwegnahme Antizipation
+Zwischenspiel Episode Intermezzo
+verformen extrudieren
+Urologe Zipfeldoktor
+Offenbarung Weltuntergang Weltende Apokalypse Ragnarök Götterdämmerung
+Jungferngeburt Parthenogenese Jungfernzeugung
+Monoceros Einhorn
+Fabeltier Fabelwesen
+Ausdehnung Dimension Abmessung
+Arbitrarität Willkürlichkeit Willkür Beliebigkeit
+wimmeln tummeln herumwuseln wuseln
+Tastatur Keyboard
+desolat verdorben abgetakelt verkommen verwahrlost verlumpt zerschlissen mies marode verludert zerfleddert abgewrackt ruiniert abgefuckt schäbig zerfasert abgewirtschaftet verwildert abgehalftert verschlissen ungepflegt vergammelt gammelig zerlumpt muchtig abgerissen heruntergekommen abgeranzt verlottert
+Massage Körpermassage
+Dressur Abrichtung Tiertraining
+Suffizienz Hinlänglichkeit
+Schöffe Geschworener Laienrichter
+haltlos hinfällig unbegründet gegenstandslos erledigt unhaltbar obsolet nichtig
+Grillen Kapriolen Spinnerei Anwandlungen Mucken Launen Flausen Allüren
+Altar Opfertisch
+Teilnehmerverzeichnis Telefonbuch Fernsprechverzeichnis Fernsprechbuch
+binden fädeln schnüren
+unmoralisch verwerflich fragwürdig skrupellos sittenlos unsittlich anrüchig amoralisch unethisch sündhaft
+Stringenz Schlüssigkeit Durchgängigkeit
+bündig stringent durchgängig
+Hospitanz Beiwohnen
+Paddel Ruder
+Feinsinnigkeit Feingefühl Empfindsamkeit Empathie Sensibilität Dezenz Takt Einfühlsamkeit Zartgefühl
+Glücksjäger Spielernatur Hasardeur Abenteurer Glücksspieler Zocker Glücksritter
+Lösung Lösungskonzept
+Gedanke Kalkül Überlegung Berechnung Bedacht Erwägung Betrachtung Vorstellung Abwägung Reflexion
+dabei dieserfalls derbei unterdies nun hierbei dazu hier
+aufrecht mannhaft entschlossen
+Wanne Badewanne
+Bad Nasszelle Badezimmer
+Küche Kochstube
+haptisch tast-sensorisch
+Annotation Auszeichnung
+Handfunkgerät Funkgerät Walkie-Talkie Funksprechgerät
+wiederholbar reproduzierbar nachvollziehbar
+Beamtenapparat Bürokratie Administration Bürokratismus Wasserkopf Verwaltung Apparat Obrigkeit Verwaltungsapparat
+adlig adelig herrschaftlich hochherrschaftlich
+vornehm illuster erlaucht adlig edel erhaben distinguiert hehr
+Note Adresse Denkschrift Memorandum Eingabe Schreiben
+Metropolis Millionenstadt Metropole Weltstadt
+Konzentration Fokussierung Bündelung
+Judentum Judaismus
+Brahmanismus Hinduismus
+Designer Gestalter
+Familienbande Sippe Geschlecht Haus Mischpoke Geblüt Familie Stamm
+Joghurt Jogurt
+Nervenheilkunde Neurologie
+Düsterheit Düsternis Dunkelheit Finsternis Dunkel
+Disqualifizierung Aussperrung Disqualifikation Boykott Abbruch Ausschluss
+Miteinander Freundschaft Kameradschaft Gemeinschaft
+verdeutlichen unterstreichen erklären herausstellen betonen
+rösch knackig resch kross knusprig
+Portefeuille Depotzusammensetzung Portfolio
+Postamt Postdienststelle Post
+Briefe Korrespondenz Schreiben Post Briefpost
+Gast Eingeladener Besucher
+verharren weilen verweilen warten harren
+Initiative Entschlusskraft
+aktiv engagiert rührig umtriebig schaffig geschäftig rege emsig betriebsam
+unbeschädigt funktionsfähig unversehrt heil funktionierend intakt heile ganz läuft mängelfrei
+Sammelband Auswahl Sammlung Auslese Zusammenstellung
+Kaufrausch Konsumrausch
+Lobgesang Hohelied Loblied Lobeshymne Lobeslied
+Festgesang Lobgesang Hymne Loblied Preislied
+Unterscheidbarkeit Diskriminierbarkeit Differenzierbarkeit
+Erwartungshaltung Ansprüchlichkeit Anspruchsdenken Anspruchshaltung Versorgungsmentalität
+Zwangsmaßnahme Sanktion
+Werbegag Werbetrick Gimmick
+Impressum Erscheinungsvermerk
+epistemologisch erkenntnistheoretisch
+Erkenntnistheorie Gnoseologie Epistemologie
+Kapitale Initiale
+Reichspogromnacht Reichskristallnacht
+Ruhetag Feiertag Festtag
+rxlThesaurusVonDanielNaber rxlCopyrightByDanielNaber
+verschreckend bedrohlich beängstigend gefährlich
+vermehrt zunehmend verstärkt gehäuft
+charakterisieren kennzeichnen beschreiben
+Säkularisation Säkularisierung Verweltlichung
+Verschiedenartigkeit Auseinandergehen Divergenz Abweichung Ungleichheit Antagonismus
+Fleischerfachgeschäft Schlachterei Metzgerei Fleischhauerei Fleischereibetrieb Schlächterei Fleischfachgeschäft Fleischerei Metzgerladen
+Unterhose Slip Schlüpfer Schlübber Höschen
+C-Sharp C#
+erfrischen laben erquicken
+bekannt vertraut familiär traut
+modellhaft paradigmatisch
+Nachdenken Sammlung Versenkung Nachsinnen Kontemplation
+Archetyp Archetypus Urbild
+Klitoris Lustknopf Kitzler Lustperle Lusterbse
+Nachrichtengehalt Nachrichteninhalt Information
+Wendigkeit Agilität Beweglichkeit
+Spraydose Sprühdose
+bestimmen diagnostizieren feststellen ermitteln
+übersetzen hinüberfahren
+Zentralmächte Mittelachse Vierbund Mittelmächte Achsenländer
+zusammengestellt synoptisch
+kurz notdürftig konzis knapp
+Alltagssprache Volksmund Umgangssprache
+anschnallen angurten
+Unwägbarkeiten Imponderabilien
+Buchstabenfolge Alphabet Abc Abece
+stilisieren simplifizieren vereinfachen vergröbern verabsolutieren schablonisieren
+mediterran mittelmeerisch
+Erfassung Bestandsaufnahme Zählung Inventur Inventarisierung
+satt saturiert gesättigt zufrieden befriedigt
+Weltkrieg Völkerringen Weltenbrand
+Rückstrahler Katzenauge Reflektor
+Pflaster Heftpflaster
+extrapolieren hochrechnen
+Fahrtschreiber Tachograph Tachograf EG-Kontrollgerät Fahrtenschreiber
+Gottesgelehrtheit Religionswissenschaft Theologie
+konvertieren umsetzen ummünzen ändern umwandeln verarbeiten abändern abwandeln
+Seefahrt Wasserverkehr Schifffahrt
+Verkehr Verkehrswesen
+Helvetien Alpenrepublik Schweiz Helvetia Eidgenossenschaft
+Printer Drucker
+Brauhaus Bierhersteller Bierbrauerei Brauerei Biererzeuger
+Bekanntmachung Plakat Anschlag Aushang Poster
+Totalprothese Gebiss Vollprothese Zahnersatz
+tippen eingeben hacken schreiben
+dokumentieren aufschreiben niederschreiben
+Skelett Exoskelett Chitinpanzer
+speichern bereithalten ablegen
+Y Ypsilon
+Polytetrafluorethen Teflon Polytetrafluorethylen PTFE
+Terminator Endstück
+Fußballer Kicker Fußballspieler Balltreter
+Schutzstaat Protektorat
+Rückmeldung Stellungnahme Kommentar Anregung Feedback Resonanz
+Brillanz Strahlung Leuchten Funkeln Glanz
+Nuklearwaffe Kernwaffe Atomwaffe
+Einstellung Konfiguration Anpassung
+Ortsfaktor Erdgravitation Erdanziehung Erdanziehungskraft
+Rücken Wirbelsäule Rückgrat
+Normalzeit Winterzeit
+Jogginghose Jersey-Hose
+Soziolekt Gruppensprache Gruppensprachgebrauch
+Proviant Essen Verpflegung Verköstigung Kost
+quälen peinigen
+Doppelgeschlechtigkeit Androgynismus Zwittrigkeit Androgynie Zwittertum Hermaphrodismus Intersexualität Hermaphroditismus
+Idiolekt Individualsprachgebrauch
+schlangenzüngig link verlogen heuchlerisch geheuchelt scheißfreundlich falsch bigott pharisäerhaft doppelzüngig unaufrichtig scheinheilig gleisnerisch hinterfotzig hintenrum hypokritisch
+Hypokrit Heuchler
+Schulanfänger Taferlklassler i-Dotz Abc-Schütze i-Dötzchen i-Männchen Erstklässler
+creme cremefarben cremefarbig
+Gemeine Minuskel Kleinbuchstabe
+Kontraktion Zusammenziehung Verkürzung
+Saxophon Saxofon
+Akzent Aussprache Zungenschlag
+Ausformung Manifestation Ausprägung Gestaltung Formgebung
+Erwachsenenbildung Andragogik
+Aggregat Automat Apparatur Maschine Apparat Anlage Gerät
+Wissen Fakten Datenansammlung Daten Information
+Kleinstlebewesen Mikroorganismus Mikrobe
+H2S Wasserstoffsulfid H₂S Hydrogensulfid Schwefelwasserstoff
+Kernfusion Kernverschmelzung
+Kosten Preis
+Zinnstein Cassiterit Nadelzinn Kassiterit Holzzinn Visiergraupen Nadelzinnerz
+Luftkissenboot Hovercraft Luftkissenfahrzeug
+Satellit Trabant
+Fernrohr Teleskop
+Himmelskörper Gestirn
+Radiosender Rundfunkstation Sender
+Vollziehung Vollstreckung Exekution Ausführung
+Fahrkarte Ticket Billett Karte Voucher Fahrschein Eintrittskarte Fahrausweis
+Krebs Krebserkrankung Krebsleiden
+HIV-Krankheit AIDS
+Trommel Drum
+Pianoforte Pianino Piano Fortepiano Klimperkasten Klavier
+Pfeife Flöte
+Naturphänomen Naturerscheinung Naturereignis
+Erdbeben Beben Erdstoß
+Vulkanausbruch Eruption
+Caravan Wohnanhänger Wohnwagen
+Käfig Bauer
+Sportart Sport
+Pistill Stampfer Stößel
+Multipen Multifunktionsstift Mehrsystemschreiber
+Swimmingpool Swimming-Pool Pool Schwimmbecken
+Poolbillard Pool
+Fetus Leibesfrucht Nasciturus Ungeborenes Embryo Fötus
+fortbilden weiterbilden qualifizieren
+bedingt ansatzweise eingeschränkt
+bemerken erkennen registrieren mitbekommen ankommen perzipieren merken realisieren wahrnehmen
+sozialkritisch gesellschaftskritisch
+Alster Alsterwasser Bier-Limonade-Mix Radler
+Fleischkäse Leberkäs Leberkäse
+Landsknechtstrommel Rührtrommel
+Schnarrtrommel Snare Marschtrommel Rührtrommel
+Charleston-Maschine Hi-Hat
+Drumset Perkussion Schlagzeug
+Becken Tamtam
+Iwrit Iwrith Neuhebräisch
+Kameralbuchhaltung Kameralistik
+Pressemeldung Presseerklärung Presseaussendung Communiqué Pressemitteilung Presseinformation Pressetext
+Archiv Sammlung
+Kampfbahn Wettkampfstätte Arena Sportstätte Sportplatz Stadion Sportforum
+Klimax Höhepunkt Befriedigung Kommen Orgasmus
+Attraktion Zugkraft Ausstrahlung Attraktivität Faszination Glanz Anziehungskraft
+musizieren spielen
+Edelkastanie Marone Esskastanie Röstkastanie
+Callboy Puppenjunge Mietrammler Strichjunge Beischläfer Stricher Prostituierter Frauenverwöhner Begatter
+Bereich Feld Arbeitsgebiet Teilgebiet Teilbereich Segment Sparte
+Kraftfahrer Lenker Kfz-Führer Kraftfahrzeugführer
+notgedrungen zwangsläufig zwangsweise zähneknirschend unfreiwillig gezwungenermaßen widerwillig
+Anwender User Computer-Nutzer Benutzer Nutzer Benützer
+intendiert geplant eingeplant vorgesehen beabsichtigt angelegt angedacht
+anerkennend billigend gutheißend wissend bestätigend zunickend beifällig zustimmend verständnisvoll einverständig
+Tierpräparator Taxidermist
+gestresst hypertroph überheblich überspannt
+tentativ probeweise versuchsweise probehalber probierend testweise
+Allmende Allgemeingut Gemeindeland
+Tätowierung Tatuierung Tattoo Tatauierung Peckerl
+Februar Feber Hornung
+abschütteln abbeuteln herunterschütteln
+Füchsin Fähe
+Tischler Schreiner Holzwurm Holzmechaniker
+Landungsbrücke Seebrücke Hafendamm
+Musikbox Jukebox
+Tausalz Streusalz Auftausalz
+Stabsichtigkeit Astigmatismus Hornhautverkrümmung
+Übersichtigkeit Hyperopie Weitsichtigkeit Hypermetropie
+Mnestik Erinnerungsvermögen Gedächtnis
+Auslösezählrohr Geigerzähler Geiger-Müller-Indikator Geiger-Müller-Zählrohr
+Kronprinz Prinz Infant Thronfolger
+potent fähig leistungsfähig
+Widerstand Friktion
+Hasenschwanz Blume
+Vermögen Schatz Kostbarkeit Juwel Schmuckstück Hort Tafelsilber Kleinod Kronjuwel
+Wunschtraum Wunschvorstellung Wunschbild Illusion Blütentraum Wunschdenken
+Biene Imme Honigbiene
+Laserlicht Laserstrahl Laser
+aufspielen aufsetzen installieren einspielen ausrollen bespielen draufbügeln
+Redensart Redeweise Idiom Spruch Redewendung Phrasem Phraseologismus
+Bleibe Unterkunft Herberge
+Heiligenverehrung Hagiolatrie
+Kopfstimme Falsett
+Extemporale Kurztest Ex Stegreifaufgabe
+Exsikkation Austrocknung
+Torso Bruchstück
+Teufelsbeschwörer Geisterbeschwörer Exorzist Teufelsaustreiber
+Varia Verschiedenes Allerlei Potpourri Vermischtes Diverses
+Wassermann Wassergeist Nix Nöck
+Isnik Nizäa
+Mietpartei Parte
+Parte Part
+Ikon Andachtsbild Kultbild Ikone
+Ikonograf Ikonograph
+Ikonografie Ikonographie
+ikonografisch ikonographisch
+Photosphäre Fotosphäre
+Fotobiologie Photobiologie
+fotobiologisch photobiologisch
+Fotochemie Photochemie
+fotochrom phototrop photochrom
+Fotoeffekt Photoeffekt
+Photoeffekt Fotoelektrizität Photoelektrizität
+Photoelektron Fotoelektron
+Fotoelement Photoelement
+photogen fotogen bildwirksam
+Bildwirksamkeit Fotogenität Photogenität
+Photogramm Fotogramm Messbild
+Photogrammetrie Fotogrammetrie Bildmessung
+Heliogravüre Photogravüre
+Fotolyse Photolyse
+Photom Fotom
+photomechanisch fotomechanisch
+Fotometer Photometer
+Photonik Fotonik
+fotophil photophil lichtliebend
+lichtscheu lichtempfindlich photophob
+Bewegungsreaktion Taxis
+gehgestört propulsiv
+vorausbezahlen pränumerieren
+Farbenfehlsichtigkeit Farbenblindheit Farbfehlsichtigkeit Farbuntüchtigkeit Farbsehschwäche Achromatopsie
+sequenziell folgend konsekutiv
+züchtig unkörperlich platonisch enthaltsam keusch
+Verneinung Negation Dementierung
+Verkehrsflugzeugführer Pilot Flieger Flugzeugführer Flugkapitän Luftfahrzeugführer
+Chauvinist Chauvi
+fein subtil sublim unterschwellig
+inferior untergeordnet
+lernbereit lernfähig
+Unterlegenheit Inferiorität
+Minderwertigkeit Inferiorität
+Slowmotion Zeitlupe SloMo
+Ankleidezimmer Ankleideraum Umkleide Umkleideraum Garderobe
+Retirade Rückzug
+Sichelmesser Hippe
+Geisel Entführter Gekidnappter
+Reflexreaktion Reizreaktion Reflex
+Funktionalität Einfachheit Kargheit Schlichtheit Schmucklosigkeit Sparsamkeit Simplizität Bescheidenheit Nüchternheit Schnörkellosigkeit
+Falschheit Verlogenheit
+Musikant Musiker Spielmann Musikus
+Alumnus Hochschulabsolvent Akademiker
+Feldjäger Militärpolizist
+Maat Adelborst Unteroffizier Fahnenjunker Seekadett Corporal
+Tonsetzer Komponist
+Chorleiter Bandleader Chefdirigent Kapellmeister Generalmusikdirektor Orchesterleiter Orchesterchef Hofkapellmeister Dirigent Gastdirigent
+Stimmlage Singstimme Stimme
+Yo-Yo Jo-Jo
+Fantasiegeschöpf Phantasiegeschöpf Fabelwesen
+Kerze Funzel
+Schutzheiliger Heiliger Schutzpatron Patron Schutzengel
+Blütenkelch Blüte Vermehrungsorgan
+Cocktail Mischgetränk Longdrink Mixgetränk
+brechreizhemmend antiemetisch
+Steuerpflichtiger Steuerzahler
+Rotwein Roter
+Satzzeichen Interpunktionszeichen
+Milchprodukt Molkereiprodukt Milcherzeugnis
+Kleidungsstück Plörren Plünnen Klamotte Anziehsache
+Geschäftsmann Ladenbesitzer Kaufmann Handelsmann Händler Handeltreibender Einzelhändler
+Zelle Gewebezelle
+Kuh Mutterkuh Milchkuh Lobe
+Kalb Jungrind
+Kutschwagen Kutsche Pferdekutsche
+Schmetterling Falter
+Gebein Knochen Bein
+Stahl Eisenlegierung
+Gold Aurum
+Torte Kuchen
+Möbelstück Möbel
+Ausarbeitung Traktat Abhandlung Arbeit Elaborat Werk
+Kinofilm Spielfilm Kinoproduktion
+Beutelsäuger Beuteltier Metatheria
+Koala Koalabär Beutelbär
+Zeichner Maler
+Geste Zeichen Wink
+Sau Mutterschwein
+Eber Keiler
+Schweinchen Ferkel Frischling
+Hirschlederne Lederhose
+Saal Wohnhalle
+Kloster Konvent Probstei Abtei Propstei Stift
+Fruchtsaft Juice Most Jus
+Rhinoceros Rhinozeros Nashorn
+Oberhirte Ordinarius Bischof
+Ministerpräsident Premier Premierminister
+hören horchen lauschen
+drehen umkehren umdrehen wenden invertieren umwenden umstülpen
+Amtstitel Titel Anrede Berufstitel
+Genre Literaturform
+Botenstoff Hormon
+Ehepaar Eheleute
+verstauen unterbringen einräumen wegpacken einsortieren wegräumen versorgen verräumen
+Narrheit Verrücktheit Fadaise Insania Tollheit Wahnsinn Hirnrissigkeit Verdrehtheit Torheit Wahnwitz Irrsinn Stumpfsinn
+können bringen schaffen
+Allüren Geziere Affigkeit Gehabe Ziererei Getue Angabe Affektiertheit Gekünsteltheit Faxen
+Punk Punker
+Rock Jupe
+Rock Rockmusik
+Ritual Zeremonie
+Phon Fon
+Glattstellung Auszahlung Bezahlung Löhnung Lohnzahlung Begleichung Zahlung Entlohnung
+Haifisch Hai
+sausenlassen fehlen drücken blaumachen fernbleiben schwänzen wegbleiben
+stumm lautlos still tonlos
+schaulaufen stolzieren paradieren schreiten
+Magie Zauber Aura
+Riboflavin Lactoflavin
+Niacin Nicotinsäure PP-Faktor
+Pyridoxin Pyridoxal Pyridoxamin
+Folinsäure Folsäure
+Cobalamin Cyanocobalamin
+bestimmen vorgeben festlegen
+Programm Sendung
+Mittelstand Mittelschicht Mittelklasse
+Gruppe Riese Gesellschaft Konzern Großunternehmen
+Baumstamm Stamm Stiel
+Kniegelenk Knie
+Abkömmling Blag Panz Sprössling Nachfahre Nachwuchs Kniebeißer Gör Heranwachsender Kleiner Kleine Kid Kiddie Nachkomme Kind Gschropp Zögling Knirps Spross
+Strahlflugzeug Düsenflieger Jet Düsenjet Düsenflugzeug
+Handwerk Metier Kunst Gewerbe Gewerk
+Kabeljau Dorsch
+fortschrittsfeindlich tiefschwarz stockkonservativ althergebracht erzkonservativ altbacken rechtslastig
+Eltern Erziehungsberechtigte
+Fett Dickmacher
+Jetzt Gegenwart
+Roman Saga Epos Langerzählung
+Berg Höhe
+Restauration Restaurierung Wiederherstellung
+Ausschuss Makulatur Rest Reste
+Bewegungstherapeut Orthopädist
+Krankheitskeim Bazillus Erreger Bazille Krankheitserreger
+Rollschneider Rollmesser Rädchenschneider
+Ausstopfungskunst Taxidermie
+Sieg Triumph
+Schleuser Schlepper Menschenschmuggler Fluchthelfer
+Zwerchfell Diaphragma
+Satellit Begleiter Mond Trabant
+Quälgeist Ruhestörer Troublemaker Landplage Plagegeist Nervtöter Störenfried Nervensäge
+Kuhmilch Magermilch Vollmilch Trinkmilch
+Met Honigwein
+Scheide Schwertscheide
+entgegenarbeiten entgegenwirken
+veranstalten tätigen machen verüben anstellen tun realisieren durchführen
+rücken verdrängen umsetzen schieben deplacieren wegschieben fortschieben umstellen verrücken verfrachten verschieben
+Polystyren Polystyrol
+Rachen Pharynx
+Landschaft Gebiet Gegend Land Landstrich Ecke
+steuern lenken verändern manipulieren beeinflussen beherrschen
+Tag Kalendertag
+Stall Stallung
+Arbeitsplatzabbau Rationalisierungsmaßnahme Stellenabbau Personalfreisetzung Personalabbau Stellenstreichung Stellenfreisetzung Freisetzung
+Schlittschuhläufer Schlittschuhfahrer
+Kanal Furche Graben
+Mirakel Wunderding Wunder Zeichen
+Fragestellung Aufgabe Problem Problematik Problemstellung Aufgabenstellung
+Abfolge Sukzession Nachfolge
+Wegwerfflasche Einwegflasche
+Sonderzug Extrazug
+zusammenfassen aggregieren
+heiter freundlich schön sonnig
+April Launing
+Wonnemonat Mai Wonnemond
+Aspe Zitterpappel Espe
+Dompfaff Blutfink Gimpel
+Rüttelfalke Turmfalke
+Blässhuhn Blesshuhn Blässralle
+Klebstoff Harz Pech Baumsaft Baumpech
+Nudeln Teigwaren Pasta
+Kranker Klient Patient
+Schulhaus Schule Schulgebäude
+Tankstelle Tanke
+Referenz Arbeitsprobe
+Sirup Zuckersaft
+Bluterkrankheit Hämophilie
+uralt steinalt
+verantwortlich leitend
+Konfekt Pralinen
+Gesichtspunkt Beziehung Kriterium Thematik Aspekt Hinsicht
+abbauen gewinnen fördern
+rektal anal
+kalken weißen
+Immunität Unangreifbarkeit Unempfindlichkeit
+resistiv unempfänglich resistent unempfindlich immun widerstandsfähig
+grammatisch grammatikalisch
+purpur blaurot lila violett fliederblau
+Pädophiler Pädosexueller
+Hydrant Wasserzapfstelle
+Körperpflege Gesundheitspflege Sauberkeit Hygiene
+Phobie Angststörung
+Spinnenphobie Arachnophobie Spinnenangst
+Pfeifensack Sackpfeife Bockpfeife Dudelsack
+klassisch vollendet mustergültig hochklassisch zeitlos höherklassisch
+Konferenz Sitzung Zusammenkunft Versammlung Treffen Meeting Treff Besprechung
+Kopfbahnhof Sackbahnhof
+Gedenkmünze Medaille
+Dieselkraftstoff Diesel
+Flip-Flop Zehengreifer
+Schraubenmutter Mutter
+Land-Wasser-Fahrzeug Amphibienfahrzeug
+Naturist FKKler FKK-Anhänger Nudist
+Holzliege Pritsche
+Philanthropie Nächstenliebe Wohltätigkeit Menschenliebe Caritas
+Misanthropie Menschenhass
+Zerstreuung Verteiltheit Verbreitung Dispersion
+Klausner Eremit Einsiedler
+einfarbig monochromatisch unifarben uni monochrom
+Welteninsel Sterneninsel Galaxie
+Funktion Abbildung
+Kampfrichter Ringrichter
+Leichenausgrabung Exhumierung
+exhumieren öffnen umbetten ausbetten
+Halbjahr Semester
+Genießer Kenner Connaisseur
+Paintball Gotcha
+Dehnfolie Stretchfolie
+Zertifikat Qualitätssiegel Prädikat Gütezeichen Gütesiegel
+Schwarzschildradius Ereignishorizont
+Dekathlon Zehnkampf
+Quecksilber Hg Hydrargyrum Merkur
+Berufsreife Hauptschulabschluss Berufsbildungsreife
+Fachabitur Fachhochschulreife Fachabi
+Softwaresystem Programm Softwareanwendung Computerprogramm Software Anwendung Applikation
+wärmebindend endotherm
+klerikal kirchlich geistlich
+stufenweise abschnittsweise stadial
+Spektrum Summe Palette Gesamtheit Vielfalt
+Impuls Wucht Stoßkraft Schwungkraft Impetus
+Grenzmarke Grenzwert Limit Schwellenwert
+Taifun Hurrikan Zyklon Baguio Wirbelsturm
+hinsichtlich wie entsprechend
+Amateurhaftigkeit Unprofessionalität
+integrativ eingliedernd
+Bolschewismus Marxismus-Leninismus Sozialismus Kommunismus Maoismus Stalinismus
+SB-Markt Selbstbedienungsgeschäft Selbstbedienungsladen
+Doppelzüngigkeit Verlogenheit Hinterfotzigkeit Hypokrisie Bigotterie Doppelmoral Scheinheiligkeit Pharisäertum Unaufrichtigkeit Heuchelei
+Barbarei Verrohung Unkultur
+Machtdemonstration Säbelrasseln Aufrüstung
+Nahtstelle Kante
+Reaktionär Ewiggestriger
+verbraucht verlustbehaftet ermattet marode abgewirtschaftet
+bipolar zweipolig
+Oberlippenbart Schnauzbart Schnurrbart Respektbalken Pornobalken Schnauzer Rotzbremse Popelbremse
+Grundidee Grundgedanke Leitgedanke
+eineinhalb anderthalb
+Prolet Sexist Macho Chauvi Macker Pascha
+streicheln schmusen tätscheln herzen schmiegen kuscheln liebkosen kraulen herumschmusen
+Trense Gebissstange Kandare Gebiss
+Mesopotamien Zweistromland
+Umbruch Verwerfung Änderung Wandel
+verwundet verletzt versehrt lädiert
+Neuerscheinung Novum Neuheit Novität
+kniffen falten knicken falzen fügen
+Zügel Zaumzeug
+erzählend narrativ
+Zugtier Arbeitstier
+Grunzochse Jak Yak
+Nutztier Nutzvieh
+Trawler Schleppnetzfischer Fangboot
+Markenprodukt Markenware Markenartikel
+abbauen degradieren verstoffwechseln
+Carbonsäure Karbonsäure
+Alkan Kohlenwasserstoff
+Ammoniaklösung Salmiakgeist
+Ionenverbindung Salz
+Kaliumnitrat Bengalsalpeter Kalisalpeter Salpeter
+Chilesalpeter Natriumnitrat Natronsalpeter
+HCl Chlorwasserstoffsäure Salzsäure
+Salpetersäure Scheidewasser
+Chlorgas Chlor
+Sodium Natrium
+Halogen Salzbildner
+Jod Iod
+Brom Br
+Fluor F
+Speisesalz Tafelsalz Kochsalz Natriumchlorid NaCl Salz
+Atombindung Elektronenpaarbindung
+Verbrennung Oxidation Oxydation Elektronenabgabe
+Reduktions-Oxidations-Reaktion Redox-Reaktion Redoxreaktion
+Reduktion Elektronenaufnahme
+Assembler Assemblersprache
+Hauptplatine Motherboard Board Mainboard
+Blei Pb
+Titan Ti
+Tetrahydrofuran THF
+Ethin Acetylen
+Lehrwerk Tutorial Schulbuch Einführung Lehrbuch
+Konfigurationsisomerie Stereoisomerie
+Bindungsisomerie Salzisomerie
+Grafit Graphit
+Kohlenstoff C
+Schrecken Horrortrip Horror Grauen
+Schmied Faber
+Pferdeschmied Hufbeschlagschmied Hufschmied
+Haar Haarschopf Haupthaar Mähne Pelz Schopf Haarpracht Wolle Matte Kopfbehaarung Kopfhaar Fell Haare
+Lanthan La Lanthanum
+Lithium Li
+Kalium K
+Rubidium Rb
+Alkalimetall Zäsium Caesium Cs Cäsium
+Beryllium Be
+Magnesium Mg
+Strontium Sr
+Zirconium Zirkonium Zr
+Hafnium Hf
+Niob Cb Columbium Nb
+Mangan Mn
+Technetium Tc
+Silber Ag Argentum
+Pluspol Anode
+Kathode Minuspol
+anheimelnd malerisch romantisch pittoresk hübsch bildschön
+Unglücksmensch Unglücksrabe Unglücksvogel Pechvogel Pechmarie Schlemihl
+Wortherkunft Wortforschung Etymologie
+auskömmlich ausreichend hinlänglich hinreichend zufriedenstellend genügend gebührend befriedigend suffizient
+Kompositum Zusammensetzung
+aufpassen vorsehen
+aufhorchen aufpassen aufmerken
+Demoskop Meinungsforscher
+Queen Königin Monarchin
+Online-Shopping Online-Handel E-Retail Onlinehandel E-Commerce Onlineshopping Internethandel
+Streitfrage Gegensatz Kontroverse Spannungsfeld
+gut ergötzlich günstig erquicklich glücklich angenehm erhebend pläsierlich erbaulich gefreut herzerquicklich vorteilhaft sympathisch charmant erfreulich ersprießlich herzerfrischend wohltuend
+Hiatus Lücke Zwischenphase Pause Unterbrechung Zwischenzeit
+Teletext Videotext
+Eintragung Datum Datensatz
+Champignon Angerling Egerling
+bieder hausbacken reizlos schlicht
+Lotse Führer Pilot
+Gewicht Hantel
+Faulheit Arbeitsscheu Drückebergerei Verpissertum
+Kindertagesstätte Kita Ganztagskindergarten
+rezeptpflichtig verschreibungspflichtig
+Bindeglied Verbindung Anschluss
+Verbindung Umsteigemöglichkeit Anschluss
+Bewegung Fortbewegung
+Konfliktherd Kriegsherd
+Gesellschaftswissenschaft Gesellschaftstheorie Soziologie Gesellschaftslehre
+Psychoanalyse PSA Freudismus
+Schnupfen Rüsselpest Nasentripper
+Karotte Wurzel
+Ordnungshüter Trachtengruppe Polizei Bullen Polypen Bullerei Polente
+loslegen rangehen
+Aluminium Alu Al
+Psychotherapeut Seelenklempner Therapeut Seelenarzt
+Fremdling Tschusch Gastarbeiter Kanake Fremdstämmiger Ausländer Migrant
+Soziologe Gesellschaftswissenschaftler Gesellschaftstheoretiker
+Politikwissenschaftler Politologe
+Aufgabe Kapitulation Niederlage
+Verlorenheit Einsamkeit
+Jungfernhaut Hymen
+Asozialer Assi Asi
+belesen unterrichtet gelahrt kundig wissend eingeweiht informiert sachkundig gelehrt gebildet studiert
+Scharlatan Wunderheiler Kurpfuscher Quacksalber
+Wertzuwachs Profit Überschuss Mehrwert Surplus
+Veröffentlichung Abhandlung Paper Skript Bericht Aufsatz Artikel Essay
+Talkrunde Diskussionsrunde Zirkel Sitzung Gesprächsrunde Gesprächskreis
+verderben runterziehen miesmachen abturnen herunterziehen
+reflektieren erwägen bedenken denken überdenken durchdenken überlegen ventilieren studieren nachdenken ausklügeln betrachten
+verkommen versauern absacken vereinsamen
+diskussionsfreudig debattierfreudig argumentierfreudig diskussionswütig
+Souveränität Triebkontrolle Autonomie Eigenverantwortlichkeit Ich-Stärke Selbstkontrolle
+Verrückter Irrer Hirni Geistesgestörter
+romantisch gefühlvoll schwärmerisch
+beflügelt angeregt angefeuert inspiriert motiviert ermutigt
+begründend logisch diskursiv beweisend
+Kultur Geistesleben
+Substantiierung Anbindung Grundlegung Verankerung Begründung Fundierung
+Putzgrund Grundierung Untergrund Haftgrund
+Bankkapital Finanzkapital Geldkapital
+Geldgeber Gläubiger Darlehensgeber Kreditor Geldverleiher Kreditgeber
+Darlehensvertrag Kreditvertrag
+Zentrierung Fokussierung Zusammenballung Zentralisierung Zentralisation
+Naturnotwendigkeit Naturgesetz
+Maschinerie Produktivkapital Produktionsmittel Arbeitsmittel
+Niedergang Kollaps Zusammenbruch Absturz
+Kreditnehmer Schuldner Debitor Darlehensnehmer
+Machtzentrale Schalthebel Machtzentrum
+durchlesen reinziehen wälzen lesen studieren schmökern
+atmosphärisch romantisch lyrisch gemütvoll stimmungsvoll
+Symphonie Sinfonie
+ungeniert ungeziert
+gebraucht benutzt
+Abflussdeckel Kanaldeckel Gullydeckel
+Getto Slum Marginalsiedlung Gecekondu Favela Ghetto Armenviertel Bidonville Elendsviertel
+Denkspiel Quiz Ratespiel Puzzle
+Waschvollautomat Waschautomat Waschmaschine
+Hauptschlagader Aorta
+religionslos ungläubig unreligiös atheistisch irreligiös gottesleugnerisch
+Eklat Skandalon Aufsehen Paukenschlag Skandal Knall
+zyklisch kreisläufig ringförmig
+kohäsiv zusammenhaltend
+abfallend degressiv
+definit bestimmt
+himmlisch göttlich elysäisch elysisch herrlich paradiesisch
+Irrealität Unwirklichkeit
+lebensnah wirklichkeitsnah lebensecht realistisch
+ausdrucksstark expressiv ausdrucksvoll
+zurechtkommen zurechtfinden klarkommen
+erschallen ertönen erklingen
+Atomtest Atomversuch Nukleartest
+inspizieren begutachten besichtigen betrachten betrachten prüfen untersuchen
+Normalverteilung Gauß-Verteilung
+Schutz Sicherheit
+Ortschaft Flecken Städtchen Markt Dorf Marktflecken Kuhdorf
+Manna Himmelsbrot
+Kasserole Topf Pott Hafen Kochtopf
+abgestimmt konzertiert koordiniert abgesprochen synchronisiert
+Keimzelle Gamet Geschlechtszelle Konidie
+Fleischfresser Karnivor Carnivor
+MDMA Methylendioxymethylamphetamin Ecstasy Molly Emma
+Sprechvermögen Sprache Ausdrucksform
+Oberleitung Fahrdraht Fahrleitung
+Hotline Servicenummer
+messbar erhebbar bestimmbar mensurabel
+Auswirkung Folge Herbeiführung Ausfluss Konsequenz Hervorbringung
+tönen jodeln trällern intonieren schmettern singen tirilieren
+Totgeburt Fehlgeburt Stillgeburt
+Stromausfall Blackout
+Vogelgrippe Geflügelpest
+verpflichtend obligatorisch verbindlich bindend
+Deflorierung Defloration Entjungferung
+Treppe Stiege Stufen Aufstieg
+süffisant genüsslich selbstgefällig spöttisch
+Mitwirkender Mitarbeiter
+verlangsamen entschleunigen
+verhaften festnehmen inhaftieren einkassieren arretieren
+Headset Sprechgarnitur Sprechgeschirr
+Pedometer Schrittmesser Podometer Schrittzähler
+Podologe Fußpfleger
+lallen nuscheln
+Gesellschaftssystem Gesellschaftsform Gesellschaftsformation
+Sportverein Sportclub Sportklub
+Juni Juno Rosenmonat
+Nebelmonat November
+Säuger Säugetier Mammalia
+Wolle Schurwolle
+Elf Fußballmannschaft Fußballteam
+Liga Spielklasse
+Teamsport Mannschaftssport
+Sportplatz Spielfeld Platz Sportstätte
+Republik Gemeinwesen
+Frankreich Hexagon
+Spielzeit Saison
+Aufgussgetränk Tee
+Raumlehre Geometrie Elementargeometrie
+Geometrie Topologie
+Begrenzung Bande Spielfeldbegrenzung
+Grenzgraf Markgraf
+Adel Geschlecht Abstammung
+Kader Equipe Aufgebot Auswahl Mannschaft Riege Besetzung Team Gurkentruppe
+Billigairline Billigflieger Billigfluggesellschaft Low-Cost-Carrier Low-Cost-Airline
+Bundesrat Ländervertretung Länderkammer
+Zeitrechnung Kalender
+Geburtstagskind Jubilar
+Bart Gesichtsbehaarung Barthaare Barthaar
+Hartgummischeibe Scheibe Puck
+Distel Distelkraut
+Unkraut Wildpflanze Beikraut Wildkraut
+Tiefpunkt Nadir Minimum Extremum
+Name Personenname Anthroponym
+Nager Rodentia Nagetier
+Schnee Weiß Schneedecke
+Erotik Sinnlichkeit
+diaphan transluzent transluzid durchscheinend
+Unhold Gnom Kobold Troll
+System Personalcomputer PC Komplettsystem Kiste Rechner Maschine
+Paarzeher Artiodactyla Paarhufer
+Programmierung Engineeringarbeit Codierung Implementation Entwicklung Coding Softwareentwicklung
+Drache Tatzelwurm Lindwurm
+einäschern zerbomben
+Vision Einbildung Imagination Geistesbild Vorstellung
+Weltverbesserer Idealist Visionär
+Bastler Konstrukteur Tüftler Mächler
+Rauke Rucola Rukola
+schier überhaupt gar
+Entzweiung Zerrissenheit Zwiespalt
+Höhlenbewohner Höhlenmensch Troglodyt
+Nomade Steppenbewohner
+Wunderheiler Schamane Geistheiler Medizinmann Wunderdoktor
+Meister Erleuchteter Heiliger Guru
+Sektenführer Guru
+weltfremd kauzig verschroben eigenbrötlerisch wunderlich unangepasst sonderbar
+Hexe Zauberin Kräuterhexe Magierin
+Schwarzkünstlerin Hexe Schwarzmagierin
+Zauberer Gaukler Illusionist Bühnenmagier Magier Trickkünstler
+Gut Handelsgut Erzeugnis Ware Produkt Werk Manufakt Artikel Arbeit Fabrikat
+Hannover Landeshauptstadt
+Dresden Elbflorenz
+Mannheim Quadratestadt
+konferieren tagen
+Meter m
+Anweiser Instrukteur Einweiser
+Coach Trainer
+Ortsvorsteher Stadtpräsident Stadtammann Dorfschulze Ammann Bürgermeister Ortssprecher Stapi Stadtdirektor Gemeindevorsteher Rathauschef Stadtchef
+Besprechung Verhandlung
+Geschäftsführer CEO
+Amtsstube Schreibstube Büro Office Geschäftszimmer Arbeitszimmer Sekretariat
+bezaubernd phantastisch fantastisch magisch inspirierend
+Außenminister Außenamtschef Chefdiplomat
+zeremoniell rituell
+Mittellinie Achse Spiegelachse Symmetrieachse Grundlinie
+Gott Gottheit
+Götterbote Mercurius Hermes Merkur
+Verteidigungsminister Kriegsminister
+berufen ernennen denominieren
+Asylantragsteller Vertriebener Refugee Flüchtling Heimatvertriebener Asylsuchender Asylbewerber Geflüchteter Asylant Asylwerber
+Innenministerium Bundesinnenministerium BMI
+niveaulos taktlos unfein stillos unangebracht pietätlos geschmacklos pöbelhaft wüst proletenhaft platt
+Morgenstern Venus Abendstern
+Kriegsgott Ares Mars
+kaukasisch europid weiß
+weiß farbneutral
+schwarz dunkelhäutig negrid
+Aufnahme Initiation Einweihung
+Delfin Walfisch Wal Delphin
+Neunauge Krake Oktopus Octopus Tintenfisch
+Starkbier Bockbier
+Hochländer Schottländer Schotte Highlander
+Gallier Kelte
+Sternbild Sternenkonstellation
+Brathuhn Goldbroiler Brathähnchen Hendl Hendel Grillhähnchen Brathühnchen Broiler Gummiadler Flattermann
+Neck Nix Wassermann Nöck
+Nixe Meermaid Meerjungfrau Seejungfrau Meerjungfer Fischweib
+Hauptstadtbewohner Berliner
+Bundeskabinett Bundesregierung Berlin
+Terrorattentat Terroranschlag
+Tagesende Abendzeit Abend Abendstunde
+Tageszeitung Tagesblatt
+Titelkampf Weltmeisterschaft Weltturnier
+Hochwasser Flut
+Tiefwasser Niedrigwasser Ebbe
+stutzig fragend verwirrt verständnislos
+Bayer Bajuware
+Münchener Münchner
+Burger Hamburger
+Plenum Plenarsitzung Vollversammlung
+Notarzt Ambulanz Rettungsdienst
+Gebeine Gerippe Skelett Knochengerüst
+Drucksprühgerät Gartenspritze Drucksprüher Pumpsprüher Spritzer Rückenspritze Sprüher
+Anstoß Initiierung Stoß Impuls
+beinhalten implizieren
+Platzierung Classement Gewichtung Stellung Rangfolge Rangordnung Ranking Hackordnung Positionierung Reihung
+während indem
+publizieren verteilen distribuieren
+Spaltenüberschrift Feldbezeichner Attributname
+diesfalls dannzumal hier hierbei dann
+buchen erfassen eintragen speichern verbuchen festhalten
+Entsprechung Umschlüsselung Mapping
+atavistisch steinzeitlich uralt ursprünglich
+Kaliumkarbonat Kaliumcarbonat Pottasche
+Mohammed Prophet
+Hobbit Halbling
+lesbisch sapphisch
+Vorbeter Imam
+Spule Induktivität
+Prana Mana Odem Chi Orgon Lebenskraft Od
+animieren anstoßen entfesseln veranlassen anzetteln
+sportlich fair anständig
+fair ritterlich
+Beschaffenheit Physis Natur
+basisch laugenhaft alkalisch
+Triebhaftigkeit Konkupiszenz Begierde Verlangen
+Mutualismus Symbiose Zweckbeziehung
+ermitteln explorieren sondieren ausloten erforschen durchforschen untersuchen herausfinden erkunden ergründen
+emergent aufstrebend
+Tempolimit Geschwindigkeitsbeschränkung Geschwindigkeitsbegrenzung
+grundlegend grundsätzlich
+erörtern abhandeln ausarbeiten besprechen abfassen behandeln
+irgendeine jedwede
+gottgegeben vorbestimmt feststehend vorgegeben gegeben
+Leggins Leggings Tights
+Realschule Mittelschule
+Hauptschule Volksschule Sekundarstufe
+Steiner-Schule Waldorfschule Rudolf-Steiner-Schule
+gleichgültig grob unsensibel unempfindlich gefühlskalt dickhäutig abgestumpft dickfellig bräsig insensibel teilnahmslos taktlos gefühllos schmerzfrei mitleidlos abgebrüht
+Schädeltier Vertebrat Wirbeltier Vertebraten
+Wendelstiege Wendeltreppe Schnegge Schnecke
+Läufer Teppichvorleger
+Hoch Hochdruckgebiet Antizyklone
+Genius Einstein Intelligenzbestie Intelligenzbolzen Genie Intelligenzler
+Heimwerker Bastler
+Druckverschlussbeutel Druckbandbeutel Schnellverschlussbeutel
+Theaterglas Opernfernglas Opernglas Operngucker
+Sehhilfe Nasenfahrrad Brille Spekuliereisen Augengläser Sehbehelf
+Tann Nadelwald
+Prozeduraufruf Funktionsaufruf Kontrollabgabe Delegation Aufruf
+offen aper abgetaut schneefrei
+dahinschmelzen schmelzen wegtauen ausapern wegschmelzen
+erweiterbar skalierbar
+zentral gesammelt gebündelt
+erscheinen vorkommen dünken präsentieren darstellen scheinen wirken anmuten
+Amtstracht Ornat
+Amulett Talisman Glücksbringer Fetisch Maskottchen
+Wegegeld Tunnelgebühr Wegzoll Straßenzoll Zoll Maut Brückenzoll Straßenbenutzungsgebühr Straßennutzungsgebühr
+Ablehnung Gegnerschaft Frontstellung Opposition
+Heiligsprechung Kanonisation Kanonisierung
+Kartuschenpresse Kartuschenpistole
+Verdruss Unbill Widrigkeit Unerquicklichkeit
+Nichtbeachtung Außerachtlassung Nichtbefolgung
+Ahnenforscher Genealoge Familienforscher
+herbitten einladen
+manuell händisch
+Führer Motivierer Antreiber Motivator
+Schönling Beau Schicki Schnösel Stutzer Gent Lackaffe Geck Adonis Fatzke Dandy Pomadenhengst Piefke Schmock Snob Fant Stenz Schickimicki
+Einstellung Einstellwert Option
+Erbbaurecht Erbpacht
+Grabsäule Stele
+Untertreibung Understatement Litotes Tiefstapelei
+Protokollant Sekretär Protokollführer Aktuar Schriftführer
+glanzvoll erhaben prachtvoll prunkvoll prächtig
+Sortenwein Merlot
+Bergkette Gebirge Gebirgsrücken Gebirgskette Kordillere Gebirgsformation Höhenrücken Höhenzug Gebirgszug Rücken
+Hochgebirge Gebirgszug Berggruppe
+Himalaja Himalaya
+Stausee Speichersee
+Fischereitätigkeit Fischereiwesen Fischfang Fischereiwirtschaft Befischung Fischerei
+Tierproduktion Viehhaltung Viehzucht Viehwirtschaft
+ratlos unentschieden unentschlossen unschlüssig
+Diakonisse Diakonissin Schwester
+Rammbügel Bullenfänger Kuhfänger
+sehnlich sehnsüchtig verlangend sehnsuchtsvoll
+stilbildend bahnbrechend revolutionär epochemachend epochal umwälzend
+Verstreutheit Diaspora
+Feuerleger Zündler Pyromane Brandleger Feuerteufel Brandstifter
+Widerspenstigkeit Widerborstigkeit Renitenz Widerständigkeit Störrigkeit
+Rachefeldzug Vendetta Blutrache
+Spannungswandler Trafo Transformator Transformer
+gefunden entdeckt aufgespürt
+Baissespekulant Shortseller Shortie Baissier
+Haussespekulant Haussier
+wiedergeben vortragen hersagen rezitieren aufsagen
+Nahelegung Manipulation Einflüstern Ohrenbläserei Beeinflussung Suggestion
+Bild Grafik Graphik
+Gestaltung Formgebung Design
+Boxer Faustkämpfer
+einmalen anmarkern kennzeichnen einzeichnen markieren
+entwöhnen absetzen abstillen
+Floristeria Blumengeschäft Blumenladen Floristikgeschäft Blumenhandlung
+Zeichenfolge String Zeichenkette Zeichenstrang
+Fortschreibung Weiterführung
+aussichtsvoll aussichtsreich lohnenswert vielversprechend rosig erfolgversprechend lohnend quotenträchtig hoffnungsvoll glücksbringend zielführend verheißungsvoll
+Rücktritt Renunziation Demission Ausscheiden Amtsaufgabe Rückzug Abgang Abdankung Abdikation Amtsabtretung Amtsniederlegung
+Bahndammbrand Böschungsbrand
+Geriatrie Altenmedizin Altersheilkunde Altersmedizin Altenheilkunde
+anpeilen zielen ausrichten
+Genusssucht Hedonismus
+Eberesche Vogelbeere
+Gurkenkraut Dille Dill Dillkraut
+Gurkenkraut Borretsch
+Schachtelhalm Scheuergras Kattenschwanz Fuchsenschwanz Zinngras Ackerschachtelhalm Zinnkraut Fegekraut Katzenschwanz
+Tanznotation Choreografie Choreographie
+vielstimmig mehrstimmig polyphon
+gleichstimmig einstimmig homophon homofon
+lindgrün mintfarben mint
+Sonnengelb Gelb Kadmiumgelb Goldgelb Lichtgelb
+königsblau blau stahlblau dunkelblau indigo azur himmelblau ultramarinblau
+anwesend präsent zeigen dabei zugegen
+Handschellen Handschließen Handfesseln
+Knebelungsvertrag Knebelvertrag Sklavenvertrag
+entgegenwirken intrigieren obstruieren durchkreuzen konterkarieren gegenlenken hintertreiben sabotieren konterminieren
+unbedingt notgedrungen zwangsläufig zwingend unvermeidlich notwendigerweise
+Grillwurst Rostbratwurst Bratwurst
+spitze hochkarätig überragend herausragend einmalig hervorragend erstklassig
+Kontrollkästchen Checkbox Auswahlschalter Kontrollfeld Markierungsfeld
+arbeiten herstellen schaffen machen anfertigen
+dementsprechend deshalb
+Kommunikation Verständigung Austausch
+Folge Episode
+Datenbank Datenbanksystem Datensammlung
+Herdplatte Kochplatte
+Rinne Furche Lahner Gebirgsrinne
+auslesen abgreifen abfragen
+Objektcode Compilat Binärformat
+schwelgen essen schlemmen schmausen
+Konstante Festwert
+Hängebrust Mastoptose
+Universalität Umfassendheit Allgemeingültigkeit
+Zweck Sinn Nutzen Ziel Sinnhaftigkeit Zweckhaftigkeit
+Eruierung Überlegung Behandlung Erörterung Darlegung Erläuterung
+external extrinsisch äußerlich außerhalb
+Bedienung Serviererin Kellnerin Serviertochter Saaltochter
+Zugführer Zugsführer Zugchef Oberschaffner
+Linsensystem Linse Objektiv Okular Brennglas
+Aquanaut Unterwasserforscher
+asthmatisch engbrüstig asthmoid kurzatmig
+Zivilgesellschaft Bürgergesellschaft
+Konvektomat Steamer Kombidämpfer Dampfgarer
+Wesen Charakter Veranlagung Naturell Anlage Eigenart Temperament
+marschieren paradieren
+aufragen auftürmen emporragen
+wallen pilgern wallfahren
+wofür wozu
+n-Wagen Buntling Silberling
+10000 Myriade Zehntausend
+Blockstrecke Blockabschnitt Zugfolgeabschnitt
+Augsburg Fuggerstadt
+bestärken beleben bekräftigen
+Schlammlawine Murgang Rüfe Mure
+lahmlegen lähmen paralysieren
+Gedankengebäude Theorie Hypothese Modell Konzept
+Reservierung Sitzplatzreservierung Platzkarte
+Rollkoffer Trolley
+Speisewagen Bordrestaurant Zugrestaurant
+Bahnübergang Niveauübergang Eisenbahnkreuzung
+Weiche Abzweigung Gabelung
+Freundschaftsspiel Testspiel
+Wende Wiedervereinigung
+Kindermädchen Tagesmutter Kinderfrau Nanny
+Linienzugbeeinflussung LZB
+Akquisition Kundengewinnung Akquise
+Sänfte Tragstuhl Tragsessel
+‰ Tausendstel Promille
+Gegacker Gekicher Gelächter Gefeixe Lachen
+Stromabnehmer Pantograph Bügel Pantograf
+Silofutter Silage Gärfutter
+Ascher Aschenbecher Aschbecher
+ungefährlich unschädlich unbedenklich gefahrlos unverfänglich unproblematisch harmlos
+Doppelpunkt Kolon
+überschwappen überlaufen überquellen
+Elektrotechnik E-Technik
+verbinden durchstellen vermitteln weiterverbinden
+Pass Reisepass
+Gefeierter Jubilar
+Paradoxie Antinomie Oxymoron Paradox Widerspruch Paradoxon
+Chronist Geschichtsschreiber Historiograf Chronikschreiber Historiograph
+Visagist Gesichtskosmetiker
+Berufung Sinn Sendung Lebenssinn Zweck Daseinszweck Bestimmung Endzweck Lebensinhalt Existenzgrund Lebenszweck Mission
+Star-Trek-Fan Trekker Trekkie
+ausweisen ausschaffen abschieben rückführen deportieren
+Gleichgewichtslehre Statik
+Evakuierung Evakuation Räumung
+Requiem Totenmesse Seelenamt Totengedenkmesse Sterbeamt Seelenmesse
+Kampfgebiet Kriegsschauplatz Kriegsgebiet Gefechtsfeld Feld Linie Frontlinie Front Schlachtfeld Kampfzone Kampfplatz
+Ungleichbehandlung Benachteiligung Diskriminierung
+Volk Fußvolk
+Nervenkostüm Nerven
+URL Link Internetadresse Web-Adresse
+Herzenssache Sehnsucht Wunschtraum Herzensbedürfnis Herzensangelegenheit Herzenswunsch
+Lounge Wartezimmer Wartesaal Aufenthaltsraum
+Gefangennahme Inhaftierung
+naturbelassen nativ unverändert unmodifiziert
+Modellierer Systemanalytiker Modellersteller Analytiker
+Modellerstellung Modellierung Modellbildung
+Modellierungssprache Modellierungskonzept Metamodell
+Klassenerster Streber Klassenbester Musterschüler Klassenprimus Musterknabe Hochkaräter Primus
+Besuch Erscheinen Visite Kommen
+Anhänger Tifoso Sympathisant Liebhaber Fex Enthusiast Freak Fan Freund
+hören gehorchen folgen
+hausgemacht selbstgemacht
+Verlust Fehlbetrag Defizit Einbuße Miese Nachteil Unterschuss Minus Verlustgeschäft
+glasklar lupenrein kristallklar
+leer glasig blicklos
+aufheben annullieren verwerfen
+Botschafter Gesandter Bevollmächtigter Legat
+Amtsinhaber Amtsperson
+Lümmel Flegel Rüpel Wüstling Rowdy Raubein Rabauke
+Volljurist Rechtswissenschaftler Rechtsgelehrter Jurist
+Lehrmeister Ausbildner Anleiter Meister Ausbilder Lehrherr
+Lehrer Guru Meister Schulmeister Pauker Schullehrer Lehrkraft Unterrichtender
+Bewegungskünstler Artist Akrobat
+Harlekin Spaßkanone Ulknudel Witzbold Schelm Scherzkeks Kasper Possenreißer Hofnarr Spaßmacher Schalk Faxenmacher Narr Schäkerer Clown Komiker Schäker Spaßvogel Scherzbold Vokativus
+Präsident Chef Vorsitzender
+senden entsenden schicken
+Mitbestimmung Partizipation
+Pantograph Allesschreiber Pantograf Storchschnabel Storchenschnabel
+Blog Internet-Tagebuch Weblog
+untergeordnet subaltern
+Ergebnis Endfassung
+eigentlich wahrhaft wahrhaftig echt gelebt ehrlich real lebensecht wirklich effektiv tatsächlich
+Enumeration Aufzählung
+Vermittlung Mediation
+übrig über restlich verbleibend überzählig
+verflochten umwindend verschlungen verworren
+krebserregend karzinogen kanzerogen cancerogen
+Rolltreppe Fahrtreppe
+Gurtstrammer Gurtstraffer
+Besonderheit Spezifität Idiom Eigentümlichkeit
+Schrägheck Fließheck
+Ausgestoßener Outcast Paria Aussätziger
+profan weltlich
+Kirchenbesucher Kirchengänger Kirchgänger
+bestimmt eigen charakteristisch spezifisch eindeutig
+Antiinfektivum Antibiotikum
+Tiernahrung Fressen Fütterung Futter Mast
+Jolle Schiffchen
+Halbgerade Strahl
+Strang Fluss Strahl
+Syndikus Syndikusanwalt Firmenanwalt
+Unterschleif Spicken
+Kardinalität Mächtigkeit
+opaque transluzent trübe undurchsichtig milchig opak trüb transluzid
+Verdeutlichung Pointierung Emphasis Betonung Emphase Eindringlichkeit Hervorhebung Nachdruck
+Datenflut Informationsdschungel
+Optimist Frohnatur
+Kandis Kluntje Kandiszucker
+Tischlerei Schreinerei
+Schreinermeister Tischlermeister
+löblich laudabel rühmenswert lobenswert
+Dienstreise Geschäftsreise
+unbefristet unterminiert
+blasphemisch gotteslästerlich verhöhnend
+vertauschen permutieren kommutieren umstellen austauschen
+Chor Gesangsgruppe Gesangverein Vokalensemble Singkreis
+glühen flammen strahlen leuchten scheinen
+Felskunst Höhlenmalerei Parietalkunst Felsbild Wandmalerei
+Unsitte Missstand Unwesen
+Range Sortiment
+Reisebranche Fremdenverkehr Tourismus Touristik
+Zellkern Nukleus
+Genossenschaft Sozietät Kooperative
+Klangwirkung Klangfarbe Timbre Sound
+moralisch sittlich ethisch
+Reh Ricke
+Geweihträger Hirsch
+Rauchgasintoxikation Rauchvergiftung Rauchgasvergiftung
+schändlich schmählich entwürdigend unwürdig erniedrigend demütigend entehrend schimpflich schmachvoll
+Missal Messbuch Missale
+Tonumfang Ambitus
+Zahnpasta Zahncreme Zahnpaste
+landen aufsetzen
+Navigationssystem Navi
+überschwänglich tobend stürmisch überschäumend frenetisch tosend rasend
+strohtrocken knacketrocken rappeltrocken ausgedörrt knochentrocken staubtrocken stocktrocken knacktrocken furztrocken pulvertrocken
+Standarte Fahne
+Agrodiesel Biodiesel
+portieren adaptieren anpassen einsetzen
+Kirchengebäude Andachtsgebäude Kirche Gebetshaus Bethaus Gotteshaus
+Schauspielhaus Musentempel Theater
+Kurzinfo Wink Tipp Tooltip Hinweis
+Gate Ausgang Flugsteig
+Fähnchen Euphoriefetzen Papierfahne Fähnlein Papierfähnchen Jubelfetzen Winkelement
+Nummeriermaschine Numeroteur Paginierstempel
+fernsehgeeignet fernsehtauglich telegen
+747 Jumbo-Jet Jumbo Jumbojet
+Curium Cm
+Luftfeuchtigkeit Luftfeuchte
+Botschaft Konsulat Mission Auslandsvertretung Gesandtschaft
+Briefmarkensammler Philatelist
+Fußballweltmeisterschaft Fußball-WM Fußball-Weltmeisterschaft
+Kriegsverbrecherprozesse Kriegsverbrechertribunal
+Eignung Verhältnismäßigkeit Angemessenheit Zweck-Mittel-Relation Adäquatheit Adäquanz
+oberschlau überklug übergescheit neunmalklug altklug oberlehrerhaft siebengescheit
+Nippon Japan
+ASS Acetylsalicylsäure Aspirin
+Ring Reif
+Basketball Korbball
+Hängebahn Schwebebahn
+Review Bericht Nachprüfung
+Defibrillator Schockgeber
+Etappenziel Zwischenschritt Zwischenziel Teilziel
+Entstellung Verschandelung Defiguration Verunstaltung
+Studienberechtigter Abiturient
+Exotenfach Orchideenfach
+Ergebnis Wert Ausprägung
+schwanken variieren
+Zahl Wert
+BStU Stasi-Unterlagen-Behörde Gauck-Behörde Birthler-Behörde
+Konto Bankkonto Bankverbindung Kontoverbindung
+Inkunabel Frühdruck Wiegendruck
+Naturpark Landschaftsschutzgebiet Nationalpark
+Triathlon Ausdauermehrkampf
+Neubaustrecke Hochgeschwindigkeitsstrecke Schnellfahrstrecke Schnelltrasse
+Führerstaat Nazideutschland Nazi-Deutschland NS-Staat Hitlerdeutschland Hitler-Deutschland
+Aussöhnung Verständigung Versöhnung Konziliation
+patrouillieren bestreifen
+Erbrochenes Kotze
+Freitauchen Apnoetauchen
+Kurs Konzept Linie
+Anfangsschwierigkeit Startschwierigkeit Kinderkrankheit Anlaufschwierigkeit
+überfordern übernehmen überlasten
+Knüpfwerk Auslegeware Teppich Auslegware
+Ausschusswesen Komitologie
+Ehrenabzeichen Medaille Edelmetall
+Initiativbewerbung Blindbewerbung Spontanbewerbung
+Führungskompetenz Leitungskompetenz
+Handhabe Instrument Format Ansatz Mittel Werkzeug Methode Maßnahme
+Ökonomik Ökonomie Wirtschaftswissenschaft Wirtschaftswissenschaften
+Dienstbekleidung Livree Uniform Einheitskleidung Dienstkleidung Dienstanzug Montur Kluft
+umsehen umblicken umschauen umgucken
+Wahlperiode Legislaturperiode Gesetzgebungsperiode
+höhenungleich niveaufrei kreuzungsfrei
+Geist Witz Esprit
+Teamgeist Gruppengeist
+Staatsanwalt Beschwerdeführer Kläger Ankläger
+Profitabilität Einträglichkeit Rentabilität Wirtschaftlichkeit
+Luftdruckausgleich Luftströmung Luftbewegung Wind Luftstrom
+Kosmetikprodukt Kosmetikum Schönheitspflegemittel Körperpflegemittel
+Bachelor-Thesis Bachelorthesis Bachelorarbeit
+Dunkelzahl Dunkelziffer Dunkelfeld
+Zuwegung Zufahrtsstraße Zugangsweg Zugangsstraße Zufahrtsweg
+Streuartikel Giveaway Give-away Zugabe Werbegeschenk
+Lektorat Rechtschreibprüfung
+entgegengesetzt divergent unterschiedlich
+Staatsexamensarbeit Examensarbeit Examen Zula Zulassungsarbeit Staatsarbeit Qualifizierungsarbeit
+reinquetschen reinpferchen
+Beißkorb Maulkorb
+Normalventil Blitzventil Patentventil Dunlop-Ventil Woodventil
+neuralgisch empfindlich
+Schraderventil Autoventil
+nahtlos stufenlos übergangslos
+Fachkompetenz Sachkunde Sachkompetenz Fachkunde Expertise Fachkenntnis Fachwissen Expertenwissen Spezialwissen
+Basis Fundament Grund
+Routiniertheit Versiertheit Können Geübtheit Gewandtheit Trainiertheit Kennerschaft
+Angehöriger Teilnehmer Mitglied
+befremdlich irritierend störend disruptiv
+dienstbereit dienstwillig hilfreich demütig
+Produktfälscher Plagiator Nachahmer
+gebrandmarkt befleckt beschämt
+abstandsgleich äquidistant
+Erosion Abtragung
+Schenkung Dedikation Widmung
+linkisch ungelenk schlaksig
+Bilderrätsel Rebus
+Fond Hintergrund
+Differentialrechnung Differenzialrechnung
+Logik Dialektik Analytik
+Blindenführhund Blindenhund
+Apologetik Rechtfertigung
+herausholen hervorholen herauskitzeln
+zusammendrücken stauchen
+Konditorbackwaren Konditorwaren Backwaren
+pikiert verletzt giftig gekränkt verärgert beleidigt schmollend eingeschnappt nachtragend angepiekst sauer
+Gesichtsverlust Blamage Peinlichkeit Schmach Verächtlichmachung Bloßstellung Kompromittierung Affenschande Schande
+Heuchler Scheinheiliger Pharisäer
+Deskriptor Kennwort
+beschaulich besinnlich versunken kontemplativ
+schadenfroh sardonisch hämisch fratzenhaft boshaft
+finster unheilvoll sinister böse
+bagatellisieren verniedlichen
+Knäuel Bündel Sammlung Konvolut
+wehmütig schwermütig elegisch klagend
+Perianth Perigonium Blütenhülle Perigon
+Herzbeutel Perikard
+ökumenisch zwischenkirchlich überkirchlich
+bewährt brauchbar
+Kalibration Eichung Justierung Messung Justage
+Sprachlosigkeit Kommunikationslosigkeit
+Stummheit Sprachlosigkeit
+verständlicherweise selbstverständlich logischerweise erwartungskonform naturgemäß trivialerweise erwartungsgemäß natürlich natürlicherweise
+Tux Linux-Pinguin
+Schelmerei Hänselei Neckerei Frotzelei Fopperei Häkelei
+widersprüchlich mehrdeutig
+Orangensaft O-Saft
+Verlegenheit Ratlosigkeit Ausweglosigkeit Aporie
+Autokorrelation Autokovarianzfunktion
+Solipsismus Egoismus Bewusstseinsinhalt
+Rücktritt Wandlung Rückgängigmachung
+liquidieren abrechnen
+Faxgerät Fax Telefaxgerät Telefax Fernkopierer
+Amt Amtsbezirk Verwaltungsgemeinschaft Amtei
+Amt Zunft
+Zeichen Schild
+Verstellschlüssel Engländer Rollgabelschlüssel Franzose
+Patent Erfindungspatent
+Kapitänspatent Patent
+Patent Offizierspatent
+Designpatent Geschmackmuster Geschmacksmuster
+Usenet Netnews NNTP
+Atlantik-Pakt Nordatlantikvertrag Nordatlantikpakt NATO-Vertrag
+Übereinkommen Vertrag Kontrakt Konvention Pakt
+Einschreibung Immatrikulation
+Freistaat Republik
+Computervirus Virus
+Nachweis Anzeichen Evidenz
+Schnüffelsoftware Spionagesoftware Spyware
+Kurznachrichtendienst SMS
+Elegie Klagegedicht
+verkleinern entschlacken
+Fernbedienung Fernsteuerung Umschalter Commander
+Ringlotte Reneklode Edel-Pflaume Rundpflaume Reineclaude
+Hashwert Streuwert Fingerprint
+Mangandioxid Braunstein
+Lokschuppen Heizhaus Lokremise
+Sackkarre Sackrodel
+Weichsel Weichselkirsche Sauerkirsche
+Marina Yachthafen
+Rodelschlitten Rodel
+Drucklufthammer Presslufthammer
+Strömungsmaschine Turbomaschine Kreiselmaschine
+Turbo-Luftstrahltriebwerk Turbo-Strahltriebwerk Strahltriebwerk Turbinen-Strahltriebwerk Turbinen-Luftstrahltriebwerk Düsentriebwerk Strahlturbine
+Rundlokschuppen Ringschuppen Ringlokschuppen
+Samtapfel Eibisch
+Foamglas Schaumglas
+Speckgrieben Grieben Grammeln
+Meerrettich Kren
+Gebrauchsüberlassung Bittleihe Prekarium
+Kreiskolbenmotor Drehkolbenmotor Wankelmotor
+Dechiffrierung Entschlüsselung
+Blockchiffre Blockverschlüsselung
+Flusschiffre Stromverschlüsselung Stromchiffre
+Zwischentriebfahrzeug Zwischenlok
+Nachschiebebetrieb Nachschieben
+einstellen adjustieren anpassen eichen
+Apfelmus Apfelkoch Apfelkompott Apfelbrei
+Holder Holunder Holler
+Almhirte Senner Almer
+Avis Benachrichtigung Aviso Ankündigung
+Chiffretext Ciphertext Kryptogramm Schlüsseltext Chiffre Kryptotext Chiffrat Geheimtext
+Backhendl Backhuhn
+beschimpfen beflegeln anmachen
+Aufwartefrau Zugehfrau Reinigungsfrau Bedienerin
+Roastbeef Beiried Zwischenrippenstück
+Zahlschein Zahlungsanweisung Einzahlungsschein Überweisungsschein Erlagschein
+Übeltäter Fallott Spitzbube Kleinkrimineller Ganeff Gauner Strauchdieb
+bequem kommod angenehm
+Süßspeise Mehlspeise
+Reifenpanne Reifendefekt Patschen
+Geldbuße Vertragsstrafe Konventionsstrafe Pönale Konventionalstrafe
+Zepter Szepter
+Maulschelle Watsche Knallschote Klatsche Ohrfeige Tätschen Fotze Backpfeife Watschen
+spiegelglatt schlüpfrig glatt glitschig rutschig Rutschbahn
+Lok Elektrolok Elektrotriebfahrzeug E-Lok Elektrolokomotive
+Dampflokomotive Dampflok Dampfross
+Diesellokomotive Dieseltriebfahrzeug Diesellok
+Verschieber Rangierer Rangierbegleiter Verschubbediensteter
+Siphon Geruchsverschluss
+Prellbock Puffer Pufferwehr
+Empfangsgebäude Aufnahmegebäude Aufnahmsgebäude
+Bahnarbeiter Bahnangestellter Bundesbahner Eisenbahnbediensteter Bundesbahnbediensteter Eisenbahner
+Inselbegabung Savant-Syndrom
+Rufweiterleitung Rufumleitung
+Tresterbrand Tresterschnaps Grappa Trester
+Brokatkarpfen Koi
+ernüchternd desillusionierend frustrierend enttäuschend
+frequentieren besuchen
+Hi-Fi-Anlage Anlage Musikanlage Stereoanlage
+lebendig frisch
+Kirchenmitglied Gemeindemitglied
+Montgolfiade Heißluftballon-Treffen Heißluftballon-Wettbewerb
+Ballonsport Ballonfahren
+außergewöhnlich exotisch ungewöhnlich selten
+Zweipolröhre Röhrendiode Diode Vakuumdiode
+Temperatur Wärmezustand Wärmegrad
+Zener-Diode Zenerdiode Z-Diode
+Klopapier Toilettenpapier WC-Papier Hygienepapier Scheißhauspapier
+Halbstiefel Stiefelette
+Kundendienst Betreuungsunternehmen Dienstleister Serviceunternehmen Unterstützer
+Wandbelag Tapete Wandverkleidung Wanddekor
+Rasierapparat Elektrorasierer Trockenrasierer
+Befangenheit Verzerrung
+Nachschlüssel Dietrich Lockpick Universalschlüssel
+Gen Erbgut Erbanlagen Genom Erbinformation
+Stofftapete Textiltapete
+Bildtapete Fototapete
+Molekulargewicht Molekülmasse
+Rechentafel Abakus Rechenbrett
+Parsec pc Parallaxensekunde
+Sechsundsechzig Schnapsen
+Sprachbox Voicemailbox Voice-Mailbox
+Sternkurve Astroide
+Herzkurve Kardioide
+Klotoide Klothoide Cornu-Spirale Spinnkurve
+Verfolgungskurve Radiodrome
+Schleppkurve Ziehkurve Treidelkurve Traktrix
+Zeitkunde Chronologie
+Holding-Gesellschaft Holding Unternehmensverbund
+Großstadtlegende Wandersage Wandermärchen
+Desertifikation Sahel-Syndrom Wüstenbildung Verwüstung Desertation
+Ersatzreifen Ersatzrad Reservereifen Notrad Reserverad Reservepneu
+Schutzschild Schutzschirm
+Südlicht Südpolarlicht
+Troposphäre Wetterschicht
+Raumtransporter Raumfrachter
+Nullmeridian Null-Längengrad
+Längenkreis Meridian Längengrad Mittagskreis
+Trockental Wadi
+Autobusbahnhof Busterminal ZOB Bushof Busbahnhof Omnibusbahnhof
+Laufkraftwerk Laufwasserkraftwerk Flusskraftwerk
+Stromhandelsbörse Strombörse
+Rauchgasmelder Rauchmelder Rauchwarnmelder
+Mannstolle Nymphomanin Sexsüchtige
+Schrebergarten Heimgarten Kleingarten Parzelle Laube Familiengarten
+Tragflügelboot Tragflächenboot
+Telex Fernschreiben
+Börsendebüt Börsengang Börsegang IPO
+Open-Source-Software FOSS FLOSS
+Vorderradantrieb Frontantrieb
+Heckantrieb Hinterradantrieb
+radizieren wurzelziehen
+Windkraftwerk Windkraftkonverter Windrad Windenergieanlage Windanlage Windkraftanlage
+Kragträger Kragarm Kragbalken
+Scraffito Kratzputz Sgraffito
+Urfassung Urschrift Urtext Original Originaldokument
+bewegungsunfähig gelähmt paralysiert
+Hadsch Haddsch
+Qualitätsware Qualitätserzeugnis Qualitätsprodukt
+Reiterei Kavallerie Reitertruppe
+unbar bargeldlos
+Fermenter Bioreaktor
+Schrebergartenverein Kleingartenverein
+Schrebergartenhaus Kleingartenhäuschen Kleingartenhaus
+Tagebau Tagbau
+Eckball Eckstoß Corner
+Loschmidt-Konstante Loschmidtzahl Avogadrozahl Avogadro-Zahl Loschmidt-Zahl Avogadro-Konstante
+Luftfeuchtigkeitsmesser Hygrometer
+MAZ Magnetaufzeichnung
+Permafrostboden Dauerfrostboden
+Hexagramm Davidstern
+Edelsteinkunde Gemmologie
+einrichten möblieren
+Karbolineum Carbolineum Steinkohlenteer
+Notbremsung Schnellbremsung Gefahrenbremsung
+abschreiben kopieren nachahmen plagiieren
+urkundlich aktenmäßig
+Varianz Komplexität Vielschichtigkeit
+Kundschaft Kundenkreis Klientel Zielgruppe Abnehmerkreis Kundenstamm Kunde
+weltstädtisch metropolitan städtisch weltläufig urban weltmännisch
+schwelgen suhlen wälzen
+Schalungsplatte Schalplatte
+marodieren räubern plündern
+Glasbruchmelder Glasbruchsensor
+Appetithäppchen Amuse-Gueule Mise-en-Bouche Häppchen Appetizer Canapé Kanapee Amuse-Bouche Vorspeise
+Appetitanreger Apéro Apero Kleinigkeit Aperitif Häppchen Apéritif
+Anfrage Frage Fragestellung
+Antragstellung Antrag Anfrage Ansuchen
+Anwartschaft Kandidatur Bewerbung
+Berechtigung Anwartschaft
+Schärfegrad Schweregrad Schwere Ernsthaftigkeit
+Meterlast Metergewicht
+Gleichaltriger Altersgenosse
+bedauernswert beklagenswert schade bedauerlich desolat jammerschade deplorabel betrüblich
+Kommutator Stromwender Kollektor
+Gleichgestellter Ebenbürtiger
+gesund vollwertig
+störend kontraproduktiv hindernd hinderlich bremsend widersinnig kontraindiziert
+Blinker Fahrtrichtungsanzeiger Blinklicht Blinkleuchte
+besinnlich kontemplativ meditativ
+Reflexion Besinnlichkeit Nachdenklichkeit Nachsinnen
+Aufhebung Suspension Unterbrechung Aussetzung
+trocken ausdruckslos unbewegt dumpf
+Grabstätte Mausoleum
+Keeper Torwart Goalie Torhüter Tormann
+Schneegriesel Griesel Graupel
+Gewitter Ungewitter Donnerwetter Unwetter
+eingeben erfassen füttern einpflegen hinzufügen eintragen eintippen
+Nagel Kralle Fingernagel
+bordeauxrot weinrot
+Chiffre Chiffrenummer
+blanchieren abwällen überbrühen
+Theist Gläubiger
+Teckel Dackel Dachshund
+Handhebelwagen Draisine
+Haftlinse Kontaktlinse Haftschale
+Lumineszenzdiode LED Leuchtdiode
+Hauptrolle Kernfunktion Schlüsselposition Schlüsselrolle Schlüsselfunktion Hauptfunktion
+Hakenkreuz Swastika
+mäusisch murin maushaft
+Kernspinresonanztomografie MRT NMR-Spektroskopie Kernspinresonanztomographie Magnetresonanztomographie MR MRI Kernspintomografie Kernspin NMR Magnetresonanztomografie Kernspintomographie
+Mafia 'Ndrangheta Camorra
+distinkt unterscheidbar differenzierbar
+Blankovollmacht Freibrief Blankoscheck Persilschein Freifahrtschein Lizenz
+Absinth Absinthe Bitterschnaps Wermutspirituose
+Katamaran Zweirumpfboot Doppelrumpfboot
+machen zeugen
+vernichtend erdrückend
+willfährig kompliant folgsam
+Profession Beruf Fachgebiet Metier
+Haufen Masse Klumpen
+Dreirumpfboot Trimaran
+scheinbar gefühlt virtuell
+Liebe Hingabe Leidenschaft
+schwelen rußen qualmen
+Überzeichnung Veräppelung Übertreibung Überspitzung Glosse Karikatur Parodie Satire Persiflage
+stillhalten hinnehmen erdulden schlucken verschmerzen konnivieren tolerieren leisetreten ertragen dulden einstecken
+Missbrauch Abusus
+unselbstständig abhängig
+Erfahrung Kenntnis Übung Sicherheit Kenntnisse Praxis Wissen Geübtheit Routine Erfahrungen Know-how
+stellar sternbezogen sternförmig
+Diafilm Diapositivfilm Umkehrfilm
+aufeinanderfolgend konsekutiv fortlaufend sequentiell
+Compliance Befolgung Einhaltung
+herumvagabundieren vagabundieren irren herumschwirren herumgeistern umgehen geistern herumirren
+verfälschen manipulieren fälschen schönen klittern faken frisieren
+Veränderung Eingriff
+Entzug Entgiftung
+Paradigma Leitbild Lehrmeinung
+Paradigma Erzählung
+Flugblatt Flugschrift Flugzettel Flyer Handzettel
+zentralisieren zusammenführen zusammenfassen bündeln
+eklatant hervorragend hervorspringend salient hervorstehend hervorstechend herausstehend
+kurieren sanieren heilen
+Relativität Augenmaß Verhältnismäßigkeit
+Zeigergerät Pointer
+als qua
+Schutzregion Schutzgebiet Reservat
+straffällig delinquent verbrecherisch kriminell
+abweichend deviant
+Tätlichkeit Handgreiflichkeit
+betäubt verführt willenlos
+Naivität Leichtgläubigkeit Leichtsinnigkeit Blauäugigkeit
+Kleinstversicherung Mikroversicherung
+Gebärdenspiel Pantomime Gestenspiel
+füttern stopfen mästen auffüttern
+Kriegspest Lazarettfieber Läusefieber Fleckfieber Läusefleckfieber Faulfieber
+Kugeldurchmesser Geschossdurchmesser Kaliber
+Vorstufe Vorstadium
+atomar unzerteilbar unauftrennbar monadisch unteilbar untrennbar unzertrennlich
+Gegenversicherung Rückversicherung Reassekuranz
+Abdeckung Absicherung Sicherheiten
+Investmentfonds Sondervermögen Fonds
+räuchern selchen
+Bistro Lokal Café
+Glanz Strahlenkranz Nimbus Aureole Korona Aura Strahlenschein Gloriole Glorienschein Heiligenschein
+Korona Strahlenkranz
+Schulterklappe Epaulett Epaulette Rangabzeichen
+Katarrhakt Wasserfall Kaskade Katarakt Wassersturz
+Katarrhakt Stromschnelle Katarakt
+Frauenrad Damenrad Frauenfahrrad Damenfahrrad Damenvelo
+Männerrad Männerfahrrad Herrenfahrrad Herrenrad Herrenvelo
+Offenheit Ehrlichkeit Wahrheit Wahrhaftigkeit
+Thesauros Schatzhaus
+Staatsbank Nationalbank
+Amtsmissbrauch Bereicherung
+Fernsehkonsument Fernsehzuschauer Fernseher Fernsehzuseher
+Paternosteraufzug Personenumlaufaufzug Paternoster Umlaufaufzug
+Ableitung Deduktion Herleitung
+Geländerad Mountain-Bike Mountainbike
+Blower-Door-Test Differenzdruck-Messverfahren
+grindig schmutzig
+Obus Trolleybus O-Bus Oberleitungsomnibus Oberleitungsbus
+Druckluftleitung Pressluftleitung
+Leihrad Leihfahrrad Leihvelo
+Kleiderkasten Kleiderschrank
+Mantelstromtriebwerk Turbofan Zweistrom-Strahltriebwerk
+Vollspur Stephenson-Spur Regelspur Normalspur
+Zutrittskontrolle Zugangskontrolle
+Mobil-WC Mobilklo
+Seiher Abtropfsieb Seihe Seicher Durchschlag Küchensieb Sieb
+Bombenflugzeug Bomber
+Erdmagnetosphäre Erdmagnetfeld
+publiziert bekannt veröffentlicht
+Flugmaschine Luftfahrzeug Fluggerät
+Nachschiebetriebfahrzeug Nachschiebelokomotive Nachschiebelok
+Umlaufrendite Sekundärmarktrendite
+Bewandtnis Beschaffenheit
+Aplomb Vehemenz Nachdruck
+Denkrunde Brainstorming Ideensammlung Ideenfindung
+Ideengenerierung Ideenfindung
+anschließend anknüpfend nachfolgend nachkommend folgend
+hoffnungslos desperat defaitistisch verzagt verzweifelt defätistisch
+Reklametafel Werbetafel
+Entwicklungsgesellschaft Entwicklungsland Drittweltland Dritte-Welt-Land
+Magen Bauch Gaster
+Templer Tempelherren Templerorden Tempelritter
+Depilation Haarentfernung Enthaarung
+Parabolantenne Satellitenschüssel Antennenschüssel
+Prallluftschiff Blimp
+Sturzkampfflugzeug Stuka Sturzkampfbomber Sturzbomber
+Schwenkflügler Schwenkflügelflugzeug
+Klodeckel WC-Sitz Toilettendeckel WC-Deckel WC-Brille Klobrille Sitzring Toilettensitz
+Miniaturgolf Minigolf
+Hochzinsanleihe High-Yield-Anleihe Schrottanleihe
+Marktkapitalisierung Börsenwert Marktwert Börsenkapitalisierung
+Jongleur Balancekünstler Geschicklichkeitskünstler
+Glasschrank Vitrine Auslage Schaukasten
+Nullkuponanleihe Zero-Bond Zerobond
+Ordnungsprinzip System
+Tofu Bohnenquark Sojaquark Bohnenkäse
+Bruder Atze Alter Bruderherz
+Schwester Schwesterherz Schwelle
+Staubteufel Kleintrombe Staubtrombe Sandhose Staubhose Wirbelwind
+Studienbeitrag Studiengebühr
+Drehsessel Drehstuhl
+Bürodrehstuhl Bürodrehsessel
+Büromobiliar Büroeinrichtung Büromöbel
+Pressluftwerkzeug Druckluftwerkzeug
+Bürostuhl Bürosessel Arbeitsstuhl
+Bestattungsvorsorge Begräbnisvorsorge
+Leistungsmerkmal Kennwert Kenngröße Leistungsparameter
+Grabmal Grabdenkmal
+Anstoß Bully Anpfiff Anspiel Ankick
+Pressluftantrieb Druckluftantrieb
+Druckluftspeicher Pressluftspeicher
+Rahmendaten Grunddaten Eckdaten
+Vatertag Männertag Herrentag
+Elektroantrieb Elektromotor
+Kloputzer Klomann Toilettenwächter Kloreiniger WC-Reiniger Toilettenreiniger
+Dampfrohr Dampfleitung
+Davidshirsch Davidhirsch Milu
+Ultraviolett Schwarzlicht Infraviolett-Strahlung Ultraviolettstrahlung UV-Licht
+IR-Strahlung Infrarotstrahlung Ultrarotstrahlung Infrarotlicht
+Druckluftmotor Pressluftmotor Luftmotor
+Wasserleitung Wasserrohr Wasserleitungsrohr
+UV-Lampe Schwarzlichtlampe Ultraviolettleuchte UV-Leuchte Schwarzlichtleuchte Ultraviolettlampe
+Fahrradparksystem Fahrradhalter Radständer Veloständer Fahrradständer Velohalter Fahrradhalterung Fahrradparker
+Wärmelampe IR-Lampe Infrarotlampe Infrarotlichtquelle IR-Leuchte Infrarotleuchte
+IR-Schnittstelle Infrarotschnittstelle Infrarot-Schnittstelle IrDA-Schnittstelle
+Infrarotlaser IR-Laser
+Salutmunition Markiermunition Manövermunition
+Gaspistole Schreckschusspistole
+Gasrevolver Schreckschussrevolver
+Heliumgas Helium
+Neongas Neon
+Xe Xenongas Xenon
+Kryptongas Krypton
+Argon Argongas
+Radon Niton Radongas Radium-Emanation
+Schreckschusspatrone Platzpatrone
+Außenwand Außenmauer
+Komprimierungsrate Kompressionsrate
+Druckluftventil Pressluftventil
+Ölfördermaximum Peak-Oil Ölfördergipfel
+Gewölbe Grotte Höhle Gruft
+Absperrventil Sperrventil
+Ballungsraum Zusammenballung Agglomeration Verdichtungsraum Ballungsgebiet
+divisiv teilend
+sozial gesellschaftlich zwischenmenschlich
+Identitätsüberprüfung Authentifizierung Authentifikation Identitätsprüfung Authentisierung
+Zugangstür Eingangstür Eintrittstür
+Zugangstor Eintrittstor Zutrittstor
+Datenkompression Datenkomprimierung
+Spurbus Busbahn Spur-Obus
+Einschienenbahn Monorail
+entpacken dekomprimieren entzippen
+Dateikonvertierung Dateiumwandlung
+platzieren stellen anbringen
+Infrarotdetektor IR-Sensor Infrarotsensor
+IR-Lichtquelle Infrarotsender IR-Sender
+Druckluftschrauber Pressluftschrauber
+Ladeplatz Verladeplatz
+Sauerstoff Feuerluft Lebensluft Sauerstoffgas Oxygenium
+Tragschrauber Autogyro Gyrocopter Gyrokopter
+Kaminfeger Kaminkehrer Schornsteinfeger Rauchfangkehrer Schlotfeger
+Schnittwinkel Keilwinkel
+Rohstoff Baugruppe Werkstück Halbzeug
+Dixi Sanitärcontainer WC-Container Toilettencontainer
+verschiebbar platzierbar freigängig beweglich bewegbar
+Windwurf Sturmholz Windbruch
+Pufferlager Zwischenlager
+Kontrolleinrichtung Überwachungseinrichtung
+Verbundkeramik Faserkeramik
+Tauschhandel Barter-Handel Tauschgeschäft
+spezifizieren abstufen stufen
+Schwemmholz Treibholz
+Assistent Assistentenprogramm Wizard
+Bestandgabe Leasing Vermietung Verpachtung Ablokation
+Beruhigungsmittel Barbiturat
+80-zu-20-Regel Paretoprinzip 80/20-Regel Pareto-Prinzip Pareto-Effekt
+Machbarkeitsnachweis Machbarkeitsbeweis
+Nuklearantrieb Atomantrieb
+Atomabfall Nuklearmüll Nuklearabfall Atommüll
+Nuklearunfall Atomunfall
+Nuklearindustrie Atomindustrie
+Nuklearforscher Atomforscher
+Atomforschung Nuklearforschung Kernphysik
+Atomwirtschaft Nuklearwirtschaft
+Atommaterial Nuklearmaterial
+Steinschlag Steinlawine Felsrutsch Bergsturz Felssturz
+Atomtechnologie Nukleartechnologie
+bewegend rührend erschütternd ergreifend berührend anrührend herzbewegend herzergreifend aufwühlend mitleiderregend herzzerreißend
+Johanniskäfer Leuchtkäfer Glühwürmchen Johanniswürmchen
+Nurflügel Nurflügelflugzeug Nurflügler
+Quersumme Ziffernsumme
+Tapisserie Bildwirkerei
+Türschelle Türgong Türglocke Türklingel
+Stickstoffgas Nitrogenium N Stickstoff
+Malaysia Malaysien
+Nachdenken Grübeln
+Detektei Auskunftei Detektivbüro
+Rasenmäher Grasmäher
+Heckenschneider Heckenschere
+Starrflügelflugzeug Starrflügler
+dreimonatlich quartalsmäßig quartalsweise vierteljährlich vierteljährig
+Vogelzwitschern Zwitschern Vogelkonzert Vogelgesang Vogellärm Vogelgezwitscher
+Automanufaktur Autoerzeuger Automobilhersteller Autobauer Autoproduzent Autohersteller
+Motorraderzeuger Motorradhersteller Motorradbauer
+Fahrradhersteller Fahrradproduzent Velohersteller Fahrraderzeuger Fahrradbauer
+Violinenbogen Violinbogen Geigenbogen
+Geigenkasten Violinenkasten Geigenkoffer Violinkasten
+Stratagem Taktik
+Stahlwerk Stahlproduzent Stahlhersteller Stahlerzeuger
+Müllbeseitigung Müllentsorgung Müllabfuhr Kehrichtabfuhr
+Gitarrenbauer Gitarrenhersteller
+Eiserzeugung Eisproduktion Eisherstellung
+Eisenerzeugung Eisenherstellung Eisenproduktion
+Bekleidungsproduktion Bekleidungsherstellung Bekleidungserzeugung
+zugespitzt faserähnlich prosenchymatisch
+Metallsplitter-Erkennungswerkzeug Sideroskop
+zahllos unzählig unzählbar
+angreifen anfallen
+erreichbar empfänglich zugänglich ansprechbar offen aufgeschlossen
+befahrbar zugänglich begehbar betretbar erreichbar unverstellt offen
+Normalfall Regelfall
+abgleichen mergen zusammenführen vereinigen kombinieren
+Strafstoß Elfer Elfmeter
+Synchronisation Übertragung Transfer Austausch
+Rasierstift Alaunstift
+Flexileine Laufleine
+Seilleiter Strickleiter
+Disambiguierung Vereindeutigung
+Abwärme Wärmeverlustleistung
+zuteilen zuweisen belegen allozieren reservieren
+Befragung Untersuchung Fragegespräch Erhebung Dialog Umfrage Interview
+Sonderkondition Vorzugskondition
+Entomologie Insektenkunde
+beobachten aufzeichnen erfassen skizzieren verzeichnen aufnehmen
+Erkenntnis Aufnahme Dokumentierung Dokumentation Erfassung Aufzeichnung Beobachtung
+Stufe Phase Abschnitt Schritt
+Gutschriften Zahlungen Bezüge
+Luminanz Lichtstärke
+Bauelement Baugruppe Element Komponente Einheit Bauteil Modul
+gesucht benötigt gewünscht
+Kanarienvogel Kanari Kanarie
+Wiesn Oktoberfest
+Zweitbesetzung Ersatzmann Reserve Auswechselspieler Reservist
+Zivildienst Ersatzdienst
+Induktionsbremse Wirbelstrombremse
+Foniatrie Phoniatrie Stimmheilung
+Daten Datenmaterial Zahlen Statistik
+Zerteilung Segmentation Zerlegung Fragmentierung Diversifikation Segmentierung
+Fitnesscenter Fitnessstudio Fitness-Center Muckibude
+Heliport Hubschrauberlandeplatz Helikopterlandeplatz
+Hundebesitzer Hundehalter Herrchen
+Hundebesitzerin Hundehalterin Frauchen
+Königstochter Prinzessin
+Nichttrinker Abstinent Abstinenzler Alkoholgegner Antialkoholiker
+Zeckenstich Zeckenbiss
+Selbstbräuner Bräunungscreme
+Zechtour Sauforgie Bierreise Sauftour Sause Kneipenbummel Kneipentour
+Urheber Initiator Rädelsführer Anstifter
+Putschist Revolutionär Aufwiegler Meuterer Frondeur Umstürzler Rebell Unruhestifter Revoluzzer Aufständischer Abtrünniger
+Zug Marsch Treck Fußreise Wanderung
+Tintenlöscher Tintentod Tintenkiller Korrekturstift
+Winkelzug Flucht
+Felge Radkranz
+Feldzug Militäroperation Kriegszug Heereszug Militäraktion
+Preisgericht Gutachtergremium Jury Preisrichter
+Extrahierung Extraktion
+Mithäftling Zellengenosse Mitgefangener
+Eichkatze Sciurus Eichkätzchen Eichkater Eichhörnchen
+Golfer Golfspieler
+Versicherungsprämie Versicherungsbeitrag Prämie
+Korselett Mieder Korsage Korsett Hüfthalter
+Sprengkörper Sprengladung
+Golfspielerin Golferin
+Fürth Kleeblattstadt
+Langarmhemd Langarm-Hemd
+Kursstützung Kursintervention Kurspflege
+Zehennagel Fußnagel
+Verdopplung Verdoppelung Duplikation Geminatio Verzweifachung Duplizierung
+Mozartbonbon Mozartkugel
+Ganterich Ganter Ganser Gänserich
+verankern festmachen
+Benzinbombe Molotowcocktail Molly Brandflasche
+Aufräumarbeiten Aufräumungsarbeiten
+Sprossenstiege Fahrt Leiter Sprossenleiter
+Bettzeug Bettwäsche
+Textilien Textilware Wirkwaren
+Widerstand Resistor
+Etui Hülle Futteral
+Feuerwehrwache Feuerwehrhaus Feuerwehrrüsthaus Feuerwehrhalle Spritzenhaus Feuerwehrzeughaus Brandwache Feuerwehrgerätehaus Feuerwehrmagazin Feuerwache
+Schwimmhalle Hallenbad
+Schwimmbad Sommerbad Freibad
+Cerealien Zerealien
+Plätzchen Guezli
+Kokosgebäck Makrone
+Karrees Rippchen Kotelett
+Chateaubriand Doppellendensteak
+reparabel wiederherstellbar ersetzlich rekonstruierbar reparaturfähig
+gefestigt vereinheitlicht konsolidiert zusammengeführt
+Vereinheitlichung Zusammenführung Konsolidierung
+Gitarrist Gitarrenspieler
+alkoholisch alkoholhaltig hochprozentig
+Auswahl Sammlung Bestand Grundstock Fundus
+nachsehen nachschauen schaun klären überprüfen
+Pool Datenbasis Ansammlung
+Stratigraphie Schichtenkunde Stratigrafie
+Gesteinskunde Petrografie Petrographie Felsenkunde
+kugelsicher schusssicher
+Freiheitsgrade Parameter
+Erholung Einholung
+Zensus Census Volkszählung Makrozensus
+Stalker Nachsteller
+Luftsack Airbag Luftkissen Aufprallschutzkissen
+Schnellgericht Schnellimbiss Junkfood Fastfood
+Kriegsberichterstatter Kriegsberichter
+wesensgleich identisch inhaltsgleich
+Unparteilichkeit Neutralität Überparteilichkeit
+Farbfernsehapparat Farbfernseher Farb-TV Farbfernsehgerät
+Schwarzweißfernsehgerät Schwarzweißfernsehapparat Schwarzweißfernseher
+Posten Charge Stellung Stelle Dienstgrad Amt Rang
+Sitzabstand Sitzteiler
+umschreiben überschreiben umarbeiten überarbeiten
+betiteln überschreiben
+Praktikabilität Durchführbarkeit Zweckmäßigkeit
+Priorisierung Ordnung Bewertung
+Überlebenschancen Überlebensaussichten
+Rechnungsstellung Fakturierung
+Kontrollausschuss Aufsichtsrat Kontrollgremium Vorstand Beirat Lenkungsausschuss Verwaltungsrat Kuratorium
+Cellist Cellospieler
+Spielleiter Regisseur
+Motorsäge Kettensäge Fichtenmoped
+Hinblick Berücksichtigung Zuwendung Aufmerksamkeit Fixation Betrachtung Hinsicht Beachtung
+Gleismittenabstand Gleisabstand Gleisachsabstand
+Objekt Größe Symbol Entität Symbolfigur
+degeneriert korrupt
+Kreditwürdigkeitsüberprüfung Kreditwürdigkeitsprüfung Bonitätsprüfung Bonitätsüberprüfung
+Doppelstockwagen Dosto
+Nichterreichung Verfehlung
+Jubelfeier Jubiläum Jubelfest
+etymologisch sprachgeschichtlich
+Dyskalkulie Zahlenblindheit Rechenschwäche Arithmasthenie
+Turbolader Turbo Abgasturbolader
+frönen nachgehen
+Synonymlexikon Synonymwörterbuch Thesaurus
+umwölkt bewölkt wolkenverhangen bewölkt
+alternativ anders
+heilend kurativ therapeutisch
+Bombardement Bombardierung Bombenabwurf
+Sufismus Sufitum Sufik
+Sufi Mystiker Derwisch
+Farbenkreis Farbkreis
+Karnevalsumzug Fastnachtsumzug Rosenmontagszug Zoch Karnevalszug Faschingsumzug
+Reparationen Reparationszahlungen Kriegsentschädigungen Reparationslasten Wiedergutmachungsleistungen Reparationsleistungen
+Zukunftserwartung Vertrauen Zuversicht Hoffnung Zutrauen Erwartung
+Aufseher Leiter Intendant
+Fußfehlstellung Fußdeformation
+heben hochstellen
+außen lateral
+Kombinationskraftwagen Kombi Variant Kombiwagen Kombinationswagen Kombilimousine
+innen medial
+Schutz Schutzmechanismus
+aufstocken erhöhen anheben anböschen
+Initialen Anfangsbuchstaben
+Zuckertüte Schultüte
+Wulst Schwellung Quaddel
+Stickoxide Nox Stickstoffoxide
+anspannen krampfen verkrampfen
+Strahlungsquelle Strahlenquelle
+Wandelanleihe Wandelobligation Wandelschuldverschreibung
+Methodologie Methodenlehre
+Motorschlitten Schneemobil
+Festbeleuchtung Illumination
+Rute Peitsche Gerte Geißel Reitgerte
+Observatorium Beobachtungsstation Beobachtungsstelle Wetterwarte
+Wiedergeben Abspielen Abhören
+Pisee Stampflehm
+Rondell Rotunde Rundbau
+Schreikind Schreibaby
+Kuchendiagramm Kreisdiagramm Tortendiagramm
+Kerbe Flexkerbe
+krankenhausreif spitalreif
+Westdeutscher Wessi
+zusammensetzen bauen konstruieren
+Kulisse Folie Hintergrund
+stutzen erschrecken innehalten stocken
+Interdependenz Dependenz Abhängigkeit
+Verbindungsprotokoll Protokoll Netzwerkprotokoll Netzprotokoll Übertragungsprotokoll
+Ortstaxe Kurabgabe Gästetaxe Beherbergungstaxe Nächtigungstaxe Kurtaxe Tourismusabgabe Aufenthaltsabgabe
+halbtägig halbtags
+ganztags ganztägig
+Teilzeitjob Teilzeitbeschäftigung Teilzeitarbeit Teilzeitstelle
+Fehldeutung Fehlinterpretation Missinterpretation
+Pianolack Klavierlack
+Brüder Gebrüder
+Kollektivum Sammelbegriff Sammelbezeichnung Sammelname
+Intransigenz Uneinsichtigkeit Unbelehrbarkeit Beratungsresistenz Unnachgiebigkeit Ignoranz
+Meinungsverschiedenheiten Differenzen Unstimmigkeiten Dissens
+Hochträger Sherpa
+Infektionskrankheit Infektion Infekt
+Gleichnis Personifikation Allegorese Allegorie
+konkludent schlüssig
+Totschlag Tötung
+unfallfrei unfalllos
+Leseleuchte Leselicht Leselampe
+ausgeleuchtet beleuchtet angeleuchtet
+Cognacglas Cognacschwenker
+Hauptquartier Hauptsitz Hauptniederlassung Stammhaus Headquarter Stammsitz Mutterhaus Hauptgeschäftsstelle Hauptstelle Zentrale Muttersitz
+Androloge Männerarzt
+Andrologie Männerheilkunde
+Benzinmotor Ottomotor
+Harlekin Clown Weißclown Zirkusclown
+dazugehörig einschlägig entsprechend dazugehörend
+Kontinuum Kontinuierlichkeit
+qualitativ gütemäßig wertig
+Handlungsweise Modalität Vorgehensweise Vorgehensschema Durchführungsweise
+abstimmen absprechen koordinieren
+schmackhaft deliziös kulinarisch lukullisch
+Prasser Vielfraß Schlemmer Gourmand
+Hightech Technik Technologie
+grollen grummeln rumoren
+kahlköpfig glatzert unbehaart glatzköpfig kahl haarlos
+Vorschau Extrapolation Hochrechnung
+tingiert eingefärbt
+Knochenhaut Periost
+Konferenzband Proceedings Tagungsband
+Erblicken Sichtung
+Empfangsgerät Empfänger Empfangsanlage Empfangseinrichtung
+beratschlagen beraten
+Vortrag Übertrag
+Rückrechnung Rückblick Retrospektive Rückschau Rückbesinnung Rückblende Rückwendung Analepse Reminiszenz
+Schweinezyklus Schweinebauchzyklus
+Durchführungswahrscheinlichkeit Ausführungswahrscheinlichkeit Realisierungswahrscheinlichkeit
+Topf Blumenkübel Blumentopf
+Daumenregel Heuristik Faustregel Schätzung Faustformel
+Hosenschlitz Hosenstall Hosenladen
+OpenOffice.org OpenOffice
+Mengenbeschränkung Mengenbegrenzung
+Kriegsmarine Seestreitkraft Seestreitmacht Marine
+Wurstbrät Brät
+missverständlich irreführend falsch
+schalldurchlässig ringhörig hellhörig
+Teppichboden Spannteppich
+Schriftleiter Redaktor Redakteur
+Kommissar Kommissär
+Zugverkehr Eisenbahnverkehr Zugsverkehr Schienenverkehr Bahnverkehr
+Gletscher Kees Ferner
+desavouiert bloßgestellt
+Wechselseitigkeit Reziprozität Gegenseitigkeit
+Telefonnummer Nummer Rufnummer
+Rundkopfdelfin Risso-Delfin
+Jethelm Braincap Halbschalenhelm
+Vollvisierhelm Integralhelm
+divers unterschiedlich vielfältig abwechslungsreich
+z-Achse Applikatenachse Applikate
+verkannt fehlinterpretiert fehlgedeutet missverstanden
+Teamleiter Teamchef Gruppenleiter
+disproportional unverhältnismäßig überproportional
+basierend gründend aufbauend
+Determinante Faktor Bestimmungsgröße
+Übertragungsfehler Übermittlungsfehler
+verbessert ausgebessert berichtigt korrigiert
+Penetrationstest Pentest Penetrationtest
+Mehrung Vermehrung
+Fabrikat Produkt Gebilde Erzeugnis Werk Machwerk
+verdammen verteufeln dämonisieren verwünschen verleumden verfluchen
+Antisemitismus Judenfeindschaft Judendiskriminierung Judenfeindlichkeit Judenhass
+Abendzeitung Abendblatt
+Sehrohr Periskop
+Sparkonto Bankkonto Sparbuch
+Brautkleid Hochzeitskleid
+Kilo kg Kilogramm
+Eigentümlichkeit Eigenheit Idiosynkrasie
+Eisfach Gefrierfach
+Hacke Ferse
+Fernsehturm Sendeturm Fernmeldeturm
+Sonnabendabend Samstagabend
+Sonnabendmorgen Samstagmorgen
+Samstagmittag Sonnabendmittag
+Samstagnacht Sonnabendnacht
+Bedenkenträger Zweifler Pessimist Spielverderber Defätist Unkenrufer Schwarzmaler Skeptiker Unheilsprophet Defaitist Schwarzseher Bremser
+Schlagzeuger Drummer
+Gasmaske ABC-Schutzmaske
+Erwerbslosenquote Arbeitslosenquote Arbeitslosenrate
+Sprühregen Schürlregen Nieselregen
+zivil nichtmilitärisch
+orthogonal rechtwinklig rechtwinkelig
+Bundesetat Bundeshaushalt
+Lamm Schäfchen
+Luftstreitkraft Luftstreitmacht Luftwaffe Flugwaffe
+Lorelei Loreley
+Raumstation Weltraumstation
+Ehering Trauring
+Weinbau Weinanbau
+Animiermädchen Animierdame
+Animierbar Animierlokal
+Soul Soulmusik
+Musikstil Genre Musikgenre Musikrichtung Stilrichtung
+Schiffbrücke Pontonbrücke Schwimmbrücke
+Ponton Schwimmkörper
+Zuchtbulle Zuchtstier
+Volontär Freiwilliger
+Jazz Jazzmusik
+Greifvogel Raubvogel Greif
+Geschwindigkeitsübertretung Geschwindigkeitsüberschreitung
+Brillenrahmen Brillengestell
+Kirchenmusik Sakralmusik
+Konkursantrag Insolvenzantrag
+Berater Unternehmensberater Konsulent Consultant
+Archipel Inselgruppe
+Bajonett Seitengewehr
+Bluttransfusion Bluttransfer
+Kondensflüssigkeit Kondensat Niederschlagsflüssigkeit
+Vektorprodukt Kreuzprodukt
+Nachtlokal Nachtbar
+Orchidee Orchideengewächs Knabenkrautgewächs
+Karsamstag Ostersonnabend Karsonnabend Ostersamstag
+Lichtteilchen Photon Lichtquant
+existenzbedrohend existenzgefährdend lebensbedrohlich
+vermarktbar verkaufsfähig vermarktungsfähig verkehrsfähig verkaufsfertig handelbar marktreif marktfähig markttauglich
+Harnstoff Urea Carbamid
+Chiffriermaschine Verschlüsselungsmaschine
+Verschlüsselungsscheibe Chiffrierscheibe
+Verschlüsselungsprogramm Verschlüsselungssoftware
+Schienenlärm Schienenverkehrslärm
+Rundfunkgesellschaft Rundfunkanstalt
+Doppelehe Bigamie
+Kommerz Trubel
+Wirtschaft Handel Geschäftsverkehr Kommerz
+Schulfahrt Klassenfahrt Unterrichtsgang Schülerfahrt Schulreise Schulausflug
+Doppelstück Zwilling Dublette
+Rosette Mandala Ringfleck
+wund zerschunden zerkratzt verletzt zerrissen
+inbrünstig priesterlich pastoral pathetisch salbungsvoll solenn geschwollen weihevoll hochtrabend
+Versatz Jitter Varianz Synchronisationsdifferenz Gangunterschied
+Augenheilkunde Ophthalmiatrie Ophthalmologie
+Staatsstraße Landesstraße
+Crux Krux Last Fron Plage Kreuz Bürde Knechtschaft Joch Mühlstein
+Mühsal Plackerei Quälerei Plage Mühe Qual
+Qual Elend Plage Leid Leiden
+krampfig verkrampft gezwungen krampfhaft angestrengt verquält verspannt
+starr steif verspannt verkrampft fest
+filigran sachte empfindlich fragil grazil fein hauchfein zart
+Herrscherstuhl Herrschersitz Kaiserstuhl Thron Regierung Königsstuhl
+Rechtswidrigkeit Diskriminierung Einseitigkeit Ungerechtigkeit
+woanders anderswo anderwärtig andernorts anderwärts anderenorts anderorts
+auslegen dimensionieren
+Heuhaufen Schober Heuschober
+Scheune Stadel Schober Scheuer Schupfen
+Camouflage Tarnung
+Kriegsprofiteur Kriegsgewinnler
+Krisengewinnler Krisenprofiteur Krisengewinner
+Abgabenschuldner Abgabenpflichtiger
+Schmalspurbahn Schmalspureisenbahn
+Spurweite Spurbreite
+Ewigkeitssonntag Totensonntag
+Halbgott Übermensch Gottmensch
+ähnlich verwandt angrenzend affin anziehend
+Gotteslästerer Blasphemiker
+Schullandheim Landschulheim
+abstimmend plebiszitär
+Gipfeltreffen Gipfel Gipfelkonferenz Summit Spitzentreffen
+Basketballer Korbballspieler Basketballspieler
+Chinaschilf Elefantengras Miscanthus Chinagras
+Handballspieler Handballer
+Wasserballer Wasserballspieler
+Sportbekleidung Sportkleidung
+Auerochs Auerochse Ur
+Bowler Bowlingspieler
+Kegler Kegelspieler
+Curler Curlingspieler
+Bouler Boulespieler
+Stammgesellschaft Stammfirma Mutterfirma Mutter Mutterunternehmen Stammunternehmen Muttergesellschaft
+Volleyballer Volleyballspieler
+Männerhandball Herrenhandball
+Frauenhandball Damenhandball
+Faustballer Faustballspieler
+Kurpfuscherei Scharlatanerie Gesundbeterei Quacksalberei
+nachlesbar wohldefiniert nachschlagbar wohlbekannt offiziell
+Phasenunterschied Gangunterschied
+Volkswagen VW
+Güterbahnhof Frachtbahnhof Frachtenbahnhof
+Verschubbahnhof Rangierbahnhof Verschiebebahnhof
+Zigarettenpackung Zigarettenschachtel
+Tischfußballspieler Tischfußballer
+Computerbildschirm Computermonitor
+umfassen ausmachen
+durchsetzbar erreichbar umsetzbar erzielbar
+bestreiten finanzieren bezahlen
+Nippel Speichennippel
+Speichenspanner Nippelspanner Zentrierschlüssel Speichenschlüssel
+Libanon Zedernrepublik
+Bewirtung Beköstigung Verköstigung Speisung
+Antifaschismus Antifa
+Flüssigkristallbildschirm TFT-Display LCD
+Walhalla Walhall
+Wasserhahn Wasserkran
+Thermikkraftwerk Aufwindkraftwerk
+Paris Lichterstadt Paname
+Laibach Ljubljana
+Implosion Zusammensturz
+Ekuador Ecuador
+Surinam Suriname
+Ästuar Ästuarium Trichtermündung Estuar
+Vilnius Wilna
+Popmusik Pop
+Peking Beijing
+Delhi Neu-Delhi
+Birma Burma Myanmar
+rangieren aufstellen formieren
+Eriwan Jerewan
+Saudi-Arabien Saudisch-Arabien
+gleichwirkend äquivalent gleichartig
+Nursultan Astana Akmola Zelinograd Akmolinsk
+Kirgisien Kirgisistan Kirgistan
+Turkmenistan Turkmenien
+Kollateralschaden Randschaden Begleitschaden
+Vliesstoff Vlies
+Dreizehn 13
+Äquatorialguinea Äquatorial-Guinea
+Benin Dahome Dahomey
+Botswana Botsuana
+Muße Dolcefarniente Müßiggang Nichtstun
+Ellbogen Ellenbogen
+Ellenbogengesellschaft Ellbogengesellschaft Haifischbecken Ego-Gesellschaft
+Vollblut Vollblüter
+Hauer Eckzahn Reißzahn
+Kannibalismus Menschenfresserei Anthropophagie
+Schlittschuhlaufen Eislaufen
+Eislaufschuh Schlittschuh
+Mondbär Kragenbär
+Ü-Wagen Übertragungswagen
+Maschinenwesen Maschbau Maschinenbau
+Polarbär Eisbär
+spärlich licht dünn schütter ausgedünnt
+Allherrscher Pantokrator
+Mordgier Bestialität Mordlust Blutdurst Blutrausch
+zittern erbeben beben erzittern vibrieren
+Zürcher Züricher
+vermeidbar verhinderbar abwendbar
+erhängen aufhängen hängen henken aufknüpfen
+Ohrstecker Ohrring
+Pökling Räucherhering Bückling Bücking
+Gemeinschaft Kommunität Netzwerk Community
+Feldjäger Militärpolizei
+Motorradfahrer Biker
+Mountainbiker Mountain-Biker Mountainbike-Fahrer
+Stellenmarkt Jobbörse
+Harnsäuresalz Urat
+Bürgerinitiative Aktionsgruppe Interessengemeinschaft Initiativgruppe Aktionsbündnis Selbsthilfegruppe Initiativkreis Initiative
+Zimmertanne Norfolk-Tanne
+Stichkampf Playoff Ausstich Play-off
+gefangen eingeschlossen eingekerkert weggesperrt eingesperrt
+Tretkurbel Kurbeltrieb Tretlager
+Fernwärmerohrleitung Fernwärmeleitung
+Geistesverfassung Geisteszustand
+Treuherzigkeit Tumbheit Arglosigkeit Naivität Gutgläubigkeit
+navigieren steuern
+Technomusik Techno
+Hiphop Hip-Hop
+Viper Kobra Otter
+Kraftwerk Kraftanlage Elektrizitätswerk
+Petz Bär Braunbär
+Gelegenheitsjobber Tagelöhner Jobber
+launenhaft inkonsequent wankelmütig unstet schwankend
+Erleichterung Palliation Abschwächung Linderung Milderung
+Fahrradklingel Fahrradglocke Fahrradschelle
+Fährtenleser Spurenleser
+Griechenland Hellas
+Moldau Moldawien
+Pressburg Bratislava Preßburg
+Kirchenstaat Vatikan Vatikanstadt
+Umschichtung Verlagerung
+außen draußen außerhalb extern
+Kaliumcyanid Zyankali
+Konzentration Ansammlung Batterie
+gestalten entwerfen designen
+Stand Spätkauf Spätverkauf Späti Wasserhäuschen Trinkhalle Kiosk Büdche Verkaufsstelle Büdchen Bude Kaffeeklappe
+verschicken rausschicken rausgehen versenden
+Bungalow Haus
+Brechruhr Gallenbrechdurchfall Cholera
+Promotionsstudent Doktorierender Dissertant Promovend Doktorand Doktoratsstudent Promotionsanwärter
+Farn Farnkraut
+Pocken Variola Blattern
+Nebenstellenanlage Telefonanlage TK-Anlage Teilnehmervermittlungsanlage
+Yaoundé Jaunde
+Kamerun Klein-Afrika
+Kinshasa Léopoldville
+Windhuk Windhoek
+Sambia Nordrhodesien
+Streifenhörnchen Backenhörnchen
+Erhabenheit Weihe Stolz Haltung Gravität Pathetik Eleganz Dignität Grandezza Vornehmheit Getragenheit Gefasstheit Distinktion
+ablenkbar unfokussiert abgelenkt unkonzentriert
+Blauhelm UN-Soldat UNO-Soldat
+Dalke Dalkebach
+Blockbuster Kassenschlager Straßenfeger
+Gewinn Bombenerfolg Riesenerfolg Erfolg Triumph
+Regenumhang Regencape
+jungenhaft mädchenhaft kindlich jung kindhaft minderjährig blutjung knabenhaft
+dahin dorthin
+Evolutionstheorie Evolutionslehre
+Schadensmeldung Schadenmeldung
+Tabak Tobak
+Pretoria Tshwane
+Khartoum Khartum
+Geistererscheinung Gespenstererscheinung Spuk Erscheinung Erscheinung
+anfassen tangieren drankommen berühren
+Massenspeicher Speichermedium Datenträger Massenspeichermedium
+Oberschicht Adel Aristokratie
+Männerherrschaft Androkratie Patriarchat
+Mailserver E-Mail-Server
+Violist Bratscher Bratschist Violaspieler
+Leibgericht Leibspeise Lieblingsspeise Lieblingsgericht Lieblingsessen Leib-und-Magen-Gericht
+Zahnrad Ritzel
+Auswanderer Emigrant Heimatloser Flüchtling Umsiedler Aussiedler
+Intelligenztest IQ-Test
+Erwerbsarbeit Erwerbstätigkeit Broterwerb Beschäftigung
+Beil Axt Hacke Hackbeil Hackebeil
+Grundschule Primarschule Volksschule Elementarschule Klippschule
+ausdehnen hinausziehen prolongieren hinausschieben stunden
+Zahlungsaufschub Forderungsaufschub Stundung
+verdunsten vaporisieren verdampfen zerstäuben
+richtigstellen geraderücken
+maskieren weichspülen aufputzen übertünchen herunterspielen verharmlosen beschönigen schönfärben verbrämen schönen bemänteln schönreden verhüllen verschleiern frisieren
+Sankt-Nimmerleins-Tag Zukunft
+Schonraum Schutzraum
+unberücksichtigt ignoriert
+Kältetod Erfrieren
+Unverbrauchtheit Frische
+Informationsfülle Informationsdichte
+Lobbyist Interessenvertreter Politikberater
+selbstaufrufend rekursiv
+Drittplatzierter Dritter
+Skirennläufer Skirennfahrer
+Bahndamm Bahnböschung
+Datenbankverwalter Datenbankadministrator Datenbankorganisator
+Goldmedaillengewinner Goldmädel Goldmädchen Goldjunge
+Luftdruckgewehr Luftgewehr
+Druckluftpistole Luftpistole
+bemitleiden bedauern
+B2B Business-to-Business
+Internetzugang Internetanbindung Internetverbindung
+Doppelpack Doppelpackung Zweierpackung Zweierset
+Podestplatz Stockerlplatz
+ausschreiben ausloben
+Alkoholtest Alkotest
+voranpreschen stürmen vorpreschen voranstürmen vordringen bestürmen vorstürmen erstürmen vorandringen
+zuschreiben zurechnen
+Poetik Dichtkunst
+Matriarchat Frauenherrschaft
+E-Scooter Elektroscooter Elektro-Tretroller Elektroroller E-Tretroller
+Vieleck Polygon
+Biogas Ökogas
+Eisdiele Eiscafé Eissalon Gelateria
+Gletscherforscher Glaziologe
+Venushügel Schamhügel Schamberg
+Klimatologe Klimaforscher
+Klimaforschung Klimatologie
+Offiziersschüler Aspirant
+handstreichartig draufgängerisch angriffig
+amtieren amten
+SEK Sondereinsatzkommando Spezialeinsatzkommando
+Operationssaal OP
+Entbindungsraum Kreißsaal
+Webhoster Webspace-Provider
+Geburtsstadt Geburtsstätte Geburtsort
+Ferienlager Lager Freizeit Kinderlandverschickung Ferienfreizeit
+Rahmen Erzählrahmen
+ABS Antiblockiersystem
+Sütterlin Sütterlinschrift
+Kultusministerkonferenz KMK
+Rasierschaum Rasierkrem Rasiercreme Rasierkreme
+risikoscheu risikoavers
+Geldmenge Geldmengenaggregat
+Rennauto Flitzer Rennfahrzeug Rennwagen Rennsportwagen Geschoss
+veredeln zubereiten bereiten konfektionieren vorbereiten
+Kompass Bussole
+Monatslohn Monatsverdienst Monatsgehalt Monatseinkommen
+Jahresverdienst Jahreslohn Jahresgehalt Jahreseinkommen
+Wochengehalt Wochenlohn
+Nachteil Haken Pferdefuß
+Wortklauber Krämerseele Kleinigkeitskrämer Kümmelspalter Federfuchser Haarspalter
+Straßenverkehrszulassungsordnung StVZO
+Lohnzahlung Gehaltsauszahlung Lohnauszahlung Gehaltszahlung
+lilafarben lilafarbig
+zurückfordern wiederfordern zurückverlangen
+drogenabhängig drogensüchtig
+Schichtdienst Schichtarbeit
+übertreten überschreiten passieren
+Keyboarder Klavierspieler Tastenlöwe Pianist Tastenvirtuose Klaviervirtuose Tastenakrobat Tastenkünstler Tastengott Klavierkünstler Klimperer Tastenzauberer Klaviersolist Konzertpianist
+Schweizerdeutsch Schwyzerdütsch Schwyzertütsch
+Original-Ton O-Ton
+Militärjet Militärflugzeug
+Jarmulke Kippa
+Heimreise Rückreise Heimweg Rückweg Heimfahrt Nachhauseweg Rückfahrt
+Rückkehr Heimkehr
+Atempause Verschnaufpause Pause
+Handymast Mobilfunksendemast Mobilfunkmast
+Röntgenfoto Röntgenbild Radiographie Röntgenaufnahme
+Marktposition Wettbewerbsposition
+Einwohneranzahl Einwohnerzahl
+Außenelektron Valenzelektron
+Denksport Knobeln
+Sonnenbank Münz-Mallorca Solarium Tussi-Toaster Klappkaribik Sonnenstudio Asi-Toaster
+Alphastrahlung α-Strahlung
+Limnologe Gewässerforscher
+Käserei Käseproduktion Käseherstellung
+Lichtwerbung Leuchtreklame
+Akteur Handelnder Tätiger Beteiligter
+temporal zeitlich
+Provokation Reizung
+Passfotografie Passfoto Passbild
+Ankunftszeit Ankunftszeitpunkt
+ausschöpfen ausnutzen ausreizen auslasten
+kinematographisch kinematografisch
+ableiten derivieren
+verdeutlichen aufzeigen herausarbeiten
+Schubstange Pleuelstange Pleuel Treibstange
+dedizieren zuwenden widmen
+Zufallstreffer Glückstreffer
+Wohnungsmakler Wohnungsvermittler
+Fahrscheinkontrolle Fahrausweiskontrolle Fahrkartenkontrolle Billettkontrolle
+Fahrkartenverkauf Fahrscheinverkauf Fahrausweisverkauf Billettverkauf
+Fahrkartenverkäufer Fahrscheinverkäufer Billetverkäufer Fahrausweisverkäufer
+Tischbein Tischfuß
+Privatgrund Privatgrundstück
+Kontrollstelle Überprüfungsstelle
+Fahrkartenkontrolleur Schwarzkappler Billettkontrolleur Ticketkontrolleur Controlletti
+Positionslampe Positionslicht Positionsleuchte
+Warnblinkleuchte Warnlampe Warnleuchte
+Dreifachpackung Dreierset Dreierpackung
+Festlegung Determinierung Determination
+pfeilwärts sagittal
+ambitionslos unmotiviert unambitioniert
+Mobilfunklizenz Handylizenz
+Mobilfunknetzbetreiber Mobilfunker Handynetzbetreiber
+Mobiltelefonakku Handybatterie Handyakku
+Wohlfühlen Wohlbefinden
+Sicherheit Geborgenheit
+Schaltfeld Konsole Einstellpult Leitfeld Schaltpult Bedientafel Armaturenbrett Steuertafel Paneel Schalttafel Panel Steuerpult Bedienung Steuerfeld Terminal Einstelltafel Einstellfeld Bedienpult Bedienfeld
+Teakbaum Teak
+Saxofonist Saxofonspieler
+Hornbläser Hornist
+beweiskräftig bestechend treffend stichhaltig schlagend triftig überlegen überzeugend
+wiederverwenden recyceln recyclen rezyklieren wiederverwerten
+Senat Ältestenrat
+Klimavorhersage Klimaprognose
+Ozeanografie Meeresforschung
+Materle Materla Marterl Bildstock Helgenstöckli Marter Wegstock
+Kultplatz Weihestätte Heiligtum Kultstätte
+Pate Begleiter Betreuer
+Erderwärmung Klimaerwärmung
+Rastertunnelelektronenmikroskop Rastertunnelmikroskop
+Mobiltelefonnummer Natelnummer Handytelefonnummer Mobilnummer Handynummer
+Account Benutzerkonto Nutzerkonto
+Mobiltelefonat Mobilfunkgespräch Handytelefonat Mobiltelefongespräch
+Posaunist Posaunenspieler
+Zuschauerzahlen Einschaltquote Zuschauerquote Quote
+transportierbar transportfähig
+Elektrogitarre E-Gitarre Stromgitarre
+Golatsche Kolatsche Tascherl
+Philister Moralist Tugendwächter Sittenwächter Moralprediger Sittenprediger
+Pensum Hausaufgabe Aufgabe Lehrstoff Lektion
+Schutzbefohlener Schützling Pflegebefohlener Mündel
+Radikalismus Extremismus Rücksichtslosigkeit Kompromisslosigkeit Radikalität
+Augenzeugenbericht Berichterstattung Bericht Tatsachenbericht Dokumentation Dokumentarbericht Reportage
+Restauration Rückschrittlichkeit Fortschrittsfeindlichkeit
+Bewerberinterview Bewerbungsgespräch Einstellungsgespräch Bewerbungsinterview Interview Vorstellungsgespräch
+Ostdeutschland Neufünfland Ex-DDR drüben Beitrittsgebiet
+Extraklasse Spitzenklasse
+Ruhestandsversetzung Pensionierung
+Gemeinwohl Allgemeinwohl
+Widerstandsbeiwert cw-Wert Luftwiderstandsbeiwert Strömungswiderstandskoeffizient
+Luftwiderstand Luftreibung
+Donaustrom Donau
+Arbeitsort Arbeitsstelle Beschäftigungsstelle Arbeitsstätte
+freundlicherweise netterweise liebenswürdigerweise
+Festival Festspiel
+Obstler Obstbrand Obstgeist Obstwasser
+Frischkäse Rahmkäse
+Hartkäse Bergkäse Parmesan
+Oboist Oboespieler
+Logorrhö Geschwätzigkeit Redesucht Polyphrasie Logorrhoe Sprechdurchfall
+Bedeutung Stellenwert Geltung Maßgeblichkeit Bedeutsamkeit Dimension Relevanz Belang Gewicht Interesse Wichtigkeit Ausmaß Tragweite Aussagekraft Signifikanz
+Gottlosigkeit Unfrömmigkeit Asebie
+Ökosteuer Umweltsteuer
+Systempedal Klickpedal
+Distorsion Verzerrung
+Förderung Gewinnung Abbau
+schwer drückend schwül gewittrig gewitterschwer dämpfig stickig bleiern schwül-heiß feuchtwarm brutheiß
+Diebesherrschaft Kleptokratie
+Spitzeldienst Agentendienst Aushorchertätigkeit Agententätigkeit Spionage
+Ellbogenfreiheit Bewegungsfreiheit Latitüde Freizügigkeit Spielraum Raum
+Indizierung Verbot Informationssperre Zensur
+Junkmail Spammail Spam Werbemail Massenmail
+Filzer Fasermaler Filzstift
+sicherheitshalber vorsichtshalber
+Gestensprache Fingeralphabet Gebärdensprache Zeichensprache Körpersprache
+Lebensart Denkart Denkweise Lebensgefühl Zeitgeist
+Grenzer Grenzposten Grenzbeamter
+Zumessung Zuweisung Zuerkennung Rationierung Zuteilung Kontingentierung
+Antriebsarmut Lustlosigkeit Antriebsmangel Antriebsschwäche
+nachtschwarz kohlrabenschwarz kohlenschwarz pechschwarz pechrabenschwarz rabenschwarz tiefschwarz
+Hospitant Trainee Referendar Volontär Praktikant
+Volontariat Volo
+Wendepunkt Umkehrpunkt Wendemarke Wende
+Globalisierung Mondialisierung
+Bundesdatenschutzgesetz BDSG
+Telekommunikationsgesetz TKG
+TMG Telemediengesetz
+benässen befeuchten
+intermittierend abwechselnd
+Antiutopie Dystopie
+Operatorpriorität Auswertungsreihenfolge Operatorwertigkeit Operatorrangfolge Operatorpräzedenz
+herunterspielen kleinreden bagatellisieren abwiegeln verharmlosen marginalisieren zurückhalten
+ansetzen einplanen veranschlagen
+Muster Rapport Textilmuster Dessin
+Purgatorium Fegefeuer Fegfeuer
+Meinungsänderung Sinneswandel Meinungswandel
+menschengemacht anthropogen
+Sachsen-Anhalter Sachsen-Anhaltiner
+unnütz untauglich nutzlos unwirksam unbrauchbar
+aufoktroyiert aufgedrängt
+Romanze Lovestory Liebesabenteuer Liebschaft Liebesgeschichte
+Senilität Greisenhaftigkeit
+Hausflur Ern Stiegenhaus Flur Treppenhaus
+Dividendenzahlung Dividendenauszahlung Dividendenausschüttung
+Orgelmusiker Organist Orgelspieler
+Flötist Flötenspieler
+Bezugsrechtshandel Bezugsrechtehandel
+Obstfliege Taufliege Gärfliege Fruchtfliege Mücke Mostfliege Drosophilidae Essigfliege
+Geothermie Erdwärme
+Gletscherschwund Gletscherschmelze
+genmanipuliert genverändert
+Trommler Trommelspieler
+Klarinettist Klarinettenspieler
+Sopranist Tenor Sopransänger Sopranistin
+Sackpfeifer Dudelsackspieler Dudelsackbläser
+Bassflügelhorn Tenorhorn
+Fagottist Fagottspieler
+Heroldstrompete Fanfarentrompete
+Buslenker Autobusfahrer Autobuschauffeur Busfahrer Buschauffeur
+Bankbürgschaft Bankaval
+trainiert weitergebildet geübt kundig geschult qualifiziert
+Mayonnaise Mayo Majo Majonäse
+Bollerwagen Leiterwagen
+Variante Ausführung Ausgabe Revision Version
+Selbstpräsentation Selbstdarstellung Selbstinszenierung Auftritt
+davonschwimmen wegschwimmen
+echt realistisch
+Pferdebremse Pferdefliege Bremse
+Parzipan Persipan
+abmildern abfedern abbremsen
+narrensicher idiotensicher
+Subroutine Unterprogramm
+Wasserkocher Heißwasserkocher
+Glutamatunverträglichkeit China-Restaurant-Syndrom
+Rennpiste Rennstrecke Parcours Piste Rennbahn
+Emission Ausstoß Freisetzung
+reisebereit reisefertig
+Ladenöffnungsgesetz Ladenschlussgesetz
+Fachmagazin Fachzeitschrift Fachblatt
+penetriert durchdrungen
+Botulinum-Neurotoxin Botulinustoxin Botulin Botulismustoxin Botulinumtoxin Botox
+G8-Treffen G-8-Treffen G8-Gipfel G-8-Gipfel Weltwirtschaftsgipfel
+Superbenzin Super
+Hochschätzung Wertschätzung
+Zweierbeziehung Beziehungskiste Zweierkiste Beziehung Liebesfreundschaft Liebesbeziehung
+direkt eins-zu-eins spiegelbildlich unverändert
+Temperaturdurchschnitt Durchschnittstemperatur
+Pokerspieler Pokerer
+Fechter Fechtsportler
+entsprechen gleichkommen übereinstimmen korrespondieren
+Waschschüssel Lavoir
+derenthalben hierbei
+diesseits hier hüben
+dieserart solch derlei derartige solcherlei dergleichen dererlei solche solcherart
+beklemmend unheilvoll schädlich ungut
+bitterernst ernst todernst
+Unterhaltungswert Lustfaktor Spaßfaktor
+Epigonen Nachgeborene
+Baustellenkran Baukran
+Blitzschlag Blitzeinschlag
+verinnerlicht internalisiert
+Sicherheitsfahrschaltung Sifa Totmannknopf
+Anfangsbuchstabe Initial
+Sonnenmilch Sonnencreme Sonnenschutzcreme
+ausgewischt gelöscht weggelassen gestrichen ausgelöscht beseitigt
+Behaltezeit Behaltefrist Behaltedauer Vorhaltezeit Haltezeit Aufbewahrungsfrist Behaltezeitraum Aufbewahrungszeit
+ausbalanciert austariert
+promiskuitiv nymphoman liebestoll mannstoll
+Formulierung Wortlaut
+getilgt bezahlt
+Eumenide Medusa Racheengel Rachegöttin Erinnye Furie
+Traversflöte Querflöte
+Pompon Tanzwedel Puschel
+Riesenwuchs Gigantismus Makromelie Hypersomie Makrosomie
+Aerobatik Kunstflug
+kurzsichtig myop myopisch
+spontan umstandslos kurzweg ohneweiters kurzerhand kurzentschlossen ungeniert schlankweg unbesehen bedenkenlos
+Langlaufspur Loipe Langlaufbahn
+Tiefenmesser Bathometer Tiefenlot Echolot
+tropfenförmig tränenförmig
+Sachbuch Non-Fiction
+Säftelehre Humoralpathologie Viersäftelehre
+Stielbrille Lorgnette
+Krankheitsfurcht Nosophobie Nosomanie
+Marinechronometer Schiffsuhr Schiffschronometer Längenuhr
+Wolgograd Stalingrad
+Rote-Armee-Fraktion RAF
+Studentenkorporation Korporation Studentenverbindung
+regressiv zurücklaufend rekursiv zurückgehend
+Körpererziehung Leibesübungen Leibesertüchtigung Körperertüchtigung Sport
+Schnittmenge Überschneidung
+Einflussgröße Stellschraube Parameter Steuergröße
+verschiedene verschiedenerlei verschiedenartige vielfältige unterschiedliche diverse
+elaboriert besser ausgereift leistungsfähig ausgetüftelt ausgefeilt verfeinert
+Corps Korporation Studentencorps
+schnellstmöglich ehebaldigst baldestmöglich frühestmöglich nächstmöglich ehestens baldigst baldmöglichst ehestmöglich schnellstens
+irgendwelche beliebige
+Aktuator Aktor
+Romanschriftsteller Romanautor Romanschreiber Romancier
+Bestimmungsfaktor Einflussfaktor
+Letztplatzierter Letzter Schlusslicht
+Ungeniertheit Zwanglosigkeit Lässigkeit Unbekümmertheit Ungezwungenheit Nonchalance Coolness
+Energieverschwendung Energievergeudung
+Stromverschwendung Stromvergeudung
+AK-47 Kalaschnikow
+vollbracht gelungen bewältigt geschafft
+Ekranoplan Bodeneffektfahrzeug
+erschreckend bestürzend schockierend
+Selbstsucht Egomanie Ich-Sucht
+kräftig markig kraftvoll kernig prägnant plakativ
+Marktakteur Marktteilnehmer
+Unmittelbarkeit Direktheit
+Unterordnung Schubladisierung Subsumierung Subsumption Subsumtion
+Wikiwiki Wikiweb Wiki
+Beseitigung Behebung
+Geradlinigkeit Integrität Geradheit Gradlinigkeit
+Steckdosenleiste Mehrfachstecker Mehrfachverteiler Steckdosenverteiler Mehrfachsteckdose Steckerleiste
+Realitätsflüchtender Eskapist
+verteidigend rechtfertigend apologetisch
+übergeben übereignen
+vermisst fehlend abgängig
+Falle Überfall Hinterhalt
+Sichtkonto Girokonto
+Warenwirtschaft MM Materialwirtschaft
+ausführen durchführen abarbeiten verarbeiten
+Hafner Ofenbauer
+muskulös muskelbepackt
+brunftig raunzig stierig ochselig paarungsbereit hitzig fiebrig rauschig bullig bockig brünstig läufig rinderig rollig rossig rammelig heiß
+Sankt-Elms-Feuer Elmsfeuer Eliasfeuer
+Energiebedarf Energieverbrauch
+Druckluftspeicherkraftwerk Druckluftspeicher-Gasturbinen-Kraftwerk Druckluftkraftwerk Luftspeicher-Kraftwerk
+Schwaben Schwabenland Schwabenländle
+Gangwahlhebel Schalthebel Handschalthebel Schaltknüppel Schaltknauf Gangwahlschalter Wählhebel Ganghebel
+Sexkino Pornokino Erotikkino
+Sexfilm Pornofilm
+börsengehandelt börsennotiert
+Polygraf Lügendetektor Polygraph Biosignalgerät
+Scheherazade Scheherezade
+Profifußballer Fußballprofi
+Basketballprofi Profibasketballer
+Radrennprofi Profiradrennfahrer
+Mieter Pächter Bestandnehmer
+Menschwerdung Anthropogenie Anthropogenese Hominisation
+Golfprofi Profigolfer
+Erklärungsdruck Erklärungsnot
+WM-Leader Weltmeisterschaftsführender
+Schweinebraten Schweinsbraten
+Pappmachee Papiermachee Papiermaché Pappmaché
+nachfolgend später folgend nachstehend
+Taxifahrer Taxichauffeur Taxler
+Pausenhof Schulhof
+konsistent stimmig widerspruchsfrei
+Kapitalschnitt Kapitalherabsetzung
+Qubit Quantenbit Qbit
+unweit nahebei
+Bildungsvideo Bildungskurzfilm
+Außenborder Außenbordmotor
+Innenborder Innenbordmotor
+Gewinnmultiplikator KGV Kurs-Gewinn-Verhältnis
+Kurs-Buchwert-Verhältnis KBV
+KCF KCV Kurs-Cash-Flow-Verhältnis
+KUV Kurs-Umsatz-Verhältnis
+Kurs-Substanzwert-Verhältnis Marktwert-Buchwert-Verhältnis
+Lieferkette Versorgungskette
+Radsatzfahrmasse Achsdruck Radsatzlast Achsfahrmasse Achslast
+Zuwendender Gönner Schenkender Schenker
+verschränken überkreuzen
+verstreut versprenkelt dispers verteilt
+Räucherspeck Selchspeck
+anlässlich angelegentlich aufgrund
+vorziehen priorisieren
+Newtonmeter Nm
+Mahnschreiben Mahnung Zahlungserinnerung Zahlungsaufforderung
+adressiert angesprochen
+anreden adressieren anquasseln anlabern ansprechen anquatschen
+Waschbecken Waschtisch Lavabo Waschmuschel
+Zukost Ergänzungsnahrung Beikost
+hemdsärmelig hemdärmelig ungezwungen hemdärmlig locker bequem salopp
+Präzisionsgewehr Scharfschützengewehr Präzisionsschützengewehr
+Aerosolbombe Vakuumbombe Druckluftbombe
+Gänseküken Gössel
+Bauchdeckenplastik Bauchdeckenstraffung Bauchstraffung
+zwischenmenschlich interpersonell
+Servicewüste Dienstleistungswüste
+Näherung Approximation
+Sonderausstattung Extra Asset Zusatzposten
+Jazzmusiker Jazzer
+Analkoitus Analverkehr Arschfick
+Eigengebrauch Eigennutz
+Bronchie Luftröhrenast
+blank bar nackt frei ohne bloß
+Bahnradfahrer Bahnradler
+Organspendeausweis Organspenderausweis
+Prozessmanagement Geschäftsprozessmanagement
+Bache Wildsau
+Unternehmergeist Entrepreneurship Unternehmermentalität
+Gefühlsblindheit Alexithymie
+Prävalenz Krankheitshäufigkeit
+Blickbewegungsregistrierung Okulographie
+Rechnungsintervall Zahlungszeitraum
+reimen dichten
+wackeln torkeln geigeln
+Uptime Betriebszeit Verfügbarkeit
+vormachen demonstrieren vorexerzieren
+Chipkartenleser Chipkartenlesegerät
+Hephäst Vulcanus Hephaistos
+Kartenlesegerät Kartenleser
+gleichnamig namensgleich
+scheitern schiefgehen fehlgehen fallieren misslingen schieflaufen danebengehen missglücken fehlschlagen missraten floppen
+betraut beauftragt
+xerografieren kopieren fotokopieren xerographieren
+Solidaritätszuschlag Soli
+Zirkel Junta Kommission Rat Arbeitskreis Ausschuss Komitee Beirat Gremium
+Dummheit Stupor Stumpfheit
+ausgehöhlt hohl leer
+annotieren auszeichnen
+Sterngigant Riesenstern Riese Gigant Überriese
+Fehlalarm Falschalarm Täuschungsalarm
+Schreibwaren Büroartikel
+Wegesrand Rain Feldrain Ackergrenze Feldrand Wegrand
+EdS EdS-Parfums
+Kampfkunst Kampfsport
+Trajektschiff Trajektfähre Eisenbahnfährschiff Eisenbahnfähre
+Luxusgut Luxusprodukt Luxusartikel
+Trade Zock Spekulation Börsenspekulation
+Ablegerbildung Stecklingsvermehrung
+Kirchturm Campanile Glockenturm
+Boson Vermittlerteilchen
+einfüllen hineingeben hineinlegen reintun
+Nebeneinanderstellung Gleichordnung Gleichrangigkeit Parataxe
+Kapelle Oratorium
+Sternschnuppe Meteor
+welcher dieser jener der solcher
+Lebensführungskosten Lebenshaltungskosten
+Dialektologe Mundartforscher
+vertragen aushalten verknusen abkönnen
+Gewicht Ballast
+Beweggrund Movens
+Rüster Effe Ulme
+Balsamessig Würzessig Reisessig Balsamico Apfelessig Essig
+Essigsäure Ethansäure
+Lanyard Schlüsselband
+Eller Erle
+Methansäure Ameisensäure
+Rückschluss Konklusion Schlussfolgerung Implikation Folgerung Konsequenz
+Luftpartikel Aerosol
+Albedo Reflexionsvermögen Rückstrahlungsvermögen
+Lied Song
+Kirchengesang Choral Gesang
+Habilitationsschrift Habil
+Schwedenzange Rohrzange Eckrohrzange
+MG Maschinengewehr
+Flinte Schrotflinte Schrotgewehr
+Karabiner Reiterflinte
+Selbstladegewehr Repetiergewehr
+Hiebwaffe Stichwaffe
+Mine Sprengfalle
+Militärmusik Marschmusik Marsch
+Lied Kantate
+Griff Griffstück Schaft Stiel Handgriff
+Handlungsprodukt Werk Opus Arbeitsergebnis Artefakt
+Kunstwerk Kunstobjekt
+Frührente Frühpension
+Frührentner Frühpensionist
+exzitatorisch erregend
+Multilingualismus Mehrsprachigkeit
+Höhlenforschung Speläologie Speleologie Höhlenkunde
+Höhlenforscher Höhlenkundler Speläologe
+genotypisch erbmäßig
+Erscheinungsform Erscheinungsbild Phänotyp
+Webradio Internetradio
+Futurologie Zukunftsforschung
+Kombüse Bordküche Schiffsküche
+aggregiert konzentriert zusammengeballt angesammelt
+bäuerlich ländlich rural
+genussvoll lustbetont genüsslich hedonistisch lustvoll sinnenfreudig genussreich sinnlich genießerisch
+Lasurit Lapislazuli Lasurstein
+Mittler Kommunikationsträger Mittel Medium Informationsträger
+Erfolg Aufsteller
+Skihersteller Skierzeuger Skiproduzent
+Saline Salzbergwerk
+Homiletik Predigtlehre
+Liturgik Liturgiewissenschaft
+Tomatensoße Paradeissauce Tomatensauce Paradeissoße
+Bahnsteigdach Perrondach
+Datenüberhang Verwaltungsaufwand Overhead Überhang Verlangsamung
+elaborieren ausarbeiten
+vorhin gerade anhin geradehin bisher ebenhin
+Abarbeitungsfaden Ablaufstrang Aktivitätsträger Thread
+Unwägbarkeit Eventualität Möglichkeit Risiko Chance
+Vorbild Modell Schema Vorlage
+Methylwasserstoff Methan Erdgas
+erschaffen bewirken hervorbringen formen herstellen fabrizieren erzeugen synthetisieren
+Sibilant Zischlaut
+Potentiometer Potenziometer Poti Trimmer
+Plutokratie Plutarchie
+Stöckelschuh Louboutin Stiletto
+eröffnen offenstehen bieten
+Ausführung Verarbeitung Ablauf Abarbeitung Execution
+auftretend ergebend aufkommend entstehend auftauchend hervortretend emergent
+Umstrukturierung Umbau
+Pendeluhr Pendule Pendüle
+geschätzt bejubelt lieb verehrt geliebt teuer geehrt
+Intimbereich Scham Schamgegend Schambereich Schritt
+partizipativ demokratisch kooperativ
+Markteffizienztheorie Effizienzmarkttheorie Effizienzmarkthypothese
+realisieren abbilden
+überwiegend größtenteils gutenteils großteils weitgehend großenteils
+Funktionalität Anforderung Forderung Bedarf Anspruch Erfordernis
+Anklang Vorgeschmack Vorzeichen
+anschneiden vorgreifen
+Lastverteilung Parallelisierung
+programmierbar benutzerdefiniert flexibel
+spracheigen sprachspezifisch
+Mechanismus Einrichtung Vorrichtung
+Zurverfügungstellung Erbringung Versorgung Verfügbarmachung Bereitstellung
+Klassifizierung Indexierung Verstichwortung Beschlagwortung Klassifikation Verschlagwortung
+Exaltation Aufgeregtheit Überregung Aufregung
+herumjonglieren lavieren taktieren jonglieren durchschlängeln herumlavieren
+Euro-Währungsgebiet Eurozone Eurogebiet Euroland Euroraum
+umgekehrt wiederum hingegen entsprechend dafür dagegen andersrum andersherum
+richtiger passender überlegen besser größer
+Einsatzbericht Stundenzettel
+feinkörnig feingranular
+zuteilen geben ermöglichen
+spendieren schenken verschenken geben
+sonst oder beziehungsweise andernfalls
+Pellote Peyotl Mescalbuttons Peyote
+Banküberfall Bankraub
+Organik Kohlenstoffchemie
+Pulsrohr Pulso-Schubrohr Verpuffungsstrahltriebwerk Argus-Schmidt-Rohr Schmidt-Rohr Pulsstrahltriebwerk Pulsotriebwerk Argus-Rohr
+BMG Bundesgesundheitsministerium
+Einsatzgebiet Einsatzfeld Bereich
+Rechengang Rechenschritt Einzelschritt Operation Verarbeitungsschritt
+Manipulation Operation Zugriff
+nebenläufig nebenher nebeneinander
+Abarbeitung Bearbeitung Verarbeitung
+Auslassung Elision
+einzeln solo selber alleine
+leicht trivial einfach simpel
+Kontaktinfektion Schmierinfektion
+Themengebiet Materie Thematik Gegenstand Angelegenheit Sujet Themenstellung Aufgabenstellung Problemstellung Fall
+Flaggenkunde Fahnenkunde Vexillologie
+Hüttenwesen Metallurgie
+sicherheitshalber vorsichtshalber
+Abbild Klon Ebenbild
+Reichhaltigkeit Abundanz Üppigkeit Opulenz
+Rechnung Gleichung Formel Grundrechnung
+ansetzen festsetzen anordnen anberaumen einberufen
+einberaumen vorsehen einplanen
+Umstrukturierung Restrukturierung Restructuring
+restrukturieren umstrukturieren umwandeln überführen
+beiderlei zweierlei beide beiderartig
+Umwandlung Transformation Abbildung Überführung Konvertierung
+sterilisieren entmannen abälardisieren kastrieren
+welches was
+Unfreundlichkeit Unhöflichkeit
+Wettkämpfer Agonist Wettkampfteilnehmer
+vielerorts häufig
+geschmacksintensiv deftig umami würzig kräftig herzhaft
+obendrein überdies außerdem zusätzlich auch und
+parallelisierbar verteilungsfähig verteilbar
+Performanz Geschwindigkeit Leistungsfähigkeit Leistung
+bilden zusammenbauen zusammenfügen zusammentragen zusammenschreiben
+übereinstimmend deckungsgleich kongruent identisch
+richtungslos ziellos absichtslos ungerichtet
+permutierbar ordnungslos
+durchwirkt verwoben eingeflochten
+Versteckspiel Artikel Vorbehalt Verpflichtung Beschränkung Kautel Einschränkung
+anfügend zusammentuend ergänzend additiv beifügend hinzufügend
+Verlust Wegfall Auslassung Fortfall Streichung Ellipse Weglassung Entfall
+gemein untergriffig boshaft
+Suezkanal Sueskanal
+zügellos sinnlich lasziv geil verführerisch übermütig herausfordernd
+UV-B-Strahlung Dorno-Strahlung Dornostrahlung
+Verfechter Anwalt Befürworter Vertreter Fürsprecher Apologet Verteidiger
+Kronenkorken Bierkapsel Kronkorken
+Verbraucherinsolvenzverfahren Privatinsolvenzverfahren Schuldenregulierungsverfahren
+Verbraucherinsolvenz Privatinsolvenz
+meiden scheuen umgehen bleibenlassen vermeiden
+Überstunden Zusatzverdienst Überzeit Mehrarbeit Plusstunden Überarbeit
+PaK Panzerabwehrkanone
+Mückenstich Gelsenstich
+hübsch gepflegt ordentlich adrett
+bedeutungsmäßig semantisch
+Tonfigur Bildthema Bildmotiv Motiv Thema
+Solarkollektor Sonnenkollektor
+abwickeln erledigen bewerkstelligen leisten ausführen vollführen verrichten durchführen realisieren umsetzen
+Eudämonismus Eudaimonismus
+wiederverwertbar recyclebar recyclingfähig
+Nougat Nugat
+Aggregation Aggregierung
+Körpermassenzahl Körpermasseindex Body-Mass-Index Kaup-Index BMI
+Bolschewiki Mehrheitler
+Umgestaltung Perestroika Umstrukturierung Umbau
+Gulag Gefangenenlager Bagno Strafgefangenenlager Besserungsarbeitslager Arbeitserziehungslager Lager Umerziehungslager Arbeitslager Straflager
+Eigenkapitalrentabilität Unternehmerrentabilität
+Tomatensuppe Paradeissuppe
+Tomatencremesuppe Paradeiscremesuppe
+Totenkopf Totenschädel
+Sterbebett Totenbett
+Kartoffelsalat Erdäpfelsalat
+Kartoffelchips Pommes-Chips Chips Rohscheiben
+Kartoffelpfannkuchen Reibeplätzchen Erdäpfelpuffer Kartoffelpuffer Reiberdatschi Reibekuchen
+Ausgabe Ausdruck
+Geschlechtspartner-Orientierung Sexualorientierung Sexualpräferenz
+geheißen namens benannt genannt
+Gezischel Zischeln
+Stoffwechselzwischenprodukt Metabolit
+Energieversorgungsunternehmen EVU Energieversorger
+Eisenbahnverkehrsunternehmen EVU
+Leistungsverbesserung Leistungszuwachs Leistungserhöhung
+Szenarist Drehbuchautor Drehbuchschreiber Drehbuchverfasser
+Blockheizkraftwerk BHKW
+FMA Finanzmarktaufsicht
+BKA Bundeskriminalamt
+Flachsöl Leinöl
+Leinsaat Flachssamen Leinsamen
+Novelle Änderungsgesetz
+Bedingung Fallunterscheidung
+Freitaucher Apnoetaucher
+Lebendschach Lebendschachspiel
+Fernsprechzelle Telefonhüttl Telefonhäuschen Telefonzelle
+Intrusivgestein Plutonit Tiefengestein
+bemüht fleißig besorgt emsig bestrebt betriebsam
+Klassismus Klassendiskriminierung
+französischsprachig frankofon frankophon
+Allradtraktor Allradschlepper
+empathisch mitfühlend einfühlend
+optimierbar steigerungsfähig
+Tauglichkeitsuntersuchung Musterung Stellung Rekrutierung
+Hintergrund Background
+megalomanisch gigantomanisch größenwahnsinnig überdimensioniert übergeschnappt megaloman
+Gebäudetrakt Gebäudeflügel
+Körperfehlhaltung Haltungsfehler Fehlhaltung
+Karabinerhaken Karabiner
+Bay Bayrumbaum
+Altersabsicherung Altersvorsorge
+vorauszusehen vorprogrammiert programmiert abzusehen
+zugesandt zugeschickt zugesendet
+Fortschrittsdenken Progressismus
+Besprechung Dialog Rücksprache
+Ausplünderei Exploitation Ausbeuterei Halsabschneiderei Ausbeutung Ausplünderung
+büffeln memorieren
+Glutaminsäure Glutamat
+Kammerjäger Schädlingsbekämpfer Desinfektor
+auch aka alias vulgo
+Aufhebungsvertrag Auflösungsvertrag
+Vorbemerkung Prolegomenon
+ACTS Abroll-Container-Transport-System Abrollcontainer-Transportsystem
+Anstieg Gradiente Steigung Höhenunterschied
+Leitfaden Führer Handbuch Anleitung Anweisung
+Saloniki Thessaloniki
+Frauenbeschneidung Beschneidung Mädchenbeschneidung Genitalverstümmelung
+Denkschrift Aufsatz Abfassung Niederschrift
+hintanhalten verhindern verzögern hintansetzen
+vorbenannt obig besagt betreffend letzterer vorbezeichnet selbiger ebenderselbe ebendieser jener ebenjener fraglich genannt bekannt nämlicher dieser bewusst vorgenannt erwähnt derselbe
+Endrundenteilnehmer Finalist Finalteilnehmer
+aufklären nachweisen aufspüren
+Schuldenverringerung Schuldenreduktion Schuldenabbau
+Defizitabbau Defizitverringerung Defizitreduktion
+fahren lenken chauffieren steuern kutschieren
+Wartungsmannschaft Wartungstrupp Instandhaltungstrupp
+Bellizismus Kriegsverherrlichung
+Pazifismus Friedensbewegung
+Verzierung Garnitur Besatz
+Straßenmarkierung Fahrbahnmarkierung
+Permanentmagnet Dauermagnet
+Podsol Grauerde Bleicherde
+Konnexion Verbindung
+Umkehrplatz Wendeanlage Wendeplatz
+Extinktion Auslöschung
+Agrotreibstoff Ökosprit Biosprit Biotreibstoff Agrosprit Ökotreibstoff Biokraftstoff
+Purser Chefsteward Kabinenchef
+Sehtest Augentest
+gerade kerzengerade stocksteif aufrecht schnurgerade pfeilgerade
+Erzeugungsmenge Herstellungsmenge Produktionsmenge
+Partikularinteresse Einzelinteresse
+Zeitknappheit Zeitmangel
+IPCC Weltklimarat
+Eisschild Inlandeis
+Sterbetag Todestag Sternengeburtstag
+Todeszeitpunkt Todeszeit Sterbezeit
+Todesort Sterbeort
+Industrieller Fabrikeigentümer Fabrikbesitzer Schlotbaron Fabrikant
+Paukist Paukenspieler Paukenschläger
+Lastenaufzug Lastenlift
+Personenaufzug Personenlift
+Schräglift Schrägaufzug
+Todesfall Sterbefall Trauerfall
+Todesurkunde Sterbeurkunde
+Zuweisung Gleichsetzung
+Jahrgang Generation Alterskohorte Kohorte Altersgruppe
+hochauflösend fein engmaschig
+Alltag Tagesgeschäft Routine
+verspielt floral blumig
+Gehaltsliste Lohnliste Payroll
+Zink-Kohle-Element Zink-Kohle-Zelle Zink-Kohle-Batterie Zink-Kohle-Trockenbatterie Zink-Braunstein-Zelle
+Luftbildfotografie Aerofotografie Luftfotografie
+Mittelsehne Durchmesser
+Nachrichtenübertragung Nachrichtenübermittlung
+Reibungszahl Reibungskoeffizient
+Frühsommer-Meningoenzephalitis FSME
+Kinderkommunion Erstkommunion
+Halbmesser Radius
+Schilddrüsenhormonüberproduktion Hyperthyreose Schilddrüsenüberfunktion Schilddrüsenhormonüberschuss
+Vorletzter Zweitletzter
+Lederfabrik Gerberei
+Rübkohl Kohlrabi
+Kappes Weißkohl Weißkraut
+eingezäunt umzäunt
+Tonfolgehorn Folgetonhorn
+summarisch insgesamt kurzum kurz zusammengefasst zusammengenommen
+Verständnislosigkeit Unverständnis
+emulieren abbilden nachstellen nachbilden modellieren
+Locke Haarlocke Welle Föhnwelle Stirnlocke Haarwelle Tolle Schmalzlocke Sturmlocke
+Linker Roter Sozialist Genosse Kommunist
+Marineinfanterist Ledernacken Seesoldat
+schrubben scheuern abschrubben
+abschießen herunterbringen
+links progressiv alternativ
+Beute Beutegut Plündergut Prise Kriegsbeute Raubgut
+aufreißen aufklaren
+Position Status
+brummen brummeln
+keimen regen entstehen
+Trasse Schneise
+bindungsfreudig reaktiv
+Zusammenhang Umstand System Mechanismus
+Neutralleiter Masse
+Gewicht Inertia Masse
+Phase Winkel
+recht billig fair gerechtfertigt gerecht
+Seismologe Erdbebenforscher
+fruchtbar urbar ertragreich gut
+Werg Flachs
+dazumischen mengen unterrühren einrühren
+Golf Meerbusen
+bräunlich erdig
+Meerenge Meeresstraße Sund Belt Kanal
+Kat Qat
+Ordensverleihung Ritterschlag Belobigung Bestätigung
+kämmen frisieren bürsten
+Exorzismus Teufelsaustreibung
+AND-Verknüpfung Und-Verknüpfung
+Koks Kohle Grubengold
+Steinkohle Anthrazit
+Wurfscheibenschießen Tontaubenschießen
+Cherrytomate Cocktailtomate Kirschtomate
+Gyroskop Kreiselinstrument Kreiselstabilisator
+Windkraft Windenergie
+Fahrerlaubnisprüfung Lenkerprüfung Fahrprüfung Führerprüfung Führerscheinprüfung
+Europameisterschaftssieger Europameister
+Flechte Lichen
+Mitverfasser Konautor Mitautor Koautor Coautor
+zerschneiden schnippeln
+Wachsmalstift Wachsmalkreide Wachskreide Wachsmaler Wachsstift
+Wachs Kerzenwachs
+Armleuchter Leuchter Kandelaber
+Grubenholz Stempel
+Kostennote Zeche Honorarnote Rechnung Liquidation Privatliquidation
+Streb Strecke Abbaustrecke
+Palästinensertuch Palischal Kufiya Pali Palituch Palästinenserschal
+Uhrpendel Perpendikel
+Mäusespeck Marshmallow
+umsetzen umstellen versetzen verstellen verschieben rücken
+Autovermietung Autoverleih
+Autovermieter Autoverleiher
+ziellos orientierungslos wahllos
+Sucharbeitslosigkeit Findungsphase
+Sparzirkel Sparverein Esusu Sparclub Tontine
+Mikrokredit Kleinstkredit
+umherschlingernd erratisch verirrt umherirrend schlingernd
+Frauenhass Misogynie Weiberhass Frauenfeindlichkeit Frauenverachtung
+Fotovoltaik Photovoltaik
+Altgedienter Veteran Ausgedienter Kriegsveteran
+Knoblauch Knofel Knofi Chnöbli
+Fuhrknecht Fuhrmann Fiaker Kutscher Postkutscher Postillon Pferdelenker
+kulminieren gipfeln
+Eingewöhnungszeitraum Eingewöhnungsphase Eingewöhnungszeit
+Beobachtungszeit Beobachtungszeitraum
+Besan Besansegel
+Einschulungszeitraum Einschulungsdauer
+Olympionike Olympiateilnehmer Olympiasportler
+Übermächtigkeit Präpotenz
+Rechtkant Quader
+sollen müssen
+faschistoid faschistisch braun rechtsradikal rechtsaußen rechtsextrem nationalsozialistisch
+Demokratiegegner Monarchist Königstreuer Royalist
+Kfz-Steuer Kraftfahrzeugsteuer
+Skinhead Glatze Skin
+Sektglas Sektkelch Sektflöte
+ausgleichen kalmieren beruhigen
+Seeladeschein Konnossement
+Maghrebstaaten Maghreb Maghrebländer
+Untergrundkampf Widerstand Freiheitskampf Partisanenkrieg Résistance
+Röntgenuntersuchung Schirmbilduntersuchung Radioskopie
+Stift Stahlstift Drahtstift Bolzen Nagel
+Drittmittel Forschungsmittel Forschungsetat Forschungsförderung
+Wohnortkonzept Inländerkonzept
+Arbeitsortkonzept Inlandskonzept
+Integralrechnung Integration
+Stotterer Stammler
+Ziegelei Ziegelwerk Ziegelfabrik
+Bassethund Basset
+Bewegungskrankheit Kinetose Reisekrankheit
+Spuckbeutel Speibsackerl Spucktüte Kotztüte
+Leichdorn Krähenauge Klavus Hühnerauge Clavus
+Punktsymmetrie Zentralsymmetrie
+Dynamikbereich Dynamik Kontrastumfang Dynamikumfang
+Sekundärbahn Bimmelbahn Nebenbahn Lokalbahn Provinzbahn Bummelbahn Nebenstrecke
+Renminbi Yuan
+Talk Steatit Magnesiumsilikathydrat
+Halbfinale Vorschlussrunde Semifinale
+verteilen dislozieren
+desto umso
+Pollenanalyse Palynologie Pollenforschung
+Palynologe Pollenanalytiker Pollenforscher
+Finale Endspiel Endausscheidung Finalspiel Entscheidungsspiel
+Waschhandschuh Waschlappen
+Spielzeugeisenbahn Modelleisenbahn Modellbahn
+Basiswortschatz Grundwortschatz
+Kohlenhydrat Saccharid
+Bionik Biomimikry Biomimese Biomimetik
+Mienenspiel Mimik Gesichtsausdruck Miene
+Zwergschimpanse Bonobo
+umlaufen iterieren wiederholen rollieren durchlaufen
+gruppieren kapseln
+Büfett Anrichte Serviertisch
+Hit Klopper Erfolg
+Rahmen Bildhalter Bilderrahmen
+Maltose Malzzucker
+Hagelzucker Perlzucker
+Nudelauflauf Lasagne
+Schmetterlingsnudeln Farfalle
+Fusilli Spiralnudeln
+Hohlnudeln Makkaroni Maccheroni
+Tagliatelle Bandnudeln
+Bauklötzchen Holzklötzchen Bauklötze Holzklötze
+Laktose Milchzucker
+Brombeere Dornbeere
+Steinfrucht Steinobst
+Süßkirsche Vogelkirsche
+Kernobst Apfelfrucht Sammelbalgfrucht
+Milchschokolade Alpenmilchschokolade Vollmilchschokolade
+Geldanlage Kapitalanlage Anlage Investition
+Filzung Perlustrierung Personendurchsuchung
+Maggikraut Liebstöckel
+Kräuter Küchenkräuter
+Shisha Wasserpfeife Schischa
+Extraversion Extroversion
+epigonenhaft epigonal unschöpferisch nachahmend eklektisch
+Panier Feldgeschrei Schlachtruf Kampfesruf Kriegsschrei
+Kartograph Mapper Kartograf
+Jagdreise Safari
+Möller-Barlow-Syndrom Skorbut Möller-Barlow-Krankheit
+Hypovitaminose Vitaminmangel
+EPO Erythropoetin Epoetin Hämatopoetin Erythropoietin
+Pendlerpauschale Entfernungspauschale
+Schifffahrtsroute Seeweg Schifffahrtsstraße Meeresstraße
+plätschern plantschen pritscheln planschen
+Androtropie Androtropismus
+Chorionzottenbiopsie Chorionbiopsie
+Klebereiweiß Kleber Gluten
+Qualle Meduse
+Dutt Haarknoten
+Eukarya Eukaryot Eukaryont
+Prokaryot Monera Prokaryont
+Türke Osmane Kümmeltürke
+Mächtigkeit Macht Potenz
+Keim Wurzeltrieb Knospenansatz Keimling Pflanzentrieb Sämling
+Gehege Käfig Tiergehege Vivarium Tierhaltungsanlage Zwinger
+parsen analysieren
+Stand-By Bereitschaft
+Manipulation Verarschung Veräppelung Gaukelei Trickserei Irreführung Verarsche Verarscherei Bluff List Finte Gaunerei
+abgabenfrei steuerfrei
+Latmaschine Latissimus Kabelzug Zugturm Latzug
+Interessenkonflikt Interessenkollision
+Karrierestreben Karrierismus
+Festungsbauspezialist Mineur
+Tanga-Slip Tanga String Ritzenflitzer String-Tanga
+Magyare Madjare Ungar
+Anhangskraft Adhäsion Anhaftungskraft Adhäsionskraft
+Kernladungszahl Protonenzahl Atomnummer Ordnungszahl
+Verteilungsgesetz Distributivgesetz
+Verbindungsgesetz Assoziativgesetz Verknüpfungsgesetz Klammergesetz
+Vertauschungsgesetz Kommutativgesetz
+Erdschwerebeschleunigung Ortsfaktor Erdschwere Gravitationsbeschleunigung Gravitationsfeldstärke Erdbeschleunigung
+Kanufahrer Kanute
+Monosaccharid Einfachzucker
+Tian'anmen-Platz Tiananmen-Platz
+Tiefensensibilität Propriozeption Tiefenwahrnehmung Propriorezeption
+ABM Arbeitsbeschaffungsmaßnahme
+Stromerzeugung Stromproduktion
+US-Verteidigungsministerium Pentagon
+Halbzeit Seitenwechsel Durchgang
+Pathogenese Krankheitsgeschichte Krankheitsentstehung Krankheitsentwicklung
+Karrenführer Kärrner Fuhrmann Kärer Kärcher Karrer
+Alfalfa Luzerne Schneckenklee Saat-Luzerne
+Laubholz Laubgehölz Laubbaum
+Helote Helot
+Jeremiade Klagelied
+klauben aussortieren
+Schmerzlosigkeit Schmerzfreiheit Indolenz
+Simulakrum Simulacrum
+hypostasieren personifizieren
+Rückgang Rückentwicklung Rückbildung
+Dorada Dorade Goldbrasse Goldbrassen
+Futtermittelallergie Futterallergie
+Faszikel Heft Aktenbündel
+Datscha Wochenendhaus Gartenhaus Datsche Laube Landhaus Sommerhaus Ferienhaus
+Ostalgie DDR-Nostalgie
+kolonialisieren kolonisieren
+Überzeugung Glaube
+schmerzlos schmerzunempfindlich schmerzfrei indolent
+Maultier Muli Maulpferd
+Flipflops Badeschuhe Badeschlapfen Badeschlappen Badelatschen
+Kaiserschmarren Kaiserschmarrn Pfannkuchen
+verweisen sperren ausschließen disqualifizieren
+Ermächtigung Empowerment
+Konspirant Verschwörer Aufrührer Empörer
+Bezeugung Mitteilung Bekundung Erweisung Äußerung Bekunden Beteuerung
+Schwangerschaftskleidung Schwangerschaftsmode Umstandsmode Umstandskleidung
+Explosionszeichnung Explosivdarstellung Explosionsgrafik
+verbiegen anpassen
+Pankreas Bauchspeicheldrüse
+Rollfeld Rollbahn
+Vaterfolge Patrilinearität Väterlinie
+Edelzwiebel Eschlauch Schalotte Eschalotte Askalonzwiebel
+Pflanzenarchiv Herbar Herbarium
+Grabrede Trauerrede Epitaph
+Stampede Herdenpanik
+Kriegsteilnehmer Kämpfer Kombattant
+Tempo Zeitmaß
+korrosionsfest korrosionsbeständig korrosionssicher
+Paddelboot Kanu
+anfänglich initial
+Verzinsung Aufschlag Zins Aufwand Abgabe Ertrag
+Borke Kruste
+Orden Ordensgemeinschaft
+Sigmatismus Lispeln
+Patenschaft Gönnerschaft Pflegschaft Schutz
+Standwirbel Drehschwung Pirouette Drehung
+Cockpit Pilotenkanzel Fahrersitz
+Richtstatt Richtstätte Hinrichtungsstätte Richtplatz
+schieben schmuggeln paschen schwärzen
+Schleichware Bannware Konterbande Schmuggelware
+Schneetreiben Schneegestöber
+Tierseuchenkunde Epizootiologie
+Dresdener Dresdner
+Verwahrstück Asservat
+Geschäftsbevollmächtigter Prokurist
+schauerlich grausig geschmacklos pietätlos makaber düster respektlos abartig schauderhaft
+Fallschwertmaschine Fallbeil Köpfmaschine Guillotine Schafott
+pökeln suren
+kandieren konfieren einzuckern
+entkeimen pasteurisieren sterilisieren
+Klammer Heftklammer
+Flosse Taucherflosse Schwimmflosse
+Kamerad Kollege Genosse Sozius
+Anstrich Bemalung Lackierung
+unmanierlich rotzfrech frech ungebührend unartig salopp impertinent ungehobelt kodderig rotznäsig ungeschliffen rotzig nassforsch unbotmäßig präpotent anmaßend ungesittet unanständig kotzbrockig schnodderig ungezogen respektlos ungehörig unverfroren rücksichtslos unhöflich unangemessen patzig nickelig flapsig unflätig pampig dreibastig ungebührlich unverschämt koddrig dreist
+richtigstellen klären berichtigen klarstellen korrigieren rektifizieren
+märchenhaft wunderbar wundersam fabulös phantastisch mirakulös traumhaft feenhaft sagenhaft legendenhaft unglaublich
+Kaskoversicherung Fahrzeugversicherung
+Wählerschaft Wahlvolk Urnenpöbel Elektorat Wahlvieh Stimmvieh Wahlberechtigte Stimmbürger Urnengänger Wähler
+Jahreshaushalt Haushaltsjahr
+Parfumflakon Parfumflasche
+rustikal gehörig urwüchsig urig waschecht zünftig bodenständig kernig
+Spitzbube Langfinger Klauer Klaubock Dieb
+treulos unloyal vertragsbrüchig abtrünnig ketzerisch illoyal ungetreu
+Unfallflucht Führerflucht Fahrerflucht
+Backenzahn Seitenzahn Stockzahn
+Teer Pech
+Lamellenmotor Druckluftlamellenmotor
+Mehrfacherkrankung Multimorbidität Polymorbidität
+Seriengrößendegression Auflagendegression
+einreichen anmelden
+Schikane Gängelung
+Raffinierung Raffinieren Veredelung Raffination
+Nanologe Gartenzwergkundler Gartenzwergesammler
+psychotisch gemütskrank neurotisch nervenkrank
+2-Euro-Münze Zwickel 2-Euro-Stück
+Kraftmensch Kraftprotz Rambo Kraftpaket Kraftmeier Herkules
+Repatriierung Auslandsrückholung
+zurückbestellen zurückpfeifen zurückbeordern zurückordern
+Schreckensnachricht Horrormeldung Schreckensbotschaft Unglücksbotschaft Schreckensmeldung Hiobsbotschaft
+Anerkenntnis Zugeständnis Einräumung Eingeständnis
+Grad Stärke Intensität Ausmaß
+Vergesslichkeit Schusseligkeit
+Belüftungsschacht Ventilationsschacht Luftschacht Entlüftungsschacht Lüftungsschacht
+abteufen niederbringen teufen
+Nichtigkeit Unwirksamkeit
+gluckern blubbern glucksen brodeln
+Kurzschluss Kurzen Kurzer
+asphaltieren teeren
+Unverhältnismäßigkeit Inadäquanz Unangemessenheit
+Verwirrung Verblendung Realitätsverleugnung
+Maschinenführer Maschinist Maschinenbediener
+vollblütig reinrassig
+Schweiß Schweißsekretion Hautausdünstung Transpirationsflüssigkeit Soße Schweißabsonderung
+Hautwolf Wundsein Intertrigo Wolf
+Mallorca-Akne Sommerakne
+Säuglingsakne Kleinkindakne
+Basalzellenkrebs Basaliom Basalzellkarzinom
+Becker-Nävus Becker-Melanose
+Buchweizenkrankheit Buchweizenausschlag
+Dyshidrose Dyshidrosis Pompholyx
+Größenkostenersparnis Skaleneffekt Skalenertrag
+Tab Reiter
+unverwüstlich unzerstörbar unkaputtbar
+Prospektion Schürfen Schurf
+Alpha-Tier Platzhirsch Alpha-Weibchen Leittier Alpha-Männchen
+Grießknoten Grützbeutel Atherom Talgzyste Balggeschwulst Trichilemmalzyste
+Schweinerotlauf Erysipeloid
+Hämhidrose hemidrosis Blutschweiß hemathidrosis
+Karbunkel Eiterbeule
+Talfieber Wüstenrheumatismus Wüstenfieber Kokzidioidomykose
+Lichtallergie Sonnenallergie Photoallergie
+Abrundung Arrondierung
+Lyme-Krankheit Lyme-Borreliose
+Schweißfrieseln Hitzepickel Schweißbläschen Hidroa Hitzeblattern Sudamina Miliaria Schwitzbläschen
+mitschleifen mitzerren mitreißen mitschleppen mitziehen
+Festkosten Grundkosten Bereitschaftskosten Fixkosten
+Molluske Dellwarze
+Perlèche Faulecke Mundwinkelrhagaden
+Fliegenmadenkrankheit Myiasis
+Eppinger-Sternchen Gefäßspinne Sternnävus Spinnennävus
+Nagelmykose Onychomykose Nagelpilz
+Geschlechtschromosom Heterochromosom Heterosom Gonosom Allosom
+Melanozytennävus Pigmentnävus
+Angioödem Quincke-Ödem
+Strahlendermatitis Radiodermatitis
+Schuppenröschen Röschenflechte
+Schooner Schuner Schoner
+Spitz-Tumor Spitz-Nävus Epitheloidzellnävus Spindelzellnävus
+Schenk-Krankheit Sporotrichose Sporothrix-Mykose
+Sturge-Weber-Syndrom Sturge-Weber-Krabbe-Syndrom
+Scheckhaut Weißfleckenkrankheit Vitiligo
+Photodermatitis Wiesengräserdermatitis
+Windeldermatitis Windelsoor Windelausschlag
+Blasenfüße Gewitterfliegen Thysanoptera Fransenflügler Gewitterwürmer Gewittertierchen Thripse
+ersehen ablesen erkennen
+Gruppenklage Massenklage Sammelklage
+Frequentierung Besucherzahl
+Hähnchenbollen Hähnchenflügel Hähnchenschlegel Hendlfuß Hendlschenkel Hähnchenschenkel Gockelhaxen
+mausgrau grau
+Plent Riebel Polenta Sterz
+Herzschmerz Stenokardie Herzenge Brustenge Herzbeklemmung
+Anorak Schneejacke Kapuzenjacke
+Glaskugel Klicker Marmel Murmel Schusser
+Deltamündung Flussdelta Mündungsdelta
+gockeln rucksen gurren girren balzen rucken kollern
+Mongolenhütte Nomadenzelt Jurte Kuppelzelt
+Lesefähigkeit Lesekompetenz Lesefertigkeit Leseverstehen
+Vorbestimmung Vorherbestimmung Determinismus
+Klientelismus Protektion Patronage Cliquenwirtschaft
+Deletion Gendeletion
+Desoxyribonukleinsäure Erbinformation DNS DNA
+Milchmädchenrechnung Trugschlussrechnung
+Morphophonologie Morphonologie
+Korrelationswert Korrelationskoeffizient Produkt-Moment-Korrelation
+Skalenqualität Skalendignität Skalenniveau Messniveau
+Reichsschatz Reichsinsignien Reichskleinodien
+Liturgiesprache Sakralsprache
+bestrafen verdonnern bekommen verknurren aburteilen verurteilen
+Töpfer Keramiker Hafner Aulner Häfner
+Paketmacher Paketierer Paketersteller Paketbauer
+Schonungslosigkeit Gefühlskälte Erbarmungslosigkeit Grausamkeit Gnadenlosigkeit Unbarmherzigkeit
+Versicherungsmathematiker Aktuar
+Spiegelbildlichkeit Gleichmaß Symmetrie Gleichseitigkeit Gleichmäßigkeit
+Geschichte Geschichtswerk Annalen Jahrbuch Chronik Aufzeichnung
+Schuhmacher Flickschuster Schuster
+Handbesen Bartwisch Handfeger
+probat geeignet
+Webkatalog Webverzeichnis
+herumfuchteln fahren fuchteln rumfuchteln schwenken gestikulieren
+Tastfeld Touchpad
+Unannehmlichkeiten Unerquicklichkeiten Ärgernisse Unerfreulichkeiten Widrigkeiten Ungemach Unbilden Ungelegenheiten Unbill Ärgerlichkeiten Beschwernisse
+Sichtverpackung Blisterverpackung
+Schlepphebel Schwinghebel
+herauslösen freisetzen
+Studierendenschaft Studentenschaft
+durchschneiden abknipsen durchtrennen abzwicken abklemmen kappen
+Humidor Zigarrenbox
+Eingabegröße Eingabewert Ausgangswert
+Zuschreibung Attribution Attribuierung
+Regelfestlegung Reglementierung
+Kabarettsängerin Chansonette Diseuse Vortragskünstlerin
+Nasenrachenraum Rhinopharynx Nasopharynx Epipharynx Nasenrachen
+Mundrachen Mesopharynx Oropharynx
+schnabelwärts schnauzenwärts rostral
+schläfenwärts seitlich lateral temporal
+nasenwärts nasal medial
+handflächenseitig volar hohlhandseitig palmar
+Kaufläche Okklusionsfläche
+gaumenseitig palatinal
+backenseitig bukkal
+aufsteigend aszendierend
+absteigend deszendierend
+verölt tranig ölig
+Seegerring Nutenring Sicherungsring
+Distanzhülse Distanzrohr Distanzring Distanzröhrchen
+abhängen abschütteln loswerden
+Asteroidengürtel Hauptgürtel Planetoidengürtel
+Fehlwirtschaft Misswirtschaft
+Meilenstein Postmeilensäule
+Tornado Zyklon Wasserhose Trombe Taifun Wirbelsturm Wirbelwind Windhose Twister Großtrombe
+Machtstreben Machtgier Machthunger
+Maschinenbaumechaniker Maschinenbauer
+Sachkundenachweis Befähigungsnachweis
+Werkzeugmechaniker Werkzeugmacher
+Marktreife Produktreife
+Vorserie Nullserie Pilotserie
+Korpus Corpus Körper
+überziehen überzeichnen outrieren chargieren
+einsatzbereit bereitstehen bereithalten
+Expansion Aufschwung
+Wirtschaftskrise Depression Konjunkturtief Flaute
+Selbstoffenbarung Ich-Botschaft
+Opportunitätskosten Alternativkosten Schattenpreis Verzichtskosten
+Mikroökonomie Mikroökonomik Mikrotheorie
+Bankguthaben Bankeinlage Deposit
+Gesundheitssystem Gesundheitswesen
+Schiedsperson Ombudsperson Friedensrichter
+Moduldatei Mod-Datei Modul Trackermodul
+Rastersequenzer Tracker
+peilbar lokalisierbar ortbar
+gedeihend prosperierend aufstrebend florierend blühend
+Türpfosten Türeinfassung Türfutter Türrahmen Türzarge Türstock
+Streetworker Sozialarbeiter
+Sozialisation Einordnungsprozess Integrationsprozess Eingliederungsprozess
+Diät Schonkost Krankenkost
+antiautoritär zwanglos repressionsfrei
+einpflanzen implantieren einsetzen
+entfernen explantieren
+unixoid Unix-ähnlich
+Plateau Hochebene Hochland Hochfläche
+Prosaist Prosaschriftsteller
+Tiefland Tiefebene
+Feuerkugel Bolide Bolid
+Feuerkugel Brandkugel
+Sonnenfinsternis Eklipse
+Aureole Höfe Korona
+Iridium-Flackern Iridium-Flare
+Strahlenbüschel Wolkenstrahlen Lichtbüschel Dämmerungsstrahlen
+Gehirn-Rückenmarks-Flüssigkeit Nervenwasser Zerebrospinalflüssigkeit Hirnwasser
+unterbreitet vorgelegt
+Gürtelreifen Radialreifen
+Schnürlsamt Cord Manchester
+Leibschmerzen Krampf Kolik
+Futterrübe Zuckerrübe Runkelrübe
+Todeskandidat Moribundus Sterbende Sterbender Todgeweihter
+Gatter Zaun Gitter
+deklaratorisch erklärend deklarativ
+Mikrometer Mikron
+Rokoko Spätbarock
+Giralgeld Buchgeld Geschäftsbankengeld
+engelhaft ätherisch sylphidenhaft feenhaft elfenhaft körperlos
+umstellen transponieren umformen
+Austrieb Spross Jungtrieb
+tabuisiert totgeschwiegen
+Luftschnittstelle Funkschnittstelle
+calvinistisch kalvinistisch
+Calvinismus Kalvinismus
+Hiat Vokalzusammenstoß Hiatus
+Tanzlehrer Choreograf Choreograph
+Tiefsee-U-Boot Bathyskaph Bathyscaph
+Bathysphäre Bathysphere
+einschmuggeln einschleusen
+Vertikalachse Gierachse Hochachse
+Gierrate Giergeschwindigkeit
+Umdrehungsfrequenz Umlauffrequenz Drehzahl
+anhaltinisch anhaltisch
+Timokratie Geldaristokratie
+Service Tafelgeschirr
+Penthousewohnung Penthaus Attikawohnung Penthouse
+Rydberg-Formel Rydberg-Ritz-Formel
+vertreibend verscheuchend verjagend schassend
+eingesessen angestammt
+Headhunter Anwerber Rekrutierer
+schanghaien anheuern pressen
+Thunfangboot Albacore-Boot
+Handmorselampe Aldislampe
+Lamination Laminierung
+erschwindeln erschleichen
+publikumswirksam populistisch
+hochdotiert bestbezahlt
+Feldmarschall Generalfeldmarschall
+Gauleiter Gespan
+Altmähren Mährerreich Großmähren
+Schmollmund Schippe
+Unschädlichkeit Ungefährlichkeit Harmlosigkeit Unbedenklichkeit
+Tadellosigkeit Schuldlosigkeit Makellosigkeit Unschuld
+Bedenklichkeit Gefährlichkeit
+auflebend erwachend aufwachend
+brennend lodernd flammend
+personalisieren individualisieren
+Fußballspiel Gekicke
+Annehmbarkeit Lombardfähigkeit Annehmlichkeit
+Liegeplatz Liegeposition
+Erhebung Bühl Hügel Buckel Anhöhe Hubbel Höcker Höhe Erhöhung Berg Bodenerhebung Bühel
+aufgeweicht durchweicht
+umspülen umfließen
+überdeckend überlagernd bedeckend verdeckend
+vorgeben vorspielen vortäuschen
+ausbreitend verteilend
+erhöht erhoben
+Wetterwand Wetterfront
+verwehen wegwehen
+Herzschlag Puls
+verwühlen durchwühlen zerwühlen
+gewittrig unwetterartig
+Dämmerzustand Schlummerzustand Halbschlaf
+erschlagen totgeschlagen
+Sandkiste Buddelkasten Sandkasten
+Skalp Kopfschwarte
+Produktivbetrieb Wirkbetrieb
+Verschlüsselungsstandards Verschlüsselungssysteme Zugangsberechtigungssysteme
+verschwindend entschwindend
+Chassis Fahrgestell Rahmen
+mehrspurig mehrgleisig
+Spaziermeile Prachtpromenade Flaniermeile Promenade
+schabend kratzend
+Schadloshaltung Indemnität
+berechenbar kalkulierbar
+ausgründen ausgliedern verselbständigen
+Krimkrieg Orientkrieg
+Firnis Überzug Politur Anstrich Schutzanstrich
+Löschpapier Löschblatt Fließblatt Fließpapier
+Zentrifugalkraft Fliehkraft
+Flitterwochen Honigmond Hochzeitsreise
+Funktionär Delegierter Parteiarbeiter Repräsentant Beauftragter Interessenvertreter Sachwalter
+Altertumswissenschaft Archäologie Altertumskunde
+Altertumswissenschaftler Archäologe Altertumsforscher
+Handschrift Kodex Handschriftensammlung
+Gesetzbuch Kodex Gesetzessammlung
+Hornhaut Hautschwiele Schwiele
+freiäugig freisichtig
+Rohling Leer-CD Leer-DVD
+Wässerchen Rinnsal Bächlein
+Phonogerät Turntable Schallplattenspieler Plattenspieler
+Professor Prof. Prof Hochschulprofessor
+Profiler Fallanalytiker Profilersteller
+Spahl Spandel Spänchen
+Homeostase Homöostasis Selbstregulation Homöodynamik Homoiostase Homöostase
+Grammophon Grammofon
+neuerlangt wiedererlangt
+zugewandt zugedreht
+darin dadrin
+Wechseltierchen Amöbe
+Pflanzenfarbstoff Blattgrün Chlorophyll
+Referenztitel Hammertitel Vorzeigetitel
+Fußeinlage Schuheinlage Einlage
+Einsatz Einlagekapital Investition Kapitalanlage Einlage Geschäftsanteil
+Schilddrüsenhormonunterproduktion Schilddrüsenunterfunktion Schilddrüsenhormonmangel Hypothyreose
+Nebenschilddrüsenunterfunktion Hypoparathyreoidismus Parathormonunterproduktion Parathormonmangel
+Frauenheld Filou Witwentröster Aufreißer Schlawiner Herzensbrecher Schürzenjäger Weiberheld Womanizer Hallodri Frauenjäger Schwerenöter Wüstling Ladykiller Gigolo Süßholzraspler Playboy Suitier
+Nebennierenrindenunterfunktion Hypokortisolismus Hypokortizismus Nebennierenrindeninsuffizienz Glukokortikoidmangel
+Mineralokortikoidmangel Aldosteronmangel Hypoaldosteronismus Mineralokortikoidunterproduktion
+Hypophysenvorderlappen Adenohypophyse
+Hypophysenhinterlappen Hirnanhangsdrüsenhinterlappen Neurohypophyse
+Prolaktinüberschuss Hyperprolaktinämie
+fieberig fiebrig febril
+Erdheim-Tumor Kraniopharyngeom
+Leberverfettung Fettleber
+Herzmuskelschwäche Herzschwäche Herzinsuffizienz Myokardinsuffizienz
+Unzurechnungsfähiger Schwachsinniger Irrsinniger Kretin Psychopath Geisteskranker Debiler Wahnsinniger Verrückter
+Herzklopfen Bangigkeit Beunruhigung Auftrittsangst Nervosität Lampenfieber Zähneklappern
+Hades Unterwelt Hölle Inferno Totenreich Jenseits Orkus Schattenreich
+Vergänglichkeit Sterblichkeit Unbestand Kurzlebigkeit Endlichkeit Hinfälligkeit Wandelbarkeit
+Hüter Hirte Hütejunge Schäfer
+Siebenschläfer Haselmaus
+einengend einschnürend beengend verengend
+Tribetz Tribetzgebirge
+Gesellenwanderung Walz Wanderschaft Tippelei Wanderjahre
+Epizentrum Erdbebenzentrum
+Wettbewerbshüter Kartellrechtler
+Kerzenmacher Wachszieher Lichtzieher
+Törn Segeltour Segeltörn Segelausflug
+Stichprobenumfang Stichprobengröße
+Gerichtsassessor Probe-Richter
+CTS Karpaltunnelsyndrom KTS Medianuskompressionssyndrom Carpaltunnelsyndrom
+Sinterung Sintern
+Extrusionsblasformen Hohlkörperblasen
+umrüsten umschwenken umstellen umfunktionieren umwandeln umändern
+abstrahlen emittieren ausstrahlen
+Rohrreiniger Abflussreiniger Rohrfrei
+Scherenschnitt Silhouette Schattenbild Schattenriss
+Profisportler Leistungssportler Spitzensportler Berufssportler
+Tabellenführer Führender Spitzenreiter Tabellenerster
+Schwarzkopie Raubkopie
+Ernsthaftigkeit Redlichkeit Authentizität Vertrauenswürdigkeit Aufrichtigkeit Natürlichkeit Seriosität Glaubwürdigkeit Ehrlichkeit
+Fluchtstab Fluchtstange Jalon Mire
+Lotrechte Vertikale Lotrichtung
+Waagrechte Waagerechte Horizontale
+Horizontalebene Horizontebene
+Hydrometer Dichtespindel Senkspindel Senkwaage Aräometer
+Erdgestalt Erdfigur
+PEN-Leiter Nullleiter
+unterbewertet unterschätzt verkannt
+Leiden Leyden
+Abschlussexamen Examen Abschlussprüfung
+Scraper Granierstahl Wiegeeisen
+Schabkunst Mezzotinto Schwarzkunst
+unmanipulierbar unkontrollierbar unsteuerbar unbeherrschbar unlenkbar unbeeinflussbar
+Aperturblende Öffnungsblende
+Schreckenskabinett Gruselkabinett
+Apertur Öffnungsweite
+Franchising Konzessionsverkauf
+Distributionspolitik Distributions-Mix Place
+Spintronik Spinelektronik Fluxtronik
+Adelsherrscher Aristokrat Aristo Blaublüter
+Zinnfolie Stanniol
+LAN-Manager-Protokoll NetBIOS-Protokoll
+zusammenstopfen zusammenpferchen zusammentreiben konstipieren zusammendrängen
+verstolpern vertun
+fehlerbehaftet fehleranfällig fehlerträchtig
+alternd veraltend
+Sparschäler Kartoffelschäler
+Konsequenz Gesetzmäßigkeit Vernunft Logik
+Kanonenbootpolitik Kanonenbootdiplomatie Säbelrasseln
+Untertanengebiet Untertanenland
+Obstkern Stein Kern Samenkern
+Clownerei Possenreißerei Clownerie Possen Possenreißen
+Stein Felsgestein Felstrümmer Gestein
+Realisierer Umsetzer Verwirklicher
+stutzerhaft geckenhaft dandyhaft
+Krankenwärter Krankenpfleger Sanitöter Sani Sanitäter
+Spaltungsirresein Bewusstseinsspaltung Schizophrenie
+Aussatz Lazarus-Krankheit Lepra Miselsucht Hansen-Krankheit
+Typhus Bauchtyphus
+Expatriate Expat
+anheimfallen zukommen zuteilwerden zufallen zufließen
+möbliert eingerichtet
+Kracher Knaller Lacher Brüller Schenkelklopfer
+Knabenschänder Päderast
+Elektroschocker Elektroimpulsgerät Elektroimpulswaffe
+Elektroschockpistole Distanz-Elektroimpulswaffe Taser
+ermächtigend autoritativ autorisierend
+konformationell konformativ
+Auslandsverlagerung Offshoring
+Mittelmeerentente Mittelmeerabkommen Orientdreibund
+Museumswissenschaft Museologie
+Produktdokumentation Technikdokumentation
+beängstigend grotesk rätselhaft kafkaesk bedrohlich
+ehrpusslig ehrpusselig
+Bergkamm Gebirgskamm Krete
+RMS Raddampfer Radmotorschiff
+Verlegekabel Trunkkabel
+Filmliebhaber Filmkenner Kinofan Filmfreak Kino-Enthusiast Kinobesucher Cineast Filmfan Kinogänger
+Konkursvergehen Krida
+Bilharziose Schistosomiasis
+Ergötzlichkeit Schmackhaftigkeit Köstlichkeit
+Wolynien Lodomerien Wolhynien
+Großraumlimousine Familienkutsche Van
+Bezifferung Quantifizieren Quantifikation Quantifizierung
+Diskretisierung Abtastung
+Druckwellenlader Comprexlader
+Hecktür Heckklappe
+Gesellenbrief Facharbeiterbrief
+Einzelwahn Monomanie
+unterschätzen leichtnehmen verharmlosen
+Anstellungsvertrag Arbeitsvertrag Beschäftigungsvertrag
+Antriebsfeder Triebfeder
+Bebauungsplan B-Plan
+mühselig pfriemelig fummelig
+einziehen beziehen
+Buchstabenverschmelzung Buchstabenverbund Ligatur
+Werbefilm Werbefilmchen Spot Werbespot
+Reklamesendung Werbesendung
+Notdurft Pinkelbedürfnis Pinkeldrang Pinkelzwang
+Leibstuhl Nachtstuhl Zimmerklosett
+Preußenschlag Preußenputsch
+Maracaibo Neu-Nürnberg
+Daleminzen Daleminzier
+Bodrizen Obodriten Abotriten Obotriten Abodriten
+Rundlingsdorf Rundplatzdorf Rundling Runddorf
+Bitte Rogation Litanei Fürbitte
+Ahnenverlust Ahnenschwund Implex
+Fummelei Gefummel
+selbstfertil selbstbefruchtend
+unsere unsrige unsre
+Feuerschutz Feuerunterstützung
+Entgegenkommen Annäherungsversuch
+Vlachomeglenisch Meglenisch Meglenorumänisch Meglenitisch
+Blahoi Walachen Valx Wlachi Olah Wallachen Vlachen Wlachen Vlasi Vlachos Wallachians Valachos Ulah
+Dnjestr-Republik Transnistrien
+Regatsdeutsche Altreich-Deutsche
+Volksgruppe Bevölkerungsgruppe
+Aromunen Mazedoromanen Mazedorumänen
+Kroatoserbisch Serbokroatisch
+Morlaken Morlacchi Maurowlachen Mavrowlachen Maurowalachen
+umschlossen umhüllt
+Münzkunde Numismatik
+aushauchen exhalieren ausatmen exspirieren
+Geltungsbereich Herrschaftsbereich Hoheitsgebiet Herrschaftsraum
+Zuständigkeitsbereich Kompetenzbereich
+Eremo Klause Eremitage Mönchsklause Ermitage Grotte Einsiedlergrotte Einsiedlerklause Einsiedelei Eremitei
+Mitarbeiterüberlassung Arbeitnehmer-Leasing Personalüberlassung Mitarbeiterleasing Zeitarbeit Arbeitskräfteüberlassung Temporärarbeit Arbeitskraftüberlassung Personaldienstleistung Arbeitskräfte-Leasing Arbeitnehmerüberlassung Mitarbeiter-Leasing Personalvermittlung Leiharbeit Personalleasing
+Personalvermittlungsagentur Personalvermittler Zeitarbeitgeber Personaldienstleister Zeitarbeitsunternehmer Leiharbeitsunternehmer Leiharbeitgeber Verleiher
+Datenwiederherstellung Datenrettung
+Aussterben Extinktion
+Weblog-Verfasser Blogger
+Instationarität Transienz
+AU Abgasuntersuchung
+robotisch roboterhaft
+Diakonatsweihe Priesterweihe Ordination Bischofsweihe
+Flamme Lohe
+Stielhandgranate Stabhandgranate
+Adrenalin Epinephrin Suprarenin
+Fairness Sportsgeist Sportlichkeit Sportgeist
+Trotzburg Trutzburg
+Splittergranate Schrapnellgranate
+Blitzgranate Schockgranate Blendgranate
+Nebelbombe Nebelwurfkörper Rauchgranate Nebeltopf Nebelgranate Nebelkerze
+Wurfgeschoss Handgranate
+Personalverantwortlicher Personalchef
+Skrupelloser Soziopath
+Einsatzkoordinator Dispatcher Koordinator Einsatzleiter
+Sekretär Schreibkraft Tipper Vorzimmerherr Bürokraft
+Typomaß Typometer
+Mikrotypografie Detailtypografie
+Typographie Typografie
+Marktschreier Schlepper
+Postenschacherei Ämterpatronage Filzokratie
+Japaner Japse
+Nippchen Schlückchen
+vernascht genäschig leckermäulig schleckig naschhaft
+Computerspezialist IT-Fachkraft Computerfreak Computerprofi IT-Fredel IT-Fachmann IT-Profi Computerfachmann IT-Experte IT-Spezialist Computerass Computerexperte
+Bildschau Bildergalerie Bildausstellung Bilderausstellung Bilderstrecke Bildstrecke Fotogalerie Fotostrecke Fotoausstellung Bildgalerie Fotoschau Bilderschau
+Zentenarium Hundertjahrfeier
+Vogt Schutzherr Statthalter
+Barsch-Fluss Wakenitz
+Waierland Wagerland Wagrien
+Optimisten-Jolle Opti
+Komtur Commenthur Kommendator Kommentur
+Heimlichkeiten Verschwiegenheit Heimlichtuerei Geheimnistuerei Geheimniskrämerei
+Metro-Goldwyn-Mayer MGM
+Kontinentalverschiebung Kontinentaldrift
+Bastardwechsel Kellerwechsel
+Intrige Kabale Machination
+Marmormeer Marmarameer
+Zukunftsfähigkeit Nachhaltigkeit Enkeltauglichkeit Aufrechterhaltbarkeit
+Hebebohrinsel Bohrhubinsel Hubbohrinsel
+Bohrplattform Bohrinsel
+Bratkartoffeln Röstkartoffeln Schmorkartoffeln
+Transdanubien Dobrudscha Dobrogea
+Hanefiten Hanafiten
+Säkularismus Verweltlichung
+autokephal eigenständig
+Korsarentum Piraterie Kaperwesen Seeräubertum Freibeuterei Freibeutertum Piratentum Seeräuberei
+Majestät Durchlaucht Hochwohlgeboren Erlaucht Hoheit
+Sichfügen Selbstaufgabe Resignation
+Narzisst Narziss
+Domestikation Domestifikation Domestizierung
+Personalangabe Personalie
+Geniekorps Ingenieurkorps
+Vorausdeutung Präfiguration
+Minijob 400-Euro-Job 450-Euro-Basis 450-Euro-Job
+gegenwärtig kontemporär zeitgenössisch heutig
+Backenknochen Wangenbein Jochbein Jugale
+Rockmusiker Rocker
+Geisterglaube Okkultismus
+spiritistisch okkult übersinnlich okkultistisch
+Salto Rolle Purzelbaum Flickflack Überschlag Kusselkopp
+Steinsarg Sarkophag
+Grenzgänger Grenzwanderer
+Aostatal Augsttal
+Justizirrtum Fehlurteil Rechtsirrtum Fehlentscheidung
+Gallert Gallerte Gelatine Gelee
+Überzug Guss Glasur
+Lagerbestand Istbestand Bestand Inventar Ist-Bestand Bestandsverzeichnis
+Kampfverband Truppeneinheit Truppenverband
+Textkonsole Kommandozeile Konsole Eingabekonsole Terminal Befehlszeile Eingabeaufforderung
+Mauervorsprung Krage Tragstein Konsole Balkenstein Kunststein Kragstein Stützbalken Kraftstein Notstein
+Kosmopolit Weltbürger Weltreisender
+Gangstertum Verbrechertum Unterwelt
+Nagelpflege Maniküre Handpflege
+Mull Moll Maulwurf
+Heißluftbad Sauna Schwitzstube
+knötchenförmig nodulär knötchenartig
+Bergsteiger Bergkraxler Alpinist Bergfex
+Heftstreifen Heftlasche Aktendulli
+Chiralität Enantiomorphie
+Kristallografie Kristallographie Kristallkunde
+Brandungsplattform Schorre
+Öresundtunnel Drogdentunnel
+Stecknitzkanal Stecknitzfahrt
+Sektsteuer Schaumweinsteuer
+Wesen Wessen Wes
+Ilmenslawen Slowenen
+Betrunkener Besoffener
+Becken Pelvis
+Romani Romanes
+Illyrier Illyrer
+Kondominat Gesamtherrschaft Kondominium Gemeinherrschaft
+Befestigungsanlage Schanzanlage Oppidum
+Hochdeutsch Schriftdeutsch Standarddeutsch Neuhochdeutsch
+Botenteilchen Trägerteilchen Austauschteilchen Wechselwirkungsteilchen Kraftteilchen Eichboson
+Mittelstaat Mittelmacht
+Refraktor Linsenteleskop Linsenfernrohr
+aufgebläht hochgejazzt hochgepustet überdehnt aufgeblasen
+Lebenslehre Biologie
+Parallelogramm Rhomboid
+Schwimmbadabsorber Solarabsorber
+Währungsbehörde Währungsamt
+Ansicht Durchschau Durchsicht
+Weiselfuttersaft Königinfuttersaft
+Altenpflege Langzeitpflege
+Prestigeprojekt Vorzeigeprojekt Leuchtturmprojekt
+Leukotomie Lobotomie
+Triebzug Triebwagen Triebwagenzug
+Deutschordensland Deutschordensstaat Ordensstaat
+Klosters-Serneus Klosters
+Nibelungenwerk Ni-Werk
+Erstarken Erstarkung
+Tellersülze Napfsülze
+Texterkennung OCR
+Weihrauchkiefer Weihrauch-Kiefer
+Verhärtung Härtung
+Nebenabtrieb Zapfwelle
+Kosmografie Kosmographie
+Fahrpedal Gaspedal
+Markierung Ausschilderung Beschilderung Kennzeichnung
+Selbstverständnis Eigenbewertung Selbstwahrnehmung Selbstbewertung Selbsteinschätzung Selbstbild
+Hinterland Provinz
+Provinz Verwaltungsgebiet Landesteil
+verschnarcht angestaubt verschlafen überholt hinterwäldlerisch verstaubt altmodisch zurückgeblieben rückständig muffig provinziell
+Office-Software Bürokommunikationssoftware
+Leistungspaket Versicherungspaket
+Unterstützungszahlung Transferleistung Transferzahlung
+Lichtblick Erfolgsmeldung Frohbotschaft
+wiederaufforsten wiederbewalden
+Wiederaufforstung Wiederbewaldung
+Erstaufforstung Erstbewaldung
+Sattel Pass Joch Gebirgspass
+Aufmunitionierung Munitionsnachladen
+Deutsch-Balten Baltendeutsche Balten Deutschbalten
+Deutschrusse Russlanddeutscher
+Tybein Thübein-Nabreschin
+Augenweide Augenschmaus
+Extra-Taste Zusatzschalter Extraknopf Zusatztaste Extra-Schalter Zusatzknopf
+Planke Diele Steg
+kurzschließen überleiten überbrücken
+Styraburg Styrapurg Styrapurch Stiraburg
+Polnisch-Preußen Königlich-Preußen
+Schulpforte Schulpforta
+Herkulesaufgabe Mammutaufgabe
+Augiasstall Riesensaustall
+Neureicher Emporkömmling Arrivierter Parvenü Aufsteiger Parvenu
+Köter Kossater Kätner Köthner Kötner Kossäten Kötter Kossaten Kotsassen
+Hallgeber Hall-Sensor Hall-Sonde
+Laserzeiger Laserpointer
+fressgierig gefräßig verfressen
+Hyperkorrektur Hyperkorrektion Hyperurbanismus
+Gebissformel Zahnformel
+Ellipsis Ellipse
+Sorgenkind Problemkind
+Vorkoster Essenstester
+Juror Besprecher Begutachter Beurteiler Zensor Kritiker Bewerter Rezensent Zensurenverteiler
+Knutschfleck Unterdruck-Hämatom Zuzlfleck Liebesmal
+Wagenmühle Feldmühle
+Rotationsvoltmeter Feldmühle
+Elektrofeldmeter EFM
+Gewühl Gewimmel Gewusel
+Rad Walze Komplettreifen Komplettbereifung
+Nachstellen Belästigung Nachstellung Stalking
+Shot Shooter Kurzer
+Babesien Babesiella Babesia
+Viktualienmarkt Lebensmittelmarkt
+Wegführung Viadukt Wegleitung
+Autopoiesis Autopoiese
+Birkenfeige Benjamini
+Vortex Wirbel
+zurückgehend remittierend
+Wechselnehmer Zahlungsempfänger Remittent
+besitzt verfügt
+verspüren wahrnehmen empfinden spüren fühlen
+Flipper Flipperautomat
+abwegig unsachlich haltlos fragwürdig unbegründet
+Zuträger Anschwärzer Petzer Petze Verräter Judas Verleumder Denunziant
+Blasenentzündung Blasenkatarrh Harnblasenentzündung Zystitis
+Okapi Kurzhalsgiraffe Waldgiraffe
+Machtprobe Kräftemessen Belastungsprobe Zerreißprobe Tauziehen Kraftprobe Nervenkrieg
+Kitchener Berlin
+Halon Halogenkohlenwasserstoff
+Gleitbeutler Petauridae
+Schmerzensgeld Wiedergutmachung Genugtuung Schmerzengeld
+MC-Simulation Monte-Carlo-Studie Monte-Carlo-Simulation
+bekleidet angekleidet angezogen gewandet gekleidet
+Geklingel Gebimmel
+Alaktasie Hypolaktasie Kohlenhydratmalabsorption Laktasemangelsyndrom Laktosemalabsorption Milchzuckerunverträglichkeit Laktoseintoleranz
+Molen-Ei Windei Abortivei
+Wirt Restaurateur Gastwirt Gastgeber
+Dezimalwaage Dezimalbrückenwaage Sackwaage Dekawaage
+Schottenmuster Karomuster Tartan Schottenkaro
+zerknittert zerwühlt zersaust krumplig krumpelig zerzaust schlampig
+Hansa-Brandenburg HB
+Pendelbus Zubringerbus Shuttlebus
+Dako-Thrakisch Thrakisch
+Kentumsprache Centumsprache
+prozedural verfahrensmäßig
+Fluiddynamik Hydrodynamik
+Strömungsmechanik Fluidmechanik Strömungslehre Strömungstechnik
+Wasserdynamik Aquadynamik
+W-Grammatik vW-Grammatik Van-Wijngaarden-Grammatik
+begrenzen limitieren einschränken eingrenzen deckeln kontingentieren drosseln restriktieren beschränken
+begrenzend limitational
+Schampanskoje Krimsekt
+Ripuarisch Ripwarisch Nordmittelfränkisch
+umschalten switchen umstellen
+Grauburgunder Ruländer
+Zigarettenrauch Zigarettenqualm
+diskret separierbar trennbar
+Loslösbarkeit Entfernbarkeit Trennbarkeit Ablösbarkeit Abtrennbarkeit Separierbarkeit
+verhandlungsfähig negoziierbar handelbar verhandelbar
+Hazardrate Hazardwert
+Kassapreis Spot-Preis
+Spottpreis Knallerpreis Schleuderpreis Dumpingpreis Kracherpreis
+kartieren mappen
+desorbieren abgeben
+Nudelholz Teigrolle Nudelwalker Wallholz Wellholz
+Farbverlauf Farbgradient Gradient
+Erstling Erstgeborener Ältester Stammhalter
+Erstling Erstlingswerk Debüt
+Czernowitz Tschernowitz
+Bukowina Buchenland
+Müllsack Mülltüte Kehrichtsack
+Ausnahmesituation Krisensituation Ausnahmezustand Notlage Notstand
+Kriegsrecht Notstand Ausnahmezustand
+Nichtsequentialität Gleichzeitigkeit Nebenläufigkeit
+Observabilität Beobachtbarkeit
+beobachtbar observabel bemerkbar
+Ensemble Künstlergruppe
+Meeresbucht Bai Bucht
+Wattenmeer Watt
+Ausformulierung Ausgestaltung
+Chiparchitektur Prozessorarchitektur
+geschmolzen liquid flüssig aufgetaut zerflossen
+Schwamm Putzschwamm
+Krückenkreuz Kruckenkreuz Hammerkreuz
+Antoniuskreuz Antoniterkreuz Taukreuz
+Pilzkunde Mykologie
+Flaschenkasten Tragerl
+AEG DEG
+Armierung Panzerung Bewehrung
+Sequestration Sequestrierung
+Mikroplanfilm Mikrofiche
+Spezialisierung Ausdifferenzierung Spezialisation
+Skalenunabhängigkeit Skaleninvarianz
+Venedisch Venetisch Venezisch
+Sterbekommunion Viatikum Wegzehrung
+reinkommen hineinkommen hereinkommen
+geografisch geographisch
+verstellen umkonfigurieren
+Kavalier Seigneur Weltmann Gentleman Ehrenmann Gentilhomme
+eingehen zurückbilden verkümmern
+Sichtbarkeit Erscheinung Visibilität
+Hall Nachhall
+Bettelorden Mendikantenorden
+missgönnen beneiden neiden
+gelbbraun khakifarben kakifarbig khakifarbig kakifarben
+Glieder Gliedmaßen
+Depravation Zustandsverschlechterung
+Schulwart Schuldiener Pedell
+graphisch grafisch
+Intergouvernementalismus Intergovernmentalismus
+Webanwendung Webapplikation
+verschließend okklusiv
+Bettüberzug Bettbezug Zieche
+Sauerkraut Sauerkohl
+symphonisch sinfonisch orchestral sinfonieartig
+sachgemäß sachgerecht
+verwaltungsmäßig administrativ
+explorativ ausprobierend auskundschaftend
+Lernprozess Lernvorgang
+wegdrücken wegstemmen
+Obsoleszenz Veralterung
+Wanderhändler Marktfahrer
+Singspiel Musical Musiktheaterstück
+Degradierung Degradation Herabsetzung
+Papstwahl Konklave
+EP Mini-Album
+Segelknoten Stek Schifferknoten
+Kuscheldecke Schmusedecke
+Tagesdecke Überdecke
+Standesgrenze Standesschranke
+Button Anstecker Ansteckplakette
+Pseudoentlehnung Scheinentlehnung
+Palmtuch Fastentuch Hungertuch
+Fußgänger Fußgeher
+Fungibilität Austauschbarkeit Ersetzbarkeit
+Schweizerisch Schweizerhochdeutsch
+Dilution Strecken Verlängern Verwässerung Verdünnung
+Intensivgrünland Fettwiese Wirtschaftsgrünland Fettweide
+Pro/ENGINEER Pro/E ProE
+Fertigungszentrum Bearbeitungszentrum
+Punktsteuerung PTP-Steuerung
+Treibrad Triebrad
+Grödental Grödnertal Gröden
+afroasiatisch hamito-semitisch semito-hamitisch
+Krak Krakus
+Gesenkformen Gesenkschmieden
+Senkfunkenerosion Senkerodieren Senkerosion
+Drahtschneiden Schneiderodieren Drahterosion Drahterodieren
+Bohrerosion Bohrerodieren
+Tarnkappentechnik Stealth-Technik
+Bienenvolk Bienenstock Bien
+Datum Datierung
+Talaing Mon
+Miao Hmong
+Cargokult Cargo-Kult Cargo-Cult
+Draisine Laufmaschine
+Warnowtunnel Warnowquerung
+Kinh Vietnamesen
+Bootleg Schwarzpressung Raubpressung
+Aufnahme Tonkonserve Mitschnitt Aufzeichnung Bildkonserve Einspielung
+Adiuretin ADH Vasopressin Arginin-Vasopressin AVP
+Dorer Dorier
+Militärattaché Militärbevollmächtigter
+Riograndensisch Katharinensisch
+Malzkaffee Muckefuck Caro-Kaffee Kaffeeersatz Gerstenkaffee Kinderkaffee Ersatzkaffee Zichorienwasser Fruchtkaffee Getreidekaffee
+Vorfrieden Präliminarfrieden
+Dauerfrost Permafrost
+Stradivari Strad
+Altenberg Neutral-Moresnet
+Smithsonit Zinkspat Edelgalmei
+Zambezi Sambesi Zambesi
+Punkt Zähler
+Franco-Regime Frankismus Franco-Diktatur Franquismus
+Puerto-Ricaner Boricua
+Ego-Shooter First-Person-Shooter
+Spinnaker Spi
+anmustern anheuern
+Alginsäure Algin
+auslugen Ausschauen
+Ruderlageanzeiger Axiometer
+Backmann Kochsmaat-Bäcker
+Ballahou Schoner Ballahoo
+Barbette Geschützbank
+Tiefseesonde Bathysonde
+Binokel Doppelfernglas
+Brig Schiffsgefängnis
+Breitfock Brefock
+Canvas Segeltuchschuh
+Radiästhesie Radioästhesie
+Typenbildfeldfernschreiber Hellschreiber
+Hilfsheizer Donkeyman
+Hilfskessel Donkeyboiler
+Nordseekrabbe Granat
+Klabautermann Klabattermann Kalfatermann
+Seelachs Köhler Kohlfisch
+Grundschleppnetz Kurre
+Masut Ölrückstände
+Flusslotse Muddpilot
+Zuhaltungsschloss Chubbschloss
+Dorpat Tartu Dörpt
+Sektion Abteilung Bereich
+Hofmann-Abbau Hofmann-Eliminierung
+Schöftland Schöftle
+Live-Veranstaltung Auftritt Live-Gig Show Live-Auftritt Liveact Live-Entertainment Live-Act Gig
+Aufführung Darbietung Event Vorstellung Veranstaltung Fest
+Tierveranstaltung Tiertheater Tiershow
+Zirkus Circus
+Sonderregelung Sonderweg Extrawurst
+Rundstedt-Offensive Ardennenoffensive
+Taperecorder Tonbandgerät Magnettongerät Kassettengerät Kassettenrekorder
+Grundstücksteilung Parzellierung
+Flurstück Grundstück Parzelle
+Schmutzfangmatte Fußabtreter Fußmatte Schuhmatte Schuhabstreifer Türmatte Abstreicher Fußabstreicher Fußabstreifer
+Werkhöhe Gestaltungshöhe Schöpfungshöhe
+Wertfach Schließfach
+Westminster-System Westminster-Demokratie
+inkonsequent unentschieden halbherzig
+Geismühle Geistmühle Gelsmühle
+Ayatollah Ajatollah
+unwissend unaufgeklärt uninformiert ahnungslos unbeleckt ignorant unbewandert unbedarft
+Scheinanglizismus Pseudoanglizismus
+Übertreibung Überspitzung
+Chausseehaus Chaussee-Einnehmerhaus Chausseegeldeinnehmerhaus
+Vertrauensbereich Erwartungsbereich Konfidenzintervall Vertrauensintervall
+Winkelminute Bogenminute
+Feldherrenkunst Schlachtenlenkung Kriegskunst Strategie Schlachtplan
+Faschismus Rechtsradikalismus Rechtsextremismus Nationalsozialismus
+Deviationist Abtrünniger Apostat Ketzer Abgefallener Häretiker Irrgläubiger Dissident Sektierer Andersdenkender Renegat Abweichler
+abgefallen lästerlich häretisch sektiererisch ketzerisch irrgläubig
+Entführung Geiselnahme Menschenraub Kidnapping Verschleppung
+Schriftsprache Hochsprache Literatursprache Bühnensprache
+Wasserrose Sumpftulpe Seerose
+Dünung Wellengang Gewoge Seegang Wellenschlag Wellen
+Fett Schmalz Speck Schmer
+Steingut Tonware Töpferware Keramik
+Umgang Handling Handhabung
+alliterierend stabreimend
+Menagerie Tierschau
+Rebenkunde Ampelographie Ampelografie Rebsortenkunde
+Steinritzung Petroglyph
+Zahlungsbereitschaft Reservationspreis Vorbehaltspreis
+Makarska Macharscha
+Orthodrome Luftlinie
+Direkt-Handel Freiverkehrs-Handel OTC-Handel
+neuinterpretieren umdeuten uminterpretieren
+Suawen Sueven Sweben Sueben
+Fennoskandia Fennoskandien Fennoskandinavien
+Surfer Wellenreiter
+Ayeyarwady Irawadi Irrawaddy
+Terminkontrakt Börsenterminkontrakt Future
+Saarkanal Saar-Kohlen-Kanal
+Fünfherrschaft Pentarchie
+Tribologie Reibungslehre
+Deprivationssyndrom Hospitalismus
+Futurologe Zukunftsforscher
+Rapport Lagebericht Bericht
+Locked-in-Syndrom Eingeschlossensein
+Kontorsionist Schlangenmensch
+HS-30-Skandal Hispano-Suiza-Skandal
+ordern einkaufen einholen nachfragen beauftragen
+Geißelung Flagellation Auspeitschen
+Hashfunktion Streuwertfunktion
+Würzepfanne Sudpfanne
+Buttersäure Butansäure
+Webbrowser Internetbrowser Browser
+harzig klebrig
+Zuchthengst Deckhengst Beschäler
+Schindanger Schindacker
+Füllen Fohlen Wutsch Enter
+Telefonnetz Fernsprechnetz
+Gewinn-und-Verlust-Rechnung Gewinnverwendungsrechnung
+Leporello Faltbuch
+Bullionmünze Anlagemünze
+Borbel Rosskartoffel Jerusalem-Artischocke Ewigkeitskartoffel Erdartischocke Erdtrüffel Zuckerkartoffel Ross-Erdäpfel Erdschocke Erdapfel Erdbirne Indianerknolle Topinambur Erdsonnenblume Schnapskartoffel Knollensonnenblume Süßkartoffel
+Schadprodukt Ungut Übelgut
+Gadertal Abteital
+Niedertracht Bösartigkeit Heimtücke Infamie
+Wipfel Zopfholz Baumwipfel
+Elastan Spandex
+Kunstfaser Chemiefaser
+stapfen stelzen waten staksen staken
+braunhaarig brünett
+Ernährungsänderung Ernährungsumstellung Nahrungsumstellung
+Dominoeffekt Kettenreaktion
+Passepartout Zentralschlüssel Hauptschlüssel Generalschlüssel
+Ausgleichsrechnung Parameterschätzung Ausgleichungsrechnung Regression Anpassung Ausgleichung
+wandern bergwandern laufen trekken trecken
+Mangel Wäschemangel
+Abgeordnetenamt Abgeordnetensitz Mandat Sitz
+umgehen nachtwandeln schlafwandeln herumgeistern
+Leviratsehe Jibbum Schwagerehe Levirat
+performatorisch performativ
+Sprechhandlungstheorie Sprechakttheorie Redehandlungstheorie
+Armageddon Harmageddon Har-Magedon Harmagedon
+Plotter Großformatdrucker
+Polyp Nesseltier
+Nebenstraße Seitenstraße
+Sellerie Zeller Eppich
+absetzbar feil veräußerlich
+Rückzugsort Idyll Erholungsort Idylle Rückzugsstätte Oase Refugium Paradies
+Schanghai Shanghai
+Ameisenforscher Myrmekologe Ameisenkundler
+Myrmekologie Ameisenkunde
+Beuteltiger Beutelwolf
+Slawistik Slavistik
+Maioffensive Südtiroloffensive Frühjahrsoffensive
+Quantor Quantifikator
+Quantorenlogik Prädikatenlogik
+Khoi Khoikhoi Hottentotten Khoekhoen
+Existenzquantor Partikularquantor
+Allquantor Universalquantor
+Südniederfränkisch Limburgisch
+Barbarossadenkmal Kaiser-Wilhelm-Denkmal Kyffhäuserdenkmal
+Irbis Schneeleopard
+Bengal-Katze Leopardette
+Bengalkatze Leopardkatze
+abhaltend prohibitiv verhindernd unterbindend
+Omnipotenz Allmacht Allmächtigkeit
+Unterstützungsleistung Subsidium
+Niederländisch-Brasilien Neu-Holland
+Quarkkuchen Quarktorte Topfenkuchen Käsekuchen
+Karge Kargowo Kargowa Unruhstadt
+Hermannstadt Sibiu
+Windau Ventspils
+Mazedorumänisch Aromunisch
+Gut Domäne Gutshof
+Mastdarm Schlackdarm Rektum
+Bodenkunde Pedologie Bodenwissenschaft Edaphologie
+Umweltmonitoring Umweltbeobachtung
+Lithium-Ionen-Akku Lithium-Ionen-Akkumulator Li-Ionen-Akku
+Schirmherr Patron Protektor
+Dadaismus Dada
+EU-Parlament Europaparlament
+Schütze Sagittarius
+Stier Taurus
+Löwe Leo
+Fertiggericht Fertigmahlzeit Convenience-Lebensmittel
+Ortsnamenkunde Toponymie Ortsnamenforschung Toponomastik Toponymik
+apperzipieren wahrnehmen
+Amtsanwärter Prätendent
+Rätedemokratie Rätediktatur Räterepublik
+Tempomat Geschwindigkeitsregelanlage
+taiwanisch taiwanesisch
+Sprengberechtigter Sprengmeister Schießberechtigter Sprengbefugter
+Gegenauslese Negativauslese Negativselektion Antiselektion
+Saure-Gurken-Problem Zitronenproblem
+Agenturtheorie Prinzipal-Agent-Theorie
+Asbuka Kyrilliza
+Alphabetschrift Buchstabenschrift
+Gnadenerweis Indult
+Gnocchi Nocken Nockerln
+Eukalyptusbonbon Halsbonbon Hustenbonbon
+Piratenküste Vertragsoman Vertragsküste Seeräuberküste
+Shariqah Schardscha
+Falkner Beizjäger
+Chagos-Archipel Tschagos-Archipel
+Chagossier Chagos-Insulaner Sagosien Chagossianer
+Rodrigues Rodriguez
+Kreisau Creisau
+Boskoop Boskop
+Ster Raummeter
+Führungsriege Führung Führungsteam Führungscrew Führungsmannschaft Leitung Spitze
+Finanzierbarkeit Bezahlbarkeit
+Unvereinbarkeit Inkompatibilität Unverträglichkeit
+entwerfen konzeptualisieren gestalten
+Selbstmörder Suizident Suizidant
+Gehorsamsverweigerung Aufmüpfigkeit Unbotmäßigkeit
+Kohäsion Zusammenhangskraft
+Kapillareffekt Kapillarität
+Pylon Haberkornhütchen Verkehrshütchen Verkehrsleitkegel Molankegel Leitkegel Verkehrstöggel
+Weidritz Bistritza Vydrica Wödritz Bystrica Bistritz
+Mährer Mähren
+Tschechisch-Schlesien Mährisch-Schlesien Sudetenschlesien
+Holitsch Weißkirchen
+Austrasien Austrien
+Neustrien Neustria
+Mediatisierung Mittelbarmachung
+Friedek-Mistek Friedeck-Mistek
+Exeget Bibelwissenschaftler
+Idolatrie Bilderanbetung Götzendienst Bilderverehrung Götzenverehrung Abgötterei
+Plopschutz Popkiller Poppschutz Popschutz
+Klusil Okklusivlaut Verschlusslaut Okklusiv
+Spirant Konstriktiv Engelaut Spirans Frikativ Reibelaut Sibilant
+Näherungslaut Approximant
+Lateral Laterallaut
+Klick Schnalz Schnalzlaut Klicklaut Injektiv
+Affrikata Affrikat Affrikate
+Allpassfilter Allpass
+Nahheitseffekt Proximity-Effekt Naheffekt Nahbesprechungseffekt
+Ja-Nein-Rätsel Rätselkrimi Lateral
+Schriftsetzer Setzer
+Kelsterbach Kelster
+Reichskriegshafen Marinestation
+Netzeffekt Netzwerkexternalität Netzwerkeffekt
+Brescia Wälsch-Brixen
+Viktoriastadt Victoria
+Jünger Apostel
+Stratovulkan Kegelvulkan Schichtvulkan
+Heimautomation Hausautomation Hausautomatisierung
+Utraquisten Kalixtiner Calixtiner
+Silbersfeld Strzibrnitz
+Bethlehemiten Hussiten
+Markow-Prozess Markow-Kette
+Eltanin Etamin Ettanin
+Altweißrussisch Ruthenisch Russinisch Altukrainisch Westrussisch
+Sekanten-Tangenten-Satz Sehnen-Tangenten-Satz
+Frankoprovenzalisch Franko-Provenzalisch Arpitanisch
+Ruthenisch Südrussinisch Vojvodina-Russinisch Batschka-Russinisch Pannonisch-Russinisch Jugoslawo-Russinisch
+Slavonien Slawonien
+Radmacher Stellmacher Rädermacher Radmaker Achsmacher Wagner
+Czalositz Tschalositz
+Limbucht Limfjord
+Schiffslände Lände
+Kanonenkreuz Tatzenkreuz Templerkreuz
+Murmanskbahn Murmanbahn
+Christusordenkreuz Prankenkreuz
+Patronym Vatersname
+Metronym Muttername Matronym
+Normalformenreduktion Grundformenreduktion Stammformreduktion Stemming
+Naturzug Kamineffekt
+Binnen-I Versalien-I Majuskel-I
+Staffelgiebel Katzentreppen Treppengiebel Stufengiebel
+Udine Weiden
+Friulisch Friaulisch Furlanisch
+Mezzolombardo Welsch-Metz
+Florenz Firenze
+Vogesen Wasgauen Wasigenwald Wasgenwald
+Nancy Nanzig
+Windischgrätz Windischgraz
+Vinschgaubahn Vinschgerbahn
+Gardasee Gartsee
+Maschinenbauinformatik Ingenieur-Informatik
+Zuschlagsteuer Annexsteuer
+Sachs Skramasax Sax
+Jakobs-Drehgestell Jakobsgestell Jakobsachse
+Trippelschritt Tappser
+beschreien prophezeien herbeireden unken
+Flugzeugelektronik Avionik
+Schlatz Schlaz
+Obödienz Großloge Obedienz Großorient
+eingipflig unimodal
+bimodal zweigipflig
+multimodal mehrgipflig
+Wölbung Kurtosis Kyrtosis
+hochgipflig leptokurtisch
+Scharfenbergkupplung Schaku
+Brückenkopf Brückenschanze
+Unterkellerung Ausschachtung Exkavation
+Grabenwehr Kaponniere Grabenkoffer
+Xylograf Formschneider Xylograph
+Synode Konzil
+Kannada Kanaresisch
+Bésigue Bézigue Bézique Bésique
+Fourastie-Hypothese Drei-Sektoren-Entwicklungstheorie Drei-Sektoren-Hypothese
+Schiffsbohrmuschel Holzbohrwurm Schiffsbohrwurm
+Senke Depression
+Anlandung Aggradation
+Zahnriemen Synchronriemen
+Baiern Altbaiern Altbayern
+Tafelgut Kammergut Kameralgut
+Staatsdomäne Staatsgut
+Königsgut Kronland Krongut Krondomäne
+Tagbruch Tagebruch Stolleneinbruch Tagesbruch
+Betretenheit Schamhaftigkeit
+Regionalismenwörterbuch Idiotikon Mundartwörterbuch
+Kloakentier Gabeltier
+Badekappe Badehaube Bademütze Schwimmkappe Schwimmhaube
+Quasikollektivgut Allmendegut
+Moskwa Moskau-Fluss Moskau
+Insurrektionskrieg Insurrektion
+Kookkurrenz Konkomitanz
+vordergründig durchsichtig oberflächlich inhaltsleer dünn gehaltlos
+Gedankentiefe Substanz Tiefgang Tiefgründigkeit Gedankenfülle Gehalt Gedankenreichtum
+Ermessen Geneigtheit Belieben
+Teleprompter Prompter
+Gästezimmer Fremdenzimmer
+Ungenauigkeit Undurchschaubarkeit Unübersichtlichkeit Unbestimmtheit Unklarheit
+blühen strotzen
+Thalassämie Mittelmeeranämie
+Sichelzellkrankheit Sichelzellanämie Drepanozytose Sichelzellenanämie
+Wettbüro Buchmacher
+trennen auflösen dissoziieren
+weit makro groß
+bedingungslos uneingeschränkt vorbehaltlos rettungslos rückhaltlos
+Pseudolit Pseudo-Satellit
+US-Dollar Greenback USD
+Interpellationsrecht Fragerecht
+Walddeutscher Taubdeutscher
+technophil technikbegeistert
+Technophilie Technikbegeisterung
+unangenehm fragwürdig anrüchig zweifelhaft unschön
+erniedrigen demoralisieren kleinkriegen
+kungeln auskungeln ausdealen klüngeln
+fünfzehn fuffzehn
+feststellen abstecken herausfinden ausloten orten erkennen bestimmen abzirkeln umgrenzen ausmachen
+offenlassen offenhalten vorbehalten ausbitten
+Seelhaus Gerner Ossarium Beinhaus Ossuarium Karner Kärnter Kerchel
+Luitizen Lutizen Liutizen Lutitzen
+Rückentwicklung Devolution
+verbreiten propagieren popularisieren
+Nolasker-Orden Mercedarier-Orden
+Hexarchie Sechsherrschaft
+Großoffizier Großkomtur
+Phaleristik Ordenskunde
+Collane Kollane
+klaffen gähnen aufstehen
+einschränken abmildern verwässern relativieren abschwächen
+Überprüfung Ausprobieren
+Feinwerktechnik Feingerätetechnik
+Lucas-Probe Lucas-Test
+Primärsektor Urproduktion
+Dienstleistungssektor Tertiärsektor
+Informationssektor Quartärsektor
+Kathodenzerstäubung Sputtern
+branden rauschen brechen
+Bügelbrett Bügeltisch
+begabt anstellig gelehrig gelehrsam verständig hell aufnahmefähig lernfähig aufgeweckt
+fortbestehen halten standhalten weiterbestehen bleiben behaupten fortdauern fortleben überdauern durchhalten überleben
+überstehen überdauern widerstehen standhalten
+einstig ehemalig gewesen vormalig alt einstmalig frühere seinerzeitig damalig
+schwellen aufschwellen aufschwemmen
+öde flau unaromatisch lau geschmacksarm fade laff fad
+Quadrofonie Vierkanalstereofonie Quadrophonie
+Gerecse-Gebirge Geißgebirge
+Trempel Kniestock Drempel
+Ascension Himmelfahrtsinsel
+Ohranlegeplastik Otopexie
+Larynxmaske Kehlkopfmaske
+aufbauschen aggravieren übertreiben hochspielen dramatisieren
+unfrei illiberal
+streichen reffen bergen einziehen
+Richterspruch Aburteilung Urteilsspruch Urteil Gerichtsurteil
+röhren brüllen orgeln schreien
+Heer Unzahl Latte Vielzahl Ballung Fülle Menge Reihe Legion Schwall Armee Batzen Schwarm Flut Haufen Masse Unmenge Übermaß Unmasse Unmaß Schwung Serie Wust Schar Vielheit Anhäufung Anzahl
+Truppengattung Waffengattung
+Leinwandbindung Taftbindung Tuchbindung
+schamlos haltlos ausschweifend zuchtlos hemmungslos tugendlos sittenlos charakterlos
+Fallschirmjäger Luftlandetruppe
+Gebirgstruppe Gebirgsjäger
+Flächenfallschirm Gleitfallschirm
+Judenspanisch Spaniolisch Ladino Judäo-Spanisch
+Schönheits-OP Schönheitsoperation
+Schlummertrunk Absacker Dämmerschoppen
+Diebesbeute Schore Sore Diebesgut Raubgut Hehlerware Fang
+Schieber Hehler
+Austastimpuls Austastlücke
+Politoffizier Politruk Politkommissar
+Besiedlung Bebauung Kolonisierung Erschließung
+unentbehrlich unabweisbar notwendig nötig unerlässlich unausweichlich zwingend wesentlich geboten unvermeidlich unbedingt erforderlich
+Gebrauchsgut Gegenstand Artikel Ware Konsumgut
+abgepackt verpackt gebündelt eingewickelt verschnürt
+zusammenschnüren zusammenfügen zusammenbinden bündeln zusammenpacken
+Colorfilm Buntfilm Farbfilm
+changierend irisierend schillernd glänzend schillerig changeant
+ambivalent undurchsichtig mehrdeutig schleierhaft unbestimmt
+Zierde Schmuck Ornament
+fieberhaft begierig fiebrig erwartungsvoll ungeduldig gespannt interessiert
+Kraft Eifer Intension
+zusammenstellen unterteilen situieren systematisieren aufgliedern sortieren registrieren erfassen katalogisieren ordnen gruppieren einordnen
+Entfaltung Fortentwicklung Weiterentwicklung Fortschritt Fortgang Progression Herausbildung
+Erhöhung Verschlimmerung Steigerung Verschärfung Eskalierung Verschlechterung Hebung Progression
+Wallonie Wallonien
+entlüften durchblasen ventilieren auslüften
+Entlüfter Abzug Dunstabzug Klimaanlage
+verfügen vorschreiben reglementieren befehlen festlegen bestimmen
+vorsprechen diktieren
+Latz Schnurstück
+Kinderlatz Kinderlätzchen Baterl Schlabberlatz Sabberlatz Lätzchen
+Eradikation Keimeliminierung
+Verbalinjurie Erniedrigung Herabwürdigung Insult Beleidigung Kränkung Verunglimpfung Schimpf Affront Verletzung Diskreditierung
+faulenzen abharzen abhartzen
+Fräsrädchen Kratzrädchen
+Bodenstabilisierer Bodenfräse
+Vertikalhammer Schabottenhammer Fallhammer
+Flachsenker Plansenker
+Gutmensch Moralprediger Tugendbold Moralapostel Sittenwächter Biedermann
+Hofstaat Hof
+denaturieren entarten
+Tetrade Nybble Nibble Halbbyte Quadrupel
+Tudorstil Tudorgotik
+Stirnmoräne Endmoräne
+Ablationsmoräne Obermoräne
+Findling Erratiker
+Elsässerdeutsch Elsässisch
+Langobarden Winniler
+Einatmen Inhalieren Inhalation
+Optotronik Optronik Optoelektronik
+1888 Dreikaiserjahr
+69 Vierkaiserjahr
+Knochendichtemessung Osteodensitometrie
+Multiaccount Fake-Account Smurf Sockenpuppe
+übermannen überschwemmen
+Amurriter Amoriter
+Urteilsaufhebung Kassation Kassierung
+Ravenna Raben
+Bayreuth Festspielstadt
+Halle Händelstadt
+Lübeck Marzipanstadt
+Bakteriophobie Bakterienangst
+Gambierinseln Mangarevainseln
+Reißverschlusssystem Reißverschlussverfahren
+Kontextsensitivität Kontextabhängigkeit
+Landsegler Windwagen Segelwagen
+Celanosee Fucinosee
+Kanal-Flügel Röhrenflügel Kanal-Tragfläche Channelwing
+Staatsinsolvenz Staatsbankrott
+Teslaspule Tesla-Transformator
+Tesla-Turbine Scheibenläuferturbine
+Divinität Göttlichkeit
+Seligsprechung Beatifikation
+Lavongai Neu-Hannover
+West-Neuguinea Holländisch-Neuguinea Niederländisch-Neuguinea West-Papua
+Eremiteninseln Hermitinseln Einsiedlerinseln Agomes Luf-Gruppe
+Neubritanniengraben Neupommern-Bougainville-Graben Neubritannien-Bougainville-Graben
+Subsistenzwirtschaft Bedarfswirtschaft
+BAB-Rätsel YOGTZE-Fall
+Kaskadengebirge Kaskadenkette
+Lavakuppel Staukuppe Lavadom Vulkandom
+Lebensmittelimitat Lebensmittelsurrogat
+Surrogatschlüssel Stellvertreterschlüssel
+Erhöhung Inkrement
+Verminderung Dekrement
+Providenciales Provo
+100-Stunden-Krieg Fußballkrieg
+Elektretmikrofon Elektret-Kondensatormikrofon
+Signal-Stör-Verhältnis Signal-Rausch-Verhältnis Störabstand Rauschabstand Signal-Rauschabstand
+Kräuterbitter Magenbitter
+Bitter Amer Bitterspirituose
+Kokopo Herbertshöhe
+Admiralhalbinsel Villamuez Willaumez-Halbinsel
+Burrup-Halbinsel Murujuga
+Panoramawagen Aussichtswagen
+Wurstebrei Grützwurst Graupenwurst
+anstecken infizieren übertragen
+Rundschwanzseekuh Manati
+Gabelschwanzseekuh Dugong
+Stimmwechsel Mutation Stimmbruch
+Guanchen Altkanarier
+Schouten-Inseln Misore-Inseln
+Bitterorange Pomeranze Sevilla-Orange
+Pampelmuse Grapefruit Riesenorange Adamsapfel
+Myhill-Konstruktion Potenzmengenkonstruktion Teilmengenkonstruktion
+Simplex-Verfahren Simplex-Algorithmus
+Polyeder Vielflächner Ebenflächner Vielflach
+Pareto-Optimierung Vektoroptimierung
+Verdeckung Maskierungseffekt
+Topfkratzer Topfreiniger
+Resistanz Wirkwiderstand
+Thronzelt Pavillon Wappenmantel
+Schwabenkrieg Schweizerkrieg
+Sensitivität Empfindlichkeit
+Empfindlichkeit Trefferquote Sensitivität Richtigpositiv-Rate
+Reichsheer Reichsarmee Reichsarmatur
+Inkrementalgeber Drehimpulsgeber Inkrementaldrehgeber Drehgeber
+Zeichengabe Signalisierung
+Zeitscheibe Zeitschlitz
+Dreiersystem Ternärsystem
+YD-Schaltung Stern-Dreieck-Schaltung
+Stromstoßrelais Stromstoßschalter
+Potlach Potlatsch Potlatch
+Katana Samuraischwert
+Bidenhander Zweihänder Beidenhänder Bihänder Bidenhänder Beidhänder
+AP Aktionspotential
+Nachtblindheit Hemeralopie
+Volkspolizei VoPo
+Gonzalo-Pizarro-Expedition Zimtland-Expedition
+Malabarküste Pfefferküste
+Zaunkönig Schneekönig
+Aruba-Gulden Aruba-Florin
+Wärmeleitzahl Wärmeleitfähigkeit
+Hybridkernel Makrokernel
+Weichsel-Komplex Weichseleiszeit Weichsel-Glazial Weichselkaltzeit Weichsel-Eiszeit Weichsel-Kaltzeit Weichselglazial Weichsel-Zeit
+Korrektionsanstalt Besserungsanstalt
+Aphärese Ablatio
+Braunswalde-Willenberg-Kultur Willenberg-Kultur Wielbark-Kultur
+Sarmaten Sauromaten
+Oberbayern-Ingolstadt Bayern-Ingolstadt
+Bayern-München Oberbayern-München
+Agilulfinger Agilolfinger
+Kuchenbäckerei Confiserie Konfiserie Konditorei Zuckerbäckerei Patisserie
+stückweise portionsweise ratenweise schrittweise stufenweise abschnittweise etappenweise
+~ Wiederholungszeichen Tilde
+Quadratmeter qm m²
+Rendezvous Tête-à-Tête Stelldichein Treffen Date Verabredung
+Bildrate Bildfrequenz Bildwechselfrequenz
+Effizienz Energieeffizienz η Wirkungsgrad Eta
+Parkinson Parkinson-Krankheit Schüttellähmung Parkinsonkrankheit Zitterlähmung
+Dollar $
+treideln bomätschen
+Vorgericht Entrée Antipasto Vorspeise Snack Vorsuppe Horsd'œuvre
+Brasília Brasilia
+Asgabat Aschgabat Aşgabat
+Fahrscheinautomat Fahrscheinverkaufsautomat Billettautomat Fahrausweisverkaufsautomat Fahrausweisautomat Fahrkartenautomat Fahrkartenverkaufsautomat
+Komplementärmedizin Alternativmedizin Naturheilkunde Naturmedizin
+Alpha α
+Ryūkyū-Inseln Liukiu-Inseln Riukiu-Inseln
+Gleichgewichtspunkt Fixpunkt Ruhelage
+Phasenraum Zustandsraum
+dementiell demenziell
+Theremin Thereminvox Termenvox Thereminovox Aetherophone
+Jaguarundi Wieselkatze
+BMW-Vierzylinder BMW-Turm BMW-Hochhaus
+Victoriastadt Kaskelkiez
+Biarchie Doppelherrschaft Dyarchie
+Karpato-Ukraine Karpatenrussland Karpathen-Ukraine Unterkarpaten Karpatenukraine Karpatoukraine Transkarpatien Karpatenruthenien Karpatenland Karpathorussland Karpatoruthenien
+Paläo-SETI Prä-Astronautik
+Mieresch Marosch
+Berchfrit Burgturm Bergfried Wehrturm
+Eigenname Proprium
+Stoffname Massenomen Substanzausdruck Kontinuativum Stoffbezeichnung
+Anlautpermutation Anfangsmutation Anlautmutation Mutation Eklipse
+Vorbildung Propädeutik Vorunterricht Vorübung
+Queistalsperre Marklissa-Talsperre
+Keltenschanze Viereckschanze
+Fliehburg Fluchtburg Volksburg Bauernburg Vryburg
+Gleitkommazahl Fließkommazahl Gleitpunktzahl
+Lawinendurchbruch Avalanche-Durchbruch
+Durchschlagspannung Überschlagspannung Durchschlagsspannung Überschlagsspannung
+Inowrazlaw Jungbreslau Hohensalza
+Krieblowitz Blüchersruh
+Bissagos-Archipel Bijagós-Archipel Bissagosinseln
+Umzugswagen Zügelauto
+Nachtmensch Morgenmuffel
+Frühaufsteher Morgenmensch
+Rossknödel Pferdeexkrement Pferdeapfel
+Quantenmechanik Quantentheorie
+Zeitrichtung Zeitpfeil
+Kleingartenbesitzer Schrebergärtner Laubenpieper Kleingärtner
+Literatur Dichtung Schrifttum Schriftgut Schriften
+dahin dahingehend
+begreifen verstehen auffassen interpretieren
+Klapprad Faltrad
+Durchschlupf Ausweg Hintertür
+Munitionsgürtel Koppel
+Drehwaage Torsionswaage
+Überfall Aggression Angriff
+intellektuell verkopft verstandgesteuert verstandesbetont kopflastig eierköpfig kopfgesteuert kopfig
+Anklang Zustimmung Sympathie
+festmachen binden festzurren
+herbeischaffen ankarren
+drängen anempfehlen
+Zoll '' in
+Nanometer nm
+Kescher Käscher
+Eta-Aquariden Mai-Aquariden
+Sternschnuppenschwarm Meteorstrom Sternschnuppenschauer Meteorschauer
+Nahnebensprechen Nahübersprechen
+Fernübersprechen Fernnebensprechen
+DIP-Schalter Mini-Schalter Mäuseklavier
+behauptend assertiv
+Fischer-Tropsch-Synthese Fischer-Tropsch-Verfahren
+Fischer-Tropsch-Kraftstoff XtL-Kraftstoff
+Spendabilität Weitherzigkeit Großzügigkeit Freigiebigkeit Generosität Gebefreudigkeit Freigebigkeit Großherzigkeit Spendierfreudigkeit
+Korrektionskondensator Drehkondensator Regelkondensator Drehko
+Kadettenaufstand Novemberaufstand
+Beschleunigungssensor Accelerometer Beschleunigungsmesser B-Messer G-Sensor
+Wirkleitwert Konduktanz
+Bloch-Funktion Bloch-Welle
+resetten nullen zurücksetzen
+Massenhersteller Volumenhersteller Großserienhersteller
+Fließbandfertigung Fließband
+Schüttraummeter Schüttmeter
+Lehrfilm Lehrvideo Unterrichtsvideo
+Verwunderung Erstaunen Befremden
+Orgelspielerin Organistin
+Fußballspielerin Fußballerin
+Federbeinlager Domlager
+reprimieren zurückdrängen
+Wiederbelebung Reanimation Herz-Lungen-Wiederbelebung
+kapiert verstanden begriffen durchschaut
+Entwicklungshilfe Entwicklungszusammenarbeit
+Tribooxidation Reaktionsschichtverschleiß
+Bisektion Intervallhalbierungsverfahren
+Zimmermann-Depesche Zimmermann-Telegramm
+Partikelstrahlung Teilchenstrahlung Korpuskularstrahlung Korpuskular-Strahlung
+Kernwaffenexplosion Atomexplosion Nuklearwaffenexplosion Atombombenexplosion Kernexplosion Nuklearexplosion Atomwaffenexplosion
+Fichenaffäre Fichenskandal
+Diné Navajo Navaho
+Radiolarie Strahlentierchen
+Expression Ausprägung
+Infantizid Kindstötung Kindestötung Kindsmord
+Gerölllawine Schuttlawine Trümmerlawine
+Fernschreiber Telegraf
+scharfkantig geschärft schneidend scharf messerscharf
+Apuseni-Gebirge Apusen
+Kreischland Kreischgebiet Kreischgau
+Feistelnetzwerk Feistelchiffre
+Regentin Herrin Gebieterin
+Grönlandmeer Grönlandsee
+Rektangularprojektion Plattkarte
+Kartenabbildung Kartennetzentwurf
+Chip Wafer Die
+JHVH JHWH Tetragramm Tetragrammaton
+Meronymie Teil-zum-Ganzen-Beziehung
+Holonymie Ganzes-zum-Teil-Beziehung
+eindringen invadieren einmarschieren einströmen einfallen
+Zweilaut Diphthong Zwielaut
+Trema Trennpunkte Tüddelchen Umlautpunkte Tüttelchen
+Vergussanlage Dosieranlage
+Fassfolgeplattenpumpe Folgeplattenpumpe
+abrasiv abschabend
+Schnellhobler Stoßmaschine
+Stillstandsmarkierung Muldenbildung Riffelbildung
+Leslie-Lautsprecher Rotationslautsprecher Leslie-Tonkabinett Leslie-Box Leslie
+Karussellbetrug Karussellgeschäft
+Hinkelstein Menhir Monolith
+Restrukturierung Refaktorierung Refaktorisierung Umgestaltung
+Komponententest Modultest
+Berganfahrassistent Berganfahrhilfe
+Hot-Carrier-Diode Schottky-Diode Schottky-Barriere
+Durchlassspannung Schleusenspannung Schwellenspannung Knickspannung Kniespannung
+I-U-Charakteristik Strom-Spannungs-Kennlinie Strom-Spannungs-Kurve
+Helmholtz-Thévenin-Theorem Helmholtz-Satz Thévenin-Theorem
+Kontrollstab Steuerstab Regelstab
+Irangate Iran-Contra-Affäre
+Seegurke Seewalze
+Scheidetrichter Schütteltrichter
+R&I-Diagramm R&I-Schema RI-Fließbild R&I-Fließbild R+I-Fließbild
+dilatorisch aufschiebend hinhaltend verzögernd
+Verbunddampfmaschine Mehrfach-Expansionsmaschine
+Kesselzerknall Kesselexplosion
+Herrenkunst Wasserhaltung Wasserkunst
+E-Petition Online-Petition
+Höhenlinie Isohypse Niveaulinie Höhenschichtlinie
+Tiefenlinie Isobathe
+Isolinie Niveaulinie Isarithme Konturlinie
+Äquipotentialfläche Potenzialfläche Äquipotenzialfläche
+Online-Community Netzgemeinschaft
+Prosodie Silbenbetonung Satzmelodie Wortakzent Prosodik
+Raumgitter Bravais-Gitter
+Parallelverschiebung Translation
+Memorymetall Formgedächtnislegierung
+Markung Katastralgemeinde Gemarkung Gemarchen
+direktiv anweisend
+TOP Tagesordnungspunkt Traktandum
+Babypinkeln Kindpinkeln Pullerparty Pissparty Kinderpinkeln Babybier Pinkelparty
+Datei Akte
+Sternhöhenmesser Astrolab Astrolabium Planisphärum
+Gerätehorizont Instrumentenhorizont
+Nivellier Nivellierinstrument Nivelliergerät
+Kirchenschiff Kreuzschiff
+Neoromanik Neuromanik
+Motorik Beweglichkeit
+Supplementierung Supplementation Nahrungsergänzung
+Aufleuchten Lichtblitz Blitz
+Einzeldarstellung Fachbuch
+Höhenwinkel Elevation Höhe Altitude
+Zenitdistanz Zenitwinkel
+normsetzend normierend wertend normativ vorschreibend normgebend präskriptiv
+dreiseitig trilateral
+Radiusvektor Ortsvektor Aufpunktvektor
+Kullback-Leibler-Divergenz KL-Divergenz Kullback-Leibler-Information Kullback-Leibler-Entropie Kullback-Leibler-Abstand
+kymrisch walisisch
+Kolubrine Feldschlange
+Innovationszentrum Existenzgründerzentrum Gründerzentrum Technologiezentrum
+Fundstück Glücksfund Trouvaille Ringeltaube
+Dreisatz Schlussrechnung Verhältnisgleichung Schlüsse Proportionalität
+Reibungsbahn Adhäsionsbahn
+Mendenhall-Gletscher Auke-Gletscher
+Ausgleichsgetriebe Differenzialgetriebe Differential Differentialgetriebe Differenzial
+Planetengetriebe Planetenrädergetriebe Umlaufrädergetriebe Planetenradgetriebe
+Carbonylchlorid Phosgen Kohlenoxiddichlorid
+Scheinselbständigkeit Scheinselbstständigkeit
+Diktatfrieden Friedensdiktat
+Schaltnetzgerät Schaltnetzteil
+ablegen hinlegen legen
+Mitkämpfer Mitstreiter Kombattant
+AB-Stereofonie Laufzeitstereofonie
+Knochenschall Knochenleitung
+rotieren präzedieren
+Beugungsgitter Mehrfachspalt
+Stapa-Rohr Stahlpanzerrohr
+Handschrift Manuskript
+Editionsphilologie Editionswissenschaft
+Digital-Analog-Umsetzer D/A-Wandler Digital-Analog-Wandler
+Analog-Digital-Umsetzer Analog-Digital-Wandler A/D-Wandler
+Wandler Umsetzer
+konzeptionell geplant
+bilanzieren aufschlüsseln
+bilanziert aufgeschlüsselt
+Zielverfolgungsradar Folgeradar Feuerleitradar Verfolgungsradar
+Doppelbereifung Zwillingsbereifung
+Pferdefeige Hexenfinger Hottentottenfeige
+einnebeln umnebeln vernebeln
+Waari Waigri Wagrier
+Papageitaucher Papageientaucher
+Regenpfeiferartige Limikolen Watvögel
+Ichthyologie Fischkunde
+Kompaktklasse Golfklasse
+Überlandleitung Freileitung
+erdichtet ausgedacht fiktiv erfunden konstruiert ersonnen vorgestellt fiktional erdacht
+aufspriten vinieren spriten
+Frankiersystem Freistempelmaschine Frankiermaschine
+Rendern Bildsynthese
+Rechtekontrolle Rechtevergabe Ermächtigung Delegation
+Erdschleife Brummschleife
+Kreisfehlerwahrscheinlichkeit Streukreisradius
+Kovarianzmatrix Varianz-Kovarianz-Matrix
+Körpergefühl Körperempfindung
+Flaschenöffner Kapselheber
+verfügend anordnend dispositiv
+Fluorwasserstoffsäure Flusssäure
+Juan-Fernández-Archipel Juan-Fernández-Inseln
+Geisterharfe Aeolsharfe Wetterharfe Äolsharfe Windharfe
+ausverkaufen abverkaufen
+Bildschirmfoto Screenshot Hardcopy Bildschirmkopie
+Raketenwerfer Raketenartillerie Geschosswerfer
+verdrehen tordieren
+rotatorisch kreisend drehend trudelnd rotierend
+beleihen entleihen
+Young-Helmholtz-Theorie Dreifarbentheorie
+Urtitersubstanz Urtiter
+pH-Meter pH-Messkette
+Äquivalentkonzentration Normalität
+Titration Volumetrie Maßanalyse Titrimetrie
+Punktlicht Spotlight
+Außerortsstraße Freilandstraße
+Drossart Drost
+Nebenbuhler Mitbewerber Konkurrent Rivale
+Trassierungselement Entwurfselement
+Sanitätswesen Sanitätsdienst Sanität
+Jahrgangsstufe Schulstufe Klassenstufe
+Portalfräsmaschine Portalfräse Portalfräswerk
+Inverter Wechselrichter
+Stadtmöbel Straßenmöbel
+Krimtataren Krimtürken
+Olympiasieger Olympionike
+Hundchen Zamperl Fiffi Hündchen Hundling
+Oderberge Oderbergland Odergebirge
+Dreschkasten Dreschmaschine
+Hopen Hoffnungsinsel
+vollendet perfektivisch perfektiv
+unvollendet imperfektiv imperfektivisch
+Heizwert Energiegehalt Energiewert
+Schimäre Mischwesen Chimäre
+xeromorph xerophytisch
+Halsgeige Schandgeige Schandkragen
+Schandstein Lasterstein Lästerstein
+Blutbann Hochgerichtsbarkeit Halsgerichtsbarkeit Vogteirecht Grafschaftsrecht Blutgerichtsbarkeit
+Pranger Schandpfahl Kaak
+Stäupen Staupen Stäupung Staupenstreichen Staupenschlag
+Profoss Profot Profos Profoß Provost
+Gassenlaufen Spießrutenlaufen Spitzrutenlaufen
+Sankt-Georgs-Kreuz Georgskreuz
+Karnaugh-Veitch-Symmetrie-Diagramm Karnaugh-Tafel Karnaugh-Plan KVS-Diagramm K-Diagramm Karnaugh-Veitch-Diagramm KV-Diagramm
+Södermanland Sörmland
+Mälarsee Mellersee Mälaren
+Stalineisenbahn Polarkreiseisenbahn Stalinbahn
+Nahuatl Mexikanisch Aztekisch
+Istrorumänen Tschitschen
+Rujanen Ranen
+Steuerung Dampfmaschinensteuerung
+Nicolai-Kolbenschieber Karl-Schultz-Schieber
+Trofimoff-Schieber Trofimov-Schieber Troffimoff-Schieber Trofimof-Schieber
+Jeschkengebirge Jeschkenkamm
+Riesenmammutbaum Berg-Mammutbaum Wellingtonie
+Wassertanne Urweltmammutbaum Metasequoie
+Totalität Insgesamt Ensemble Gesamtheit Ganzheit Ganzes
+von-Willebrand-Krankheit Willebrand-Jürgens-Syndrom von-Willebrand-Jürgens-Syndrom Angiohämophilie
+Thrombozytopathie Thrombopathie
+besitzend habend
+Schweißhemmer Antitranspirant
+anregen exzitieren
+Wertschutzraum Tresorraum
+Feinarbeit Feinschliff
+Penne Pennal
+Manusch Sinti
+gelungen geglückt
+staksen stöckeln
+Hektographie Hektografie
+schnittmengenfrei elementfremd disjunkt durchschnittsfremd
+Schubmodul G-Modul Gleitmodul Schermodul Torsionsmodul
+Enneakaidekaeteris Meton-Periode Enneadekaeteris
+Nur-Lese-Speicher Festwertspeicher
+Hirnforschung Neurobiologie Neurowissenschaften Neurophysiologie Gehirnforschung
+Lochkartenlocher Lochkartenstanzer
+abreißen wegreißen ausreißen herausreißen
+Koppelstange Stabilisatorstütze Pendelstütze
+Industriemeister Werkmeister
+Taufstein Taufbecken Fünte
+Parallaxenfehler Parallaxefehler
+Großtochter Enkelin Enkeltochter
+Enkelsohn Enkel Großsohn
+Steinkunde Petrologie
+Vitriolschiefer Alaunschiefer
+suspendierend suspensiv
+Ehrenhaft Festungsarrest Einschließung Festungshaft Festungsstrafe
+Samaiten Samogiten Zemaiten
+ungeschmälert unvermindert
+vermindert geschmälert
+Diorama Durchscheinbild
+Kampfer Camphora Campher
+saisonal jahreszeitlich
+saisonabhängig saisonbedingt
+Schelmenstreich Schelmenstück Bubenstück Schildbürgerstreich Bubenstreich Hanswurstiade Donquichotterie Jungenstreich Lausbubenstreich Schabernack Lausbüberei Dummejungenstreich Eulenspiegelei
+Bassin Wasserbecken
+Diskontierung Abzinsung
+Blindstromkompensation Blindleistungskompensation
+einführen introduzieren zusammenführen einschieben stecken hineinschieben schieben
+Pitzbach Pitze
+Schutzhaus Hütte Berghütte Schutzhütte Hospiz
+abzählbar zählbar quantifizierbar
+Ananas-Erdbeere Gartenerdbeere Kulturerdbeere
+Verschrottungsprämie Abwrackprämie Umweltprämie
+Schnüffelei Spionage Lauschangriff Ausspionieren Spitzelei Ausspähen Ausschnüffeln Ausspähung Bespitzelung
+Seilpark Seilgarten
+zerpflücken auseinanderpflücken
+kundennah kundenorientiert
+Monokel Einglas
+Universitätsabteilung Fakultät Fachbereich
+Fakultät Faktorielle
+Gebärschemel Gebärstuhl Geburtsstuhl
+Romarad Geburtsrad
+Anwaltsbüro Rechtsfirma Anwaltskanzlei Kanzlei Anwaltsfirma
+Oktalsystem Achtersystem
+Zehnersystem Dezimalsystem Denärsystem
+Elektron Elektrum
+Würm-Kaltzeit Würm Würmzeit Würm-Glazial Würmeiszeit
+Bildungsprozessmanagement Bildungscontrolling
+Apostrophitis Idiotenapostroph Katostroph Kapostroph Deppenapostroph
+Amazonien Amazonasbecken Amazonastiefland
+zubuchen nachbuchen hinzubuchen
+Landtechnik Agrotechnik Landmaschinentechnik Agrartechnik
+Reparationszahlungen Wiedergutmachungszahlungen
+jedweden jeden
+Brunnendeck Welldeck Tiefdeck
+Web-Seminar Webseminar Webinar
+Kehrschaufel Mistschaufel Kehrichtschaufel Kehrblech
+Schneeschaufel Schneeschieber
+Filtration Filtern Filtrierung Filterung
+Sigmakörper σ-Algebra σ-Mengenalgebra
+unbesiegbar unbezwingbar unschlagbar
+Rauhnacht Zwölfte Rauchnacht Glöckelnächte Raunacht
+hinüberreichen anreichen
+Steuerbarsch Pilotbarsch Ruderbarsch
+Handbeil Richtbeil
+Torsionspendel Drehpendel
+Federschwinger Federpendel
+hinwegsehen hinwegschauen
+Kommandozeichen Rangflagge Fanion Kommandoflagge
+Kardinalfehler Riesenfehler Riesendummheit Fehler Todsünde
+umschichten umverteilen
+nervenzerreißend nervenaufreibend nervenzerfetzend
+Swansockel Swanfassung Bajonettsockel
+Lampenfassung Lampensockel
+Balun Symmetrierglied
+verlustbringend defizitär defizient
+Medaillenspiegel Nationenwertung
+Elementsymbol Atomsymbol
+Theiß-Kultur Tisza-Kultur
+Wahrnehmungssignal Schlüsselreiz Auslöser Signalreiz
+blumig blumenreich blumenhaft
+E-Mail-Adresse Mail-Addy Mailaddy E-Mail-Addy Addy
+unterscheidend distinktiv
+Pensionisteln Herzeln Brumseln Fritz Fünferspiel
+Zeolith Siedestein
+Eurafrasien Afrika-Eurasien Europafrikasien
+Fahrtenname Pfadfindername Totem Indianername
+Koedukation Gemeinschaftserziehung
+Monoedukation Seedukation
+Rubelkrise Russlandkrise
+Artenvielfalt Artenreichtum Artendiversität
+Lehenswesen Feudalwesen Benefizialwesen Lehnschaft Lehnwesen Lehnswesen
+Kv-Wert Durchflusskoeffizient Durchflussfaktor
+Moldawier Moldauer
+Piratenfischerei IUU-Fischerei
+Fuhre Fuhrwerk
+gewürfelt geschacht geplätzelt
+Mähren Morawien
+mühselig anstrengend beschwerlich strapaziös schweißtreibend hart kräftezehrend auszehrend schlauchend kraftraubend Herausforderung mühsam mühevoll kraftzehrend schwer
+überbewertet idealisiert glorifiziert überschätzt
+Kette Kaskade
+Ale Äl
+angepasst abgestimmt zugeschnitten optimiert
+Obertonregister Aliquotregister Hilfsstimmen Aliquotstimmen
+Stiftskapitel Kollegiatstift Säkularkanonikerstift
+Kopialbuch Kopiar Copeibuch Kartular Chartular
+Reichsheeresverfassung Reichskriegsverfassung
+Augmentativum Augmentativ Vergrößerungsform
+Donauschwaben Donaudeutsche
+Idiophon Selbstklinger Selbsttöner
+Militärnachrichtendienst Militärgeheimdienst
+Ablöschen Deglacieren
+Permalink Permanentlink
+Hinterfotzigkeit Nickeligkeit Hinterlistigkeit Dreistigkeit Nickligkeit Frechheit Boshaftigkeit Gemeinheit
+Rosenthal-Effekt Pygmalion-Effekt
+Neogotik Neugotik
+Autounfall Verkehrsunfall Zusammenstoß Kollision Karambolage
+Unfallhäufungspunkt Unfallbrennpunkt Unfallschwerpunkt
+blockieren versperren verstellen zustellen
+belagern besetzen
+Datenflusskontrolle Datenflusssteuerung
+erhellt herausgestellt aufgestellt aufgeschlüsselt zusammengestellt beleuchtet extrahiert aufgezeigt
+Bischofsamt Episkopat
+Blasenkirsche Judenkirsche
+Triac Symistor Zweirichtungs-Thyristortriode
+Opto-Triac Foto-Triac
+Philokartie Postkartenkunde
+Quellwolke Kumulus Haufenwolke Cumulus
+Rechtsmittelbelehrung Rechtsbehelfsbelehrung
+Fernschnellzug FD-Zug
+Grundgebühr Grundentgelt
+Verleugnung Ignoranz Nichtanerkennung Ignorieren Nicht-Wahrhaben-Wollen Bestreitung Vogel-Strauß-Politik
+Schauspielerei Schauspielkunst
+Feuerrate Kadenz Schussfrequenz
+benedeien segnen
+Reifenaufstandsfläche Reifenlatsch Latsch
+Postproduktion Nachproduktion
+Brägen Hirn Bregen
+Nasenscheidewandverkrümmung Septumdeviation
+Strahlmittel Abrasivmittel Schleifmittel Feststoffpartikel
+Gleichstellung Angleichung Anpassung Egalisierung
+Rekonstruktionslokomotive Rekolok
+Schwartzkopff-Eckhardt-Lenkgestell Schwartzkopff-Eckhardt-Gestell
+getäuscht genatzt gefickt betrogen veräppelt gedisst hereingelegt reingelegt verarscht
+Passiva Passivseite
+nervig unliebsam anstrengend störend leidig ärgerlich nervend lästig
+Frontalebene Coronalebene Koronalebene
+Koronalschnitt Frontalschnitt
+Axialebene Transaxialebene Transversalebene Horizontalebene
+pfänden exekutieren einziehen
+Maschinentransformator Blocktransformator
+Personalgespräch Mitarbeitergespräch
+Gnostizismus Gnosis
+Heroldsbild Heroldsstück Ehrenstück Heroldsfigur
+Univibrator Monoflop
+Spurt Sprint Lauf
+Haargefäß Kapillare
+Wohlordnungssatz Wohlordnungsprinzip
+Arawaken Arawak Aruak
+Quimburga Niedersachsenorkan
+Deskriptor Schlagwort
+Lemmaselektion Lemmatisierung
+Kaschubien Kaschubei
+Nord-Stream-Pipeline Ostseepipeline
+Balkanisierung Libanonisierung
+Sterbeziffer Mortalitätsziffer
+PanMax Panamax
+CAS-Nummer CAS-Registernummer CAS-Registrierungsnummer
+Friedatunnel Dachsbergtunnel
+umweltgefährdend umweltschädlich umweltzerstörend
+Mineralogie Oryktognosie
+Stabbrandbombe Brandstab Elektron-Thermitstab
+Flächenbombardement Flächenbombardierung
+Sachbefugnis Aktivlegitimation
+graben baggern
+Randwertaufgabe Randwertproblem
+löten verschmelzen
+Geländestapler Großreifenstapler
+Feldbahn Lorenbahn
+klärungsbedürftig ungelöst ungeklärt offen unklar
+Sichtbarkeitsentscheid Verdeckungsberechnung
+anteilig prozentuell perzentuell prozentual
+Nachtreisezug Nachtzug
+Subprimekrise US-Immobilienkrise
+Grenzfeststellung Grenzherstellung Grenzanzeige
+Flurneuordnung Flurbereinigung
+Flurneuordnung Kommassierung Kommassation Flurbereinigung Grundstückszusammenlegung Zusammenlegung
+Verkostung Degustation
+Schlese Schlesier
+Wasserpolnisch Schlesisch Schlonsakisch
+Angstmacherei Panikmache Hysterie
+Rückenmarkskanal Wirbelkanal Spinalkanal
+Schreitbagger Spinnenbagger
+ausheben baggern
+Volksgruppe Gesellschaft Volk
+Umkreis Umfeld Großraum Gebiet Umgebung
+Zentralwert Median
+Verballhornung Verschlimmbesserung
+verschlimmbessern verballhornen
+Käseimitat Analogkäse Kunstkäse Käseersatz Käsesurrogat
+Bandonion Bandoneon
+Bober-Katzbach-Gebirge Katzbachgebirge
+mäandrieren mäandern
+Süßkraut Honigkraut Süßblatt
+Lünette Setzstock
+Marathon Marathonlauf
+dreinschauen dreinblicken
+Segelanweisung Seehandbuch
+Schifffahrtszeichen Seezeichen
+Großvater-Vater-Sohn-Prinzip Generationenprinzip
+Gegenentwurf Gegenmodell
+kampfbereit rüstig geharnischt gerüstet
+glückstrahlend freudestrahlend glückselig selig
+Telefonkonferenz Schalte Telko Schaltkonferenz
+Schminkraum Maske
+Datenmaske Maske Eingabefeld Textmaske Vorlage
+Vermummung Maskerade Verkleidung Maskierung Kostümierung
+Standfestigkeit Standhaftigkeit Prinzipientreue Haltung Gradlinigkeit Geradlinigkeit Rückgrat Zivilcourage
+Buchung Einzeichnung Registratur Eintragung Eintrag Vormerkung
+Fangleine Wurfschlinge Wurfleine Lasso Fangseil
+Zauderer Zögerer
+Offiziermesse Messe Offiziersmesse
+Couscous Kuskus
+Schwimmkleidung Badebekleidung Schwimmbekleidung
+Gegen-EMK Gegeninduktionsspannung
+Induktivität Selbstinduktion Eigeninduktivität Selbstinduktivität
+Islamophobie Islamphobie
+einheitlich unitarisch
+Enkeltrick Neffentrick
+gewissenlos ruchlos
+Feuerschläger Feuerschurf Pinkeisen Feuereisen Feuerstahl
+Liebling Protegé Schützling Günstling Favorit
+Cyther Zister Cister Halszither Lutherzither Bergmannszither Harzzither Waldzither Zitter
+Wattwurm Sandpierwurm Pierwurm
+Zahl-Reim-System PEG-Methode
+Major-System Mastersystem
+Gedächtnistechnik Lerntechnik Mnemotechnik
+Urbanistik Raumordnung Stadtforschung Stadtplanung Gebietsverwaltung
+Flockenlesen Krozidismus
+Generalangriff Großangriff
+Einsteher Einstandsmann
+Malwinen Falklandinseln
+Adventisten Milleriten
+insular inselartig
+Zollbeamter Zöllner
+Chomsky-Hierarchie Chomsky-Schützenberger-Hierarchie
+Backus-Normalform Backus-Naur-Form
+Zugmitteltrieb Zugmittelgetriebe Umschlingungsgetriebe
+V-Motor Gabelmotor
+Gampenjoch Gampenpass
+Nonsbergbahn Dermulo-Fondo-Mendel-Bahn
+Kart Gokart
+Gegenschall Antischall
+Vektorprozessor Array-Prozessor
+Verknüpfungszeichen Satzoperator Satzverknüpfung Konnektiv Satzverknüpfer Aussagenverknüpfer Konnektor Funktor Junktor
+Seilreibungsformel Euler-Eytelwein-Formel
+Litauerreise Preußenfahrt
+Passau Drei-Flüsse-Stadt
+Felderwirtschaft Fruchtfolge
+Wulstnaht Bordierung Litze Passepoil Vorstoß Passepoilierung Paspelierung Paspel
+wegzaubern eskamotieren
+Schälchenstein Näpfchenstein Schalenstein
+griechisch hellenisch
+Genette Ginsterkatze
+Krängung Schlagseite
+Lohnfortzahlung Entgeltfortzahlung
+Schreibmaschinen-Kugelkopf Typenkopf
+Schnitzeljagd Haik
+Survival Survivalismus Überlebenskunst
+Dänenaxt Wikingeraxt Breitaxt
+Gewölbebrücke Bogenbrücke
+Auftriebsbeiwert Auftriebskoeffizient
+Renaissance-Kriege Italienkriege
+Ladebühne Rampe Zufahrt Auffahrt
+gestellt vorbereitet arrangiert inszeniert
+Strafrecht Kriminalrecht
+Paradestück Prunkstück Lieblingsstück Kabinettstück Vorzeigeobjekt
+Kraniologie Schädellehre
+Selbstbedienungs-Warenhaus Hypermarkt SB-Markt SB-Warenhaus
+Supermarkt Kaufhalle
+Ladenpassage Galerie Einkaufspassage Passage
+Hautarzt Dermatologe
+weggeschwemmt weggespült
+eingesprüht besprüht
+kompakt kurzgefasst verdichtet reduziert verkleinert komprimiert
+schulisch kasuistisch scholastisch ausgeklügelt
+Dimethylsulfid Methylthiomethan
+ernsthaft ernstgemeint bitterernst wirklich ernstlich
+Mazdaismus Zoroastrismus Zarathustrismus Parsismus
+Bremszange Bremssattel
+Faustsattel Schwimmsattel
+Pendelsattel Kippsattel
+Fimbatal Fimbertal
+Säumer Samer Saumer
+Katzenbär Goldhund Bärenkatze Feuerfuchs
+Ammoniak-Soda-Verfahren Solvay-Verfahren
+Erweichungstemperatur Glasübergangstemperatur
+Solarwärmekraftwerk Sonnenwärmekraftwerk
+Schmidt-Spiegel Schmidt-Kamera Schmidt-Teleskop
+Ortsname Siedlungsname Oikonym
+Leibeigenschaft Eigenbehörigkeit
+Wäscheschirm Wäschepilz Wäschespinne Stewi
+Arbeitsloser Erwerbsloser
+Stabkirche Mastkirche
+Hypermedialität Hypermedia
+Cauchy-Schwarz-Ungleichung Cauchy-Bunjakowski-Schwarz-Ungleichung
+Mongolensturm Tatarensturm Mongolenflut
+Vorspiel Vorgeplänkel
+West-Yugurisch Yohur
+Kerngeschäft Hauptgeschäft
+Neorenaissance Neurenaissance
+Pommern-Stellung Pommernlinie Pommernwall
+Tuamotu-Archipel Paumotuinseln
+Fangataufa Fangatau Ahunui
+Geburtsjahr Baujahr
+Absatzzahl Absatz Verkaufszahlen
+Asylantenwohnheim Asylheim Asylantenheim
+verdammt verflucht vermaledeit
+Tieflandburg Flachlandburg Niederungsburg
+Karäim Karäer Karaim Karaiten
+abduschen abbrausen
+Vieldrahtkammer Drahtkammer
+Arzneiform Darreichungsform
+traditionsverbunden rechts konservativ
+Geweih Gehörn
+Kurpark Kurpromenade Kuranlage
+Formosastraße Taiwan-Straße
+krisengebeutelt krisengeschüttelt
+kritzelig krakelig
+krisenresistent krisenfest
+lau pipiwarm pisswarm lauwarm handwarm überschlagen
+Wasserwirbelkraftwerk Gravitationswasserwirbelkraftwerk
+Polynomdivision Partialdivision
+Multiplikation Malnehmen
+Rotpunktvisier Reflexvisier Kollimatorvisier Leuchtpunktzielgerät
+Zulieferindustrie Zuliefererindustrie
+Kriegssense Sturmsense
+Gefreitenkorporal Freikorporal
+Tatarensund Tataren-Straße Tartaren-Straße
+Regenerativfeuerung Regenerativbeheizung
+Amtsermittlungsgrundsatz Untersuchungsgrundsatz Inquisitionsmaxime
+Matrizendrucker Blaudrucker Spiritusdrucker
+Elaichi Nepal-Kardamom
+Belarussisch Weißrussisch Albaruthenisch Belorussisch Weißruthenisch
+Strafkolonie Verbrecherkolonie Sträflingskolonie
+Repulsivstoff Repellent Repellens Vergrämungsmittel
+Rattenblech Rattenteller
+Balkanentente Balkanpakt
+volitional willensbestimmt
+Teragon Monsterkurve
+Cheminformatik Chemoinformatik Chemieinformatik
+Sonografie Ultraschall Echografie
+Reibwert μ
+Honigdachs Ratel
+Tamarindenbaum Sauerdattel
+Schtokawisch Stokavisch
+10-Tage-Krieg Slowenien-Krieg
+Zurufhandel Parketthandel Criée-Handel Präsenzhandel Ringhandel
+entsperren lösen entsichern
+Zweierkomplement Binär-Komplement Zweikomplement B-Komplement 2-Komplement Basiskomplement
+Zweierkomplementformat K2-Zahl Zweierkomplementdarstellung 2K-Zahl
+filieren filetieren
+MI6 SIS
+Euregio Euroregion Europaregion
+Tonsprache Tonalsprache
+Dachrinne Kandel Dachkähner Dachhengel Kännel Dachkännel Dachkandel Dachkalle Gehänge Kähner Regenrinne
+Legieren Abbinden Abziehen eindicken Binden
+Mekonium Darmpech Kindspech
+Wombat Plumpbeutler
+Judenreferat Eichmannreferat
+Ausscheidungsziffer Ausscheidungskennziffer Fernverkehrsausscheidungsziffer Verkehrsausscheidungsziffer Verkehrsausscheideziffer Netzausscheidungsziffer
+Boscawen-Insel Tafahi
+Frage Problem Fragestellung
+Hula-Hoop Hula-Hopp
+Buntflossengroppe Buntflossenkoppe Ostgroppe
+Bäckerei Backhaus Backstube
+mysteriös geheimnisumwittert unheimlich geheimnisumwoben unverständlich
+Galgenberg Galgenhügel Galgenbühl
+Nabenschaltung Getriebenabe
+Fahrradschaltung Gangschaltung
+Leistungsfähigkeit Manpower Arbeitskraft Leistungsvermögen Kraftreserve Potenzial Arbeitsvermögen Spannkraft Arbeitspotenzial
+Bekanntschaft Kollege Bekannter Kontakt
+Kardinalsinus si-Funktion Spaltfunktion sinc-Funktion
+Dirac-Stoß-Folge Dirac-Kamm Schah-Funktion
+Delta-Distribution Einheitsimpulsfunktion Dirac-Impuls δ-Funktion Nadelimpuls Stoßfunktion Dirac-Funktion Dirac-Puls Dirac-Stoß
+feststellen sichern festnehmen arretieren
+Reversosmose Umkehrosmose
+Visier Gesichtsschutz
+Funk Sprechfunk Sprechverbindung
+soweit generell allgemein
+Venturi-Rohr Venturi-Düse
+Energierückgewinnung Rekuperation
+Druckfreigabe Druckerlaubnis Imprimatur
+Pulsweitenmodulation Pulsbreitenmodulation Unterschwingungsverfahren Pulsdauermodulation Pulslängenmodulation
+Tastgrad Aussteuergrad
+Samariterknoten Weberknoten Kreuzknoten Reffknoten Doppelknoten
+umstandshalber Sachzwang
+unfachmännisch unsachgemäß unkompetent inkompetent
+Prägung Form
+Wasserflugzeugtender Seeflugzeugtender Flugzeugmutterschiff
+Selektivruf 5-Ton-Folge
+Übersprungbewegung Übersprungverhalten Übersprunghandlung
+Fürbitte Gebet
+Dreidel Dreidl
+Filmvorschau Trailer
+Phonodiktat Phonotypie
+Eierstecher Eierpikser
+Hochsaison Saison Stoßzeit Stresszeit
+Fenstersturz Defenestration
+Wurzelzeug Suppengrün Wurzelwerk Kochgemüse Suppengemüse
+Fetakäse Feta
+Stirlingmotor Heißgasmotor
+Fertigungstiefe Wertschöpfungstiefe
+Geschmackssinn Schmecken Gustatorik
+clownesk clownhaft
+Setzei Spiegelei
+Materialkonstante Stoffkonstante
+Untersuchungshaft U-Haft
+ausschließen exkludieren
+Nordeuropa-Studien Skandinavistik Nordistik
+Friesistik Frisistik
+Physiokratie Physiokratismus
+Pikkolo Piccolo
+Pikkoloflöte Piccoloflöte Pikkolo Piccolo
+Tragwerksplaner Statiker
+Drehmeißel Drehstahl
+Paar Liebespaar Turteltäubchen Pärchen Turteltauben Verliebten
+Thermalkamera Wärmebildgerät Thermografiekamera Infrarotkamera Wärmebildkamera
+hochkommen aufbeugen aufrichten
+Trinkwassernotbrunnen Straßenbrunnen
+Reichsrezess Reichsabschied
+gegenlesen lektorieren redigieren
+davonrutschen davongleiten
+zerschlitzt zerteilt aufgeschlitzt
+Chronograf Chronograph Armbanduhr
+Respondent Proponent Defendant Antragsteller
+Albulalinie Albulabahn
+Berninabahn Berninalinie
+Schlachtross Kampfross Streitross
+Polarisationsfilter Polfilter
+garantieren verbriefen zusichern
+Freilandmuseum Freiluftmuseum Museumsdorf Freilichtmuseum
+Grenzkosten Marginalkosten
+Ägyptisch-Arabisch Kairinisch
+Plünderer Marodeure Diebsgesindel Räuberbande Raubgesindel
+Konter Gegenangriff Break Riposte Gegenstoß
+Blut-Gehirn-Schranke Blut-Hirn-Schranke
+Tafelberg Mesa
+Begleitautomat Begleitautomatik
+Trellis-Modulation Ungerboeck-Code Trellis-Codierung Trellis-Code-Modulation
+Druckminderungsventil Druckminderer Reduzierventil
+Gasdruckregler Gasregler Gas-Druckregelgerät
+Charlottenburger Charlie
+Zweizimmerwohnung Zweiraumwohnung
+Druckserver Druckerserver Printserver
+Replizierung Replikation
+Beschäftigungsquote Erwerbstätigenquote
+Meterkonvention Metervertrag
+Protobulgaren Hunno-Bulgaren Ur-Bulgaren
+Kommunikationssatellit Fernmeldesatellit Nachrichtensatellit
+zucken zappeln
+konstituieren festsetzen aufstellen bestimmen bedingen
+bedingen bestimmen konstituieren
+Konstitutivum Apriori Bedingung
+Donut Doughnut
+hinter nach
+entwirren aufdröseln auseinanderklamüsern auseinanderfriemeln entflechten auseinanderdröseln
+Telekommunikation Fernmeldewesen
+Materialwissenschaft Werkstoffwissenschaft Werkstoffkunde
+Dienst Angebot
+Infografik Informationsgrafik
+Prozentkodierung URL-Encoding URL-Kodierung
+Umbra Umber Umbraun
+Pullunder Unterzieh-Rolli
+Unipolarmaschine Homopolarmaschine Unipolargenerator Faraday-Generator
+Hotelschaltung Flurschaltung Wechselschaltung
+hinzuwählen kooptieren
+Graph Kurve Kurvenverlauf Graf Plot
+Klaviatur Buntheit Bandbreite Reichtum Spektrum Palette
+Hyperbelortung Hyperbelnavigation
+Mehrfrequenzwahlverfahren Frequenzwahlverfahren Tonwahlverfahren
+Zeitgenosse Gegenüber Mitmensch Mitbürger Nächster
+Invertase Saccharase β-Fructofuranosidase Invertin
+Gürkchen Cornichon
+Lehrmeinung Diktum
+Übereckperspektive 2-Punktperspektive
+Touristenattraktion Sehenswürdigkeit
+Diathese Handlungsrichtung
+Tonleiter Skala
+Lehnsessel Fauteuil
+Parkhaus Hochgarage
+Akzessor Zugriffsfunktion Zugriffsmethode
+Emanuelstil Manuelinik Manuelismus
+Blutstein Roteisenstein Rötel Hämatit Iserin Specularit Eisenglanz Roteisenerz
+verketten zusammenfügen konkatenieren aneinanderhängen aneinanderreihen
+Sojamilch Sojadrink
+Umfassungsmauer Hauptmauer Ringmauer Zingel
+preisbereinigt inflationsbereinigt
+Tochtergeneration F-Generation Filialgeneration
+Langschwanzkatze Baumozelot Margay Bergozelot Peludo
+Tigerkatze Ozelotkatze
+Andenkatze Bergkatze
+Nachtkatze Kodkod
+Niederlagsrecht Stapelrecht
+benachteiligt gekniffen
+Struktur-Parameter-Inferenz-Analyse Struktur-Parameter-Inferenz-Ansatz SPINA
+Nieder-T3-Syndrom Low-T3-Syndrom Non-Thyroidal-Illness-Syndrom NTIS Euthyroid-Sick-Syndrom
+Hypophysen-Schilddrüsen-Achse Hypophysen-Schilddrüsen-Regelkreis Thyreostat
+HPA-Regelkreis HPA-Achse Hypophysen-Nebennierenrinden-Achse Hypophysen-Nebennierenrinden-Regelkreis Hypophysen-NNR-Achse
+Antriebsschlupfregelung Antischlupfregelung Traktionskontrolle
+Altenglisch Angelsächsisch
+Khmer Kambodschanisch Khmer-Sprache
+Steckrübe Erdkohlrabi Wruke Kohlrübe Bodenkohlrabi
+Rübe Wurzelgemüse
+Servoregler Servoverstärker
+Maschinenbauschule Ingenieurakademie Ingenieurschule
+Verbundmotor Compound-Motor Doppelschlussmotor
+Etuikleid Schlauchkleid
+Perforation Perforierung
+Hüttenaluminium Primäraluminium
+umherwandern herumtreiben zigeunern
+Sonnenenergie Solarenergie
+Radialkraft Zentripetalkraft
+Krümmungskreis Schmiegekreis Schmiegkreis
+Rattan Peddigrohr
+Pfahlrohr Riesenschilf
+Wuchtbaum Hebebaum
+Genosse Genossenschaftler Genossenschafter
+Beigabe Beiheft Einlage Ergänzung Beiblatt Supplement
+Hermelin Kurzschwanzwiesel
+Erziehungsanstalt Erziehungseinrichtung
+chiffriert codiert verschlüsselt
+Schneefräse Schneeschleuder
+Physiotherapie Krankengymnastik
+Sprungantwort Übergangsfunktion
+Impulsantwort Gewichtsfunktion
+Heaviside-Funktion Treppenfunktion Stufenfunktion Sprungfunktion Theta-Funktion Einheitssprungfunktion Schwellenwertfunktion
+bekotet zugeschissen beschissen vollgeschissen
+Pseudoeinheit Pseudomaßeinheit Hinweiswort Hilfsmaßeinheit Pseudomaß
+Mikrometer Mikrometerschraube Messschraube
+Feinzeiger Feintaster
+gottergeben schicksalsergeben fatalistisch
+Januswort Antagonym Autoantonym Kontranym
+Chromosomenbruchsyndrom Chromosomen-Instabilitätssyndrom
+Louis-Bar-Syndrom Boder-Sedgwick-Syndrom
+Mikrokrankenversicherung Kleinstkrankenversicherung
+Wandlungsfähigkeit Veränderlichkeit Mutabilität
+Variabilität Verwandlungsfähigkeit Wechselhaftigkeit Variantenreichtum Wandelbarkeit Streubreite Streuungsbreite Variationsreichtum Varianz Volatilität Abwechslungsreichtum Veränderbarkeit Mannigfaltigkeit Veränderlichkeit Launenhaftigkeit Unbeständigkeit
+Transformationsland Transformationsstaat Konversionsland
+margenstark gewinnträchtig
+Subproletariat Lumpenproletariat Prekariat
+Kraftspannspindel Spannspindel Hochdruckspindel Kraftspindel
+Austerität Sparsamkeit
+gekauft erworben besorgt beschafft geholt organisiert
+gefühlig gefühlsbetont larmoyant gekünstelt tränenselig kitschig gefühlsbesoffen theatralisch seelenvoll schmalzig sentimental rührstückhaft melodramatisch gefühlsduselig
+Triquetta Triqueta Triquetra
+Levitation Schweben
+facettenreich abwechslungsreich
+Dorfpolizist Landgendarm Dorfsheriff
+Gegenkultur Alternativszene Protestkultur
+Revers Wertseite Münzrückseite
+Bildseite Hauptseite Münzvorderseite Avers
+Träumer Traumtänzer Luftikus
+Entität Informationsobjekt
+Stimmritzenverschlusslaut Knacklaut Kehlkopfverschlusslaut Glottisverschlusslaut Glottisschlag Einschaltknack
+Gallenstein Gallenkonkrement Cholelith
+Hundefutter Hundenahrung
+Segmentierung Aufsplittung Segmentation Portionierung Aufteilung
+Tracheotomie Luftröhrenschnitt
+VW-Bus Bulli VW-Transporter
+stammeln stottern
+Wellenwiderstand Wellenimpedanz Impedanz
+Graufußtölpel Abbott-Tölpel
+Einfaltspinsel Schildbürger Spießbürger
+Hochbeet Hügelbeet
+Femur Oberschenkelknochen
+Matratzenschutzauflage Matratzenüberzug Matratzenschoner
+Parsebaum Syntaxbaum Ableitungsbaum
+Fristverlängerung Fristerstreckung
+überragen übertreffen
+Knollenwinde Batate Süßkartoffel
+Ofenschlupfer Kirschenmichel
+Anzug Zwirn
+Zuchtstandard Rassestandard
+Langmut Gemütsruhe
+Surikate Erdmännchen Scharrtier
+Virustatikum Virostatikum
+Hochwasserschutzpolder Überschwemmungsgebiet Retentionsgebiet Hochwasserpolder Inundationsgebiet
+RStV Rundfunkstaatsvertrag
+Raummoden Schwingungsmoden Moden
+Mantelstoff Kleiderstoff
+Auftakt Einleitung
+vermindern verringern
+Kaizunge Pier
+dito ebenfalls
+Stiftetasche Federschachtel Federtasche Federmappe Federetui Schiefermappe Etui Schlampermäppchen Federbox Schieferkästchen Federmäppchen Schlamper Griffelschachtel Schlamper-Etui Mäppchen Federpennal Kramtasche Schul-Etui Mäpple Federkästchen Federkasten
+Zwischenzeilenverfahren Interlace Zeilensprungverfahren
+Schmächtling Hänfling Spucht Kümmerling Spinnewipp Hering Schmachtlappen Mickerling Spargeltarzan
+zuversichtlich vertrauensvoll
+Einbettung Inklusion Einschluss
+Informant Skandalaufdecker Whistleblower Hinweisgeber Denunziant Entüller
+Daseinsberechtigung Existenzberechtigung Legitimation
+technikfeindlich technophob
+Leichenschauschein L-Schein Todesbescheinigung Totenschein
+Salzsee Salzwassersee
+Schartenhöhe Schartentiefe Prominenz
+Libertinage Libertinismus
+Ausdehnungskoeffizient Wärmeausdehnungskoeffizient
+Längenausdehnungskoeffizient Wärmedehnung
+Maßverkörperung Etalon
+Halytsch-Wolhynien Galizien-Wolhynien
+zusammenfallend überlappend
+Dunsthaube Dunstabzugshaube Wrasenabzug
+Spekulant Finanzhai Finanzjongleur Zocker Heuschrecke
+Altersquotient Altenquotient Altenlastquote
+prioritär vorrangig
+Antialiasing Anti-Aliasing Kantenglättung
+fokussieren anvisieren
+Balkankonflikt Jugoslawienkriege
+Radioisotopengenerator Radionuklidbatterie Atombatterie
+Suchwort Suchbegriff Sucheingabe
+langsam gemächlich gemach allmählich ruhig seelenruhig geruhsam gemütlich
+Welser-Kolonie Klein-Venedig
+Ikonophobie Bilderangst
+Ringversuch Laborleistungstest Ringvergleich
+Qualitätskontrolle Qualitätssicherung
+verächtlichmachend verletzend beleidigend verleumderisch ehrabschneidend ehrverletzend ehrenrührig gehässig herabsetzend herabwürdigend verunglimpfend injuriös diffamierend
+gehoben hochstehend
+Heiligenvita Hagiografie Hagiographie
+Transmissionsfaktor Transmissionskoeffizient
+Reflexionsfaktor Reflexionskoeffizent
+Stadtbefestigung Stadtwall Stadtmauer
+Mandelkern Amygdala
+Hüpfseil Springseil
+Schwerlinie Seitenhalbierende
+Ehrenamt Freiwilligenarbeit Ehrenposten
+sitzen meditieren
+beklecksen bekleckern
+Schreckstarre Totstellreflex Thanatose
+Höhenmessung Altimetrie
+Autorenfilmer Regisseur Filmemacher
+Namensagentur Namensberatung
+Namestorming Namensgebung Namensfindung
+Lichtschwert Laserschwert
+Mason-und-Slidell-Affäre Trent-Affäre
+beschlafen futieren koitieren
+leutselig großzügig jovial gönnerhaft
+Unterschiebung Subduktion
+Obduktion Überschiebung Aufschiebung
+Baum Klassifikationsschema Verzweigungsstruktur Baumstruktur Klassifikation Taxonomie Kladogramm
+beeindruckt imponiert
+Geotransferorbit GTO
+KTS MBTI Typentest
+Häufigkeit Frequenz
+Zinsfuß Zinssatz
+Öffnungsmaß Lichtmaß Lichte
+Mormonen-Alphabet Deseret-Alphabet
+aufrütteln aufschrecken
+Verunreinigung Verschmutztheit Unreinlichkeit Unreinheit Unsauberkeit
+Errötung Rötung
+Fortschrittsanzeige Ladebalken Fortschrittsbalken Statusbalken
+Zeiger Amplitudenvektor Phasor
+Strommarke Blitzmarke
+siegesgewiss siegessicher sieghaft
+Kreisfunktion Winkelfunktion
+Werkzeugleiste Symbolleiste
+GuD-Kraftwerk Gas-und-Dampfturbinen-Kraftwerk Gas-und-Dampf-Kombikraftwerk
+Fennek Wüstenfuchs
+Radioaktivität Kernzerfall
+mandantenfähig mandantentauglich
+Okra Gemüse-Eibisch
+Quendel Thymian
+Fleischwolf Faschiermaschine Fleischmaschine
+Beharrungstendenz Remanenzeffekt
+Farbigkeit Chrominanz
+Georeferenzierung Verortung Geokodierung
+Schmetterlingsschwimmen Butterfly
+Dislokation Ortsveränderung Dislozierung
+Turbogenerator Vollpolmaschine
+Mahlstrom Moskenstraumen Strudel Malstrom Wasserwirbel
+Kent-Fall Kent-Wolkoff-Affäre Tyler-Kent-Affäre
+Näherungsschalter Annäherungsschalter Näherungsinitiator
+Enthefter Heftklammerentferner Klammernentferner Affenzahn Schlangenzahn Klammerentferner Enttackerer Klammeräffchen Heftklammernentferner Honduraner Entklammerer
+Heftgerät Klammeraffe Klammermaschine Tacker Hefter Froscherl Heftapparat Heftmaschine Bostitch
+mutterseelenallein allein isoliert
+mondsüchtig schlafwandelnd somnambul
+Béchamelsauce Béchamelsoße Milchsauce
+Bärlapp Hexenkraut Krampfkraut Drudenfuß Schlangenmoos Gichtmoos Harnkraut
+Ehrenpreis Grundheil Köhlerkraut Schlangenkraut Männertreu Allerweltsheil
+Goldrute Wundkraut Pferdskraut Gülden Heilwundkraut Machtheilkraut Ochsebrot Petrusstab Unsegenkraut Himmelbrand Wisselnkraut
+Interimslösung Zwischenlösung
+Wörterbuchkompression Substitutionskompression Stringersatzverfahren
+Kennzahl Messgröße
+Wasserbeckenreaktor Swimmingpool-Reaktor Schwimmbadreaktor
+Nuklearmeiler Atommeiler Atombrenner Atomreaktor Kernreaktor
+Hitler-Stalin-Pakt Molotow-Ribbentrop-Pakt
+Fürstenkrieg Fürstenaufstand Fürstenverschwörung
+Dolchstoßlegende Dolchstoßlüge
+Pseudocerealien Pseudogetreide
+Quinoa Reismelde Andenhirse
+Geraune Geschwätz Gewäsch Hörensagen-Informationen Gemunkel Gerede Getuschel Getratsche
+Händedruck Händeschütteln Shakehands Handschlag
+Hausmädchen Haustochter Kammerzofe Hausangestellte Zugehfrau Hauswirtschaftshelferin Haushälterin Stubenmädchen Minna Zofe Soubrette Dienstmädchen Perle Hausdame Haushaltshilfe
+Hechtbarsch Fogosch Zahnmaul Schill Sander Zander Fogasch
+Zeitrelais Minuterie
+An-Bord-Gehen Einsteigen Boarding
+Besichtigung Durchsicht Sichtung Beschau Musterung Begutachtung Inaugenscheinnahme Ortstermin Begehung Checkup
+Zerfallswärme Zerfallsenergie
+Laststromkreis Hauptstromkreis
+Durchflutungsgesetz Durchflutungssatz
+Handelsmarine Handelsflotte
+ärztlich medizinisch klinisch
+Strategie Handeln Politik
+Marianengraben Marianenrinne
+Kurilengraben Kurilen-Kamtschatka-Graben
+Übersetzungsagentur Übersetzungsdienst Übersetzungsbüro
+Weltkugelbrunnen Schmettau-Brunnen Wasserklops
+Goethe Dichterfürst
+Schmidt-Schnauze Deichgraf
+Leuven Löwen Louvain
+Barschaft Besitz Vermögen Geld
+Striptiseuse Nackttänzerin Schönheitstänzerin Table-Dancerin Striptease-Tänzerin Stripperin Erotiktänzerin
+Kurzhaarfrisur Mecki Stiftelkopf Igelschnitt Stiftekopp Meckifrisur
+Eisenhüttenstadt Hüttenstadt Schrottgorod Hütte
+Carnot-Faktor Carnot-Wirkungsgrad
+Ausmerzung Vernichtung Löschung Entfernung
+Profitmaximierung Gewinnorientierung
+Verhältnisformel Elementarformel Substanzformel
+Wurzelkonsonant Radikal
+Worttrennung Silbentrennung
+Valenciasee Tacariguasee
+Kargil-Konflikt Kargil-Krieg
+Betonung Akzent Hervorhebung Pointierung Akzentuierung
+Kammergerichtszieler Kammerzieler Reichskammerzieler
+Endlosdruckpapier Endlospapier Tabellierpapier
+Eutrophierung Nährstoffeintrag Nährstoffanreicherung
+folieren laminieren
+Taumelschwingung Gier-Schwingung
+Reichsstädtebank Reichsstädtekollegium Reichsstädterat
+Ziffernblock Nummernblock Zehnerblock NumPad Num-Block
+Kodikologie Handschriftenkunde
+Glaubensrichtung Religion Kirche Glaube Glauben Weltanschauung
+Entwicklung Werdegang Entwicklungsweg Entstehungsgeschichte
+Optionsfeld Mehrfachoptionsfeld Optionsschaltfläche
+Trajektorie Bahnkurve Flugkurve Wurfparabel Ortsparabel Weg Flugparabel Flugbahn Pfad Bahnparabel Ortskurve
+Festigkeitslehre Elastostatik
+Bewusstsein Besinnung Wachzustand
+Messkelch Altargerät Weinkelch
+Gehaltsaufbesserung Aufbesserung Gehaltserhöhung Lohnerhöhung Lohnsteigerung Lohn-Plus Gehaltssteigerung Gehaltsplus
+spirituell gedacht ideell unstofflich gedanklich imaginär ätherisch sphärisch körperlos unkörperlich immateriell vergeistigt geistig wesenlos
+Ammoniumchlorid Salmiak
+schleimverflüssigend sekretolytisch
+Funkeninduktor Induktorium
+Hoch-Tiefsetzsteller Sperrwandler
+Zeilentrafo Zeilentransformator Horizontalausgangsübertrager
+Standby-Betrieb Bereitschaftsbetrieb Wartebetrieb
+Arbeitsplatzbesatz Arbeitsplatzdichte
+Brayette Braguette Schamkapsel Bragetto Gliedschirm
+Schaltknochen Zwickelbeine
+Audiogramm Tonaudiogramm Reintonaudiogramm Hörkurve
+weltlich laizistisch säkularisiert verweltlicht säkular
+Isoliermatte Isomatte
+Stabsabteilung Verwaltungsstab Verwaltungsstab Verwaltungsabteilung Verwaltungsbereich Stab
+Halbleiterlaser Laserdiode
+Krim Taurien
+Glockenstab Schlittengeläut
+Ferritkernspeicher Magnetkernspeicher Kernspeicher
+Bodenunebenheit Hubbel Huckel
+Notbedarf Existenzminimum
+Differenzialgleichung Differentialgleichung
+Faulgas Sumpfgas
+Krebsforschung Onkologie
+Kreislauftauchgerät Rebreather Kreislaufatemgerät
+Streichergebnis Streichresultat
+Filmabtaster Filmgeber Telecine
+Modulationsübertragungsfunktion Kontrastübertragungsfunktion Modulationstransferfunktion
+absperren sichern absichern
+Jagdbezirk Revier
+Gangbang Gruppensex Rudelbums
+umsichtig sorgfältig
+dialektal mundartlich regional auf
+Ischiasnerv Ischias
+Aszites Bauchwassersucht
+Rubenbeutel Ambu-Beutel Beatmungsbeutel
+abgegeben übertragen übermittelt
+Drumherum Rahmen Umgebung Situation Setting Schauplatz
+Kräftigung Festigung Stabilisierung Konsolidierung Stabilisation
+Titelsong Audio-Claim Sound-Logo Kennmotiv Titelmusik Audio-Logo Hörmarke Titelmelodie Erkennungsmelodie Jingle
+Geoffroy-Katze Kleinfleckkatze Salzkatze
+Ergriffenheit Gefühlserregung Pathos
+Kaderschmiede Eliteschule
+Lebensabschnittsbegleiterin Lebenspartnerin Lebensgefährtin
+Kunstrichtung Kunststil Stilrichtung
+Rebfläche Weinanbaufläche Weinbaufläche
+Lochziegel Hochlochziegel Hohlziegel
+Hohlblockstein Hohlblock
+Klinker Hartbrandziegel
+Kriegführung Kriegsführung Kriegskunst Kriegswesen
+Seismograph Seismograf Seismometer
+Randerscheinung Randphänomen Nebensache Nebensächlichkeit Begleiterscheinung
+Spitzkehre Kehre Haarnadelkurve
+Kongokonferenz Westafrika-Konferenz
+Polychloropren Chloropren-Kautschuk Chlorbutadien-Kautschuk Neopren
+Golf Golfsport
+Atmung Respiration
+Übergangsfrequenz Eckfrequenz Grenzfrequenz
+Vorratskammer Vorratsraum Speis Speisekammer
+Geschichtsklitterung Geschichtsverfälschung
+Barbarentum Kulturlosigkeit
+Party Anlass Feier Festivität Cocktailparty Fete
+Feuerwerkskörper Böller
+Räuberhöhle Banditennest
+5-DM-Münze Heiermann Fünfmarkstück 5-Mark-Stück Silberadler
+20-Mark-Schein Zwanni Zwanzigmarkschein Zwanziger 20-DM-Schein
+Reaktorschiff Kernenergieschiff Atomschiff Nuklearschiff
+Dampfschiff Dampfer
+Vasektomie Vasoresektion
+Milchferkel Spanferkel
+Gitter-Boltzmann-Methode Lattice-Boltzmann-Verfahren Lattice-Boltzmann-Methode
+Kernsymptom Leitsymptom Kardinalsymptom
+Benignität Gutartigkeit
+Bösartigkeit Malignität
+Grindwal Pilotwal
+Strichpunkte Semikola Semikolons
+Krebserkrankung Karzinom
+Oberschicht Bonzen Wirtschaftselite
+Ein-/Ausschaltknopf Power-Taste Ein-/Ausschalter
+Schnittstellenbeschreibungssprache Schnittstellendefinitionssprache
+Plektrum Plektron Zupflümmel Pick Plek Plattl Spielblättchen
+Telharmonium Dynamophon
+Sozialdemokrat Sozi SPD-Mitglied
+Population Bevölkerung
+Atomhülle Elektronenhülle
+Wechselwirkungsprinzip Gegenwirkungsprinzip Reaktionsprinzip
+Mittelasien Zentralasien
+Lunarkalender Mondkalender
+Sonnenkalender Solarkalender
+Psychokinese Telekinese
+Photovoltaikmodul Solarmodul
+Leistungspunkt Credit
+Superzoomobjektiv Reisezoom
+Getändel Geschäker Annäherungsversuch Schäkerei Flirt Anmache
+Himmelfahrtstag Auffahrt
+Entdeckergeist Entdeckerdrang Forscherdrang Forschungsdrang Pioniergeist Entdeckungsfreude Erkundungsdrang
+Aussichtsturm Aussichtswarte Wartturm
+Schneeballsystem Pyramidensystem
+ferienhalber urlaubshalber
+Kostenvoranschlag Preisnotierung
+Vorhautverengung Phimose
+Vorstellungsvermögen Vorstellungskraft
+Baudot-Code Telexcode Fernschreibcode
+Dreistärkenglas Trifokalglas
+Speedminton Speed-Badminton
+Standortanalyse Standortbestimmung
+Kyffhäuser Kyffhäusergebirge
+Schanze Spitzwall Wallburg
+Kanoniker Stiftsherr Chorherr
+Zeta-Verteilung Zipf-Verteilung
+Union Unionsparteien
+Lübeck-Entscheidung Lübeck-Urteil
+Schuldspruch Schuldigsprechung Verurteilung
+Hebebühne Arbeitsbühne Hubsteiger Steiger Hubarbeitsbühne
+Steigermarsch Steigerlied
+Rückkopplung Rückkoppelung
+Nebenintervention Streithilfe
+Höhenwetterkunde Aerologie
+Rolodex Rollkartei Rotationskartei
+Eingeweidebruch Hernie
+Schifffahrtskunde Nautik
+Kaliummangel Hypokaliämie Kaliumdefizit
+Faktoranalyse Faktorenanalyse
+Brustkrebs Mammakarzinom
+Krähenfußnotation Martin-Notation
+Speiche Radius
+Ulna Elle
+Vereinfachung Simplifizierung Simplifikation
+Aluhut Stanniolhütchen Aluminiumhut
+Käfigläufermaschine Drehstrom-Induktionsmaschine Drehstrom-Asynchronmaschine
+Kralle Klammergriff Affengriff
+Bevorratung Vorratswirtschaft Einlagerung Lagerhaltung Vorratshaltung
+Ärität Arität Stelligkeit
+Denkpause Kunstpause
+Akzentzeichen Akzent
+Echtzeit-Magnetresonanztomographie Echtzeit-MRT MR-Fluoroskopie
+Röntgentomographie Verwischungstomographie
+registrieren sensen aufnehmen sampeln detektieren messen
+Neujährchen Tip Trinkgeld
+zimperlich sensibel verletzlich empfindlich mimosenhaft übersensibel zartbesaitet überempfindlich dünnhäutig
+aschbleich aschfahl fahl
+Magermixmotor Magermotor
+Verwöhnung Verzärtelung Verweichlichung Verhätschelung
+Antwortmöglichkeit Antwortvorschlag Auswahlmöglichkeit Lösung Auswahlantwort Option
+Kunstgeschichte Kunstwissenschaft
+Numismatiker Münzkundler
+Interviewter Befragter Umfrageteilnehmer
+Schnaufer Schnauf Atemzug
+Köpfen Enthauptung Dekapitation
+Laborinformationssystem LIMS
+Strasbourg Straßburg
+Dörrfleisch Trockenfleisch
+Prioritätsgrundsatz Prioritätsprinzip
+Möbiusband Möbiusschleife
+Radblende Radkappe Radzierblende
+Kreiskrankenhaus Ambulatorium Poliklinik Stadtkrankenhaus
+Vierspänner Viergespann Quadriga
+Blutverdünner Gerinnungshemmer
+Bienenkönigin Stockmutter Weisel
+Ameisenkönigin Weisel
+Ganzzahl-Funktion Ganzteilfunktion Abrundungsfunktion Entier-Klammer Gaußklammer
+Soldermask Lötstoppmaske Lötstopplack Stopplack
+heim nachhause heimwärts
+Impulssteuerung Chopper-Steuerung
+Dyopol Duopol
+Flugzeugnase Bug
+Gini-Koeffizient Gini-Index
+Steckbecken Stechbecken Schieber Bettpfanne Bettschüssel
+unmännlich weibisch weichlich tuntig tuntenhaft
+Buchungssperre Buchungsschluss
+Hörfassung Hörspiel
+Erneuerbare-Energien-Gesetz EEG
+Rundfunk-Feature Radio-Feature Feature Radio-Dokumentation
+Mikrofonierungstechnik Mikrofonierung
+O-Ton Originalton
+ungebetenerweise unaufgefordert freiwillig
+Egozentriker Egoist Egomane
+Verbesserungspotenzial Verbesserungsmöglichkeit Optimierungspotenzial
+Disproportionalität Unproportioniertheit Unausgeglichenheit Missverhältnis Unverhältnismäßigkeit Diskrepanz Disproportion
+Transvektion Scherung
+autoritätsgläubig obrigkeitshörig
+Phantastik Fantastik
+Kabelkonfektion Kabelkonfektionierung
+Niederschlagsradar Regenradar
+Radargerät Radar
+Nachrede Gedenkrede Nachruf Nekrolog
+Wochenanfang Wochenbeginn Wochenauftakt
+Preisniveaustabilität Preisstabilität
+BMF Bundesfinanzministerium
+Bundeswirtschaftsministerium BMWi
+Dekubitusprophylaxe Umlagern Drehen Betten Lagern
+Dreiecksgitter Dreiecksnetz
+Südhimmel Südsternhimmel Südsternenhimmel
+Sternhimmel Sternenhimmel
+Treibsand Schwimmsand
+Rotblindheit Protanopie
+Schuber Schutzkarton
+Schwingungstilger Tilgerpendel Tilger
+Gesichtserkennungsschwäche Gesichtsblindheit Prosopagnosie
+martialisch wild
+Trebegänger Straßenkind
+SiFa Wachmann Sicherheitsfachkraft
+Überwachungsunternehmen Bewachungsunternehmen Sicherheitsdienstleister
+befohlen angeordnet gefordert vorgeschrieben verlangt
+Koloproktologie Proktologie Coloproktologie
+Radwechsel Reifenwechsel
+aliquot gleichteilend
+Epenthese Lauteinschub Lauteinschaltung
+zusammengedrängt zusammengezwängt dichtauf beengt zusammengepfercht aneinandergedrängt gedrängt zusammengequetscht
+medienhistorisch mediengeschichtlich
+Wattestäbchen Ohrenstäbchen Q-Tip
+Arganddiagramm Gaußebene
+kandidieren anbieten bewerben konkurrieren aspirieren andienen antreten
+Wenn-dann-Aussage Subjunktion Implikation Konditional
+Kniefall Beugemann Unterwerfungsgeste Bückling Ergebenheitsbekundung Kotau Unterwerfung Selbsterniedrigung Kratzfuß Proskynese
+Südwesttürkisch Oghusisch
+flehend flehentlich bittend
+Selbstähnlichkeit Fraktalität
+Augenfleck Ocelle Ozelle
+Gegenstelle Kommunikationspartner
+Belagerungsstand Belagerungszustand
+Vollmachtstimmrecht Depotstimmrecht
+Kommunikationstechnik Kommunikationstechnologie
+Baiser Schaumgebäck
+Milizionär Milizsoldat
+Radeffekt Schraubeneffekt
+Propeller Luftschraube
+Schiffsschraube Propeller
+Lochkorrosion Lochfraßkorrosion Lochfraß
+Kappadokien Kappadozien
+Mornellregenpfeifer Mornell
+Baumfalke Lerchenfalke
+Nordfink Bergfink
+Schildhahn Spielhahn Birkhuhn
+Bluthänfling Hänfling Flachsfink
+Kleiber Spechtmeise
+Plattmönch Mönchsgrasmücke
+Klappergrasmücke Zaungrasmücke
+Stempelsteuer Stempelgebühr Urkundensteuer Stempeltaxe
+Verkehrsteuer Verkehrssteuer
+Kostenmarke Justizkostenmarke Gerichtskostenmarke
+aufgeben zurücklassen
+Sizilien Trinakria
+Schmiedefeuer Schmiedeofen Esse Schmiedeesse Feldesse
+Weidenlaubsänger Zilpzalp
+Sexualdimorphismus Geschlechtsdimorphismus
+Kinderei Infantilismus Puerilismus Kindischsein
+Nubuk Nubukleder
+Leder Tierhaut
+Kleidermode Mode
+unscheinbar schlicht
+Kirchenvorstand Presbyterium Kirchengemeinderat Gemeindeleitung
+Magot Berberaffe
+Trägheitsrad Drallrad Stabilisierungsschwungrad
+Lungenthrombembolie Pulmonalarterienthrombembolie Lungenarterienembolie Lungenembolie
+spanisch kastilisch
+Kassenprüfer Revisor
+Keilzinkung Keilzinkenverbindung
+Gottesurteil Ordal Gottesgericht
+Posteninhaber Stelleninhaber Funktionsinhaber
+Maskerade Mummenschanz Maskenspiel
+Kapuzenpullover Kapuzenpulli Hoodie Schlumpf
+Wissenschaft Episteme Wissen
+Stehwellenrelation Stehwellenverhältnis Welligkeitsfaktor Welligkeit
+Obazda Obatzda Obatzter
+Asturisch Asturianisch
+wunschgemäß anforderungsgerecht bedarfsgerecht
+Garnstärke Garnfeinheit Titer
+Planetoid Kleinplanet Kleinkörper Asteroid
+Kalkulationspunkt K-Punkt Konstruktionspunkt Tabellenpunkt
+Nitroglycerin Trisalpetersäureglycerinester Glycerintrinitrat Glyceroltrinitrat
+Hohlmaß Raummaß
+Gemüsespargel Spargel Garten-Spargel
+Klappe Deckel Verschluss
+Viktimologie Opferforschung
+beargwöhnen misstrauen argwöhnen verdächtigen zweifeln präsumieren
+bankrottieren bankrottgehen
+Lageenergie Höhenenergie
+Haut Dermis Kutis
+Finger Handglied
+Gammastrahlenausbruch Gammastrahlenblitz Gammablitz Gammastrahlenexplosion
+Lexikografie Lexikographie
+konsternieren verblüffen ablenken irritieren verwirren verunsichern bestürzen stören
+Travellerscheck Reisescheck
+Rohrammer Rohrspatz
+Autograf Autograph
+Falknerei Beizjagd
+Säuberung Reinigung
+Paradiesapfel Grapefrucht Grapefruit Pampelmuse
+Proteststurm Shitstorm Aufschrei Empörungswelle
+Geschiebemergel Till
+Liebestollheit Liebestaumel Verliebtheit Angezogen-Sein Liebeswahn
+Kfz-Werkstatt Carrosserie Autowerkstatt Kfz-Werkstätte
+Edison-Effekt Richardson-Effekt Edison-Richardson-Effekt Glühemission
+i-Tüpfelchen Vollendung Meisterschaft Feinschliff Finish Endpolitur Höhepunkt Nonplusultra Sahnehäubchen
+Verstoßung Liebesentzug
+Legkiefer Latschenkiefer Krüppelkiefer Latsche Legföhre Krummholzkiefer
+Sandbirke Hänge-Birke Birke Warzenbirke Weißbirke
+Sauerdorn Essigbeere Berberitze
+abgehen abblättern lösen abbröckeln abfallen abspringen ablösen abtrennen abplatzen losreißen abreißen absplittern abreißen losbrechen abbrechen
+Bettwanze Hauswanze
+Wanze Heteropteron
+Weißbuche Hainbuche Hagebuche
+Personenbahnhof Reisezugbahnhof
+Husarenritt Husarenstück Husarenstreich
+Himmelsrichtung Kardinalpunkt Haupthimmelsrichtung
+Sozietät Kanzlei Rechtsbüro Partnerschaftsgesellschaft Partnerschaft
+Ostjordanland Kerak Transjordanien
+insinuieren einflüstern zutragen
+Hochsetzsteller Aufwärtswandler Aufwärtsregler
+Gleichstromsteller Gleichspannungswandler DC-DC-Wandler
+Austrocknung Hypohydratation Dehydratation Dehydratisierung Dehydration
+Katzenaugen-Effekt Katzenaugeneffekt Chatoyance
+Glycolipide Glykolipide Glycolipoide
+Nyquist-Grenze Nyquist-Frequenz
+Widerstandsrauschen Wärmerauschen Johnson-Rauschen Johnson-Nyquist-Rauschen Nyquist-Rauschen
+Dekonstruktivismus Dekonstruktion
+Linksliberalismus Sozialliberalismus
+Allparteienregierung Konzentrationsregierung
+Schuldenschnitt Forderungsverzicht Haircut Schuldenerlass Entschuldung
+heranziehen nehmen
+Penicillin Penizillin
+Antiepileptikum Antikonvulsivum
+Grüßonkel Frühstücksdirektor Versorgungsfall Grüßaugust
+gerührt bewegt angerührt erschüttert überwältigt ergriffen
+Nachtgebet Komplet
+Ruffall Vokativ Anredefall
+Ablativ Trennungsfall
+Gottesanbeterin Fangschrecke
+weiterer anderweitig sonstig anderer
+anders anderweitig
+Elektriker Elektroinstallateur Strippenzieher
+Altenpfleger Seniorenbetreuer
+Maschinenschlosser Metallbauer
+Dreitafelprojektion Normalprojektion
+weitsichtig hypermetropisch
+erblindet blind
+Librations-Punkt Lagrange-Punkt
+Bezirksleiter Gebietsleiter Regionalleiter
+Helfertätigkeit Aushilfsjob
+Instrumentalis Instrumental
+Opernhaus Opernbühne Oper
+Fingerkuppe Fingerbeere Fingerspitze
+Kryptanalytiker Codeknacker Kodeknacker Kodebrecher Kryptoanalytiker Kryptanalyst Codebrecher Entzifferer
+Denkmalkataster Denkmalverzeichnis Denkmalliste Denkmalbuch
+Denkmaltopographie Kunsttopographie
+Schlagschach Fressschach Räuberschach
+Feenschach Märchenschach
+Super-Schach Janusschach
+Sankt-Petersburg-Paradoxon Sankt-Petersburg-Lotterie
+Addition Plus-Rechnen
+kanalisieren steuern
+Pfennigbaum Geldbaum
+Cursortaste Pfeiltaste
+entgegennehmen annehmen empfangen
+erlangen erreichen einfahren schaffen erzielen gewinnen erringen
+Radiärsymmetrie Drehsymmetrie
+Masterarbeit Master-Thesis Masterthesis
+Spionageabwehr Abschirmdienst
+Invarianz Unveränderlichkeit
+Präventivschlagthese Präventivkriegslegende Präventivkriegsthese
+Netzwerksicherheit Netzsicherheit
+triebgesteuert hormongesteuert hormongetrieben testosterongesteuert schwanzfixiert schwanzgesteuert triebhaft
+altersunspezifisch altersunabhängig
+Babydoll Pölter Negligee Nachthemd Négligé Negligé Nachtgewand
+Bademantel Schlafrock Morgenmantel Frotteemantel
+Billigbier Pennerglück Ballerbrühe Sterbehilfe
+Spielplatz Kinderspielplatz
+Hitler-Ludendorff-Putsch Bürgerbräu-Putsch Hitlerputsch
+retro vergangenheits-sehnsüchtig nostalgisch vergangenheits-zugewandt rückwärtsgewandt vergangenheitsverliebt hinterhertrauernd
+Billigprodukt Billigware Ramsch Ramschware Niedrigpreis-Ware Sonderposten
+durchschimmern mitschwingen mitklingen anklingen durchklingen
+erahnen heraushören erspüren
+Lyophilisation Sublimationstrocknung Gefriertrocknung
+Sauerstoffvergiftung Sauerstofftoxikose
+Adressatenkreis Zielgruppe
+objektivieren entemotionalisieren entmystifizieren versachlichen profanisieren entmythologisieren
+Minidrama Sketsch Dramolett Sketch Kurzdrama Einakter
+Seitentür Schlag Autotür Wagenschlag
+Mandelsteine Tonsillolith Tonsillenstein
+Anisotropie Richtungsabhängigkeit
+Karpatendeutscher Mantake
+phantasielos fantasielos poesielos unromantisch leidenschaftslos emotionsarm
+kühl unwohnlich ungemütlich steril klinisch schmucklos funktional zweckbetont kahl unpersönlich
+Gemeinschaftsportal Online-Kontaktnetzwerk
+beglaubigt verbrieft amtlich beurkundet dokumentiert
+Klassenraum Unterrichtsraum Klassenzimmer
+anstoßen anecken
+Frost Eiseskälte Minustemperaturen
+nachgiebig permissiv
+Kammerverschluss Zylinderverschluss
+Pufferstrecke Schutzstrecke Schutzweg Gefahrpunktabstand D-Weg Durchrutschweg
+Antarktika Südkontinent
+Funktionsplan Funktionsbausteinsprache
+Veilchen Viola
+Ski Schi
+Bikameralismus Zweikammersystem Zweikammerparlament
+Robustheit Stabilität Solidität Verlässlichkeit Vertrauenswürdigkeit
+Hemianopsie Hemianopie Halbseitenblindheit
+Fan Groupie
+keck unbekümmert ungeniert schmerzfrei vorlaut kess zwanglos schamlos vorwitzig frech locker-flockig ungezwungen
+Draconiden Giacobiniden
+Adelsboden Komitatsboden
+Heiligabend Weihnachtsabend
+Wellenlöten Schwalllöten
+erstarrt betäubt hilflos erschrocken entsetzt gelähmt
+Fahrbahndecke Pflaster Asphalt Fahrbahn Straßendecke
+Lücke Durchgang Spalier Gasse
+Kornaten Kornati-Inseln
+hochspielen aufblasen hochjazzen hochpusten aufbauschen dramatisieren
+Libation Trankopfer
+Webmaschine Webstuhl
+Robotik Robotertechnik
+Standardeinstellung Voreinstellung Defaulteinstellung
+Geburtstagsparadoxon Geburtstagsproblem
+Fiets Hollandrad Hollandfahrrad
+Überstaatlichkeit Supranationalität
+Seekartenbesteck Kartenbesteck
+Thermalkontrollsystem Temperaturkontrollsystem
+Pendelaudion Superregenerativempfänger
+Kristallsucher Strahler
+Bürgergarde Bürgerwehr
+Verwindungssteifigkeit Torsionssteifigkeit
+Längenmessung Distanzmessung Abstandsmessung Entfernungsmessung
+Midway-Atoll Midwayinseln
+Artgenosse Artverwandter
+Zelle Klause
+infernalisch höllisch
+Jahrmarktsorgel Orchestrion Kirmesorgel
+Seelenlage Moral Stimmungslage Stimmung
+Gravitationsdruck Schweredruck
+Verkaufsgespräch Verkaufspräsentation
+Heimtier Haustier
+Pommerellen Pomerellen
+Wasserhemisphäre Wasserhalbkugel
+Hemisphäre Halbkugel
+Logo Firmenzeichen
+Bebenherd Hypozentrum
+Norditalienisch Padanisch Cisalpinisch Oberitalienisch
+Dampfbad Nebelbad
+Brennholz Feuerholz Ofenholz Kaminholz
+Duschkopf Brause
+kryptogenetisch kryptogen
+Frostpunkt Eispunkt Reifpunkt
+Kaffir-Limette Mauritius-Papeda Kaffernlimette
+Treiben Treibarbeit
+Stimulans Psychostimulans Psychoanaleptikum Psychotonikum
+Geschäftsabschluss Geschäftsbilanz
+Schwarzreußen Schwarzrussland Schwarzruthenien
+Polessien Polesien
+Spülmittel Spüli
+Orlogman Orlogschiff
+Zellengewölbe Diamantgewölbe
+Zyklenzeiger Zyklenindikator
+Discushernie Bandscheibenvorfall Bandscheibenprolaps BSP Discusprolaps
+Ausgabe Verkauf Veräußerung Absatz Abgabe Auslieferung Vertrieb
+Polyethylen Polyethen Polyäthylen
+Thermoplast Plastomer
+Duromer Duroplast
+Elastomer Elaste
+Atmungsapparat Atemtrakt
+Welschland Romandie Westschweiz Welschschweiz
+Zentralschweiz Innerschweiz
+Refraktion Brechung
+Invertzucker Invertose Trimoline
+Sturmabteilung SA Frontbann Braunhemden
+Rosenlorbeer Oleander
+FU-Schalter Fehlerspannungsschutzschalter
+Molukken Gewürzinseln
+Molukkensee Malukusee
+Stephanitag Stefanitag Stephanus-Tag Stephanstag
+Handelsname Handelsbezeichnung
+Drei-Sterne-Koch Meisterkoch Ausnahmekoch Jahrhundertkoch Kochgenie Vier-Sterne-Koch
+Torsionsbruch Drehungsbruch
+Beikoch Küchenhelfer Hilfskoch
+TV-Koch Showkoch Studio-Koch Kultkoch Studiokoch Telekoch Fernsehkoch Starkoch
+Bratenkoch Rotisseur
+Fischkoch Poissonnier
+Suppenkoch Potager
+Hobbykoch Freizeitkoch
+Promikoch Promi-Koch VIP-Koch
+Vorzeigekoch Sternekoch Spitzenkoch
+Militärkoch Küchenbulle
+Szenekoch Trendkoch
+Sonnensynchronorbit SSO
+Struktogramm Nassi-Shneiderman-Diagramm
+Nutzerfalldiagramm Anwendungsfalldiagramm Nutzfalldiagramm
+Kommunikationsdiagramm Kollaborationsdiagramm
+Quadrokopter Quadrocopter Quadrotor Quadricopter
+Tankanzeige Tankuhr Treibstoffanzeige Spritanzeige Kraftstoffanzeige
+Fakultätsvertretung Fachschaftsausschuss
+Kollegialitätsprinzip Kollegialprinzip
+Einschaltung Interkalation
+Flächenschluss Parkettierung Pflasterung Kachelung
+Blutdruck Gefäßdruck
+Torr Millimeter-Quecksilbersäule
+Zwangssteuerung Desmodromik
+Ventiltrieb Ventilsteuerung
+Unterbrechungsroutine Interrupthandler Unterbrechungsbehandlung
+Innentemperatur Raumtemperatur
+Raumtemperatur Innentemperatur Zimmertemperatur Raumlufttemperatur Lufttemperatur
+Frischluftversorgung Bewetterung Grubenbewetterung
+Schienenflankenschmierung Spurkranzschmierung
+Gleitgel Gleitmittel Gleitcreme
+Audiokompression Audiodatenkompression
+Dynamikkompression Dynamikeinengung
+Reichsadelsstand Reichsritterschaft
+Kontakt Geschäftsbeziehung
+Rotor-Schlüsselmaschine Rotor-Chiffriermaschine
+Verzagter Lauer Kleingläubiger Zweifler
+Drahtwort Drahtanschrift
+Benzinvertrag Feder-Bosch-Abkommen
+Enervation Denervierung Entnervung
+Magenschutz Protonenpumpen-Inhibitoren Protonenpumpenhemmer
+Lineargleitlager Gleitbuchse
+Ständerbohrmaschine Standbohrmaschine
+Kahnbeinbruch Kahnbeinfraktur Skaphoidfraktur
+Mauersalpeter Mauersalz
+Sonnenzelle Solarzelle
+Wärmeleitung Wärmediffusion Konduktion
+Paarbildung Paarerzeugung
+Fotokathode Photokathode
+Blickfeldanzeige HUD Blickrichtungsanzeige Blickfelddarstellung Head-up-Display
+Abgeschmacktheit Geschmacksverirrung Stillosigkeit Geschmacklosigkeit
+Wohnzimmer-Wasserspiel Zimmerspringbrunnen
+Kommandowirtschaft Planwirtschaft Zentralverwaltungswirtschaft Zentralplanwirtschaft
+Feinstaubplakette Umweltplakette
+Flugdrohne Drohne
+überreizt gestresst zermürbt abgespannt entnervt
+doppelgesichtig janusköpfig
+Karenzgeld Karenzurlaubsgeld
+Entgeltersatzleistung Lohnersatzleistung
+Islamwissenschaft Islamistik Islamkunde
+Automobilwettbewerb Autorennen
+Schnittbild Schichtbild Tomogramm
+Bananenmagazin Kurvenmagazin
+Repetierwaffe Repetierer
+verrauchen auflösen verziehen verpuffen
+zurücklegen überwinden
+Nassauer Schnorrer Lauschepper Nutznießer Vorteilsnehmer Schnäppchenjäger Absahner Abstauber
+Selbstbereicherung Selbstbedienung
+Klockerin Glocknerin Glockerin
+Laserstrahlschneiden Laserschneiden
+CJK Creutzfeldt-Jakob-Krankheit
+TSE Prionenkrankheit
+Lachkrankheit Kuru
+Wetzkrankheit Scrapie Gnubberkrankheit Rida Traberkrankheit
+Serienmörderin Giftmischerin
+Introspektion Reflexion
+Toilettenanlage WC-Anlage Bedürfnisanstalt
+kretominoisch minoisch kretisch-minoisch
+fadenförmig filiform
+sündenlos sündlos
+abschlachten massakrieren schlachten metzeln niedermachen niedermetzeln
+Frühzeit Kindertage Anfangstage
+Sermon Predigt Kanzelrede Kanzelwort
+Weiberfastnacht Altweiberfastnacht Weiberfaasnet Weiberfasching Wieverfastelovend Altweiberfasching Altweiber Fettdonnerstag
+Martinstag Martini
+Schirmmütze Baseball-Mütze Klätschkapp Baseballmütze Baseballcap Cap Baseballkappe Basecap Kappe
+Silbersol Silberwasser
+Minenschreiber Druckbleistift
+Mogigraphie Cheirospasmus Schreibkrampf
+Myofibrille Muskelfibrille
+Muskelfaser Muskelfaserzelle Myozyt
+weisen zeigen deuten
+Meritokratie Verdienstadel
+Lyriker Versschreiber Spielmann Dichterling Barde Minnesänger Gedichteschreiber Poet Verseschmied Dichter Reimeschmied Versemacher Musensohn
+Ligula Blatthäutchen
+schmunzeln lächeln grinsen grienen
+TV-Karte Fernsehkarte
+Funkenmariechen Regimentstochter Tanzmariechen
+Büttenrede Karnevalsvortrag
+Bollywood Hindi-Filmindustrie
+Kitsch Edelkitsch Trivialkunst
+Gotenkopf Kuban-Brückenkopf
+Kimmerer Kimmerier
+Luftlandeoperation Luftlandung
+Rommelspargel Hemmbalken Hochpfähle
+Nachtstück Notturno Nocturne
+Kryptoanalyse Kryptanalyse
+Lorenz-Schlüsselmaschine Lorenz-Schlüsselzusatz
+Rückenmarksnerv Rückenmarknerv Spinalnerv
+Bauchhöhlenschwangerschaft Abdominalgravidität Peritonealgravidität
+Blattmacher Zeitungsleute Medienvertreter Journalisten Schmock Presse Lohnschreiber Journaille Medienmeute Medienleute
+Generalinquisitor Großinquisitor
+Magmatit Erstarrungsgestein
+Setzstein Megalith
+Keilrippriemen Keilrippenriemen
+Lamellenkeilriemen Gliederkeilriemen
+Ernährungswissenschaft Trophologie Ernährungslehre
+Oszillatorschaltung Oszillator
+Saatkorn Same
+Laufschrift Kurrentschrift Kursive Schreibschrift
+Textur Textura Gitterschrift
+Rundgotisch Rotunda Halbgotisch
+Botschaft Message Aussage
+Maskulinität Männlichkeit Mannhaftigkeit
+Weiblichkeit Fraulichkeit Feminität Femininität
+Biermensur Bierjunge Biermensur Bierskandal Trinkmensur Bierduell
+Protokollstapel Netzwerkstapel Protokollturm Protokollstack Netzwerkstack
+ausladend sperrig unhandlich
+Armutsflüchtling Wohlstandsflüchtling Wirtschaftsflüchtling
+Binnenvertriebener Binnenflüchtling
+Schulden Fremdkapital
+Alamannen Alemannen
+Prämisse Vordersatz
+Customer-Relationship-Management Kundenbeziehungsmanagement Kundenpflege CRM
+Wiederholungstäter Intensivtäter Mehrfachtäter Rückfalltäter
+Dreikammersystem Trikameralismus Drei-Kammer-System
+Einkammerparlament Einkammersystem
+Bohrloch Bohrung
+Webshop Internetshop E-Shop Onlinestore Onlineshop Webstore
+Gebäudetechnik Wohnraumtechnik Haustechnik Raumtechnik
+Produktaussehen Produktdesign Produktlayout
+Leitungsvermittlung Durchschaltevermittlung
+Purpurlinie Purpurgerade
+CIE-Normvalenzsystem CIE-Normfarbsystem
+Gegenfarbentheorie Opponententheorie Gegenfarbtheorie
+Bezeichnungslehre Onomasiologie
+Feldweg Forstweg Wirtschaftsweg
+Feinnadelaspirationsbiopsie Feinnadelbiopsie Feinnadelpunktion
+Zweckbau Nutzbau
+Defäkationsreflex Stuhlreflex
+Eem-Warmzeit Eem Eem-Interglazial
+Summenformel Bruttoformel Molekülformel
+Angiospasmus Vasospasmus Gefäßspasmus
+Stimmritzenkrampf Glottiskrampf Laryngospasmus
+Stroboskopeffekt Wagenradeffekt
+CREST-Syndrom Thibierge-Weissenbach-Syndrom
+Erdlicht Erdschein
+Sonnenstrahlung Solarstrahlung
+Turbokompressor Turboverdichter
+Ständer Stator
+Hydromotor Hydraulikmotor
+Zahnringpumpe Gerotorpumpe
+Dispenser Dosierpumpe
+Drehschieberpumpe Flügelzellenpumpe
+Hubverdrängerpumpe Kolbenpumpe Hubkolbenpumpe
+Flüssigkeitsringvakuumpumpe Flüssigkeitsringpumpe Wasserringpumpe Flüssigkeitsringverdichter
+Heinzenkunst Büschelkunst Taschenkunst
+Schlauchpumpe Peristaltikpumpe Schlauchquetschpumpe
+Wendelkolbenpumpe Schraubenspindelpumpe Schraubenverdichter Schraubenpumpe
+Koppelung Koppelnavigation
+Hals Schopfbraten Kamm Schweinenacken
+Kyrenaika Cyrenaika
+Parzellenversuch Feldversuch
+Millenarismus Millennialismus Chiliasmus
+Prämillennialismus Prämillenarismus
+Amillennialismus Amillenarismus
+Sklavenarbeit Zwangsarbeit
+Fugenelement Fugenlaut Fugenmorphem Fugenzeichen Kompositionsfuge
+Interfix Infix
+Dahlbuschbombe Dahlbusch-Rettungsbombe Dahlbusch-Bombe
+Opfermann Offermann
+Alkoholunverträglichkeit Alkoholintoleranz
+Pseudorabies Tollkrätze Aujeszky-Krankheit Juckpest Pseudowut Pseudolyssa Juckseuche
+Tiermedizin Veterinärmedizin
+Türkeitürkisch Osmanisch-Türkisch
+Pandektenwissenschaft Pandektistik
+Pandekten Digesten
+Delta-Kodierung Differenzspeicherung
+Intra-Bild Schlüsselbild
+Kollisionssicherheit Kollisionsresistenz
+Temperaturkoeffizient Temperaturbeiwert
+Dampfdrucklinie Sättigungsdampfdrucklinie Dampfdruckkurve Sättigungsdampfdruckkurve
+Phasendiagramm Zustandsschaubild Gleichgewichtsschaubild Zustandsdiagramm
+Siedelinie Siededruckkurve Siedepunktkurve Siedekurve Siedepunktskurve
+Brechungsindex Brechzahl
+Joypad Gamepad
+Jevanisch Juden-Griechisch Romaniotisch
+CGS-Einheitensystem CGS-System cgs-System
+MKS-Einheitensystem MKS-System
+Tontechniker Toningenieur
+Coderate Informationsrate
+Militärtribunal Militärgericht
+Kommandozeilenschalter Startparameter Befehlszeilenparameter Befehlszeilenargumente Kommandozeilenparameter
+passenderweise intelligenterweise sinnvollerweise sinnigerweise
+Berufssport Profisport
+Proto-Indogermanisch Protoindoeuropäisch Urindogermanisch Indoeuropäisch
+Kreuzbergerkenntnis Kreuzbergurteil
+Inselzelle Langerhans-Insel
+Lenkkopfwinkel Gabelkopfwinkel
+Sicherheitskennzeichen Sicherheitszeichen
+rechtläufig prograd
+retrograd rückläufig
+Intensivstation Intensivpflegestation
+Lenkrollradius Lenkrollhalbmesser
+Schüttgut Stürzgut
+Erdbunker Miete Vorratsgrube Bunker
+Muldenkipper Dumper
+Japaner Muli Dumper Vorderkipper Motor-Japaner
+ergebenst untertänigst
+Fließgewässerkennziffer Gewässerkennzahl
+Präformationstheorie Präformationslehre Evolutionslehre
+Spermatozoon Samenzelle Spermium Spermatozoid Samenfaden
+Widerstandsbuckelschweißen Buckelschweißen
+Punktschweißen Widerstandspunktschweißen
+Widerstandsrollennahtschweißen Rollennahtschweißen
+Fulmidurschweißen Kondensator-Impulsschweißen Kondensatorimpulsschweißen Kondensatorentladungsschweißen CD-Schweißen KE-Schweißen Perkussionsschweißen
+Einzelelektronentransistor Ein-Elektron-Transistor
+Chrysoberyll-Katzenauge Cymophan Katzenauge Kymophan
+Kenngröße Ähnlichkeitskennzahl
+Härte Rigorismus Strenge
+Anlandung Landungsunternehmen Seelandung Landung
+Bioformation Biom
+Sediment Bodensatz Lockersediment
+Gendrift Sewall-Wright-Effekt Alleldrift
+Heredität Vererbung
+Allelfrequenz Genfrequenz
+Teemaschine Teeautomat
+ungetrübt ungebrochen anhaltend
+absengen abflämmen abflammen abschreuen sengen
+Parameterdarstellung Parametrisierung Parametrierung
+unschuldig ahnungslos
+Teilzeitarbeitnehmer Teilzeitarbeiter Teilzeitangestellter Teilzeitkraft Teilzeitbeschäftigter
+Skandälchen Aufreger
+Speichereinspritzung Common-Rail-Einspritzung
+Populärkultur Popkultur
+Hohleisen Hohlbeitel
+Drechselbeitel Dreheisen
+Stellmacherei Wagnerei
+Zapfenverbindung Verzapfung
+Abdampfen Eindampfen
+Prätorianer Prätorianergarde
+Anliegerstaat Anrainerstaat Nachbarland
+Handelskammer Gewerbekammer Handelsdeputation Kommerzkammer
+geringfügig dezent leicht
+Quelle Originaldokument Beleg
+Bioöl Bioschmierstoff
+Umweltzeichen Umweltkennzeichen Ökolabel
+Prüfzeichen Prüfsiegel
+Neokonservativismus Neokonservatismus
+Handelsbarriere Handelshemmnis
+Karbonat Carbonat
+Kohlensäureester Carbonate
+CO2-Senke CO₂-Senke Kohlenstoffdioxidsenke Kohlenstoffsenke
+Kommutatormaschine Kommutatormotor Gleichstrommaschine Gleichstrommotor
+Reihenschlussmotor Hauptschlussmaschine Reihenschlussmaschine
+Allstrommotor Universalmotor
+Grottenburg Höhlenburg
+Traktionsbatterie Traktionsakku Antriebsbatterie Zyklenbatterie
+Solarakku Solarakkumulator Solarbatterie
+Griffsicherung Handballensicherung Griffstücksicherung
+Inn-Salzach-Bauweise Inn-Salzach-Stil
+Konturenflug Terrainfolgeflug Geländefolgeflug
+Druckvorstufe Prepress
+Abtaster Scanner
+Hundsstern Canicula Sirius Aschere
+Doppelstern Doppelsternsystem
+Mehrfach-Sternsystem Mehrfachstern Mehrfachsystem
+Schutzfrist Sperrfrist
+Zugriffskontrollliste Zugriffssteuerungsliste
+starten hochfahren anfahren
+Privatdetektiv Berufsdetektiv Detektiv
+Querstromturbine Durchströmturbine Michell-Turbine Bánki-Turbine Ossberger-Turbine
+Abwärtswandler Tiefsetzsteller Abwärtsregler
+Koaxialkabel Koaxkabel
+Seele Innenleiter
+Kreisgüte Polgüte Güte Resonanzschärfe Schwingkreisgüte Q-Faktor Gütefaktor
+Überlagerungsempfänger Superheterodynempfänger Super Superhet
+Opferpension Opferrente
+Salztonebene Playa
+Afar-Dreieck Afar-Senke Danakil-Senke
+Zentralverschluss Lamellenverschluss
+Petrus-Primat Papst-Primat
+Pausenfüller Füllsel
+Ausfallpforte Ausfalltor
+Linsengleichung Abbildungsgleichung
+Technologiepark Technopark
+PVC Polyvinylchlorid
+Hainichen Gellertstadt
+Fünfachtelschluss 5/8-Schluss Fünf-Achtel-Schluss
+Presbyterium Chor
+Billiganbieter Billigheimer Niedrigpreis-Anbieter Discounter
+Wackeleimer Wackler Wackellampe
+Dichroismus Zweifarbigkeit
+Fruchtwein Obstwein
+Granatkartätsche Schrapnell
+Torsionsstab Drehstabfeder Drehstab
+Ochsenziemer Hagenschwanz Munifisel Farrenschwanz Ochsenpesel Ochsenfiesl
+Flächenmaß Flächeneinheit Flächenmaßeinheit
+Wahlverfahren Wahlsystem
+Börsennotierung Listing Börsennotiz Kotierung
+Börsenabgang Börsenrückzug Delisting
+Spülkanüle Knopfkanüle
+Sommerferien Sommerfrische Sommerurlaub
+Dodo Dronte
+Beautyfarm Wellnesscenter Wellnesszentrum Wellnessoase Wellness-Oase Schönheitsfarm Wellness-Tempel Wellnesshotel Wellnessfarm Beauty-Farm Wellness-Einrichtung
+Volksprosa-Forschung Erzählforschung
+Erzählforschung Erzähltheorie Narrativik
+Retardation Retardierung
+Verzögerungsplatte Wellenplatte
+Fingeralphabet Fingersprache Daktylologie
+Restlichtverstärker Bildverstärker
+Trägheitskraft Scheinkraft
+Druckratsche Kurzhebelratsche
+Langhebelratsche Zugratsche
+O'Neill-Kolonien O'Neill-Zylinder
+Bettelbrief Bittbrief
+Nebenfigur Randfigur Zaungast
+Nebenrolle Charge
+unumstößlich ehern eisern
+Überhandnehmen Inflation
+Protestbürger Protestler Wutbürger Protestierende
+Strohbündel Getreidebündel Garbe
+Garbe Feuerstoß Salve MG-Salve Maschinengewehrsalve Gewehrsalve
+Aktivitätshypertrophie Arbeitshypertrophie
+Synzytium Coenoblast Coenocyt
+Einstandspreis Bezugspreis Beschaffungspreis
+Abendmahl Eucharistie Kommunion Herrenmahl Altarssakrament
+Demobilisation Demobilisierung
+Yeti Schneemensch
+Wildbrücke Grünbrücke
+Flächenzerschneidung Freiraumzerschneidung Landschaftszerschneidung
+Sekretion Abspaltung Sezession Loslösung Trennung Absonderung Ablösung
+Pflegesohn Ziehsohn Stiefsohn
+Bekleidungsvorschrift Dress-Code Kleiderordnung Kleidervorschrift Anzugsordnung Dresscode
+Kokosnusspalme Kokospalme
+Monokotyledonen Einkeimblättrige
+Kokosplantage Kokosnussplantage
+edieren herausgeben
+herausgeben verlegen veröffentlichen publizieren editieren
+Spezialenzyklopädie Specialencyklopädie Partikularenzyklopädie Special-Encyklopädie Partikular-Encyklopädie
+Einzelwissenschaft Fachwissenschaft
+Manngeld Friedegeld Wergeld Compositio Weregildus Wehrgeld Wiedergeld
+Golgota Golgatha Golgotha
+Schafott Schaugerüst Blutgerüst
+verbesserungsfähig korrekturbedürftig verbesserungswürdig
+Phosphodiesterase-5-Hemmer Phosphodiesterase-V-Hemmer PDE-5-Hemmer
+Erektionsstörung Potenzstörung Impotenz
+Petrolchemie Petrochemie
+Problemviertel Problembezirk
+Proletarier Unterschichtsangehöriger Unterschichtler
+Universitätsklinikum Universitätskrankenhaus Uniklinik
+Organo-Therapie Frischzellentherapie Zellular-Therapie
+Hypnosedation Hypnosedierung
+Schilling Alpendollar
+Verlotterung Niedergang Verwahrlosung
+verlottern herunterkommen verwahrlosen herumsumpfen verschlampen vergammeln versacken runterkommen versumpfen verkommen verelenden
+Wegkreuz Flurkreuz Wegekreuz Marterl Kreuz
+Herrscherdynastie Dynastie
+Historiografie Historiographie Geschichtsschreibung
+Eindringen Intrusion
+Transsexualität Transsexualismus
+Sexualdifferenzierungsstörung Intersexualität
+Minderwuchs Hyposomie
+Östrogen Estrogen
+Gelbkörperhormon Gestagen
+Peptidhormon Proteohormon
+Tonerzeugung Schallerzeugung Klangerzeugung
+Frequenzmodulationssynthese FM-Synthese
+Brunch Gabelfrühstück
+saturieren sättigen
+Sozialarbeit Fürsorge Sozialhelfer
+Zentralpunkt Fundamentalpunkt
+Messpunkt Vermessungspunkt
+Radiomann Radiofrau Radiomacher Rundfunkjournalist
+Staatsschulden Staatsverschuldung
+Preispolitik Preismanagement
+Verbundertrag Verbundvorteil Verbundeffekt
+Oligopson Nachfrageoligopol
+Abschöpfungsstrategie Skimmingstrategie
+Schreibrichtung Schriftrichtung
+Erdefunkstelle Erdfunkstelle Relaisstation
+Umsetzer Relaisstelle Relaisstation Relaisfunkstelle Relais Funkfeldverstärker Repeater
+Heimatkundler Heimatforscher
+Rundfunkgebühr Rundfunkbeitrag
+Fotosatz Lichtsatz
+Lauftext Laufschrift Laufzeile Ticker Laufband
+Phonothek Schallarchiv
+Neoklassizismus Neuklassizismus
+Schwanenhals Hüftbogen
+Giebelbogen Dreiecksbogen
+Kreisbogen Rundbogen
+Schulterbogen Kragsturzbogen Konsolbogen
+Eselsrücken Kielbogen Akkolade Sattelbogen
+Kleeblattbogen Dreipassbogen
+Karnies Glockenleiste
+Gesims Sims
+Bauglas Silikatglas
+Glasbaustein Glasstein
+Computer-Netzteil PC-Netzteil
+durchtrainiert athletisch trainiert fit sportlich sportiv
+Tein Koffein Coffein Thein
+Ticker Nachrichtenticker Liveticker Live-Ticker Newsticker
+betanken tanken auftanken
+Amateurfunk Amateurfunkdienst
+Längswelle Longitudinalwelle
+Transversalwelle Scherwelle Querwelle Schubwelle
+Geoseismik Seismik
+Machstamm Mach-Effekt Machwelle Machfrontseite Machstammeffekt Mach-Reflexion
+Vergnügungsviertel Rotlichtbezirk Rotlichtviertel Amüsierviertel Sündenmeile Milieu
+Lufthansa-Mitarbeiter Lufthanseat
+Distelfink Stieglitz
+Rollwiderstand Rollreibung
+Rollwiderstandsbeiwert Rollwiderstandskoeffizient Rollreibungsbeiwert
+Rentenzugangsalter Pensionsantrittsalter Renteneintrittsalter
+TV-Sendung Fernsehsendung
+Hubwagen Ameise Meise
+Kasteiung Selbstkasteiung Kestigung
+Stoff Lerninhalt Lehrstoff Unterrichtsstoff Lernstoff
+Fiskalunion SKS-Vertrag Fiskalpakt
+Edeltanne Edel-Tanne Silbertanne
+Hemlocktanne Schierlingstanne Tsuga
+Pixelgrafik Rastergrafik
+Sideropenie Eisenmangel
+Gabelstapler Hubstapler
+Brühmasse Brandmasse Brandteig
+Pieta Vesperbild Pietà
+Putzwolle Putzlumpen Putzfäden
+Inkongruenz Unvereinbarkeit
+Haschimiten Haschemiten
+Irak-Iran-Krieg Iran-Irak-Krieg
+Zitrone Limone Citrone
+dahindämmern herumkrebsen
+Beringmeer Beringsee
+Fernstraße Fernverkehrsstraße
+Förde Fjord
+Meeralpen Seealpen
+Donautalbahn Donaubahn
+Zellertalbahn Pfrimmtalbahn
+Turkistan Türkistan Turkestan
+Gobi Schamo
+Treuhandanderkonto Anderkonto
+Gipfelstock Massiv Gebirgsmassiv Massengebirge Gebirgsstock
+Großraumbüro Bürolandschaft
+Reichsfürstenrat Fürstenbank
+Elektroplax Eplax
+Zitterrochen Torpedorochen
+Niveaufreiheit Planfreiheit Höhenfreiheit Kreuzungsfreiheit
+Handlung Handlungskern Plot Story Ablauf Handlungsgerüst
+Hofverband Villikation
+Allod Eigengut Erbgut Freieigentum Allodialbesitz
+Südflandern Französisch-Flandern
+Montanunion EGKS
+Pegeldifferenzstereofonie Intensitätsstereofonie
+Gegenläufermotor Gegenläufer Gegenkolbenmotor Gegenlaufmotor
+Biesfliege Dasselfliege
+Denguefieber Dandy-Fieber Knochenbrecherfieber
+Serotyp Serovar
+Antikörper Immunglobulin Immunoglobulin Gammaglobulin
+Immunbiologie Immunologie
+Immunozyt Immunzelle
+B-Zelle B-Lymphozyt
+T-Lymphozyt T-Zelle
+Normatmosphäre Normalatmosphäre Standardatmosphäre
+Luvwinkel Vorhaltewinkel
+Berufsanerkennungsjahr Anerkennungsjahr Berufspraktikum
+Einweckglas Einmachglas Einkochglas Weckglas
+Sinkhöhle Doline Karsttrichter
+Eingebundensein Involviertheit Einbezogensein Beteiligtsein
+bewirtschaften betreiben
+Mitgiftjäger Heiratsschwindler
+Taktilität Fühlbarkeit
+Hungerquelle Hungerbrunnen
+Musterbetrieb Erprobungsbetrieb Testbetrieb Pilotbetrieb
+Warenbörse Produktenbörse
+Parallelschwung Temposchwung
+Sprengel Gerichtsbezirk
+Rechtszug Instanz Rechtsgang
+Instanzenzug Rechtsmittelzug
+Schwemmgut Treibgut Geschwemmsel Treibsel
+örtlich geometrisch lagemäßig positionell
+Werbeunterbrechung Werbeeinblendung Werbe-Einblendung Werbepause Werbeblock
+Nachbetrachtung Nachklapp Nachtrag
+Cinemathek Kinemathek
+Filmarchiv Filmothek Filmsammlung
+Frühlingspunkt Widderpunkt
+Ekliptikebene Ekliptikalebene
+Grubenwasser Schachtwasser
+Wasserlösungsstollen Wasserlosungsstollen
+Stollen Stolln
+masochistisch selbstquälerisch
+Videothek Videoverleih
+Befreiungskriege Freiheitskriege
+Großwohnanlage Wohnmaschine Betonburg Großwohnsiedlung Hochhaussiedlung Großsiedlung Plattenbausiedlung
+Betreuungsgeld Herdprämie
+Branchialbogen Pharyngealbogen Viszeralbogen Kiemenbogen Schlundbogen
+Feuerpumpe Luftfeuerzeug Kompressionsfeuerzeug
+Höhenmaßstab Vertikalmaßstab
+Sprengkopf Gefechtskopf
+Astrometrie Positionsastronomie
+Peking-Palasthund Pekinese Pekingese
+Moorkolonisierung Moorkolonisation
+Diomedes-Inseln Tremiti-Inseln
+Strandwolf Schabrackenhyäne
+Anisbrötli Springerli Springerle
+Hausgesetz Hausvertrag Hausordnung
+Ariadnepfad Brotkrumennavigation Brotkrümelnavigation
+Tauschzirkel Tauschkreis LETS Tauschring Tauschnetz Nachbarschaftshilfeverein Zeittauschbörse
+Eselspinguin Rotschnabelpinguin
+Panzerturm Panzerkuppel
+Wohnumgebung Wohnumfeld
+Hyetometer Ombrometer Pluviometer Regenmesser Niederschlagsmesser
+Raketenkreuzer Lenkwaffenkreuzer
+Leitungsschutzschalter LS-Schalter Automat Sicherungsautomat
+Schwertsicherung Panzersicherung Niederspannungs-Hochleistungs-Sicherung NH-Sicherung Messersicherung
+Fehlerlichtbogen Störlichtbogen
+Großtafelbauweise Plattenbauweise
+Erwartung Forderung Anspruch
+Strömer Flatterband
+Warnleine Absperrband Flatterleine Trassierband Flatterband Warnband
+Aufgrabung Künette
+Schwerkraftbremse Konvektionssperre Konvektionsbremse
+Zwillingsrückschlagventil Sperrblock
+Schnellkochtopf Drucktopf Duromatic Kelomat Dampfkochtopf
+Rührreibschweißen Reibrührschweißen
+Laserstrahlschweißen Laserschweißen
+Leitrad Leitapparat Leitgitter Leitwerk
+V-Leitwerk Schmetterlings-Leitwerk
+Schwingungsknoten Wellenknoten
+Schwingungsbäuche Wellenbäuche
+Öltauchschmierung Ölbadschmierung
+Eingangswiderstand Lastwiderstand Außenwiderstand Abschlusswiderstand Bürdenwiderstand
+Innenwiderstand Ausgangswiderstand Quellwiderstand
+Tastteiler Tastkopf
+Abgreifklemme Abgreifer Klemmprüfspitze
+Brandstiftung Feuerlegung
+Jetboot Jet-Ski Jetski Jet-Boot Wassermotorrad
+Platzreife Platzerlaubnis
+Separatfrieden Sonderfrieden
+Hohepriester Hoherpriester
+Stinkfrucht Zibetfrucht Durian Käsefrucht
+HI-Linie Wasserstofflinie H-Eins-Linie 21-cm-Linie
+Dreiecksnebel Triangulumnebel
+Andromedagalaxie Andromedanebel
+Gelbfieber Ochropyra
+Onchozerkiasis Onchozerkose
+Koschenille Cochenille Karmoisin Karmesin Karmin
+Stichkanal Zweigkanal
+Röntgenfluoreszenzspektroskopie Röntgenfluoreszenzanalyse
+Drogenkartell Drogensyndikat
+Leinenstoff Leinzeug Linnen Leinen
+Frotteestoff Frottee Frotté
+Härchen Flaum
+Flaumfeder Unterfeder Daune Dune
+Konturfeder Deckfeder
+Milchbart Flaum
+bebartet barttragend bärtig
+Sturmwindfrisur Sturmfrisur
+ungekämmt struwwelig zerzaust strubbelig strubblig windzerzaust unfrisiert
+Verzeichnisstruktur Verzeichnisbaum Ordnerstruktur
+Trennzeichen Separator Delimiter
+Metazeichen Funktionszeichen
+Browserspiel Onlinespiel
+Planspiel Sandkastenspiel Spiegelfechterei Übung Simulation Schattenboxen Trockenübung
+Herzmuskel Myokard
+Scheingefecht Schaukampf
+Schuman-Erklärung Schuman-Plan
+Fischmolch Aalmolch
+ziehen hervorholen herausholen blankziehen herausnehmen herausziehen zücken hervorziehen
+Rursee Rurstausee
+Eiszeit Eiszeitalter
+Schadspinner Wollspinner Trägspinner
+Laubtaler Lorbeertaler
+Flickschusterei Stückwerk
+Gleichraumprozess Otto-Kreisprozess
+Verbundwerkstoff Kompositwerkstoff
+Faser-Kunststoff-Verbund Faserverbundkunststoff
+Stabsperrholz Tischlerplatte
+Holzwolle-Leichtbauplatte HWL-Platte
+Holzspanwerkstoff Spanplatte
+Flachpressplatte Spanplatte
+Holzfaserdämmplatte Holzweichfaserplatte Weichholzfaserplatte
+U-Ausschuss Untersuchungsausschuss
+Kakophemismus Dysphemismus
+Produktpiraterie Produktfälschung Markenpiraterie
+verdunkelt verdeckt kryptisch hermetisch dunkel unverständlich unergründlich
+unverschlüsselt Klartext
+Stundenglas Sanduhr
+Küchenwecker Signaluhr Eieruhr Kurzzeitwecker
+Lerchenkopf Ankerstich Schlingenstek
+Offizierskorps Offizierkorps
+Flugzeugentführung Luftpiraterie
+Abtrockentuch Geschirrtuch
+Damenzimmer Boudoir Kemenate Ankleidezimmer
+Spiritismus Spiritualismus
+Luftklinger Aerophon
+Clavichord Klavichord
+Thermorezeption Temperatursinn Thermozeption
+Enterozeption Viszerozeption
+Feinwahrnehmung Tastschärfe
+Chemosensor Chemorezeptor
+Nozizeptor Nozirezeptor Nozisensor
+Schleifenbahnsystem Hinterstrangbahn
+Vibrationsempfinden Pallästhesie
+Omron-Ringe EURion-Konstellation
+Unteritalien Süditalien
+Norditalien Oberitalien
+Apennin Apenninen
+Uralgebirge Ural
+Schalenobst Schalenfrucht
+Magneteisen Magneteisenstein Eisenoxiduloxid Magnetit
+Symptomatik Klinik
+imitieren ausgeben mimen darstellen verkörpern personifizieren schauspielern
+Mime Maskerade Verkörperung Darstellung Schauspiel Imitation
+Neopaganismus Neuheidentum
+Herzbeuteltamponade Perikardtamponade
+Hämatothorax Hämothorax
+Thoraxdrainage Pleuradrainage
+Hydrothorax Brustwassersucht
+Brustfell Pleura
+Bodenersatz Bodenauswechslung Bodenaustausch
+korrekt regelkonform ordnungsgemäß ordnungsmäßig regelgerecht sauber vorschriftsmäßig
+Schreibmaschinendistanz Tastaturdistanz
+beben schwabbeln wackeln zittern wabbeln
+wabblig bebend zitternd wabbelig wackelnd schwabbelig schwabblig
+Eisenbahnsuizid Bahnsuizid Schienensuizid
+Spannungswellengetriebe Wellgetriebe Gleitkeilgetriebe
+Stirnrad Zylinderrad
+Entomologe Insektenkundler
+Abstandhalter Distanzstück Passscheibe Distanzscheibe Passstück
+Islamfaschismus Islamofaschismus
+Okulomotorik Augenbewegung Augenmotilität
+Sehloch Pupille
+Traktionstest Pinzettenzugtest
+Brown-Syndrom Obliquus-Superior-Sehnenscheiden-Syndrom
+Seevogel Meeresvogel
+Superfluidität Suprafluidität Supraflüssigkeit Superflüssigkeit Hyperfluidität
+Ionisierungsgrad Ionisationsgrad
+Saha-Gleichung Saha-Ionisierungs-Gleichung
+Klitzing-Konstante von-Klitzing-Konstante
+Sommerfeldkonstante Feinstrukturkonstante
+Massepunkt Punktmasse
+Protolysegrad Dissoziationsgrad
+Alkoholvergiftung C2-Abusus Alkoholintoxikation C₂-Abusus
+Maupihaa Mopihaa Mopelia
+Französisch-Polynesien Französisch-Ozeanien
+Tiefensperre Hochpass
+Säugetierkunde Theriologie Mammalogie
+Schädelbasisbruch Schädelbasisfraktur
+Gleitspanen Gleitschleifen Trowalisieren Trowalieren
+Apostelkreuz Weihekreuz
+Malteserkreuz Johanniterkreuz
+Kohlenmonoxid-Vergiftung CO-Vergiftung Kohlenstoffmonoxidintoxikation Kohlenmonoxid-Intoxikation Kohlenmonoxidintoxikation CO-Intoxikation
+HF-Technik Hochfrequenztechnik
+Kosovo-Ägypter Balkan-Ägypter
+Serbien-Montenegro Serbien/Montenegro
+Schüttgutfrachter Massengutfrachter
+Frachtschiff Frachter Güterschiff
+Küstenmotorschiff Kümo
+Tanker Tankschiff
+Kuruzen Kurutzen Kuruzzen
+La-Tène-Zeit Latènezeit
+bleifarben bleiern bleifarbig
+Restposten Auslaufmodell Ramsch
+Altniederländisch Altniederfränkisch
+Niederländisch Holländisch
+Megaliner Superjumbo
+Flugsicherheitsbegleiter Luftsicherheitsbegleiter
+Sozialwissenschaft Gesellschaftswissenschaft
+Kranvollernter Waldvollernter Harvester Holzvollernter Vollernter
+Hackgut Hackschnitzel Holzhackschnitzel
+Waldhackschnitzel Waldhackgut
+Nawaro NR NawaRo NaWaRo
+Dialektcluster Dialektbündel
+Feigwurz Scharbockskraut Frühlingsscharbockskraut
+Frühlingsgeophyt Frühblüher Frühjahrsblüher
+Musikethnologie Ethnomusikologie
+Musikologie Musikwissenschaft
+Musikwissenschaftler Musikologe
+Kitesurfen Kiten Kiteboarden Lenkdrachensegeln
+Gleitschirmfliegen Paragleiten
+Gleitschirm Gleitsegel Paragleiter
+Hängegleiter Drachen Deltasegler Flugdrachen Hanggleiter
+Gleitsegelfliegen Paragliding Gleitsegeln
+Lateinisch Latein
+Tausendfüßer Tausendfüßler
+Tracheentier Antennata Atelocerata
+Standvorrichtung Standfuß Fuß
+Älchen Aaltierchen Nematode Fadenwurm
+Rübenzystennematode Rübenälchen
+Rübenkopfälchen Stängelälchen Kleeälchen
+Kondenswasser Schwitzwasser Tauwasser
+Wegintegral Kurvenintegral Linienintegral
+Zirkulation Ringintegral Umlaufintegral
+Gyrometer Gyrosensor
+Stabilisation Lageregelung
+CP-Steuerung Bahnsteuerung
+Polei Flohkraut Polei-Minze
+Shigellendysenterie Bakterienruhr Bazillenruhr Shigellose Shigellenruhr
+Verstümmelung Verstümmlung
+Trennungskind Scheidungskind Scheidungswaise
+umbauen umgestalten ummodeln
+Großwürdenträger Großgebietiger
+Armeepferd Militärpferd
+Madonnenbildnis Marienbildnis
+Nebeninsel Nachbarinsel
+Balkan Balkanhalbinsel
+Altenstift Seniorenstift
+Nordäquatorialschwelle Asandeschwelle
+Schreibweise Notation Schreibung
+Dreiergruppe Dreiercombo Trio
+Dreispänner Troika Dreigespann
+Dreizeiler Kurzbrief Kurzmitteilung
+schiefgegangen gescheitert fehlgeschlagen danebengegangen missglückt misslungen
+Krankheitsbild Entität
+Althebräisch Hebräisch
+Inverssuche Rückwärtssuche
+lächerlich blöd albern neckisch pillepalle ridikül närrisch läppisch affig dämlich lachhaft flachsinnig
+Blocklehm Geschiebelehm
+Richtkranz Richtkrone
+Aktienumtausch Aktientausch
+Ministaat Duodezstaat Zwergstaat Mikrostaat
+Provenienzerschließung Provenienzforschung Provenienzrecherche
+gallig herb bitter
+Speckle Specklemuster Lichtgranulation
+todunglücklich todtraurig niedergeschmettert
+kompromisslos standhaft unbeirrbar unnachgiebig beharrlich unbeirrt standfest unverrückbar unerschütterlich straight unbeugsam konsequent
+sechs 6
+Sittenpolizei Sittendezernat Sitte
+Verkehrsinformationsdienst Verkehrslagedienst
+Transbaikal Dahurien Davurien Transbaikalien Daurien
+Biogeographie Biogeografie
+Kapflora Kapensis
+Dateiserver Fileserver
+Wechselfestplatte Wechselplattenlaufwerk
+Lokaltermin Lokalaugenschein Ortstermin Vor-Ort-Termin
+Fälligkeitstag Ziel Fälligkeitsdatum Fälligkeitszeitpunkt Fälligkeit Zahlungsziel
+durchstreifen bereisen durchreisen
+überraschenderweise staunenswerterweise
+Observatorium Warte
+Nordhimmel Nordsternenhimmel Nordsternhimmel
+Festkörper Feststoff
+Zungenblutwurst Zungenwurst
+Speckwurst Griebenwurst
+Schlachteplatte Schlachtschüssel Metzgete Schlachtplatte
+Kesselfleisch Spint Steg Siedfleisch Stegfleisch Wellfleisch
+Wurstbrühe Wurstsuppe Metzelsuppe
+Schweinsbacke Schweinsbäckchen Backenfleisch Schweinebacke
+Suppenfleisch Siedefleisch
+Schälrippe Ripperl Ripple Rippenspeer Leiterchen
+Bauchfleisch Wammerl
+Rippenstück Karree Rücken Karbonade
+Schweinsfuß Spitzbein Pfötchen Pfoten
+Lendenbraten Filet Lende Lungenbraten
+Dünnung Flanke Bauchlappen
+Bauchraum Bauchhöhle Peritonealhöhle
+Schweinebug Schweineschulter
+Sandelholz Santelholz Santalholz
+Arbitrationslogik Arbiter
+Prügelperser Jubelperser
+Kadavergehorsam Willfährigkeit
+Tetraplegie Tetraparalyse Quadriplegie
+Querschnittlähmung Transversalsyndrom Querschnittläsion Querschnittslähmung Paraplegie
+Archivierungsprogramm Packer Packprogramm
+Sexsüchtiger Sexmaniac Sexverrückter Satyr Lustmolch Erotomane Sexbesessener Sex-Maniac Lüstling
+Sonstiges Weiteres mehr
+Tischunterlage Molton
+Mitteldecke Napperon Deckserviette Decker Übertischtuch
+Platzdeckchen Tischset Platzset Set
+Großgehölz Urwaldriese Großbaum
+Weißzeug Weißwäsche
+holzig verholzt
+Hain Gehölz Waldung Wäldchen
+entriegeln öffnen aufsperren aufschließen
+borniert piefig bieder spießbürgerlich bourgeois provinziell philisterhaft philiströs engstirnig kleinbürgerlich spießig spießerhaft
+Aktivbox Aktivlautsprecher
+Studiolautsprecher Studiomonitor
+Stützpfeiler Pfeiler Eckpfeiler Grundsäule
+Korbschläger Korb
+Glocke Glockenschläger
+Hausruckviertel Hausruckkreis
+Gemeindekennziffer Kreisschlüssel Gemeindeschlüsselzahl Gemeindenummer
+Kratzbeere Kroatzbeere
+Wohnsitzwechsel Wohnortwechsel Umzug
+sein seine
+Dialektikon Dialogismus
+Hyperkyphose Gibbus Buckel Rundrücken
+Einstellung Shot
+Hammerklavier Tafelklavier
+Herrenfrisör Herrenfriseur Barbier Bartscherer Bartschneider Raseur
+Truppenarzt Sanitätsoffizier Wundarzt SanOffz Militärarzt Stabsarzt Feldscher
+IT-Forensik Computer-Forensik
+Hamming-Distanz Hamming-Abstand
+Sichtschutz Sichtblende
+Zelter Gangpferd
+Horarium Stundenbuch Brevier
+Kryovulkan Eisvulkan
+Kryovulkanismus Eisvulkanismus
+Datenerhebung Datensammlung Erhebung
+anpöbeln herumpöbeln beleidigen provozieren rumpöbeln
+Kugelstoßpendel Newtonpendel Newton-Wiege Kugelpendel
+Hausfrauenknoten Altweiberknoten Knopf
+Mastwurf Webeleinenstek
+Fluggastbrücke Passagierbrücke Finger
+Deutschländisch BRD-Deutsch Deutschlanddeutsch Reichsdeutsch Bundesdeutsch Binnendeutsch
+Radarquerschnitt Rückstrahlfläche
+Heunesäule Heunensäule
+Motorluftstrahltriebwerk Thermojet Motorjet Motorstrahltriebwerk
+Freilauf Überholkupplung
+Kaffeerahm Kaffeeobers Kaffeesahne Crème
+Durchleuchtung Fluoroskopie
+Photographie Fotografie
+Photoelektronenvervielfacher Photovervielfacher Photomultiplier
+Seiteneinsteiger Quereinsteiger
+Teilentladung Vorentladung
+Rollbombe Rotationsbombe
+Fliegerbombe Abwurfmunition Abwurfkampfmittel
+Edersee Ederstausee
+Naturaliensammlung Naturalienkabinett Naturalienkammer
+Kläppchenkragen Stehkragen Vatermörder
+Skalengesetz Skalierungsgesetz
+Datentyp Datenart
+Heer Landstreitmacht Landstreitkraft
+Faustriemen Portepee Schlagband
+Privatlehrer Hauslehrer
+Schuppentanne Schlangenbaum Affenschwanzbaum Andentanne
+Kohlenstoffdioxidlaser CO₂-Laser CO2-Laser Diodenlaser Kohlendioxidlaser
+Nonnenkranich Schneekranich
+Wohnungsverwaltung Hausverwaltung Mietverwaltung
+Britenbonus VK-Ausgleich Britenscheck Britenrabatt
+Postregal Postrecht
+Postmonopol Briefmonopol
+Reichsacht Acht Verfestung Bann
+Plicht Cockpit
+Segeljacht Segelyacht
+Nordborneo Nord-Borneo Britisch-Nordborneo
+Sandrohr Deichgras Sandhalm Dünengras Strandhafer Helm Seehafer
+Filmverwertung Filmauswertung
+Kaukasologie Kaukasistik Kaukasiologie
+Kaukasiologe Kaukasologe
+Kostenreduktion Kostensenkung
+Beimengung Zuschlagstoff
+Kampagne Wahlkampagne Wahlkampf
+Videoclip Musikvideo
+nachlassen nachlassen abbauen
+alpin montan gebirgig bergig
+Bergland Bergwelt
+Mittelgebirgslandschaft Berglandschaft Gebirgslandschaft
+Hügelland Hügellandschaft
+Sachbefugnis Passivlegitimation
+Zersiedelung Landschaftsverbrauch
+eingefleischt hartgesotten überzeugt ausgemacht Die-Hard ewig unverbesserlich hoffnungslos
+Menschenmaterial Kanonenfutter Weichziel
+Himmelfahrtskommando Selbstmordaktion Kamikazeaktion Selbstmordkommando
+Bootsfahrt Bootstour
+deflorieren entjungfern
+knapp nur hauchdünn keine kaum
+Normstaub Prüfstaub
+Abgeschobener Schübling Abzuschiebender Schubhäftling Abschiebehäftling
+Sommerblüher Sommerflor
+Forensperre Aussperrung
+Zwangsausbürgerung Expatriation Ausbürgerung Expatriierung
+Deportation Verschleppung Zwangsumsiedlung Zwangsverschickung
+Philippchen Glanzbildchen Glanzbild
+Ahi Gelbflossen-Thun
+Wesselényi-Verschwörung Magnatenverschwörung
+sediert ruhiggestellt
+Partizip Mittelwort
+Nullartikel Artikellosigkeit
+Digitalpiano E-Piano Keyboard Masterkeyboard
+Aufschlag Klappe Revers
+Querstrich Makron Längestrich Macron
+Bezeichner Identifikator
+Symbolinformation Debugsymbol
+Hybrid-Piano Hybrid-Klavier Hybridklavier Hybridpiano
+Klavizimbel Spinett Oktavspinett Gravicembalo Kielklavier Virginal Cembalo
+Selbstüberschätzung Größenwahn Megalomanie Vermessenheitsverzerrung Titanismus
+Klaviatur Tastatur Tastenfeld Manual
+Niederlassung Autohaus
+Schieberkappe Hydrantenkasten Straßenkappe Schieberkasten
+Spektrometrie Spektroskopie Farbzerlegung
+Kalenderweisheit Lebensregel Kalenderspruch Lebensweisheit
+Tamburin Tambourin Schellentrommel
+Westdeutschland Westzone BRD Kohlrabien Trizonesien Trizone
+Rettenbachgletscher Rettenbachferner
+Bohemien Künstlernatur Bohémien
+Kleinostern Klein-Ostertag
+gesegnet gebenedeit
+Anspruch Qualität Ambition Prätention Niveau
+Bretagne Kleinbritannien
+Mindestlohn Lohnuntergrenze
+Schweigegelübde Schweigepflicht Schweigegebot Omertà
+Baseballschläger Baseballkeule
+Softballschläger Softballkeule
+Jamal-Halbinsel Samojeden-Halbinsel
+Morelle Schattenmorelle
+Kragenspiegel Kragenpatte
+Gemeindefreiheit Gemeindeautonomie
+Katasterkarte Liegenschaftskarte Flurkarte
+OP-Tisch Operationstisch
+OP-Leuchte Operationsleuchte
+zugig luftdurchströmt luftdurchweht windumtost windig luftig
+stürmisch sturmdurchweht tobend stürmend sturmdurchbraust
+Zutun Einbringung Beteiligung
+Sonnenschirm Parasol
+Bügeleisen Plätteisen
+Hausmarke Handelsmarke Eigenmarke
+Iod-Stärke-Test Minor-Test
+Telefonabstimmung Televoting Teleabstimmung
+Olsaland Olsagebiet
+Zigarre Stumpen
+Korallensee Korallenmeer
+Salomonensee Salomonsee
+Machbarkeitsstudie Projektstudie
+Aktorik Aktuatorik
+Rollentransfer Rollenförderer
+Sozialethik Gesellschaftsethik
+Entfesselungskünstler Eskapologe
+Eremit Juchtenkäfer
+Splitterschutzzelle Einmannbunker
+erhitzt erregt echauffiert aufgeregt
+nahebei nahe unweit nah
+Irenik Irenismus
+Unterrichtsfach Unterrichtsgegenstand Schulgegenstand Schulfach Fach Lehrfach
+Ohmgeld Umgeld Ungeld
+Messlupe Fadenzähler
+spaßig unterhaltsam kurzweilig unterhaltend unterhaltlich abwechslungsreich
+Banause Primitivling Barbar Vandale
+Schlafproblem Schlafstörung
+einwerfen eintreten einschlagen eindrücken
+Judokämpfer Judoka
+ringsumher ringsum rings drumherum ringsherum rundherum
+0 null
+Unterlassungserklärung Unterwerfungserklärung
+Fruchtknoten Ovar
+Schachtkrater Pitkrater
+Riftzone Grabenbruch
+Süßwasseraal Aal
+Hyperaktivitätsstörung Aufmerksamkeitsdefizitstörung ADS Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung Zappelphilippsyndrom ADHS HKS Aufmerksamkeitsdefizitsyndrom Hyperaktivitätssyndrom Aufmerksamkeitsdefizit-/Hyperaktivitätssyndrom
+Selbstregulation Selbststeuerung Impulskontrolle
+Einschließlichkeit Inklusivität
+Kleinasien Anatolien
+Montagegruppe Gruppe Baugruppe
+Baugemeinschaft Bauherrengemeinschaft Baugruppe
+Aufschlagen Montieren
+Sonnenschein Sonnenstrahlen
+Entoderm Endoderm
+Mikrostrukturtechnik Mikrotechnik
+Nanotechnologie Nanotechnik
+Mitschuld Mitverantwortung
+Klerikofaschismus Klerikalfaschismus
+Musikkorps Heeresmusikkorps
+pesten ätzen höhnen stänkern giften
+Mitternacht Geisterstunde
+Sinnverwandtschaft Bedeutungsnähe Bedeutungsähnlichkeit
+Halbwelt Demimonde
+Künstlermilieu Bohème
+Freidenker Libertin Freigeist
+Kryostase Kryonik
+Hetzrede Brandrede
+PMD-Sensor Photomischdetektor
+Stichstraße Sackgasse
+Fußgängerbereich Fußgängerzone
+Stressor Stressfaktor
+Fotometrie Photometrie
+Chaosforschung Chaostheorie
+Planetoid Plutoid Zwergplanet
+Eruptionsschlot Sprengtrichter Schlot Durchschlagsröhre Vulkanschlot Schlotgang Diatrema Neck
+Sill Lagergang
+Rückstandsgestein Residualgestein
+gründlich gehörig weidlich
+Nasenkante Eintrittskante Vorderkante Profilnase
+Lipidstoffwechsel Fettstoffwechsel
+Antiromaismus Antiziganismus Zigeunerfeindlichkeit
+Grablege Gruft Krypta
+Grabkammer Grabgewölbe
+Popelmann Popel
+Buschemann Bullemann Butzemann Butz
+Positionsregelung Lageregelung
+Anforderungen Erwartungen Ziele
+Herzkranzgefäß Koronargefäß
+Bypass Beipass
+Haarnasenaffe Trockennasenprimat Trockennasenaffe
+Schwerhörigkeit Hypakusis
+Wasserkopf Hydrocephalus Hydrozephalus Gehirnwassersucht
+mitbekommen merken registrieren mitkriegen wittern
+Nachfrage Bedarf
+Jensen-Alpha Alphafaktor
+Verkehrsgleichung Transaktionsgleichung Quantitätsgleichung Tauschgleichung
+Marktpreisänderungsrisiko Marktrisiko Marktpreisrisiko
+Tesinoebene Tesinotal
+stocksteif stakig verspannt staksig ungelenk bocksteif
+Felsnase Felsburg Bergsporn Felssporn Geländesporn
+Felszinne Felsnadel Felsturm
+Bogendreieck Gleisdreieck
+Wendestern Gleisfünfeck
+Objekttyp Klasse
+Bad-Säckingen-Vergleich Chicago-Vergleich Monaco-Vergleich Las-Vegas-Vergleich Druck-Vergleich Monte-Carlo-Vergleich
+Alexanderzug Alexanderfeldzug
+grobschlächtig klobig vierschrötig grob klotzig ungeschlacht
+Leistungsvergleich Benchmarking
+Bogengewichtsmauer Bogengewichtsstaumauer
+Studienfach Studienrichtung
+Ingenieurgeodäsie Ingenieurvermessung
+Nutation Nutationsbewegung
+Doppelaxt Amazonenaxt Labrys
+Livestream Direktübertragung
+Triangulationspunkt TP Trigonometer
+Stabilisierung Vermarkung
+Festpunkt Fixpunkt
+Spannmaß Sperrmaß
+Maß Messwert
+Raumdistanz Schrägstrecke Schrägdistanz
+Detailpunkt Zielpunkt
+Polaraufnahme Polarpunktaufnahme
+Fernrohrlineal Fernrohrdiopter Kippregel Messtischaufsatz
+Diopterlineal Krokiergerät
+Messabweichung Messfehler
+Messsystemanalyse Messmittel-Fähigkeitsanalyse Prüfmittel-Fähigkeitsanalyse
+Vergleichspräzision Vergleichbarkeit Nachvollziehbarkeit
+Polarkoordinatensystem Kreiskoordinatensystem
+Distanzer Distomat Disto LaserDisto
+Lehrberuf Ausbildungsberuf
+Dämpfungsglied Abschwächer
+Hungerturm Faulturm
+Fangenturm Fangelturm
+Immundefekt Immundefizienz
+Distanzwaffe Fernwaffe
+Stänker Waldiltis Ratz
+Frettchen Frett
+bestimmend determinierend herrisch
+Konditionalsatz Bedingungssatz
+Zuschauereffekt Bystander-Effekt Genovese-Syndrom
+Geschlecht Sexus
+Wolgahöhen Wolgaplatte
+Jergenihöhen Jergenihügel
+Kuma-Manytsch-Niederung Manytschniederung
+Zytochrom Cytochrom
+Nukleobase Nucleobase Nucleinbase Nukleinbase
+Kristallisationskern Kristallisationskeim
+Resublimieren Solidifikation Resublimation Desublimation Deposition
+Typinferenz Typableitung
+Basslautsprecher Subwoofer Tieftöner
+dreisprachig trilingual
+einsprachig monolingual
+viersprachig quadrilingual
+Weiß-Laken-Käse Salzlakenkäse
+Hofmeister-Reihe Hofmeister-Serie
+Ektotoxin Exotoxin
+Tetanospasmin Tetanustoxin
+Milzbrandtoxin Anthrax-Toxin
+CD-ROM-Laufwerk CD-Laufwerk
+Dreidecker Tripeldecker
+Haferlschuh Schützenschuh Bundschuh
+Fluchthaube Brandfluchthaube
+Goldklopffüllung Goldhämmerfüllung Goldstopffüllung
+Prämolar Vormahlzahn
+Mahlzahn Molar
+Tiefenpuffer Tiefenspeicher-Verfahren
+Sehpyramide Sehkegel
+Turgordruck Turgor
+Stückenzucker Würfelzucker
+Verbindungsdaten Verkehrsdaten Kommunikationsdaten
+Heliograph Heliograph Spiegeltelegraph
+Nebeltraufe Nebeltau
+Dachtraufe Traufe
+Tropfleiste Wassernase Tropfkante
+Telefongesellschaft Telko Fernmeldedienstanbieter
+Impulsreferat Impulsvortrag
+Heidekraut Besenheide
+Kristallglas Hartglas
+Glasschleifen Glasschleiferei
+Vorhangfassade Vorhangwand
+Mangaliza Mangalitza Mangalica-Schwein Schafschwein
+Schimmelpilzgift Mykotoxin
+Winterbeweidung Winteraußenhaltung Winterweide
+Fleckvieh Simmentaler
+Mehrheitswahl Majorzwahl
+D'Hondt-Verfahren Jefferson-Verfahren
+Pöbelherrschaft Ochlokratie
+Fremdherrschaft Xenokratie Besatzungsregime
+Gynaikokratie Gynäkokratie
+Militärregierung Stratokratie
+Lohnspreizung Einkommensspreizung Lohnungleichheit Lohndispersion
+Pornokratie Mätressenherrschaft
+Antikenhändler Antiquitätenhändler
+Aquaphobie Hydrophobie
+beugbar deklinabel deklinierbar
+Erdbeerfleck Blutschwämmchen Hämangiom
+Kaiserschnitt Schnittentbindung
+Barkredit Darlehen Schulden Privatkredit Kredit Wunschkredit Anleihe Sofortkredit Darlehn Bankkredit Dispokredit Ratenkredit Finanzierung
+Mediation Mediationszeit
+Ludografie Spielografie
+Ersatzwortmethode Schlüsselwortmethode Keywordmethode
+Bildersystem Hilfsbildreihe Bildtafel Zahlensymbole Bilderraster Zahl-Symbol-System Zahl-Form-System
+Cork-Kodierung T1-Kodierung
+Rückpropagierung Backpropagation Fehlerrückführung
+QRS-Komplex QRS Kammerkomplex QRS-Gruppe
+Zentraleuropa Mitteleuropa
+Realwörterbuch Sachwörterbuch
+Sachlexikon Fachwörterbuch Reallexikon Realwörterbuch Fachlexikon Sachwörterbuch
+Turmknopf Turmkugel Turmknauf
+Aussendung Entsendung
+Bandscheibenprotrusion Bandscheibenvorwölbung
+Atemzentrum Lebensknoten
+Nachhirn Myelencephalon
+Hinterhirn Metencephalon
+Rautenhirn Rhombencephalon
+Bunsen-Roscoe-Gesetz Reziprozitätsgesetz
+L.A.-Smog Sommersmog Photosmog Ozonsmog
+Nuristani-Sprachen Kafiri-Sprachen
+Vinzentiner Lazaristen
+anknüpfen andocken
+Computercluster Rechnerverbund
+Religionsparodie Spaßreligion
+Münstertalerisch Jauer
+Vinschgau Vintschgau
+VE-Wasser Deionat
+Reihenresonanz Spannungsresonanz Serienresonanz
+Zweipolantenne Antennendipol Dipolantenne
+Lecher-System Lecher-Leitung
+Oneport Zweipol Eintor
+Stromresonanz Parallelresonanz
+Dipmeter Grid-Dipper
+Ägäis-Mazedonisch Slawomazedonisch Ägäis-Makedonisch
+Vorrenaissance Protorenaissance
+Kaffeedomantie Kaffeesatzlesen
+Hieromantie Eingeweideschau Hieroskopie
+Kosmogramm Horoskop
+Chirologie Chiromantie Handlesekunst Handlesen Chiromantik
+Kartenlegen Kartenlegekunst Kartomantie Chartomantik
+Rauchomina Libanomantie
+Mehlomina Aleuromantie
+Zitterpartie Hängepartie
+Minenfeld Minenteppich Minensperre Minengürtel
+Schützenabwehrmine Antipersonenmine Schützenmine Tretmine
+Panzerabwehrmine Antipanzermine
+Zellfusion Synzytose Zellverschmelzung
+Liposuktion Fettabsaugung Aspirationslipektomie
+Sprachdialogsystem IVR-System
+Mikwe Judenbad
+Losfest Purim Purimfest
+Fabry-Pérot-Interferometer Pérot-Fabry-Interferometer
+Landesmutter Ministerpräsidentin
+Erlesenheit Exklusivität
+Foul Foulspiel
+ungerührt stoisch gleichmütig trocken lapidar
+Erdölbegleitgas Begleitgas
+Neuroleptikum Antipsychotikum
+Gradientkraft Druckgradientkraft
+Eulerwind Euler-Wind
+reichsfrei reichsunmittelbar
+kolloquial umgangssprachlich
+Maschinenbronze Rotmessing Rotguss
+Achtziger Achtzigerjahre
+Neunziger Neunzigerjahre
+Sechziger Sechzigerjahre
+Fünfziger Fünfzigerjahre
+Dreißiger Dreißigerjahre
+Optothyristor Fotothyristor
+kabellos schnurlos drahtlos
+Verteidigungsministerium Hardthöhe Bundesverteidigungsministerium Kriegsministerium
+Gastgeberdienst Gastfreundschaftsnetzwerk
+Agrotourismus Landtourismus
+Spiegelstein Selenit Frauenglas Marienglas
+Eingreiftruppe Spezialeinheit
+Brackwasserbecken Brackwasseraquarium
+Seewasseraquaristik Meerwasseraquaristik
+Bahnhofstoilette Bahnhofs-WC
+H-Schaltung H-Brücke Vollbrücke Brückenschaltung
+browsen surfen
+Streuungsdiagramm Punktdiagramm Korrelationsdiagramm Streudiagramm Punktwolke
+Gantt-Diagramm Balkenplan
+Aparthotel Apartment-Hotel
+Gasriese Gasplanet
+Kugelstrahler Isotropstrahler
+Metallizität Metallhäufigkeit
+Montebello-Inseln Monte-Bello-Inseln
+Nicaragua Nikaragua
+Ex-Kanzler Ex-Bundeskanzler Altkanzler Altbundeskanzler
+Ortlergruppe Ortler-Alpen
+Kameralwissenschaft Kameralia
+Schleife Kehre Wendeschleife Wende Gleisschleife Kehrschleife Endschleife Umkehrschleife
+Häuserblockschleife Blockumfahrung
+Nutzbremse Rekuperationsbremse
+Impaktkrater Einschlagkrater
+Livonier Liven Livonen
+Hebdrehwähler Hubdrehwähler
+Analoguhr Zeigeruhr
+Versicherungsvertrag Versicherung
+Restemarkt Ein-Euro-Shop Ramschmarkt Sonderpostenmarkt Resterampe Ein-Euro-Geschäft Non-Food-Discounter Schnäppchenmarkt Ramschladen Ein-Euro-Laden
+Ringfahndung Ringalarmfahndung
+Leitstelle Einsatzzentrale
+Agitation Agitiertheit
+Funkkompass Radiokompass
+Paretymologie Volksetymologie
+Kvarner-Bucht Quarnerobusen
+Aquifuge Aquiclude Grundwassernichtleiter
+Flimmerfusionsfrequenz Flimmerverschmelzungsfrequenz
+Steinköhler Kalmück Helles Wrackfisch Pollack
+Kirchenprovinz Metropolie
+Reisbrei Milchreis
+Bombenattentat Sprengstoffanschlag Bombenanschlag
+Tangwald Algenwald Kelpwald
+Algologie Phykologie Algenkunde
+Algologe Algenforscher
+Kastration Gonadektomie
+Württemberger Merinolandschaf
+Merinoschaf Merino
+Funk-Entstörkondensator Sicherheitskondensator Entstörkondensator
+Zytosol Cytosol
+Cytoskelett Zellskelett Zytoskelett
+Abmahnung Abmahnschreiben
+übermächtig überlegen
+Kognitionswissenschaft Kognitionsforschung
+Grenzprinzip Marginalprinzip
+Wirtschaftlichkeitsprinzip Rationalprinzip
+Sparsamkeitsprinzip Haushaltsprinzip Minimalprinzip
+Ergiebigkeitsprinzip Maximalprinzip
+Optimumprinzip Extremumprinzip
+Grenzertrag Grenzprodukt
+Transformationskurve Kapazitätslinie Produktionsmöglichkeitenkurve
+Funktionsgraph Graf Graph Funktionsgraf
+Haltepunkt Haltestelle Halt
+Bartholin-Patau-Syndrom Patau-Syndrom Pätau-Syndrom D1-Trisomie
+C-Syndrom Opitz-Trigonozephalie-Syndrom
+Gruber-Syndrom Meckel-Syndrom Meckel-Gruber-Syndrom
+Dauerschwingversuch Wöhlerversuch
+Gaschromatographie Gas-Flüssigkeits-Chromatographie
+düster unheilvoll beunruhigend drohend dräuend unheilschwanger bedrohlich unheimlich beklemmend finster unheildrohend creepy
+Reporter Berichterstatter
+Korrespondent Berichterstatter
+Gesamtüberblick Ausschau Zusammenfassung Überblick
+Eurowestern Italowestern Spaghettiwestern
+Neigung Schrulle Marotte Habit Angewohnheit
+Direktheit Spontanität Unbekümmertheit Impulsivität Spontaneität
+Grenadine Granatapfel
+Zielzuweisungsradar Suchradar Überwachungsradar
+Röntgenstrahlbeugung Röntgendiffraktion Röntgenstrahlenbeugung Röntgenbeugung
+erschüttern erschrecken schockieren
+zielbewusst zielstrebig konsequent zielorientiert planvoll planmäßig strebsam zielgerichtet
+Wasserballastbahn Wassergewichtsseilbahn
+Normannenschild Drachenschild Kiteschild Mandelschild
+Patrimonialhierarchie Erbuntertänigkeit
+Migmatit Anatexit
+Hummerscheren Helikonien
+präkolumbinisch präkolumbianisch vorkolumbisch präkolumbisch
+Tafellack Plattlack Schellack
+Tafellack Gummilack Stocklack Körnerlack Baumlack
+Tinkal Dinatriumtetraborat-Decahydrat Borax Natriumborat
+Fahrradlenker Guidon
+Vergällung Denaturierung
+Auftragsschreiber Phantomschreiber Ghostwriter
+Tipping-Point Umkipppunkt Umschlagpunkt Kipp-Punkt Kipppunkt
+Kirchenbann Anathem Anathema
+Ursachenerforschung Ursachenforschung
+schampunieren einschäumen shampoonieren schamponieren
+Jütisch Jütländisch
+Südjütisch Südjütländisch
+Standarddänisch Reichsdänisch
+zuverlässig gewissenhaft verlässlich
+verfüllen vollmachen auffüllen zumachen verschütten zuschaufeln zuschütten vollschaufeln
+Babyfenster Babykörbchen Babynest Babyklappe
+Ionenstreuspektroskopie Ionenstreuungsspektroskopie
+β-Strahlung Betastrahlung
+β Beta
+gefügig gutwillig bereitwillig ergeben demutsvoll willfährig willig kooperativ fügsam demütig
+Apogäumsmotor Kickstufe
+Geomorphologie Landformenkunde
+Sundaarchipel Sundainseln
+Biostratigraphie Biostratigrafie
+Netiquette Netikette
+Schachtelwort Portmanteau Kofferwort
+Vermengung Verschmelzung Kontamination Amalgamierung Wortkreuzung
+Zellenlehre Cytologie Zellbiologie Zytologie
+ZEBRA-Batterie Natrium-Nickelchlorid-Zelle
+Chargenprozess Batchproduktion
+Zurücksetzung Neustart Neubeginn Reset Wiederanfang Neuanfang
+Trockenmasse Trockensubstanz
+Kriegslist Strategema Strategem Stratagem
+Xylophon Xylofon
+Klassenkasper Klassenclown
+Mehrprozessorsystem Multiprozessorsystem
+Mehrkernprozessor Multikernprozessor
+Rapsmethylester Rapsöl-Methylester Rapsdiesel
+Sojaöl Sojabohnenöl
+Umtriebe Ränkespiel Winkelzüge Linkereien Intrigenspiel Machenschaften Finessen Schliche
+Verschwörung Komplott Konspiration
+Werbemarke Reklamemarke
+Meiji-Renovation Meiji-Revolution Meiji-Restauration
+Meth Stuka-Tabletten Yaba Hermann-Göring-Pillen Panzerschokolade Hitler-Speed Crystal Ice N-Methylamphetamin Metamfetamin Pervitin Methamphetamin
+Burgasebene Burgastiefebene
+Parteigutachten Privatgutachten
+Ahnenverehrung Ahnenkult Manismus
+Kult Kultus
+Planstadt Retortenstadt
+Blattschnitt Kartenschnitt
+ungeschönt unverdünnt ungeschminkt unverblümt
+Monophonie Monofonie
+Homophonie Homofonie
+Istro-Romanisch Istriotisch
+Dolomit Dolomitstein
+Zentralkroatien Kernkroatien Mittelkroatien Hoch-Kroatien
+Wachtturm Wachturm
+Beobachtungsturm B-Turm
+Stein-Eiche Steineiche
+Herz-Jesu-Sozialist Herz-Jesu-Marxist CDA-Mitglied
+Plantaraponeurose Plantarfaszie
+Palmaraponeurose Hohlhandsehne
+Ansichtskarte Ansichtspostkarte Karte
+TV-Duell Fernsehduell
+Wirtschaftsauskunftei Wirtschaftsinformationsdienst Ratingagentur Rating-Agentur
+Brenner Brennerpass
+Buchenstein Fodom
+Abtönungspartikel Modalpartikel
+Forumsteilnehmer Poster Forist
+Aufspanndorn Aufnahmedorn Spanndorn
+Vögelchen Piepmatz Vöglein
+Intensifikator Gradmodifikator Steigerungspartikel Intensitätspartikel Gradpartikel
+Verhältnissatz Adverbialsatz
+Begründungssatz Kausalsatz
+Konzessivsatz Einräumungssatz
+Finalsatz Begehrsatz Absichtssatz Zwecksatz
+Zeitsatz Temporalsatz
+Interrogativsatz Erotema Fragesatz
+Umstandsangabe Adverbiale Adverbial Umstandsbestimmung Adverbialbestimmung
+Satzkonstituente Satzteil Konstituente Satzglied
+Bonbonsirup Glukosesirup Stärkesirup Isoglukose Maiszucker Glucosesirup Glykosesirup Maissirup
+Tripodegelenk Tripoidgelenk
+Nivelliergerät Klinometer Inklinometer Neigungsmesser Neigungswinkelmesser
+Privatraum Personalraum Hinterzimmer
+Knallsäure Fulminsäure
+perkussorisch perkutorisch
+Hörsturz Gehörsturz Gehörinfarkt Ohrinfarkt
+Kantenspektrum Umkehrspektrum Goethe-Spektrum
+Frontlenker Stirnsitzer
+Machtübergabe Machtübernahme Machtergreifung
+Georgisch Grusinisch Gruzinisch
+Humangeographie Anthropogeographie
+Sozialgeografie Sozialgeographie
+Wirtschaftsgeographie Wirtschaftsgeografie
+Agrargeografie Agrargeographie
+Regionalforschung Regionalwissenschaft
+Stadtflucht Suburbanisierung
+Tsaidam-Becken Qaidam-Becken
+Quasiwahrheitswert Geltungswert Pseudowahrheitswert
+Südwestasien Vorderasien Westasien
+Cinnabarit Zinnober
+Sättigungsbetrieb Sättigung
+Superpositionseigenschaft Superpositionsprinzip
+Superposition Superpositionsprinzip
+Fourier-Analysis Fourier-Analyse
+Ophthalmometer Keratometer
+Hornhaut Kornea
+Keratograf Videokeratometer
+Detektorradio Diodenempfänger Detektorempfänger
+Lungenödem Wasserlunge
+Gewebsflüssigkeit Interstitialflüssigkeit
+Unbekanntheit Namenlosigkeit Anonymität
+Hausunterricht Domizilunterricht Heimunterricht
+Ackerknoblauch Ackerlauch Sommerknoblauch
+Umformerelement Getriebe
+Colorado-Hochebene Colorado-Plateau
+Ciskaukasien Nordkaukasus
+Transkaukasien Südkaukasus
+Kaukasusvorland Vorkaukasus
+Ablenkung Deviation
+Missweisung Deklination Ortsmissweisung
+Penisverkrümmung Penisdeviation
+Kursbeschickung Kursumwandlung
+Normalenvektor Normalvektor
+Normaleneinheitsvektor Einheitsnormale
+Querdisparation Querdisparität
+Alias-Effekt Aliasing Aliasing-Effekt
+Eulerzug Eulertour Eulerzug
+Van-der-Waals-Wechselwirkung Van-der-Waals-Kraft
+Dipol-Dipol-Wechselwirkung Dipol-Dipol-Kraft
+Wasserstoffbrücke H-Brücke Wasserstoffbrückenbindung
+Ripuaren Rheinfranken Ripuarier
+Cervelatwurst Safaladi Zervelatwurst Servelatwurst
+Doppel-Asteroid Doppel-Planetoid
+Sekundärspiegel Fangspiegel
+Submillimeterwellen Terahertzstrahlung
+Strehl-Zahl Strehl-Verhältnis
+Dunkelwolke Dunkelnebel
+Elektrolumineszenz Destriau-Effekt
+Lossew-Effekt Round-Effekt
+Profanierung Profanation
+Einmalpasswort Einmalkennwort
+Einmalverschlüsselung Einmalschlüssel-Verfahren
+Kreisbeschleuniger Umlaufbeschleuniger Zirkularbeschleuniger Ringbeschleuniger
+Betatron Elektronenschleuder
+Flak-Artillerie Flakartillerie
+Weichselgebiet Russisch-Polen Weichselland Weichselgouvernement
+Ausliegerberg Zeugenberg
+Durrakorn Mohrenhirse Besenkorn
+Faserhirse Futterhirse Zuckerhirse Körnerhirse
+grundverkehrt grundfalsch
+Kehlkopftumor Larynxkarzinom Larynxtumor Kehlkopfkrebs
+Pulsation Pulsieren
+Hydrospeicher Hydraulikspeicher
+Membranspeicher Hydromembranspeicher
+Hydraulikpumpe Hydropumpe
+Szintillationsdetektor Szintillationszähler
+Chromatografie Chromatographie
+Mengenprodukt Kreuzprodukt
+Verbindungsmenge Kreuzmenge Produktmenge
+Ölkautschuk Faktis
+Parakautschukbaum Gummibaum Kautschukbaum
+Vorrat Fundus
+Gerätetreiber Treiber
+Abugida Alphasyllabar
+Geschäftskunde Firmenkontakt Firmenkunde Geschäftskontakt
+Findelkind Findling Fundkind
+Funkmeldeempfänger Pager Personenrufempfänger Funkrufempfänger
+Telefonist Telefonoperator
+Schachbrettinseln Ninigo-Inseln
+Kaniet-Inseln Anachoreteninseln
+Wuvulu Tigerinsel
+Filiation Deszendenzsystem Abstammungssystem
+Ödipuskomplex Ödipuskonflikt
+Schwemmfächer Sandurs Geröllfächer Schwemmkegel
+Kiesgrube Schottergrube Kiestagebau Kieswerk
+Sylvensteinspeicher Sylvensteinstausee Sylvensteinsee
+Vinschgauer Vinschgerln
+Schließzwangschlüssel Durchsteckschlüssel Doppelschlüssel
+Umnutzung Konversion Nutzungsänderung
+Expeditionsstreitkraft Expeditionskorps
+Satteldach Giebeldach
+Polyamorie Polyamory
+Hetäre Nebenfrau Mätresse Geliebte Kurtisane Konkubine Zweitfrau
+Freier Kunde
+Zedrachgewächs Mahagonigewächs
+Weiderichgewächs Blutweiderichgewächs
+Flügelsamengewächs Langfadengewächs
+Chinazypresse Wasserfichte
+Atemknie Kniewurzeln
+Pneumatophor Atemwurzel
+Hechtalligator Mississippi-Alligator
+Kainsmal Kainszeichen
+Territorialprinzip Territorialitätsprinzip
+Konsulargerichtsbarkeit Konsularjurisdiktion
+Geburtsortsprinzip Territorialprinzip Geburtsortprinzip
+Isolierverglasung Mehrscheiben-Isolierglas Wärmedämmverglasung
+Kampfpanzer Panzerkampfwagen
+Tonne Megagramm t
+Raupenkette Gleiskette Raupenband Raupe
+Bulldozer Kettenräumer Schubraupe Planierraupe
+Kettenfahrzeug Raupenfahrzeug Gleiskettenfahrzeug
+Kesselsauger Allessauger Nass-/Trockensauger
+Zyklonfilter Zyklonabscheider Zyklon Fliehkraftabscheider Wirbler
+Nominalwert Nennwert
+Stationsberg Kalvarienberg
+Spähpanzer Panzerspähwagen Aufklärungsfahrzeug
+Flussmützenschnecke Flussnapfschnecke
+Transaktionszeit Bearbeitungszeit
+Schläfenlappen Temporallappen
+Parietallappen Scheitellappen
+Stirnlappen Frontallappen
+Occipitallappen Okzipitallappen Hinterhauptslappen
+Schläfenlappenepilepsie Temporallappenepilepsie
+Stirnlappenepilepsie Frontallappenepilepsie
+Hinterhauptslappenepilepsie Okzipitallappenepilepsie
+Westwinddrift Westwindzone
+Hinterautal-Vomper-Kette Karwendelhauptkette
+Piedmontgletscher Eisloben Vorlandgletscher
+Gletscherendsee Gletscherrandsee
+Standgewässer Stehgewässer Stillgewässer
+Inntal-Gletscher Inn-Gletscher
+Rhonegletscher Rottengletscher
+Plateaugletscher Eiskappe
+Turnsaal Sporthalle Turnhalle
+Zwangsversteigerung Subhastation
+Elektroakustik Tontechnik
+Samplingtiefe Bittiefe
+Satellitenstaat Vasallenstaat
+Mandschu-Dynastie Qing-Dynastie
+Jugendfeier Jugendweihe
+Baustellenfahrzeug Baufahrzeug
+Induktionsspannung Umlaufspannung
+Müllwagen Müllfahrzeug
+Nutzkraftwagen Nutzfahrzeug Nfz
+Wasserstoffchlorid Chlorwasserstoff Hydrogenchlorid
+Iodwasserstoff Wasserstoffiodid Hydrogeniodid
+Kabeltrasse Kabelwanne Kabelpritsche Kabelbahn Kabelrinne
+Schwarzrost Getreideschwarzrost Getreiderost
+E-Kennung E-Kennzeichen E-Kennzeichnung ECE-Prüfzeichen
+Produktkennzeichnung Warenkennzeichnung
+Kapphahn Masthahn Kapaun Kapauner
+Erwähnung Nennung
+Home-Office Homeoffice
+Elgamal-Kryptosystem Elgamal-Verschlüsselungsverfahren
+Dechiffrat Klartext
+Fersensporn Kalkaneussporn Calcaneussporn
+Ketuwim Ketuvim Ketubim
+Tanach Tenach
+Stalag Stammlager
+Kammerflimmern Herzkammerflimmern
+Bindenverband Binde
+Klassenvertreter Klassensprecher
+Gehaltsdifferenzierung Entgeltdifferenzierung Lohndifferenzierung
+Enveloppe Einhüllende Hüllkurve
+Kurvenschar Funktionenschar Parameterfunktion Funktionsschar
+Cauchy-Lorentz-Verteilung Breit-Wigner-Verteilung Cauchy-Verteilung Lorentz-Verteilung
+Resonanzlinien Spektrallinien
+Lichtspektrum Farbspektrum
+Begleitagentur Escortagentur
+Yamsgewächse Schmerwurzgewächse Yamswurzelgewächse Yamswurzgewächse
+Aukschtaitien Oberlitauen
+Aukschtaiten Oberlitauer
+Schamaiten Samogitien Niederlitauen
+Memelgebiet Memelland
+Memelländer Memeler
+Hochmoor Regenmoor
+Reichmoor Niedermoor
+Wiesen-Segge Braun-Segge
+Riedgrasgewächse Riedgräser Sauergrasgewächse
+Wiesenmoor Kleinseggenmoor Kleinseggen-Sumpf Kleinseggenried
+Druckfließläppen Strömungsschleifen
+Bongo-Berge Bongo-Massiv Tondou-Massiv
+Tschadbecken Tschadseebecken
+Madagaskar-Strauß Elefantenvogel
+Marranen Marranos
+Landschaftsgarten Landschaftspark
+Nasenbeutler Beuteldachs
+bedeutsam bedeutungsvoll tiefsinnig gedankenschwer tief vielsagend bedeutungsschwanger bedeutungsschwer gedankenvoll
+Lohmann-Affäre Phoebus-Skandal
+Polychromie Vielfarbigkeit
+Dreiseilumlaufbahn 3S-Bahn
+Luftseilbahn Seilschwebebahn
+Akzession Beitritt
+Informationsstrom Informationsfluss
+Allradantrieb Allrad
+Lamellenkupplung Reiblamellenkupplung
+Leerlaufmoment Schleppmoment
+Gasdruckfeder Gasfeder
+Dispergiermittel Dispergator
+Zugsicherungssystem Zugbeeinflussung Zugbeeinflussungssystem
+Verkehrswegebündelung Trassenbündelung
+Gehaltsgröße Gehaltsangabe
+Stoffmengenkonzentration Molarität
+Volumenbruch Volumenanteil
+Massenanteil Massenbruch
+Streckenzug Polygonzug Linienzug
+Querstrahlsteueranlage Bugstrahlruder
+Variometer Steigmesser Vario
+Verniertriebwerk Vernierdüse
+Radargleichung Radargrundgleichung
+Spanraum Spankammer
+Schneckenhaus Schneckengehäuse Schneckenschale
+Baumschnirkelschnecke Baumschnecke
+Alkoholmeter Alkoholometer
+Ärometer Aerometer
+Wiedergabetreue Genauigkeit Fidelität Originaltreue
+Stromschleifenschnittstelle Stromschnittstelle
+Therme Thermalbad
+torusförmig toroidal
+Unterlegenheitsgefühl Minderwertigkeitsgefühl Minderwertigkeitskomplex Inferioritätsgefühl Inferioritätskomplex
+Breatharianismus Lichtnahrung
+Styptikum Hämostyptikum Hämatostatikum Hämostatikum Hämatostyptikum
+Astrozyt Sternzelle Spinnenzelle
+Sickergrube Versitzgrube
+Absetzbecken Absetzanlage
+Betriebswasser Brauchwasser Nutzwasser
+Orthozentrum Höhenschnittpunkt
+Einschneiden Schnittverfahren
+Feuerbachkreis Neun-Punkte-Kreis
+Grundseite Grundlinie
+Spieker-Punkt Spieker-Zentrum
+Winkelhalbierende Winkelsymmetrale
+Mittelsenkrechte Streckensymmetrale Mittellot
+Massenmittelpunkt Massenschwerpunkt Schwerpunkt Gewichtsschwerpunkt
+Kapitalverwässerung Verwässerungseffekt
+Langsamfahrstreifen Kriechspur
+Improtheater Improvisationstheater
+Federrate Federhärte Richtgröße Federkonstante Direktionskonstante Federsteifigkeit
+Bewehrung Armierung
+Synchronbuch Dialogbuch
+Synchronautor Dialogbuchautor
+Blutabnahme Blutentnahme
+Hyperhydration Hyperhydratation
+Elementdecke Filigrandecke Kaiserdecke Halbfertigteildecke Gitterträgerdecke
+Betonfertigteil Betonelement
+Kofferdamtuch Kofferdam Spanngummi
+Raumbezug Georeferenz Geobezug
+Verschwiegenheitsvereinbarung Geheimhaltungserklärung Vertraulichkeitsvereinbarung Geheimhaltungsvertrag Geheimhaltungsvereinbarung NDA
+Vielmännerei Polyandrie
+Vielweiberei Polygynie
+Februarumsturz Februarputsch
+Mückennetz Moskitonetz Bettnetz Haarnetz Fischernetz Fangnetz
+Simplon Simplonpass
+Stealthflugzeug Tarnkappenflugzeug
+Wahlpflichtunterricht Pflichtwahlunterricht
+Wahlpflichtfach Pflichtwahlfach Wahlpflichtgegenstand
+Wahlpflichtkurs Pflichtwahlkurs
+Pflichtfach Pflichtgegenstand
+Kote Höhenangabe Höhenpunkt
+Sachkundeunterricht Sachkunde Sachunterricht
+Talpass Engpass
+Spartakusaufstand Januaraufstand
+Manjurei Mandschurei
+Koreastraße Krusenstern-Straße Tsushimastraße
+Ganztagsschule Tagesschule Ganztagesschule
+Lehrerschaft Lehrerkollegium Lehrkörper
+Proton-Proton-Reaktion Proton-Proton-Kette p-p-Reaktion
+Entweichgeschwindigkeit Fluchtgeschwindigkeit
+Magnatenhaus Magnatentafel
+Choresm Choresmien
+Bauartzulassung Typisierung
+Radar-Altimeter Radarhöhenmesser
+Funkhöhenmesser Radarhöhenmesser
+Abflussgebiet Entwässerungsgebiet Flussgebiet Einzugsgebiet Niederschlagsgebiet Stromgebiet
+Erbstollengerechtigkeit Erbgerechtigkeit
+Verleihung Beleihung Belehnung Bestätigung
+Mutung Muthung
+Muther Muter
+Vermittlungsplatz Abfrageplatz Telefonzentrale
+Panhispanismus Paniberismus
+Iberoamerikanismus Hispanoamerikanismus
+Kleverländisch Nordniederfränkisch
+Amazonaskastanie Tucannuss Rahmnuss Juvianuss Amazonasmandel Yuvianuss Papanuss Paranuss Brasilkastanie Marahonkastanie Steinnuss Brasilnuss Amazonenmandel
+Eliminationsmatrix Elementarmatrix
+Cholesky-Zerlegung Cholesky-Faktorisierung
+Dreieckszerlegung LR-Zerlegung LU-Zerlegung
+Vertauschungsmatrix Permutationsmatrix
+Einheitsmatrix Identitätsmatrix
+Ahl-Spitze Bodkin-Spitze
+Atlatl Speerschleuder
+Romberg-Versuch Romberg-Test
+Donkosaken Don-Kosaken
+Umschalter Umschaltbox Matrix-Schalter Selektor Kreuzschiene
+Koppelfeld Kreuzschienenverteiler
+markant prägnant umrissen deutlich ausgeprägt scharf
+Massenaussterben Massenextinktion
+Prostatakrebs Prostatakarzinom
+Skelettmetastase Knochenmetastase
+Galvoantrieb Galvo Galvanometerantrieb
+Düngemittel Dünger
+Spurenelement Mikroelement
+Appellationsgericht Berufungsgericht
+Berufung Appellation
+Gnadenrecht Gnadenbefugnis Begnadigungsrecht
+Dilogie Zweiteiler
+Quadrologie Tetralogie Vierteiler
+Pentalogie Fünfteiler
+Hexalogie Sechsteiler
+Siebenteiler Heptalogie
+Oktologie Achtteiler Oktalogie
+Neunteiler Ennealogie
+Dekalogie Zehnteiler
+Zwölfteiler Dodekalogie
+Aktivsprache Aktiv-Stativ-Sprache
+Spiegelstrichliste Aufzählung
+Enumeration Enumeratio
+Accumulatio Akkumulation Worthäufung
+Webtext Internettext Online-Text
+Anthropomorphismus Vermenschlichung
+Zunfttruhe Zunftlade Amtslade
+Willkommpokal Willkomm Willkommen Willkommbecher
+Koordinatenreferenzsystem Koordinatenbezugsystem
+Referenzsystem Bezugsystem
+Geozentrum Erdmittelpunkt
+Kehrwoche Flurwoche
+Koralpe Koralm
+Speick Speik
+Speik-Lavendel Gewürz-Lavendel
+Alpenaurikel Aurikel Alpenschlüsselblume
+Gleinalpe Gleinalm
+Archäoastronomie Paläoastronomie Astroarchäologie Ethnoastronomie
+Schadenszauber Wodu-Zauber Voudou-Zauber Voodoo-Zauber
+Defixion Fluchtafel
+Taubenhaus Taubenschlag
+Hexensabbat Teufelstanz
+Teufelstanzplatz Hexentanzplatz
+Bedienerfehler Bedienungsfehler Bedienfehler
+internieren festsetzen
+Hämatophobie Blutphobie
+Felsmechanik Gebirgsmechanik
+Vorne-kurz-hinten-lang-Frisur Vokuhila
+Trajekt Eisenbahnfährverbindung Eisenbahnfährlinie
+Seegatt Seegat
+Vorreiter Vorhut Speerspitze Vorkämpfer Avantgarde
+Umlaufwasser Kreislaufwasser
+Heizung/Kühlung Temperierung
+hyalin klar durchscheinend glasig transparent glasartig
+Obsidian Glas
+gleichgestaltig isomorph
+Hausarrest Stubenarrest
+Realpolitiker Realo
+Verbindungsstürmer Verbinder Halbstürmer
+Polarisation Polarisierung
+Achsenzylinder Axon Neuraxon
+Markscheide Myelinscheide
+Axonende Synapsenendknöpfchen Axonterminale
+Neuron Nervenzelle
+Tannin-Verfahren Tannin-Prozess Tannin-Trocken-Kollodiumverfahren
+Schubfachprinzip Taubenschlagprinzip
+Trassenband Trassenwarnband
+Lichtbogenlöschkammer Funkenlöschkammer Deionisations-Kammer Deionkammer
+Lasttrenner Lasttrennschalter
+Verkehrsflugzeug Verkehrsmaschine
+Linienflugzeug Linienmaschine
+Geschäftsreiseflugzeug Geschäftsflugzeug
+Geschäftsreiseflugverkehr Geschäftsflugverkehr
+Luftverkehr Flugverkehr
+Bodenkampfflugzeug Schlachtflugzeug Erdkampfflugzeug
+Jagdbomber Jabo
+Waterjetantrieb Wasserstrahlantrieb Pumpjetantrieb Pumpenstrahlantrieb Jetantrieb
+wandernd migratorisch
+Propellergondel Pod-Antrieb
+Monty-Hall-Dilemma Drei-Türen-Problem Ziegenproblem Monty-Hall-Problem
+Küchenbrigade Küchenpersonal
+Umwelttechnik Umweltschutztechnik
+Pritzker-Architektur-Preis Pritzker-Preis
+Militärpflicht Wehrpflicht
+Kirchenbuch Rodel Kirchenmatrikel Rödel Kirchen-Matriken
+Taufbuch Taufregister
+Neptunstaufe Äquatortaufe Linientaufe
+Chicorée Schikoree
+unförmig wuchtig ungefüge klotzig klobig
+Gezweige Geäst Astwerk Gezweig
+2-mal zweimal
+dreimal 3-mal
+4-mal viermal
+5-mal fünfmal
+Teilzeitangestellter Teilzeitmitarbeiter Teilzeitkraft Teilzeiter Teilzeitbeschäftigter Teilzeitarbeiter
+kolportieren hausieren
+Mussau-Inseln St.-Matthias-Inseln
+Mussau Prinz-William-Henry-Insel
+Aviatik Flugkunst
+Paarzerstrahlung Paarvernichtung
+Digger Goldgräber Goldschürfer
+Älterwerden Altwerden
+Schraubenziege Markhor
+Heilbad Spa Kurbad
+Spanisch Kastilisch
+Glutenunverträglichkeit Glutenintoleranz Glutensensitivität
+Auswahl Anthologie Spicilegium Zusammenstellung Florilegium Auslese Blütenlese Textsammlung Sammlung
+Doppelgipfel Zwillingsgipfel
+Vielfraß Bärenmarder Gierschlund Järv Giermagen Gierling
+Linientaktik Schlachtreihe Lineartaktik
+Schlachtenplan Schlachtordnung
+Kesselschlacht Umfassungsschlacht
+Kantonssystem Kantonsystem Kantonreglement
+Histaminkopfschmerz Bing-Horton-Neuralgie Cluster-Kopfschmerz Erythroprosopalgie
+Fleischgericht Fleischspeise
+Personaler Personalist
+Nießbrauch Nutzniessung Fruchtgenussrecht
+Ostbelgien Deutschbelgien Deutsch-Belgien Neubelgien
+Einheitsstaat Zentralstaat
+Rippstrom Trecker Rippströmung Brandungsrückstrom
+Mikrofonsystem Mikrofonanordnung
+Mikrofonie Mikrophonie
+Komandorski-Inseln Kommandeurinseln
+Holledau Hallertau Hollerdau
+Methanol Holzalkohol Methylalkohol
+Ampelweibchen Ampelfrau Ampelmädchen
+Ampelmännchen Ampelmann
+Oder-Donau-Kanal Donau-Oder-Kanal
+Fußschelle Fußfessel Fußeisen
+Dielenfußboden Riemenboden Schiffboden Dielenboden
+Bohle Pfosten
+Stahlstich Siderographie
+Prorektor Vizerektor
+Helmdach Helm Turmhelm Dachhelm
+bigraphisch bigrafisch
+vorgeordnet vorrangig übergeordnet höhergestellt vordringlich vorgesetzt hochrangig hochwohlgeboren
+hochtrabend hochtönend hochgestochen großtönend
+Biograph Biograf
+abgeblüht verblüht
+Shoppingcenter Einkaufsmarkt
+Hauptspeise Hauptgericht Hauptgang
+Beglückwünscher Glückwünschender Gratulant
+Serienmörder Serienkiller
+Pontier Pontusgrieche Pontosgrieche
+Kooperationswettbewerb Koopkurrenz Coopetition
+Militärdiözese Militärordinariat
+Hexeditor Hex-Editor
+Astrograph Astrograf
+Personalentscheidung Stellenbesetzung Personalangelegenheit Personalie
+Theaterschauspieler Bühnenkünstler
+vorher eher davor zuvor vordem vorher früher
+ehe bevor eh
+bereits lange längst schon
+wirklichkeitsfremd illusorisch Wunschdenken lebensfremd illusionär utopisch irreal unrealistisch realitätsfremd
+Kichererbse Felderbse Venuskicher
+Fernsehfilm Fernsehproduktion Fernsehspiel
+Stahlflechten Rödeln
+aushäusig unterwegs abwesend weg ausgeflogen
+trotz unbeschadet entgegen unbenommen ungeachtet
+Extremist Radikaler Fundamentalist
+Teamplayer Teamworker
+Nestflüchter Ausreißer
+Träumer Fantast Idealist Schwärmer Utopist Phantast Romantiker
+Scheinwerferkegel Lichtkegel
+Obolus Peanuts
+Tribut Zwangsbeitrag Steuer Zwangsabgabe
+Abgeltungsteuer Abgeltungssteuer
+Dickmacher Kalorienbombe Hüftgold
+Geborgensein Nestwärme Umhegtsein
+Lovestory Liebesroman
+Streckbett Folterbett
+Konfliktscheu Konfliktvermeidung Harmoniesucht
+Schneerutsch Lawine Schneelawine
+Sichtachse Perspektive
+Papierabfälle Altpapier Papierabfall Makulatur
+Erwerbung Akzession Zugang Neuzugang
+Gebrauchtbuchhandel Antiquariat
+Rückläufer Remittende Remittendenexemplar
+Einstampfung Vernichtung Makulation Makulierung
+Wabenhotel Schließfachhotel Sarghotel Kapselhotel
+startbereit startklar
+revidieren ändern überholen abändern korrigieren überarbeiten
+Bier-Bike Bierbike
+Nichtfiktionales Faktuales Nichtfiktion Non-Fiction
+Fantasiestaat Scheinstaat Mikronation
+katzenartig katzenhaft
+Amt Ortsvermittlungsstelle Teilnehmervermittlungsstelle Wählamt Fernsprechvermittlungsstelle Endvermittlungsstelle
+Präsidialsystem Präsidialregime
+Raugewicht Bruttogewicht Schrot Rauhgewicht
+Kaperschiff Kaper
+Landreform Bodenreform
+Ferienwohnrecht Wohnnutzungsrecht Timesharing Teilzeiteigentum Teilnutzungsrecht Teilzeitwohnrecht
+Panegyricus Panegyrikos Panegyrikus
+Siegfriedlinie Siegfriedstellung
+Feuerpause Waffenruhe
+Alt-Achtundsechziger 68er Altachtundsechziger Alt-68er
+68er-Bewegung Studentenbewegung Protestbewegung Studentenunruhen
+Einbürgerung Naturalisation Nostrifikation Nationalisierung
+Wasserrübe Räben Krautrübe Stoppelrübe Ackerrübe Herbstrübe
+Rübsaat Rübsamen Rübsen
+Proviant-Magazin Körnermagazin
+Zielballistik Endballistik Terminalballistik
+Tennisball-Wurfmaschine Ballmaschine Ballwurfmaschine Tenniswurfmaschine
+Kniephänomen Patellarreflex Quadricepsdehnungsreflex Patellarsehnenreflex Quadrizepsreflex Kniesehnenreflex
+Extensor-digitorum-Reflex Braunecker-Effenberg-Reflex Fingerstreckreflex
+Masseter-Temporalisreflex Unterkieferreflex Masseterreflex
+Unterkiefer Kinnlade
+Pronationsreflex Pronatorenreflex
+Radiusperiostreflex Brachioradialisreflex
+Taschenmesserreflex Trizepssehnenreflex
+Rossolimo-Reflex Zehenbeugereflex
+Ehrverletzung Ehrdelikt Ehrverletzungsdelikt
+aussperren ausschließen
+genierlich verschämt verlegen gschamig betreten
+randständig abgehängt marginalisiert
+Unihockey Floorball
+Geringverdiener Minijobber
+cremeweiß weißlich eierschalenweiß gelblich-weiß altweiß
+Prüfungsausschuss Prüfungskommission
+Wirbelringstadium Vortex-Ring-Stadium
+gefallsüchtig narzisstisch kokett eitel
+Stalagnat Sintersäule
+Speläothem Höhlenmineral
+Affenjäckchen Affenjacke
+Fusionsreaktor Kernfusionsreaktor
+Oszillation Schwingung
+Verschwiegenheitspflicht Schweigepflicht
+Code Kode
+Mauswiesel Hermännchen Kleinwiesel Zwergwiesel
+Stadtquartier Quartier Wohnviertel Stadtviertel Stadtgeviert Quartal Viertel
+Fahrradkurier Velokurier
+Sozialgeheimnis Sozialdatenschutz
+versteinert roboterhaft maskenhaft starr ungerührt erstarrt reglos unbewegt regungslos emotionslos ausdruckslos
+Zweirichtungsstraße Gegenverkehrsstraße
+Überholung Überholen Überholvorgang
+Altgläubiger Altorthodoxer
+West-Turkestan Russisch-Turkestan Sowjetisch-Mittelasien
+Dekabrist Dezembrist
+Ost-Turkestan Chinesisch-Turkestan
+Schwanzlosigkeit Anurie
+Abbild Ebenbild Doppelgänger Klon Abziehbild
+Double Ersatzdarsteller
+Ersatzidentität Avatar Zweitidentität Kunstfigur
+tauschen kaupeln handeln
+Haushaltungsvorstand Haushaltsvorstand Ernährer Versorger
+Steigungsregen Stauregen
+Arbeitspunkt Betriebszustand Betriebspunkt
+Kennfeld Kennlinienfeld
+Mikrosystemtechnik Mikrosystemtechnologie
+Kompaktleuchtstofflampe Energiesparlampe
+uniformiert livriert
+Laufzeitumgebung Ablaufumgebung Ausführungsumgebung
+Tokenizer Lexer
+Zeremoniar Zeremonienmeister
+Eventmanager Veranstaltungsfachmann Veranstaltungskaufmann
+Hochzeitsplaner Wedding-Planner
+Wachsfigurenkabinett Panoptikum
+Panoptikum Wunderkammer Kuriositätenkabinett Raritätenkabinett
+Megacity Megastadt
+richtungsweisend programmatisch
+Konkurrenzkampf Eifersüchtelei
+Frontansicht Fassade Schauseite Vorderansicht Front Vorderseite Exterieur
+Krawallmacher Randalierer Ruhestörer Unruhestifter Schreihals Radaubruder Krawallant Gewaltbereiter
+Erfolgsgeschichte Erfolgsstory
+Richten Filmmontage
+Matrix Matrixautomat
+Kaschierung Kasch
+Bildwand Leinwand Projektionswand
+Umrolltisch Umspultisch
+Familienvorstand Familienoberhaupt
+Reinbestand Monokultur
+Waldreservat Bannwald Naturwaldreservat
+Freiberufler Selbstständiger
+Ausstand Abschiedsfeier
+Staatsräson Staatsraison
+Geheimpolitik Arkanpolitik
+Gemeinschaftsentzug Meidung
+verbittert frustriert vergrämt
+Niederbayern-Straubing Niederbayern-Straubing-Holland Bayern-Straubing Bayern-Straubing-Holland Straubing-Holland
+Kinderaufbewahrung Kinderparadies
+Freundlichkeit Interesse Zugewandtheit Anteilnahme Wertschätzung Aufmerksamkeit
+Sorgeberechtigter Betreuer Vormund
+Pfarrbezirk Kirchspiel
+Lagerverkauf Outlet-Store Fabrikverkauf Werksverkauf
+Großreinemachen Kehraus
+Schulsystem Schulwesen
+abwechselnd nacheinander reihum einzeln
+Population Grundgesamtheit Kollektiv
+Merkmalsträger Untersuchungseinheit Erhebungseinheit
+Teilerhebung Stichprobenerhebung Stichprobenziehung
+Totalerhebung Vollerhebung
+Zusammenhangsmaß Assoziationsmaß
+ANOVA Varianzanalyse
+Faktor Prädiktorvariable Regressor Einflussvariable
+Nyasasee Malawisee
+Paarungsbereitschaft Brunst Brunft
+übergeben anspielen abgeben passen abspielen zuspielen
+Hungergefühl Appetit Esslust Hunger
+Gefräßigkeit Fressgier Fresssucht
+Widergänger Wiedergänger
+Stabdiagramm Barplot Säulendiagramm Balkendiagramm
+Intervallskala Einheitenskala
+Übereinstimmung Entsprechung Konkordanz
+Ordinalskala Rangskala
+Proportionalskala Ratioskala Verhältnisskala Absolutskala
+Signifikanzniveau Irrtumswahrscheinlichkeit Vertrauensniveau
+Gruppenkontrolle Gruppenwechsellogik Gruppenwechselverarbeitung
+Kohlrübenwinter Steckrübenwinter Hungerwinter
+Burgfriedenspolitik Burgfrieden
+imitierend imitativ nachahmend
+Versatzstück Bruchstück
+Handelsformat Betriebsform
+Supermarkt Vollsortimenter
+Chipentwicklung Chipentwurf
+aufstehen aufschnellen erheben aufspringen aufrichten
+unausgegoren sturzgeboren unausgereift Schnellschuss
+realisieren erfüllen
+halb- semi-
+Kreuzproduktverhältnis Chancenverhältnis Odds-Verhältnis Quotenverhältnis
+Überflieger Ausnahmetalent Wunderkind
+Paraskevedekatriaphobie Paraskavedekatriaphobie
+Schlag Prüfung Geißel Heimsuchung Schicksalsschlag
+Modus Modalwert
+Wahrscheinlichkeitsdichtefunktion Wahrscheinlichkeitsdichte Dichte Dichtefunktion
+zusammenfahren zusammenzucken
+Kanaanäer Kanaaniter
+hochkommen hochkämpfen hochrappeln hinstellen aufstehen
+Schmeckknospe Geschmacksknospe
+Leberpfortader Pfortader
+Leberepithelzelle Hepatozyt Leberzelle
+Hämochromatose Eisenspeicherkrankheit Siderophilie Hämosiderose
+Stoffwechselanomalie Stoffwechselstörung
+Glykogenspeicherkrankheit Glykogenose
+Keitelkahn Kurenkahn
+Parzen-Fenster-Methode Kerndichteschätzung
+Winkelgeschwindigkeit Drehgeschwindigkeit Rotationsgeschwindigkeit
+Leerzeiger Nullzeiger
+Einkoten Enkopresis
+wild verwildert scheu ausgewildert
+Stress Nervenanspannung
+Tympanon Tympanum
+Tempelgiebel Dreiecksgiebel
+Gläubigentaufe Glaubenstaufe
+Sömmerung Sömmern
+Pannoniabahn Leithagebirgsbahn
+Atomwaffentest Kernwaffentest Nuklearwaffentest
+Negativbeispiel Horror-Beispiel
+modellhaft idealtypisch prototypisch
+Vorab-Exemplar Versuchsmodell Prototyp Erlkönig
+Nominalisierung Hauptwortbildung Substantivierung
+Magazin Magazinsendung
+Kulturjournal Kulturmagazin
+Montagsauto Zitronenauto
+Paganismus Heidentum
+Nösnerland Nösnergau
+Einheitsdampflokomotive Einheitslokomotive
+Lokalkolorit Stadtbild Straßenbild
+Wertekontext Wertehintergrund Wertehorizont Wertekanon
+durchgehend 24/7 permanent
+Sippenselektion Verwandtenselektion
+Donauniederung Donautiefland
+immerzu fortgesetzt immerfort unablässig permanent unverwandt unterbrechungsfrei fortlaufend beständig ununterbrochen andauernd dauernd durchgehend fortwährend durchgängig pausenlos ständig
+tatendurstig tatkräftig energiegeladen
+Belegschaftsstärke Personaldecke Personalausstattung
+Muster Trick Nummer Vorgehensweise Pose Tour Masche Spiel
+unliebenswürdig ungalant ungefällig unzuvorkommend uncharmant
+Katechese Glaubenszeugnis Homilie Message
+Lebenskrise Sinnkrise
+Erfahrungspotenzial Erfahrungen Erfahrungsschatz Erfahrungshintergrund
+Modulationsrate Symbolrate Schrittgeschwindigkeit Baudrate
+Patchpanel Patchfeld Rangierfeld
+Patch Rangierung
+Patchkabel Rangierkabel
+Impulsgenerator Marx-Generator
+Fieberträume Phantasterei
+Augenkontakt Blickkontakt
+peripartal perinatal
+Stehaufmännchen Stehaufmanderl
+UEFA-Fünfjahreswertung UEFA-Koeffizient
+Chromosomenanomalie Chromosomenaberration
+Fließgrenze Streckgrenze
+Mineralölsteuer Energiesteuer
+Verbrauchsteuer Verbrauchssteuer
+Verschanzung Schanzkleid
+Progerie Progeria
+Weber-Cockayne-Syndrom Neill-Dingwall-Syndrom Cockayne-Syndrom
+Mikrozephalie Mikrocephalie
+Führungsebene Führungskräfte Führungsetage Führungsstab Chefetage
+Testversion Demoversion Demo
+Druckstoß Wasserhammer
+kopiert nachgebaut abgekupfert
+Generikum Nachahmerpräparat
+bundesweit deutschlandweit
+Spannmittel Spannvorrichtung Spannsystem
+Futter Dreibackenfutter
+Futter Vierbackenfutter
+Schleifer Schleifscheibe Schleifmittel Trennscheibe Schleifkopf
+Brotzeit Jausenbrot Vesperbrot Pausenbrot
+verwöhnen pampern
+vollbesetzt ausgebucht
+überbelegt überbucht
+Dea Matres Matrae Matrone Deae
+Wellenlauf Sinuslauf
+Tournee Gastspielreise
+Wandergeselle Wanderbursche
+Freiborddeck Vermessungsdeck
+Deck Schiffsdeck
+Plimsoll-Marke Freibordmarke
+Individuallösung Individualsoftware
+Halbvokal Sonant Gleitlaut Semivokal
+Distanzhandel Fernabsatz Versandverkauf Mailorder Versandhandel
+Saisonausverkauf Saisonschlussverkauf Saisonverkauf
+stickig unbelüftet miefig ungelüftet dumpfig vermieft
+metastasieren absiedeln streuen
+Axishirsch Chital
+vornehm elegant fein nobel distinguiert
+Spannweite Spanne Korridor Bandbreite
+Bermudadreieck Teufelsdreieck
+Bekanntheit Prominenz
+klar scharf regelmäßig gestochen
+spuken irrlichtern geistern herumspuken
+berechenbar rekursiv
+Maßregelvollzug Forensik
+Einsatzhorn Martin-Horn Martinshorn
+Rundumleuchte Rundumkennleuchte
+Teilbetrag Quote Rate Anteil
+bar eitel pur schier lauter blank reinste total rein bloß
+Sekundärvermarktung Zweitvermarktung
+Hörbuchfassung Audiobuch Hörbuch Audiobook Hörbuchausgabe
+Buchtitelzeichen Buchtitelinterpunktionszeichen
+zubilligen zuerkennen zugestehen einräumen konzedieren erlauben gestatten anerkennen
+Turing-Bombe Turing-Welchman-Bombe Welchman-Turing-Bombe
+Reien Reihentanz Reihen Reigen
+Sentientismus Pathozentrismus
+Kaar Kar Kahr
+Bauernregel Bauernweisheit Wetterregel Wetterspruch
+Reimlexikon Reimwörterbuch
+Vertriebsmitarbeiter Vertriebler
+Fremdwörterbuch Fremdwörterlexikon
+Lehnwort Entlehnung
+Captcha Mensch-Maschine-Unterscheidung
+Charme Anziehungskraft Reiz Flair Liebreiz Zauber
+Hafenpromenade Uferpromenade Strandpromenade Seepromenade
+Totschläger Schlagetot
+Vier-Augen-Kontrolle Vier-Augen-Prinzip
+Maternität Mutterschaft
+Paternität Vaterschaft
+Spinalstenose Spinalkanalstenose
+Jagiellonen-Universität Jagellonen-Universität
+Waggon Wagon Eisenbahnwagen
+Turnierform Turnierformat Turniermodus
+Generalatshaus Generalhaus Generalkurie Generalat
+Bilgewasser Kieljauche
+Forellenfisch Lachsfisch Salmonide
+Anspielung Wortspiel
+Tunguska-Asteroid Tunguska-Ereignis Tunguska-Explosion
+Ewenken Tungusen Evenki
+Verteilung Roll-out Rollout
+Retardation Kriechen
+Gynäkotropismus Gynäkotropie
+Bachergebirge Bacherngebirge Bachern
+Beuschel Peuschel
+Resonanz Resonanzstruktur Mesomerie
+Mesomeriepfeil Resonanzpfeil
+Zönobitentum Koinobitentum Coenobitentum
+Wertebereich Wertemenge
+Wertevorrat Zielmenge
+Verödung Sklerotherapie
+Seidenspinner Maulbeerspinner
+Serikultur Seidenbau
+Glaubersalz Natriumsulfat
+Käfigzugklemme Federzugklemme Käfigklemme Federkraftklemme
+Bürgerort Heimatort
+Tribalismus Stammestum
+Gasmangelventil Gasmangelsicherung
+Klickzähler Handzähler Klicker Schusszähler Personenzähler Counter
+Zählstab Kerbstock Zählholz Kerbholz
+Mindestreserveverpflichtung Mindestreserve
+Zentralnotenbank Notenbank Zentralbank
+konspirieren verschwören
+Histrier Istrier
+Campingbus Wohnmobil Wohnmotorwagen Reisemobil
+Abgabefrist Lieferfrist
+Versäumnisurteil Versäumungsurteil
+Metadaten Metainformationen
+Neuemission Neuausgabe
+Imageverlust Imageschaden Ansehensverlust
+Frontmann Sturmspitze
+Ablenkungsmanöver Störfeuer
+Blankoverkauf Leerverkauf
+WSV Winterschlussverkauf
+SSV Sommerschlussverkauf
+Lichtblick Hoffnungsstrahl Hoffnungsschimmer
+Hoffnungsschimmer Hoffnungsfunken Hoffnungsfünkchen
+Gastarbeiter Wanderarbeiter Fremdarbeiter Arbeitsmigrant
+2-Mark-Stück 2-DM-Münze Zwickel 2-DM-Stück Zweimarkstück
+maisblond semmelblond goldfarben goldglänzend goldblond blondgelockt blond golden gülden hellhaarig
+weißblond wasserstoffblond platinblond hochblond silberblond
+lichtblond strohblond weizenblond flachsblond hellblond
+honigfarben honigblond mittelblond
+schuldunfähig unzurechnungsfähig
+unbeholfen umständlich unpraktisch
+Oberbau Gleiskörper
+Gleisbett Schienenbett
+Raumzeit Raum-Zeit-Kontinuum
+unverständig lernschwach ungelehrig lernbehindert
+Spätentwickler Spätzünder
+eintönig stumpfsinnig geisttötend gleichförmig einfältig tumb langweilig monoton stupide
+Chaotiker Chaot
+Ontogenese Ontogenie Individualentwicklung
+Hexhex Simsalabim Hokuspokus Abrakadabra
+Moskowien Muskowien
+Stiefo Stiefografie
+Litwinow-Protokoll Ostpakt
+Degaußer Entmagnetisierer Degausser
+Hausmütterchen Nur-Hausfrau
+Gehorsamsverweigerung Befehlsverweigerung
+verkocht pampig zusammengebrötschelt zusammengebraut
+Haferschleim Haferbrei Hafersuppe
+Froschaugensuppe Sagosuppe
+Grießkoch Grießbrei
+Lignit Schieferkohle Xylit
+Turmbahnhof Etagenbahnhof
+Kriegstoter Kriegsopfer
+Aktionismus Betriebsamkeit Betätigungsdrang
+Faustrecht Gesetzlosigkeit
+Tingeltangel Variété Revuetheater Singspielhalle Kleinkunstbühne
+Revuegirl Revuetänzerin Showgirl Varietétänzerin
+Boxenluder Race-Queen Umbrella-Girl Paddock-Girl Grid-Girl Pit-Babe
+Hostess Messehostess
+Gegensatzpaar Antonyme
+Tänzerin Hupfdohle
+Balletttänzerin Balletteuse Tänzerin Ballerina
+Element Subjekt
+Habituation Gewöhnung Habituierung
+Häuserblock Karree Häuserblock Wohnblock
+Esslinger Zwieblinger
+Maria-Montessori-Schule Montessorischule
+auffallend arg erstaunlich unverhältnismäßig allzu furchtbar überaus ungebührlich ungewöhnlich unglaublich verdächtig verdammt sehr ungemein ausnehmend zu übertrieben unvergleichlich schrecklich
+staatstragend staatsmännisch
+krepieren verenden sterben eingehen
+durchbrennen verdampfen verglühen abschmieren durchknallen durchschmoren durchglühen abrauchen
+Hochliteratur Höhenkammliteratur
+Passionsfrucht Maracuja
+gedrungen bullig untersetzt stämmig kompakt
+Melezitosehonig Zementhonig
+Ausgangsstellung Grundstellung
+hauptverantwortlich hauptzuständig
+Trauerhalle Aussegnungshalle
+Grabkapelle Friedhofskapelle
+unkooperativ widerständig
+unsolidarisch unkooperativ unkollegial unkameradschaftlich
+hell sonnig sonnenbeschienen strahlend taghell
+Filmkritiker Filmrezensent
+Kulturschickeria Kultur-Schickeria
+Filmrezension Filmkritik Filmbesprechung
+einspeichern deponieren endlagern
+Umweltgift Sonderabfall Schadstoff
+Bibliothek Büchersammlung Bücherschatz Bücherbestand
+Lesehalle Lesesaal
+Präsenzbestand Handapparat Handbibliothek
+Aufnahmebereitschaft Aufgeschlossenheit Offenheit Zugänglichkeit Wachheit Interessiertheit
+schaubegierig schaulustig neugierig schaugierig voyeuristisch sensationssüchtig
+Paparazzo Paparazzi Skandal-Fotograf Paparazza
+seitdem solang seit solange
+wiederholt x-malig mehrfach mehrmalig
+offensichtlich augenscheinlich offenbar
+vorschicken vorschieben
+Verhandlungsführer Unterhändler Verhandler
+ungestraft straflos ungesühnt straffrei
+Milliardär Finanzmagnat Rockefeller Pfeffersack Reicher Krösus Finanzkapitalist Geldaristokrat Finanzgröße Millionär Superreicher Nabob Schwerreicher Geldsack
+einkommensstark Vielverdiener gutverdienend
+sorgenfrei sorglos unbesorgt unbeschwert glücklich
+Finanzaristokratie Geldadel
+versiert sattelfest routiniert fit sicher firm
+Terrassenöfen Feuerkorb Feuerstelle Feuerschalen
+Hafenarbeiter Stauer Schauerleute Schauer Schauermann
+Packer Möbelpacker
+holen kommen einfahren erreichen
+ausstreuen verstreuen umherstreuen
+ausplaudern weitergeben verraten weitersagen weitererzählen herumerzählen herumtratschen weitertragen herumtragen
+Bewirtung Beköstigung
+Kenngruppenbuch Kenngruppenheft
+Halskrause Halskragen Schutzkragen Leckschutz
+Markierungsbomben Leuchtbomben Tannenbäume Christbäume
+harmlos unscheinbar unspektakulär farblos konturlos unauffällig
+Schlussbesprechung Manöverkritik Debriefing Nachbesprechung Auswertung
+Einweisung Kurzbesprechung Briefing Unterrichtung Einsatzbesprechung Lagebesprechung
+Kurzauswertung Debriefing
+Wortfindungsstörung Wortnot
+Ahaerlebnis Aha-Erlebnis
+Lesgier Lesginen Küriner
+Ruggericht Rügegericht
+Prozentanteil Prozentsatz Prozentzahl Quote
+herumjanken quaken herumquengeln janken knöttern quengeln
+zusammen total insgesamt
+Fünf-Prozent-Klausel Fünf-Prozent-Hürde
+forschen fahnden suchen stöbern
+Haustürverkauf Türverkauf
+Klinkenputzer Haustürverkäufer Türverkäufer Teilacher Hausierer
+Propagandist Straßenverkäufer Straßenhändler
+Ärztepropagandist Pharmaberater Ärzteberater Pharmareferent Ärztebesucher
+Erschießung Füsillade
+Vormittagsstunden Vormittag
+Frühnebel Morgennebel
+Weckuhr Wecker
+Kaltmangel Wäscherolle
+Walzbügler Bügelmaschine Heißmangel
+Morgenzeitung Morgenblatt
+Morgennachrichten Frühstücksnachrichten
+Frühstücksfernsehen Morgenmagazin
+Crossdresser Dragqueen Transi Ladyboy Transe Transvestit
+Umsetzungsstärke Umsetzungskompetenz
+Willenskraft Willensstärke
+Idealgewicht Normalgewicht
+Willensschwäche Akrasia Unbeherrschtheit
+Büfettdame Buffetdame Buffetière Büfettiere
+Aufzug Aufmachung Kostümierung Ausstaffierung Stil Gewandung Image Styling Outfit
+Ausnahmegenehmigung Sondergenehmigung Ausnahmeregelung
+Notaufnahmelager Auffanglager Flüchtlingslager Camp Sammellager Lager Flüchtlingscamp Vertriebenenlager
+Wohnheim Asyl Sammelunterkunft
+Umweltflüchtling Klimaflüchtling
+Etagenbett Stockbett
+Umsatzrendite Umsatzrentabilität
+Kampflesbe Butch
+Vollweib Prachtweib
+Zufallszahlengenerator Zufallsgenerator
+Proteinreinigung Proteinaufreinigung
+zuflüstern vorsagen soufflieren einblasen vorblasen
+lispeln anstoßen zuzeln hölzeln
+gurren flirten schmeicheln säuseln flöten
+Buiatrik Rinderheilkunde
+Tokologie Geburtshilfe Obstetrik
+Almöhi Alm-Öhi Alpöhi Alp-Öhi
+zugezogen hergezogen
+fortgezogen weggezogen
+etabliert bourgeois großbürgerlich
+Kleinbürgertum Mittelstand
+Oberschicht Großbourgeoisie
+Leidensgenosse Leidensgefährte
+vehement heftig scharf erbittert massiv verbissen
+archaisch uralt urtümlich
+Ostoberdeutsch Bairisch
+zahlbar fällig
+Verzugsbeginn Leistungszeitpunkt
+Befestigungsmittel Befestigungselement
+Niederländisch-Ostindien Niederländisch-Indien Insulinde
+Arbeiterbezirk Arbeitervorstadt Arbeiterviertel
+Urwahl Direktwahl
+Stechen Stichwahl
+Studentenparlament Studierendenparlament
+Marschinsel Hallig
+Neulandgewinnung Landgewinnung
+aussteigen abnabeln
+Greifvogelschau Greifvogel-Flugschau Freiflugvorführung
+Afterfühler Raife Cercus Afterraife Analraife
+Hirsch Knöck Pferdekuss Tschekapuff Eisbein Eisenbahner Schenkerl Boandl Schenkler
+bischöflich episkopal
+textuell textlich
+plattformunabhängig plattformübergreifend portabel
+Lebensstellung Dauerstellung
+Juwelier Bijoutier
+Cyberangriff Cyberattacke
+anspruchslos niveaulos Massenware
+Lavalampe Blubberlampe
+Madjobaum Schleimapfel Belbaum
+Endspurt Zielgerade
+Livesendung Live-Übertragung Direktsendung Direktübertragung Live-Sendung
+Wärmebildung Thermogenese
+Muskelstarre Rigor Muskelsteifheit
+gleichlaufend verhältnisgleich proportional
+gleichgerichtet gleichlaufend
+Zufall Zufälligkeit
+Unstern Unheil Unsegen Fluch Unglück Verhängnis Geißel
+Not Schwulibus Klemme Verdrückung Patsche Verlegenheit Schwierigkeit Bredouille Misslichkeit Notlage Tinte Bedrängnis Schwulität
+Aussichtslosigkeit Ausweglosigkeit Sackgasse Hoffnungslosigkeit
+Klatschtante Dorfratschn Klatschbase Tratschtante
+Couplet Kabarettsong Spottlied Kabarett-Chanson
+Song Popsong
+meistverkauft bestplatziert beliebtest
+Chanson Liedermacher-Song Lied
+Kunstmusik Klassik E-Musik
+Gehölzsammlung Arboretum
+Strauchanpflanzung Fruticetum
+Nadelgehölzsammlung Nadelgehölzpflanzung Pinetum Nadelgehölzanpflanzung
+Vibrafon Vibraphon
+Marimbaphon Marimba
+Fortepedal Haltepedal Dämpferpedal
+Harmoniepedal Sammelpedal
+Bindepedal Legatopedal
+Pianopedal Verschiebung Leisepedal
+Intonation Intonierung
+Partialton Teilton Oberton
+Grundton Grundfrequenz Grundschwingung
+Umbesetzung Revirement
+Karpaten Karpathen
+Rückfälligkeit Rezidivität Rückfallwahrscheinlichkeit
+After-Work-Party After-Business-Club
+Vernunftehe Zweckehe
+Schrittkette Ablaufsteuerung
+Tastenquäler Klimperer Tastenprügler
+Barpianist Salonpianist
+Fraktionschef Fraktionsvorsitzender
+Beeinträchtigung Läsur Riss Sprung Defekt Makel Knacks Schaden Beschädigung
+Fehlinvestition Flop
+Sondierung Sondieren
+Marinade Beize Lake
+beizen einlegen marinieren
+mariniert eingelegt
+Käuflichkeit Bestechlichkeit Korruptheit Verführbarkeit Korrumpierbarkeit
+Wiederholung Reprise
+Königskrabbe Kamtschatkakrabbe Monsterkrabbe
+Doku-Soap Dokusoap
+Wählergemeinschaft Wählergruppe Wählervereinigung Bürgervereinigung
+unbestimmt undefinierbar rätselhaft uneindeutig unbestimmbar
+unachtsam unaufmerksam unkonzentriert
+unstet flatterhaft unbeständig flippig sprunghaft
+nervlich nervös
+Lüftlmalerei Lüftelmalerei
+Glacé Glacee
+Labanzen Labantzen
+Chi-Rho Christusmonogramm Christogramm
+Kohlehydrierung Kohleverflüssigung
+Kinegram Kinegramm
+Kinoform Zonenlinse Fresnel-Zonenplatte
+Holographie Holografie
+Buchenlanddeutsche Bukowinadeutsche
+Risalit Avant-corps Avantcorps
+Arrierecorps Rücklage
+Büschelentladung Koronaentladung
+Goubot-Leitung G-Leitung Goubau-Leitung
+Thomas-Gilchrist-Verfahren Thomas-Verfahren
+LD-Verfahren Linz-Donawitz-Verfahren
+Puddelverfahren Flammofenfrischen
+Nesselstoff Rotkreuz
+Verweilzeit Verzögerungszeit Latenz Reaktionszeit Latenzzeit
+Küstenerosion Abrasion
+Lauffeldröhre Wanderfeldröhre
+Höhenforschungsrakete Forschungsrakete Höhenrakete
+angenehm willkommen ansprechend nett einladend gefällig
+gut menschlich gutmütig herzensgut gütig
+Grizzly Grislibär Grizzlybär
+schnell kurzfristig kurzzeitig zügig
+allegro vivace presto vivo
+Messerstecherei Stecherei
+Lautstärkeregler Lautstärkesteller
+Puffmutter Bordellchefin
+Villenviertel Villenkolonie
+Siedlung Wohnanlage Kolonie
+Zechensiedlung Zechenkolonie Zechenhaussiedlung Zechenhauskolonie Kolonie
+Wohngebäude Wohnhaus
+Weißenhofsiedlung Araberdorf
+Bauausstellung Architekturausstellung
+Regiopole Großstadt
+unübertrefflich unüberbietbar unschlagbar unübertreffbar
+Aufruhr Volkszorn
+Biowaffe B-Waffe
+Buh-Ruf Missfallenskundgebung Buhruf Protest Zuschauerprotest Gebuhe Verächtlichmachung
+Bildungswissenschaft Edukologie
+Reide Reite Räute
+ausgestalten ausschmücken hinzuerfinden anreichern
+speckig verspeckt blank abgewetzt blankgescheuert
+Traglastzahl Lastindex Tragfähigkeitsindex
+Gammakamera Anger-Kamera Szintigraph
+Schilddrüsenkarzinom Schilddrüsenkrebs
+Radiopharmazeutikum Radiopharmakon
+Hoheitsgewässer Territorialgewässer
+Kneipenprügelei Saalschlacht Wirtshausschlägerei Kneipenschlägerei Saalschlägerei Wirtshausprügelei Bierzeltschlägerei
+freudlos wurstig lustlos gelangweilt unengagiert wurschtig lieblos
+Scheuleder Augendeckel Blendklappen Augenklappen Blinkers Scheuklappen Schauleder
+Mussheirat Muss-Heirat
+Zwangsehe Zwangsverheiratung Zwangs-Verheiratung Zwangsheirat
+Feenpalast Märchenschloss Wolkenkuckucksheim Traumschloss
+gebührend geziemend schicklich schuldig geboten
+gerechtfertigt berechtigt legitim vertretbar verantwortbar
+Husse Überwurf Möbelbezug Überzug
+Kantendetektion Kantenextraktion
+Neutroneneinfang Neutronenanlagerung
+Erdbebenschwarm Schwarmbeben
+Hispanoamerika Spanischamerika
+Iberoromanistik Hispanistik
+Frankoromanistik Franzistik Französistik Franko-Romanistik
+Endverbraucher Privatkunde Endkunde
+Essraum Refektorium Speisesaal Speisezimmer Messe Esszimmer
+Massenschlägerei Massenprügelei
+Kampfschwimmer Froschmann Meereskämpfer
+Marinestützpunkt Marinebasis
+Militärflugplatz Fliegerhorst
+Verstärkerladung Booster Detonator Initialzünder
+Zündmittel Anzündmittel
+Romano-Ward-Syndrom Pseudohypokaliämie-Syndrom
+querschnittsgelähmt querschnittgelähmt
+XY-Tisch Kreuztisch
+Induktionslog Elektrolog
+Bogensekunde Winkelsekunde
+Antipanzerlenkwaffe Antipanzerrakete Panzerabwehrlenkwaffe
+Panzerschürze Seitenschürze
+Atomkraftmikroskop Rasterkraftmikroskop
+Spitzenübermikroskop Feldelektronenmikroskop Feldemissionsmikroskop
+Buchholz-Relais Buchholzschutz
+Auslösearbeit Austrittsarbeit Ablösearbeit
+Hilfsbedürftiger Bedürftiger Notleidender
+vertretbar verantwortbar
+Bogenpolygon Bogenvieleck
+Brandbrief Warnschreiben
+Traumgarten Gartentraum
+Blütenmeer Blütenfülle Blütenpracht Blütenrausch Blütenteppich Blütenparadies Blütenfeuerwerk Blütenreichtum Blütenfest Blütenzauber
+blumig unpräzise vage unverbindlich wolkig launig ungefähr
+Sitz Unternehmensstandort Standort Firmenstandort Betriebsstandort Firmensitz Unternehmenssitz
+Alarmismus Alarmstimmung Aufgeregtheit
+zusammenpanschen panschen pantschen zusammenschütten untermischen verpantschen verpanschen vermischen verschneiden zusammenpantschen
+praktizieren betreiben befleißigen wahren
+Investigativreporter Enthüllungsjournalist
+prämiert preisgekrönt ausgezeichnet
+GPS-Schnitzeljagd Geocaching GPS-Schatzsuche
+Desinvestition Devestition
+Sachinvestition Realinvestition
+Sideman Gastmusiker
+Frontfrau Solist Frontman Frontmann
+verkrustet verknöchert erstarrt
+Kompaktlader Bobcat
+Zwangsprostitution Sex-Sklaverei
+gespannt beeinträchtigt gestört angeschlagen belastet angespannt
+Jagdszene Jagdstück
+Moleküldynamik Molekulardynamik
+aufdringlich marktschreierisch reißerisch
+zugkräftig schlagkräftig verkaufsfördernd werbewirksam
+Unsicherheit Imponderabilität Unwägbarkeit Imponderabilien Unberechenbarkeit Unsicherheitsfaktor
+Karpato-Russinisch Ruthenisch
+Räderwerk Maschinerie Getriebe
+Kriegstreiberei Kriegshetze
+Wolfsrudeltaktik Rudeltaktik
+Aufwiegelung Aufhetzung Aufstachelung Hetzerei Hetze
+Verleumdungskampagne Hetzkampagne Scharfmacherei Stimmungsmache Kesseltreiben
+Tagebuch Memoire Diarium
+Kliffküste Abrasionsküste Abbruchküste
+Wehrerker Wurferker Pechnase Gusserker
+Morgengabe Brautgeschenk
+Onlinerecht Internetrecht
+Meistbegünstigtenklausel Meistbegünstigungsprinzip
+Tabelliermaschine Buchungsmaschine
+Pastel Färberwaid
+Frauenhurling Camogie
+Rotationsverfahren Rotationsprinzip
+durchfeiern durchmachen
+Nachtmusik Abendmusik Serenade
+Kampfbegriff Schlagwort Reizvokabel Kollektivsymbol
+letztwillig testamentarisch
+Lebensabschnittsgefährte Freund Lebenspartner Lebensgefährte Partner
+Jugendfreund Sandkastenfreund
+dazukommen hinzugesellen beteiligen zugesellen anschließen hinzukommen mitkommen mitgehen mitmachen
+handfest wasserdicht stichhaltig gesichert sicher belastbar
+Partnerschaft Bindung
+Lebensgemeinschaft Lebenspartnerschaft
+Lebenspartnerin Ische Beziehung Freundin Lebensgefährtin Alte Lebensabschnittsgefährtin Partnerin
+Elektrokrampftherapie Elektrokonvulsionstherapie
+Golfkriegssyndrom Balkan-Syndrom
+Kreuzbandriss Kreuzbandruptur
+Ligamentum Band
+bewältigen verwinden wegstecken überwinden verschmerzen verkraften
+Duldsamkeit Leidensfähigkeit
+Asternrevolution Herbstrosenrevolution
+Ungetaufter Nichtchrist
+Christenmensch Christ
+ergebnisorientiert erfolgsabhängig
+Kreissektor Kreisausschnitt
+Sweatshop Ausbeutungsbetrieb
+Packungsgröße Abfüllmenge Gebinde
+Falkengebirge Sterngebirge
+Kugelspinne Haubennetzspinne
+übereilt vorschnell voreilig übereilig
+flüchtig oberflächlich
+Waffenstillstandsvereinbarung Waffenstillstandsvereinbarungen Waffenstillstand
+Schlussabrechnung Schlussrechnung Endabrechnung
+betörend verlockend bestrickend berückend verführerisch unwiderstehlich verzaubernd
+umdenken überdenken
+Ehetragödie Beziehungsdrama
+Trennungsangst Verlustangst
+Familienzusammenführung Familiennachzug
+Windhundverfahren Windhundprinzip
+Schamlippenkorrektur Labioplastie Schamlippenplastik Labioplastik
+leiden kränkeln
+Drei-Schema-Architektur Drei-Ebenen-Schema-Architektur ANSI-SPARC-Architektur Drei-Ebenen-Architektur
+Schema Datenschema
+Wechselkoffer Wechselpritsche Wechselbrücke Wechselaufbau Wechselbehälter Wechselladebehälter
+Siebenherrschaft Heptarchie
+Flugbereichsgrenze Flugenveloppe
+Stillstand Erstarrung Bewegungslosigkeit Stagnation Starre
+Bauteil Gebäudeteil
+Fenster Fensterflügel
+US-amerikanisch amerikanisch
+anglo-amerikanisch angloamerikanisch
+Anglo-Amerika Angloamerika
+Depolarisierung Depolarisation
+Ruhemembranpotential Ruhepotential
+Stiefvater Adoptivvater Pflegevater Ziehvater
+Stiefmutter Vizemutter Pflegemutter Bonusmutter Ziehmutter Bonusmama
+Zieheltern Stiefeltern Pflegeeltern
+Pflegetochter Ziehtochter Stieftochter
+Pflegekind Stiefkind Ziehkind Pflegling
+Ziehmutter Mentorin Vorbild Förderin Lehrmeisterin Anleiterin
+aprikosenfarben apricot blassorange
+alle sämtliche
+Geschäftszeit Hauptzeit
+Nebenzeit Freizeit
+Konfiszierung Vermögenseinzug Expropriation Konfiskation Enteignung Verstaatlichung
+ersäufen ertränken
+liquidieren ausschalten eliminieren neutralisieren terminieren
+Salmonellose Salmonellenenteritis Salmonelleninfektion
+Gesundheitsentstehung Salutogenese
+selbst fleischgeworden Verkörperung lebend Personifikation personifiziert Leibwerdung wandelnd
+Faltung Konvolution
+Distanzsensor Abstandssensor Wegaufnehmer
+gemischt mischfarbig meliert Mischfarbe
+getupft betupft großfleckig
+Panter Schwärzling Melano Panther
+Sturmhaube Hasskappe Sturmmaske Balaklava Skimaske Schlupfmütze Balaclava
+Koalitionsvereinbarung Koalitionsvertrag
+Belastungstest Stresstest
+Territorialstreit Gebietsstreit Territorialkonflikt Gebietsstreitigkeiten Territorialstreitigkeiten
+Demonstration Illustration Veranschaulichung
+einflüstern suggerieren nahelegen
+Okkultationsmethode Radio-Okkultation
+Herkulesaufgabe Jahrhundertaufgabe Jahrhundertprojekt
+unfassbar unglaublich unfasslich
+Schlagstock Erziehungshelfer Stecken Rohrstock Züchtigungsinstrument
+Lebenssituation Verhältnisse Lebensumstände Situation
+mattsetzen besiegen ausschalten erledigen
+Reiter Berittener Reitersmann
+Rennreiter Jockey
+Eskadron Schwadron
+Tricksammlung Trickkiste
+verschwägert angeheiratet
+Au-pair-Mädchen Haustochter
+Patin Taufpatin Patentante
+Kornmuhme Roggenmuhme
+Bandpass Bandbreitenfilter
+Klarinettistin Klarinettenspielerin
+Kohyperonym Synhyperonym
+Quintillion Quinquillion
+Quintilliarde Quinquilliarde
+Zitronensäure Citronensäure
+Zwölfersystem Duodezimalsystem
+Vigesimalsystem Zwanzigersystem
+Ordinalzahl Wohlordnungstyp
+Kardinalzahl Mächtigkeit Kardinalität
+Frauenrechtsbewegung Frauenbewegung
+Rückerwerb Wiederkauf Rückkauf
+rasend rasant irrsinnig wahnsinnig höllisch irre atemberaubend
+ehrenvoll ehrenhaft würdevoll
+Rückführung Wiedererlangung Rückübertragung Rückabwicklung
+Redseligkeit Gesprächigkeit Redebedürfnis Mitteilungsbedürfnis Mitteilsamkeit
+Blattnummerierung Foliierung
+Missstand Misere
+Auswüchse Missstände
+Leitungsverteiler Kabelabzweiger Stromdieb
+Japanmakak Schneeaffe Rotgesichtsmakake
+Unpaarzeher Unpaarhufer
+Moschusochse Bisamochse Schafsochse
+Brillenbär Andenbär
+Kernkraftgegner Atomkraftgegner Atomgegner
+Voidkoeffizient Kühlmittelverlustkoeffizient Dampfblasenkoeffizient
+Schiffziehen Treideln Bomätschen Halferei Recken
+Kommandosprache Befehlston Kasernenhofton
+Burmesisch Birmanisch
+Sauberkeitsfanatiker Putzteufel
+Stimmungstest Meinungsbild
+Rumpfbeuge Aufrichter Sit-up Rumpfheben
+busenfrei barbusig
+missbräuchlich unerlaubt
+Überlaufbecken Auffangbecken
+Audienz Empfang
+Insulin Inselhormon Insulinhormon Insulinum
+Betrachtung Betrachten Hinsehen Augenschein
+real leibhaftig
+Fläschchen Flakon Pülleken
+Zusammenschlusskontrolle Fusionskontrolle
+um weil
+drahtig sehnig
+gertenschlank rank schlank superschlank
+Nachkommenschaft Kindersegen Nachwuchs Zuwachs
+weißhaarig weiß schlohweiß
+Lokalposse Schildbürgerstreich
+Klatsche Pritsche Narrenpritsche
+Bahnreisender Zugpassagier Bahnkunde
+Flugpassagier Pax Fluggast
+Notensatzprogramm Notenprogramm Notationssoftware
+Entfernungsgesetz Abstandsgesetz
+Entspannungstechnik Entspannungsmethode Entspannungsverfahren
+Lithostratigraphie Lithostratigrafie
+Öffnungsklausel Abdingbarkeit
+produzierend gewerblich
+ominös legendär vielzitiert sprichwörtlich vielbeschworen
+Neuorganisation Umgestaltung Neuaufstellung Umbildung
+Firmenretter Sanierer
+Radikalmaßnahme Rosskur
+Bruss-Strategie Odds-Strategie Bruss-Algorithmus
+Orthonym Realname Klarname
+taktlos unsensibel ruppig undiplomatisch schroff
+ruppig poltrig bollerig polterig polternd
+Dreharbeit Dreh
+Hundert-Euro-Schein Hunderter Hunni
+Fünfzig-Euro-Schein 50-€-Schein Fünfziger Fuffi
+Fünf-Euro-Schein Fünfer
+Zwanziger Zwanni 20-Euro-Schein Zwanzig-Euro-Schein
+Geldsumme Geldbetrag
+Bader Stübner
+Badehaus Badhaus Stoben Stube Badestube
+Diäten Abgeordnetenbezüge
+Provinztheater Wandertheater Schmiere
+Justizblamage Justizposse Justizskandal
+Industriekapitän Großindustrieller Magnat Tycoon Mogul Oligarch Schlotbaron
+Medienmogul Medienzar Medien-Tycoon
+Bonze Parteifunktionär Apparatschik
+Parteikader Parteisoldat
+Wucherer Kredithai Geldhai
+Investmentbanking Investmentgeschäfte
+Rückübernahmeabkommen Rücknahmeabkommen Rückführungsabkommen
+Landesverweis Ausweisung
+Morsealphabet Morsezeichen Morsekode Morsecode
+ausgewiesen anerkannt nachweislich
+nachgewiesen dokumentiert bescheinigt
+Vertreibung Massenvertreibung
+Tek-Tauchen Tec-Tauchen
+Deko-Tabelle Austauchtabelle Dekompressionstabelle
+Deko-Zeit Dekompressionszeit
+Dekompressionsstopp Deko-Stopp
+Stickstoff-Narkose Tiefenrausch Inertgas-Narkose
+Kraulen Kraulschwimmen
+Schwimmflosse Fußteilflosse Badflosse Schwimmbadflosse
+Geräteflosse Fersenbandflosse
+Atemregler Automat Lungenautomat
+Presslufttauchgerät Drucklufttauchgerät
+Taucherlampe Tauchlampe
+Tauchmaske Tauchbrille Druckausgleichsmaske Taucherbrille Tauchermaske
+Tauchseil Tauchleine
+Taucherfahne rot-weiße-Flagge Alphaflagge Alpha-Wimpel Gerätetaucherflagge Taucherflagge
+Person-über-Bord-Manöver Mensch-über-Bord-Manöver Boje-über-Bord-Manöver Mann-über-Bord-Manöver
+Beichte Bußsakrament
+habilitiert habilitatus habil.
+Gabelstaplerschein Flurfördermittelschein Staplerschein
+Staatsexamen Staatsprüfung
+mutterrechtlich matriarchalisch frauendominiert
+gebieterisch durchsetzungsfähig herrisch autoritär durchsetzungsstark
+Fügsamkeit Folgeleistung Folgsamkeit Gehorsam Gehorsamkeit
+Artigkeit Bravheit
+Subordination Sich-Unterstellen Unterordnung Sich-Unterwerfen
+brandschatzen zündeln abfackeln
+Überschneidungen Gemeinsamkeiten Übereinstimmungen Berührungspunkte
+Sinngemäßes Dementsprechendes Ähnliches Vergleichbares Entsprechendes
+Gebietsabtretung Gebietsverlust
+Kürzel Namenskürzel Namenszeichen Paraphe
+Drogenbaron Drogenproduzent Drogenboss
+Leuteschinder Menschenschinder
+Sadist Menschenquäler
+bedächtig langsam ruhig geruhsam
+näherrücken heranrücken näherkommen herannahen nahen heraufziehen nähern
+Soldatin Flintenweib
+Dichtewelle Kompressionswelle Druckwelle Verdichtungswelle
+Fernsehmann Fernsehfritze Fernsehmacher Fernsehjournalist
+Tschuktschen Luoravetlanen
+Floatglasverfahren Floatprozess
+niederreißen abtragen schleifen
+Rufmordkampagne Hexenjagd Schmutzkampagne Diffamierungskampagne
+Expansionsventil Drosselventil
+Kluft Ungleichheit Einkommensunterschiede
+Atomwaffenkonvention Nuklearwaffenkonvention
+Prügelbock Strafbock
+Bastonade Sohlenstreich Falaka Bastinado
+Streckbank Folterbank
+Hüftdysplasie Hüftgelenkdysplasie Hüftgelenksdysplasie
+Linsenluxation Linsenektopie
+Schultergelenkluxation Schulterluxation
+Schultergelenk Glenohumeralgelenk Buggelenk
+Radiusköpfchen-Subluxation Chassaignac-Lähmung
+Teilausrenkung Subluxation
+Kartell Syndikat
+Arbeitsgemeinschaft Interessengemeinschaft
+Jungferninseln Jungfraueninseln
+Traumziel Wunschland Arkadien Eldorado Mekka
+Moderator Talkmaster
+Kränzchen Pulk Versammlung Runde Gruppe Schar Grüppchen Kreis Trupp
+nachrechnen nachzählen
+Fehlbetrag Minus Kassendifferenz Manko
+Überschuss Mehrbetrag Kassenüberschuss Plus Kassendifferenz
+Paketsprung Arschbombe
+Konkretisierung Eingrenzung Verfeinerung Reduktion Präzisierung
+Verdinglichung Reifizierung Reifikation Vergegenständlichung
+tändeln tingeln bummeln
+pendeln fahren verkehren
+Schlaglochsuchgerät Blechbüchse Schnittenschaukel Hämorrhoidenschaukel
+Straffreiheit Impunität Straflosigkeit
+Schnauze Frontpartie Vorderansicht Vorderteil Front Vorderseite
+Rückseite Hinterteil Heck Arsch
+Innenverdeck Himmel
+Kotflügel Radkasten Radabdeckung
+Lagerdenken Lagermentalität
+Amtssprache Gerichtssprache
+Gastarbeiterdeutsch Ausländerdeutsch
+Verwaltungseinheit Entität
+Nordmanntanne Nordmann-Tanne Kaukasus-Tanne
+Weißtanne Weiß-Tanne
+Numeralia Numeralien
+Lackiererei Lackierwerkstatt
+Lemniskatenlenker Alsthom-Lenker
+Wertschöpfungskette Wertkette
+Fehlproduktion Makulatur Ausschuss Schrott Fehldrucke
+GMR-Effekt Riesenmagnetowiderstand
+Lock-in-Verstärker Trägerfrequenzverstärker
+Rüttelplatte Vibrationsplatte
+General Ordensgeneral Generalsuperior Generaloberer
+Großereignis Hype-Event Spektakel Spektakulum Hypeevent Event
+Dekolonisierung Entkolonisierung Dekolonisation
+Eigenkapitaldecke Eigenkapitalquote
+Meerengenvertrag Dardanellen-Vertrag
+Beatmungstubus Endotrachealtubus
+dozieren predigen
+Saisonarbeiter Saisonier Heuerling Wanderarbeiter Saisonnier Heuermann
+Poulsen-Sender Lichtbogensender
+einäschern feuerbestatten kremieren verbrennen
+Ischoren Ingrier
+Quadraturphasenumtastung Vierphasen-Modulation
+Triumph Siegesrausch Triumphgefühl Siegestaumel
+Scheitern Ende Aus
+hartherzig kalt herzlos mitleidlos kaltherzig lieblos fühllos kaltschnäuzig
+Arkosolium Arkosol
+Stundengebet Offizium Tagzeitengebet Tagzeiten
+unrasiert ungewaschen ungepflegt ungekämmt ungebügelt
+Rosenkreutzer Rosenkreuzer
+Vorabendserie Seifenoper Soap
+nein negativ abgelehnt
+Halbfertigprodukt Halbfabrikat
+Fertigfabrikat Fertigprodukt
+Teilstaat Gliedstaat Bundesstaat
+Verschränkung Versatz Interleaving
+OP-Hemd Operationshemd Engelchenhemd
+Augenspiegelung Funduskopie Ophthalmoskopie
+Spaltlampe Spaltlampenmikroskop
+Datenvisualisierung Informationsvisualisierung
+Visualisierung Veranschaulichung
+Temperenzbewegung Abstinenzbewegung Temperanzbewegung
+Abstinenzverein Temperanzgesellschaft
+Steuerhinterzieher Steuersünder
+Steuerhinterziehung Steuerstraftat
+schwindeln kungeln mogeln täuschen tricksen schummeln mauscheln
+Körpersprache Gebärdenspiel Gestik
+Kriegsdienstverweigerung Wehrdienstverweigerung
+Vermieter Wohnungsvermieter Hauswirt
+Hausbesitzer Hauseigentümer Häuslebesitzer
+EMV-Untersuchung EMV-Prüfung
+Vorfahrtsstraße Vorrangstraße
+Prophetenkuchen Platzkuchen Fettpfützenkuchen Aufläufer Huckelkuchen
+Breikuchen Schmandkuchen Schmierkuchen
+Hand-Fuß-Mund-Krankheit Hand-Fuß-Mund-Exanthem
+Drehbasse Drehbrasse
+Blattnerv Blattrippe Blattader
+trennen differenzieren auseinanderhalten distinguieren unterscheiden
+pazifizieren versöhnen befrieden aussöhnen
+ungestalt massiv unförmig monströs tonnenförmig
+Zugangsberechtigung Account Zugang
+Rowdytum Flegelei Grobheit Krawallmacherei Rüpelei Rüpelhaftigkeit Pöbelei Flegelhaftigkeit
+nachher schlimmstenfalls womöglich
+Fleischbeil Fleischerbeil
+Agitator Demosthenes Volksredner
+stilsicher stilbewusst geschmackssicher
+Radrowdy Kampfradler Rüpelradler
+Ski-Rowdy Pistensau
+Altschnee Sulzschnee Firnschnee Harsch Firn
+Tendenzblatt Zentralorgan Kampfblatt Verbandszeitschrift
+Kunstrichter Kunstkritiker
+bibliophil biblioman buchverliebt büchernärrisch
+Bücherfreak Literaturbegeisterter Buchliebhaber Bücherfreund Büchersammler Bibliophiler
+Kenner Liebhaber Sammler
+Sexualleben Sexleben Geschlechtsleben
+Agent Manager Vermittler Impresario Promoter
+AGH-MAE Arbeitsgelegenheit 1-Euro-Job
+Ganztagsarbeit Ganztagsbeschäftigung Vollzeitjob Vollzeitstelle Fulltime-Job
+Ästhet Schöngeist Belesprit
+kunstverständig kunstsinnig kunstinteressiert kunstliebend
+hochgelobt vielgepriesen
+Sieger Heroe Held Heros
+Strafverfolgungsorgane Ermittlungsbehörden Strafverfolgungsbehörden
+offiziös halbamtlich
+Webgestaltung Webdesign
+streitbar kämpferisch kampfbereit kriegerisch
+Scharade Charade
+Pathetik Theatralik
+Straßenroller Culemeyer
+Datenflussplan Datenflussdiagramm
+Ellipsenzeichen Auslassungszeichen
+Ellipse Auslassungspunkte
+Nullkraftsockel Nullkraftfassung
+die selbige ebendiese diese sie jene
+Stibitz-Code Exzess-3-Code
+Trüffel-Praline Buttertrüffel Schokoladentrüffel Truffes
+Blutströpfchen Blutauge Sommer-Adonisröschen Sommerblutströpfchen
+Himmelslöffelkraut Widdertod Himmelstau Herrgottslöffel Spölkrut
+Polei-Gränke Poleirosmarinheide Lavendelheide Sumpfrosmarin Rosmarinheide
+Berg-Sandglöckchen Berg-Sandrapunzel Schaf-Skabiose Sandknöpfchen Bergnelke
+Sandglöckchen Sandrapunzel
+Kartäusernelke Steinnelke
+Drachenwurz Schweinsohr Sumpfkalla Sumpf-Calla Schlangenwurz Schlangenkraut Sumpf-Schlangenwurz
+Stranddistel Meer-Mannstreu
+Doldengewächs Doldenblütler
+Schachblume Schachbrettblume Kiebitzei
+Soldanelle Alpenglöckchen
+Ackerrade Pisspöttken Kornnelke Kornrose Klockenblume Kornrade
+Steinsamen Rindszungen
+Raublattgewächs Borretschgewächs
+Wasserliesch Blumenbinse Schwanenblume Wasserviole
+Mittelmäßigkeit Durchschnitt Mediokrität Mittelmaß
+Schreckgespenst Dämon
+Flaschengeist Dschinn
+Gnathologie Funktionsdiagnostik
+Freundin Vertraute
+Autorschaft Autorenschaft Urheberschaft
+Maskengesicht Pokerface
+Lebensart Lifestyle Lebensstil
+herauskaufen freikaufen
+Essenz Mazerat Konzentrat Absud Sud Infus Dekokt Tinktur Extrakt Aufguss Auszug Destillat Perkolat
+Verpflegungsmehraufwand Spesen Auslöse Tagesspesen Auslösung
+unzeitig unpassend ungelegen ungünstig
+Eskamoteur Trickkünstler
+Wertekanon Grundüberzeugungen Wertesystem Werte Wertvorstellungen Wertekatalog Wertordnung
+Geschwisterreihe Geschwisterfolge
+zugig zieht Durchzug
+Sturmböe Sturmbö
+Elenantilope Eland
+Kameraoperateur Schwenker
+babyrosa zartrot mattrot rosa rosig rosig schweinchenrosa pink rosé pastellrot fleischfarben blassrot rosarot rosafarben
+links sozialdemokratisch
+lachsrot lachs lachsfarben lachsfarbig lachsrosa
+Schonen Schonlandt
+Abstimmungsergebnis Votum
+unverdrossen fröhlich ungeniert lustig munter
+Verteidigungsforschung Rüstungsforschung
+Erbzinsleihe Erbpacht
+anraunzen anblaffen anbellen anschreien anfahren anschnauzen anbelfern anbrüllen ankläffen anblaffen andonnern
+Spanteiler Spanleitplatte Spanleitstufe
+Wendeschneidplatte Wendeplatte
+Steuerparadies Steueroase
+V-Fall Verteidigungsfall
+Araber Orientale
+Grundform Zitierform Nennform
+Drehort Location Schauplatz
+Akademismus Akademizismus
+Wirkstoff Substanz
+Hubspeicherkraftwerk Lageenergiespeicherkraftwerk
+Stöberer Spurensucher Schnüffler
+Lizentiat Lizenziat
+Fünfflächner Fünfflach Pentaeder
+Sechsflach Sechsflächner Hexaeder
+Dekaeder Zehnflach Zehnflächner
+Zwölfflach Zwölfflächner Dodekaeder
+Pulverschnee Schneestaub Feinschnee
+Superhaufen Supergalaxienhaufen
+Bärengruppe Ursa-Major-Gruppe
+Fornax-II-Galaxienhaufen Eridanus-Galaxienhaufen
+Naturbursche Naturmensch
+Entlassungswelle Rationalisierung Kahlschlag Kündigungswelle Massenentlassung
+Sendezeitraum Sendeplatz
+lautmalend schallnachahmend lautmalerisch onomatopoetisch
+Peano-Postulat Dedekind-Peano-Axiom Peano-Axiom
+unsinnig verrückt versponnen abwegig kraus widersinnig ungereimt unverständlich verworren
+ungereimt reimlos
+Prosa Erzählkunst
+Stromverdrängung Skin-Effekt
+Kopplungswiderstand Transferimpedanz
+Nennimpedanz Kabelimpedanz Leitungswellenwiderstand
+Akustomikroskopie Ultraschallmikroskopie
+Ausbreitungsmaß Ausbreitungskonstante Fortpflanzungskonstante
+Wellenfahrplan Impulsfahrplan
+Zentripetalbeschleunigung Radialbeschleunigung
+verschandeln entstellen verunzieren deformieren verunstalten verhunzen
+selten kaum knapp Mangelware rar
+gedankenlos blind blindlings
+Legalismus Legismus
+Branche Sparte Wirtschaftszweig Sektor Geschäftszweig
+Unordnung Beliebigkeit Anarchie Chaotik Wirrnis Regellosigkeit
+Trockenkammer Trockenschrank
+Viskosität Konsistenz
+Extension Begriffsumfang
+Begriffsinhalt Intension
+Korporatismus Korporativismus
+Erdnusscreme Erdnussbutter Erdnusspaste Erdnussmus
+Wärme Entropie
+aufpassen! Achtung! aufgepasst! Vorsicht! Obacht!
+Silbernitrat Höllenstein
+Doppelspat Kalzit Kalkspat Calcit
+Gewährleistungsgarantie Gewährleistungsbürgschaft
+unbeteiligt teilnahmslos desinteressiert gleichgültig abwesend
+Konstabler Konstabel
+Büchsenschütz Büchsenmeister
+Versuchsphase Pilotphase Experimentierstadium Erprobungsphase Testphase Entwicklung Versuchsstadium
+Wahlkölner Imi
+Auseinandersetzungsversteigerung Teilungsversteigerung
+deutlich spürbar merklich erkennbar sichtlich ersichtlich
+fühlbar spürbar wahrnehmbar
+Ringelschwanzbeutler Ringbeutler
+hochgesteckt hochfliegend vornehm beeindruckend anspruchsvoll erhaben toll hehr hoch vornehmst
+Totenkopfaffe Totenkopfäffchen
+Klasseweib Superweib Traumfrau
+Gedankenexperiment Gedankenversuch
+Uhrenparadoxon Zwillingsparadoxon
+Verwendungsrechnung Verwendungsansatz
+deduktiv top-down
+Ätzsoda Ätznatron
+Raubgold Nazigold
+Mega-Tschad Paläo-Tschad
+Xenismus Fremdwort Lehnwort
+Flexionsform Flexiv Wortform
+Flexionsendung Flexiv Endung Flexem Flektem Flexionsmorphem
+Derivem Ableitungsmorphem Derivationsmorphem Derivatem Wortbildungsmorphem Derivantem
+Beängstigung Verstörtheit Verstörung Fassungslosigkeit Bestürzung Bangigkeit Betroffensein Betroffenheit Schock Konsterniertheit Konsternierung Ängstlichkeit Konsternation
+alveolengängig lungengängig
+Streitfrage Ärger Konflikt Problem Streitfall
+Szene Auseinandersetzung Disput Wortwechsel Wortwechsel Rededuell Streit Streitgespräch Wortgefecht Schlagabtausch Meinungsverschiedenheit
+Frauentreff Damenkränzchen
+Mischbildentfernungsmesser Telemeter
+reichen hinhauen langen passen hinkommen
+Darielschlucht Darialschlucht
+intransparent undurchsichtig undurchschaubar
+verplant unabkömmlich ausgebucht
+konstitutiv integral
+wesentlich mächtig elementar wichtig bedeutend dringend
+wichtig herausragend hervorgehoben prominent
+ernst wichtig folgenschwer gravierend schwerwiegend groß weitreichend tiefgreifend massiv ernstlich
+Cochinchina Kotschinchina
+Akephalie Herrschaftsfreiheit
+reif weise gelassen vernünftig gesetzt
+Laserstrahlverdampfen Laserablation Laserverdampfen
+Bleivergiftung Saturnismus
+Gebärmutterhalskrebs Zervixkarzinom Kollumkarzinom
+Videokonferenz Konferenzschaltung Schalte Videokonferenzschaltung
+unberechenbar gefährlich tückisch
+Strichregen Bindfadenregen
+Kauen Mastikation
+Propylon Propyläen Propylaion
+Habt-Acht-Stellung Habtachtstellung Habachtstellung
+Simultankirche Simultaneum
+Direktorialverfassung Direktorialsystem
+Kunstbanause Kulturbanause Kulturbarbar Kulturverächter Banause
+Nichtswisser Unwissender Ignorant Nichtswissender Nichtwissender Unkundiger Uninformierter Ahnungsloser
+primitiv grobschlächtig banausisch kulturlos prollig roh
+Übergriff Belästigung
+Meisterdenker Chefideologe
+Seifenstein Lavezstein Talk Speckstein Steatit Magnesiumsilikathydrat Talcusstein
+abgenommen freigegeben gutgeheißen autorisiert gebilligt abgesegnet approbiert genehmigt
+Schaltspiel Schaltzyklus
+Hausgebrauch Heimgebrauch
+Kaiserwecken Kaiserbrötchen Kaiserweck Kaisersemmel
+Bismut Wismut
+zugänglich empfänglich aufgeschlossen geneigt interessiert
+Musiknotation Notenschrift Notation
+Note Notenzeichen Musiknote
+Verlängerungszeichen Fermate
+Notenpult Notenständer
+Musikalien Notenhefte Notenblätter Notenausgaben
+Musikalienhandlung Musikgeschäft Musikhandelsunternehmen
+Tante-Emma-Laden Kramladen
+Trinkhallenbesitzer Trinkhallenpächter Trinkhallenbetreiber Trinkhalleninhaber
+Großhandel En-gros-Handel
+Presse-Grosso ZZS-Großhandel Grosso
+Zabergau Zabergäu
+Zabergäurenette Zabergäu
+Bootsbau Schiffbau Schiffsbau
+Suchtverlangen Craving Schmacht Suchtdruck Substanzverlangen
+vergessen zurücklassen
+Jauchzer Hurrageschrei Jubelrufe Gejubel Frohlocken Vivatrufe Hochrufe Jubel Freudengeheul Gejuchze Gejohle Freudenschreie Triumphgeschrei Freudengeschrei Hurra-Geschrei Hurra-Rufe Juchzer Vivat-Rufe Hurrarufe Jubelgeschrei
+Sonnenbär Malaienbär
+Nilgau Nilgauantilope
+Enantiomer Spiegelbildisomer
+Gesamtheit Ensemble
+Schreierei Gegröl Krakeel Brüllerei Geschrei Gejohl Gejohle Gelärm Grölerei Gelärme Gegröle Lärmerei Gebrüll
+Irrsinnslärm Mordskrach Heidenlärm Wahnsinnslärm Höllenspektakel Höllenlärm Riesenlärm Mordsspektakel
+Lärmteppich Geräuschteppich Lärm Unruhe Geräuschpegel Lärmpegel
+Störung Unterbrechung
+Gekreisch Kreischen Gezeter Gekreische Keifen Gekeife Herumzetern
+Alleinstellungsmerkmal USP
+Gestucker Gerüttel Gerappel Geknatter Gerassel Geklapper Geratter
+schlackern schütteln schlenkern
+ausschütteln ausschlackern ausschlenkern
+Geschepper Scheppern
+Geklirr Klirren Geklirre Geklicker Klimpern
+tickern tickeln ticken klicken klickern
+knacksen knacken
+Klang Audio Ton Schall
+Rufe Laut Laute Ruf
+Phonem Fonem
+Lärmbekämpfung Lärmreduktion
+Schallausbreitung Schallübertragung
+Harmonie Klang Akkord Zusammenklang
+maunzen miauen
+dröhnen röhren
+peng! bumm!
+trillern tirilieren trällern
+rauschen brausen
+Schulwechsel Übertritt
+Wasserschwaden Wasserschleier Wasserfahne
+Adventurespiel Adventure Abenteuerspiel
+diszipliniert kontrolliert beherrscht
+Grafikadventure Graphikadventure
+Fingerabdruck Daktylogramm Fingerprint
+Wegzehrung Lunchpaket Futterage Marschverpflegung Reiseproviant Mundvorrat
+einwinken lotsen einweisen dirigieren hineindirigieren
+Hygroskopizität Hygroskopie
+Essensreste Uzen Übriggebliebenes
+Zimmerchen Kämmerchen Kabäuschen Verschlag
+Dulag Durchgangslager
+Nebenlager Außenlager
+KZ-Kommandant Lagerkommandant
+Maure Sarazene Berber
+Verbotsirrtum Rechtsirrtum
+Fotoblog Fotografieblog
+Abscheulichkeit Scheußlichkeit Grässlichkeit Ekligkeit Hässlichkeit Unschönheit Grauslichkeit
+Rütteltisch Schwingtisch
+Kuckuckston Münzerkennungston
+Münztelefon Münzer Münzfernsprecher
+Wärmeleitungsgleichung Diffusionsgleichung
+Metrik Verslehre
+Metrum Metron
+Elision Tilgung
+Aphärese Prokope
+Synaloiphe Synaloephe Synalöphe
+Bauerlaubnis Baubewilligung Baugenehmigung
+Kontingenzmodell Kontingenztheorie
+Schreibmappe Konferenzmappe Aktenmappe Tagungsmappe
+Mindestdatenspeicherung Mindestspeicherfrist Vorratsdatenspeicherung
+wegekeln vergraulen rausmobben wegmobben rausekeln hinausekeln wegbeißen
+Judizium Urteilskraft Judiz
+Neuweltaffe Breitnasenaffe
+Altweltaffe Schmalnasenaffe
+Stierbeutel Stierheberl Stierhoden
+Ausfall Abstinenz Entzug Entbehrung
+gesellschaftsfähig vertretbar
+zuhören berücksichtigen
+Grundlage Abc Kanon Basis Grundwortschatz Fundament
+Forward-Algorithmus Vorwärts-Algorithmus Vorwärts-Prozedur
+Dreikonchenanlage Trikonchos Drei-Konchen-Chor
+unverbraucht jung frisch unverdorben
+Anfang Geburtsstunde Auftakt Anbruch Anbahnung
+Schablone Syndrom Muster Raster Schublade Kategorie
+Maskierungszeichen Fluchtsymbol
+Rücktaste Backspace Rückschritttaste Rücklöschtaste
+Hydrograph Abflussganglinie
+Abflusskurve Schlüsselkurve
+Archivbombe Dekomprimierungsbombe
+Dekompression Dekomprimierung
+Landevolte Landeeinteilung
+Neutralität Sachlichkeit Nüchternheit Objektivität
+Domino Seifenblase Kartenhaus
+Geringschätzung Zynismus Herablassung Menschenverachtung Verachtung
+Wochenzeitung Wochenblatt
+Brautgeschenkspinne Listspinne Raubspinne
+Entspannung Ruhe
+Zugehörigkeitsgefühl Identifikation Gunst Treue
+begleiten anhaften innewohnen
+verschwinden weggehen weichen
+loswerden abstreifen ablegen
+Abbaugerechtigkeit Berechtsame
+Kästchenmodell Kästchenschreibweise Zellenschreibweise Pauling-Schreibweise
+Estlandschweden Küstenschweden
+Malakoff-Turm Malakow-Turm Malakov-Turm
+Deurbanisierung Desurbanisierung
+staubüberzogen staubbedeckt verstaubt staubig bestaubt
+rußbedeckt rußig verrußt rußgeschwärzt
+Schlunz Schlamper
+Malacca-Halbinsel Malakka-Halbinsel
+verfroren steifgefroren klamm frostklamm steif
+verhärtet erstarrt versteift eingerostet
+Desinformation Gerücht Halbwahrheit
+Ansatz Arbeitstitel Provisorium
+Momentaufnahme Zwischenstand Provisorium
+Top-Frau Gestalter Leistungsträger Spielmacher Protagonist Aktivposten Spitzenkraft Hauptakteur Top-Mann Schlüsselfigur
+Bodenhorizont Horizont
+Eisenschwamm Schwammeisen Eisenluppe
+Wootzkuchen Wootz Wootzbarren
+Altan Söller
+Plattformdach Altandach
+Salamander Härtlinge Wölfe Ofensau Eisensau Bühnen
+Gerbstahl Gärbstahl Raffinierstahl
+Garben Raffinerieren Gärben
+Kriminalbiologie Kriminalanthropologie
+Trinitatis Frommtag
+Dreieinigkeitsfest Dreifaltigkeitsfest
+Frühlingsanfang Frühlingsbeginn
+Nikomedia Nikomedien
+Erbarmen Beißhemmung
+Außenstehender Dritter
+Sachwerte Naturprodukte Naturalwerte Naturalien
+Hodometrie Odometrie
+Doha-Runde Doha-Entwicklungsagenda
+Assoziierungsabkommen Assoziationsabkommen
+Tonkarte Audiokarte Soundkarte
+Genbibliothek Genbank DNA-Bibliothek
+Markenweltmeisterschaft Sportwagen-Weltmeisterschaft
+Spielerberater Spielervermittler Spieleragent
+Dingsymbol Falkenmotiv
+Krankheitsüberträger Vektor
+Bulbourethraldrüse Cowper-Drüse
+Bläschendrüse Samenblase Samenbläschen
+Dürer-Polyeder Rhomboederstumpf
+Regenmacher Rainstick Rainmaker Regenstab
+Regenablaufkette Regenkette
+Ozeanboden Meeresboden Meeresgrund
+impraktikabel lebensfremd lebensfern
+Nichttrinitarier Antitrinitarier
+Tatwaffe Tatwerkzeug
+Täter Schuldtragender Schuldiger
+Spitzfindigkeit Sophistik Paralogistik Wortklauberei Wortverdreherei Fliegenbeinzählerei Haarspalterei Rabulistik Kasuistik Finesse Silbenstecherei Sophisterei Erbsenzählerei Korinthenkackerei
+Zweiheit Dichotomie Polarität Dualismus Dialektik
+Pudelmütze Bommelmütze
+Troddel Quaste Quoddel Quaddel
+Nonprofitunternehmen Non-Profit-Unternehmen
+zerteilen zerlegen zerschneiden aufschneiden tranchieren
+Konzerttournee Konzertreise
+Sangesbruder Chorkollege
+sangesfreudig singbegeistert
+fehlbar fallibel
+Fallibilität Fehlbarkeit
+Staatsquote Staatsausgabenquote
+Schwindler Märchenerzähler Lügenschmied Flunkerer Lügenmaul Märchenonkel Lügenbold
+Phasenlage Phasenverschiebung Phasendifferenz
+Lügenbold Flunkerer Lügenmaul Lügner Schwindler
+Mietbetrüger Einmietbetrüger Mietpreller Mietnomade
+Kumulieren Stimmenhäufung Häufeln
+Welt Diesseits
+lostreten heraufbeschwören entfachen anzetteln
+verleiten überreden anstiften
+Treibeis Drifteis
+Richtcharakteristik Richteigenschaft
+Wissenslandkarte Wissenskarte
+Schweizerhaus Chalet
+Berghütte Almhütte Alphütte Sennhütte
+Schwanengesang Abgesang Klagelied
+Bestatter Leichengräber Totenbestatter Pompfüneberer Totengräber Kuhlengräber Leichenbestatter
+Pfandsammler Flaschensammler
+Brenneisen Brennzange Brennschere
+Ondulierstab Lockenstab
+Anbruch Anfang Start Beginn
+Sprödbruch Trennbruch
+Förderung Ausbau
+Multiplikation Potenzierung Verstärkung Vervielfachung
+Wertzuwachs Performance
+Familienältester Patriarch Pascha
+Haustyrann Familientyrann
+Klatschreporter Sensationsreporter Skandalreporter
+kränklich kränkelnd angeschlagen angegriffen schwach mitgenommen
+Evidenzbureau Evidenzbüro
+Handelsakademie Bundeshandelsakademie
+Schützendivision Infanteriedivision
+Sozialfaschismusthese Sozialfaschismustheorie
+Strieme Streifen Striemen
+Separatist Sezessionist
+Referenz Standardwerk Standardliteratur
+Altersstruktur Alterszusammensetzung
+Kleinkrieg Plänkelei Kampfhandlungen Geplänkel Scharmützel Kampfaktionen
+Exponent Wortführer Protagonist
+Buchbesprechung Literaturkritik Buchrezension Buchkritik
+Literaturkritik Buchbesprechung Buchkritik Buchrezension
+Stimmführer Prinzipal
+kommend später nachmalig
+Klinikarzt Krankenhausarzt Spitalsarzt
+Assistenzarzt AiW
+Forschungsreisender Entdeckungsreisender Entdecker
+Patienteninformation Beipackzettel
+geläutert erleuchtet gefestigt gewachsen geheilt
+gewittern wettern
+rumpeln krachen rumsen poltern donnern
+Baumdiagramm Baumgraph Verzweigungsdiagramm Stemma
+Phrasenstrukturdiagramm Strukturbaum
+Märchenprinz Traummann
+Richtigstellung Widerrufung Zurückweisung Dementi Gegenerklärung Verwahrung Gegendarstellung Widerruf
+Rückverfolgung Ahnenforschung Rekonstruktion
+Frauenflüsterer Frauenverführer Frauenversteher
+Swingerclub Swingerklub Swinger-Club
+Dreiecksverhältnis Dreierkiste Ménage-à-trois Dreiecksbeziehung Dreieckskiste
+Kontaktbörse Datingportal Dating-Portal Singlebörse
+Gruppenvergewaltigung Gangbang
+Spannerei Spannen Voyeurismus
+Erotomanie Sexsucht Hypersexualität
+Mannstollheit Nymphomanie Andromanie Klitoromanie
+Donjuanismus Satyrismus Satyriasis
+ONS One-Night-Stand
+Cholesterol Cholesterin
+Interpretationsmacht Definitionsmacht Deutungshoheit
+Prioritätsinversion Prioritätsumkehr
+Bezahlschranke Paywall
+Videoendoskop Videoskop
+Koloskop Kolonoskop
+Ackerwertzahl Bodenpunkte Ackerzahl
+Gleve Fauchard Glefe Gläfe Fouchard
+Hellebarde Helmbarte
+querbeet querfeldein
+wahllos drauflos lustig querbeet durcheinandergehend
+Pfannkuchengesicht Mondgesicht
+Flunsch Schmollmund Schnute Gesicht
+mannigfaltig grenzenlos zahlreich verschiedenartig unüberschaubar vielfältig reichhaltig
+Dolly Kamerawagen
+Mikrofonständer Mikrofonstativ
+Galgen Schwenkarm
+Melodram Drama Melodrama
+Solidaritätsstreik Sympathiestreik
+verschwörerisch heimlichtuerisch
+Georginen Dahlien
+Catering Verpflegung
+Kriegsschiff Kampfschiff Schlachtschiff
+Vernichter Verwüster Zerstörer
+Hubschrauberträger Flugdeckkreuzer Flugzeugträger Helikopterträger
+Gefälligkeitspolitik Klientelpolitik
+Mattigkeit Müdewerden Zerschlagenheit Erschöpfung Müdigkeit Ermüdung Defatigation
+Anbiederung Liebedienerei Schöntuerei
+Kuschelkurs Kuschelpolitik Schmusekurs
+Hochstilisierung Überhöhung Idealisierung Verklärung
+Lokomotive Lok Triebfahrzeug
+andersartig ungewöhnlich fremd ungewohnt gewöhnungsbedürftig neu andere
+Hexagesimalsystem Sechziger-System Sexagesimalsystem
+Einstellung Ende Abbruch Beendigung Schluss
+Einstellung Couleur Ausrichtung
+harmoniebedürftig harmonieorientiert harmoniesüchtig konfliktscheu
+Ringschieberegister Ringzähler
+Vorlaufzeit Vorlauf Vorbereitungszeit
+raumgreifend dominierend raumfüllend
+Bodenroller Steppenroller Bodenläufer Steppenläufer
+Begleitumstände Beiwerk
+Glanz Showeffekt Glamour
+Jungengesicht Jungmädchengesicht Babyface
+überzeichnet karikaturhaft karikativ überzogen karikiert karikaturesk überspitzt karikaturistisch übertrieben karikaturartig
+Netzwerkmaske Netzmaske Subnetzmaske
+Antischiffrakete Antischiffsrakete
+Radiokarbonmethode Radiokarbondatierung
+zwischenstaatlich grenzüberschreitend international
+hiervon diesbezüglich hierüber darüber davon darob
+Geistesgröße Denkriese Geistesriese
+Hauptverantwortlicher Bösewicht Hauptschuldiger
+mafiaartig mafiaähnlich mafiös
+veränderlich abwechslungsreich wechselvoll
+Steinmandl Steinmann Steinmännchen Steinmanderl Steindauben
+Parameter Formvariable
+Unbekannte Unbestimmte
+Definitionsbereich Definitionsmenge
+Grundmenge Universum
+Scheinvariable Stellvertreter-Variable Dummy-Variable
+Proxy-Variable Proxy
+Anhänger Sympathisant Unterstützer Mitstreiter Parteigänger
+Justierschraube Einstellschraube
+Klemmschraube Feststellschraube
+Schokatzen Schoktzen
+Lissabon-Prozess Lissabon-Strategie Lissabon-Agenda
+Endschliff Feinschliff Finishing Endbearbeitung
+japsend schnaufend keuchend
+Umhüllung Schoner Überwurf Schonbezug
+Dorfschöne Provinzschönheit Dorfschönheit Kleinstadtschönheit
+Schwimmerin Nixe
+bierselig alkoholgeschwängert weinselig
+Weltgegenden Himmelsgegenden
+Breitensport Volkssport
+Nationalsport Volkssport
+Zunft Gewerbe Berufsstand
+Ölsaat Ölsamen
+Erlebniswelt Freizeitcenter
+mitziehen einsteigen anspringen
+Drahtumwicklung Drahtwickelverbindung Wickelverbindung Wickeltechnik
+Gutsbezirk Gutsgebiet
+Siebenschlau Tangram Siebenbrett
+Berufsgymnasium Fachgymnasium
+Extremsituation Extrembedingungen
+Teilstück Teilstrecke Streckenabschnitt Etappe
+Verkehrsweg Trasse Verkehrsverbindung
+Stadtring Ringstraße
+Tauchkreuzfahrt Tauchsafari
+Baltistan Klein-Tibet
+Langsteher Staubfänger
+Divisionsring Schiefkörper
+unkreativ absehbar
+Festzelt Bierzelt
+Stammwürzgehalt Stammwürze
+Knackwurst Knacker
+Seeohr Meerohr Abalone
+selbigen besagten diesen
+Urhügel Urberg Weltenberg Weltberg
+Himmelsachse Weltachse
+Prunkrüstung Paraderüstung
+Kielpallen Kielstappel
+fieren auffieren
+ziehen herumstreichen herumlaufen strawanzen schnüren streichen umherstreichen stromern umherstreifen laufen streifen
+Tuchelle Schneiderelle Elle
+Messstab Mess-Stab Peilstock Peilstab
+Pomeranzenbaum Bitterorangenbaum Pomeranze Bitterorange
+Rahmenkredit Abrufkredit
+entgegenkommend unterstützend
+Biergarten Gastgarten
+Einsatzkommando Rollkommando Einsatzgruppe Einsatzgruppe
+Mordgesellen Mörderbande Mordgesindel
+Heimat Hochburg Hauptstadt Mekka Hauptstätte
+Besserverdienender Besserverdiener
+hineininterpretieren hineinlesen hineingeheimnissen
+geschickt anpassungsfähig beweglich wendig gewandt glattzüngig elegant
+rekursiv entscheidbar
+Rekursionstheorie Berechenbarkeitstheorie
+Mehrfachsprengkopf Kassettensprengkopf Mehrfachgefechtskopf
+Langstreckenrakete Interkontinentalrakete
+Stammlinie Stammreihe
+Rentamt Rentei Renterei
+Rentamtmann Rentmeister
+Vitzthum Vizedom Vitztum Viztum
+wundersamerweise unglaublicherweise
+vorbereiten bereitstellen
+Geschwindigkeitsindex Geschwindigkeitskategorie Geschwindigkeitsklasse
+unkritisch unreflektiert kritiklos konformistisch
+Bruttoverdienst Bruttogehalt Bruttolohn
+Stampiglie Stempel
+friedlich harmonisch einträchtig
+Kaufmannschaft Kaufleute Händler Kaufmannsstand
+Arbeiteraufstand Volksaufstand
+Chemotherapie Chemo
+Erdfrühzeit Präkambrium Abiotikum
+Krug Karaffe Amphore
+Mondkartierung Selenografie
+Weinkaraffe Dekanter
+Ballotage Kugelung
+Hotelgewerbe Hotellerie
+hinterherkommen nachtröpfeln nachfolgen nachkommen
+kalfaten kalfatern abdichten
+Rennspindel Dreule Bohrspindel
+Rosé Roséwein
+Bullenmarkt Boom Hausse Hochkonjunktur
+rastlos ruhelos quirlig rege nimmermüde regsam
+aufgeregt aufgedreht aufgeputscht aufgekratzt überdreht
+Zeitdruck Termindruck Zeitnot
+Ultimo Monatsende Letzte
+munter kregel vital unternehmungslustig rüstig agil junggeblieben
+Boustrophedon Bustrophedon
+Brillant Brilli Diamant
+intensiv stark mächtig eingehend tüchtig deutlich heftig durchdringend dramatisch erheblich ausgiebig sehr kräftig
+Anwendungslogik Geschäftslogik
+Schichtenmuster Schichtenmodell Schichtenarchitektur
+Selbstverlag Eigenverlag
+Fraternisierung Fraternisation
+Tranigkeit Lethargie Schlafmützigkeit Transusigkeit
+Aldanhochland Aldanbergland
+Stanowoigebirge Stanowojgebirge
+Krimi Kriminalfilm
+systemimmanent systemeigen
+Tamil Tamilisch
+Titel Deckblatt Titelbild Titelblatt Cover Titelseite
+Pejorativ Pejorativum
+Verrou Rappan-Riegel
+Signans Signifiant Signifikant Bezeichnendes Bezeichner
+Holzschuh Klompe Pantine Holzpantine
+Juckreizstiller Antipruritikum Antipruriginosum
+Dolmen Megalithanlage Großsteingrab Hünengrab
+Liter l
+Verwechslungsgefahr Konfusionsgefahr
+Clusteranalyse Ballungsanalyse
+Kohonenkarte Kohonennetz
+Unkrautflur Unkrautfläche Unkrautwüste
+Homofon Homophon
+Berichterstattung Reporting
+Einfließen Einströmen Influx
+Kontermarke Gegenstempel
+Kurzanleitung Schnelleinstieg
+hervorkehren geben
+Marlin Speerfisch
+anfordern einverlangen verlangen
+Orbicularis-oculi-Reflex Lidschlussreflex Blinkreflex Kornealreflex
+Konfrontationsverfahren Konfrontationstherapie
+weiterrutschen durchrutschen
+integrieren eingliedern sozialisieren einordnen erziehen
+unentwirrbar labyrinthisch verknäuelt verwirrend verschlungen
+Sandbrötchen Amerikaner Ammonplätzchen
+Wassernudel Poolnudel Schwimmnudel Flexibeam
+gleißend leuchtkräftig leuchtend strahlend blendend grell
+flirrend zitternd schimmernd flimmernd
+schwul gay
+Knastsprache Gefängnisjargon
+Missionar Bekehrer
+verzehren aufessen aufzehren konsumieren
+Sekundenschlaf Müdigkeitsattacke
+Bettlektüre Gute-Nacht-Lektüre
+Traumsand Augenschleim Augenbutter Augensteine Schlafsand Schlaf Schlafkörnchen Sand Matzel
+Polizeipräsenz Polizeiaufgebot
+gemütvoll beglückend herzerwärmend innig herzig
+Hauswurz Sempervivum
+Dachwurz Dach-Hauswurz Alpen-Hauswurz Donnerwurz
+abfangen abpassen
+Wildbeuter Feldbeuter
+Angespanntheit Dauerbelastung Angestrengtheit Belastung
+Großprojekt Mammutprojekt
+vergoren gegoren fermentiert
+Fermentation Gärungsprozess
+Krankheitsherd Infektionsherd
+Nistplatz Brutplatz Brutstätte
+Nest Horst
+kippeln wackeln gelockert
+Waffenhersteller Waffenschmiede Waffenproduzent
+Imperium Reich Herrschaftsbereich Herrschaftsgebiet
+aufwirbeln durcheinanderbringen aufmischen chaotisieren
+Ohrenarzt Otorhinolaryngologe Hals-Nasen-Ohren-Arzt
+Patrimonium Kulturgut
+Chauvinismus Nationalismus Hurra-Patriotismus Jingoismus
+Männlichkeitswahn Sexismus Chauvinismus Machismus Männlichkeitskult Androzentrismus Machismo
+sensibel übelnehmerisch
+gefühlvoll warmherzig gemütvoll
+zusagen versichern zusichern beteuern
+starten abheben
+Perücke Fifi Toupet Zweithaar Haarersatz Zweitfrisur Haarteil
+bedauern dauern leidtun
+Frömmigkeit Gottesfurcht Gläubigkeit
+leisten ableisten schieben machen fahren
+verbinden zusammenkoppeln aneinanderkoppeln koppeln zusammenfügen verkoppeln
+Heiratsvermittlung Beziehungsanbahnung Eheanbahnung
+unreif unerwachsen
+isolieren abspalten separieren sondern segregieren trennen absondern
+Entwicklungsroman Bildungsroman Coming-of-Age-Roman
+Coming-of-Age-Erzählung Coming-of-Age-Story
+Glass-Ceiling-Effekt Aufstiegsbarriere
+Submissivität Unterwürfigkeit
+Mithaftung Mitverantwortung Sippenhaft
+Realerbteilungsrecht Realteilung
+Landeskrankenhaus Landesklinikum
+Leitartikel Editorial
+Kommentar Stellungnahme
+Beitrag Artikel Zeitungsartikel Text
+Übersteigerung Übertreibung Dramatisierung
+Mätzchen Effekthascherei
+Rorschach-Test Tintenkleckstest Rorschachtest Rorschach-Formdeuteversuch
+Metrik Abstandsfunktion
+versetzen verschaukeln verladen hängenlassen
+Informationsministerium Kommunikationsministerium
+frivol offenherzig gewagt freizügig
+Schälrippchen Spareribs
+wallen wogen wellen
+Nöte Probleme Sorgen Schwierigkeiten
+Seto-Binnenmeer Seto-Inlandsee
+Osmosekraftwerk Salzgradientenkraftwerk
+Amazonenstrom Amazonas
+gefallsüchtig effektheischend
+Insektenasyl Insektenhaus Insektenkasten Insektenhotel Insektenwand
+Stiftkrone Stiftzahn
+Torlinientechnik Torlinientechnologie
+Nebenwohnsitzsteuer Zweitwohnsitzsteuer Zweitwohnungsteuer Nebenwohnungsteuer Zweitwohnungssteuer Zweitwohnungsabgabe
+Zweitwohnsitz Nebenwohnung Zweitwohnung Nebenwohnsitz
+Sonderprüfung Wertungsprüfung
+Stuhlinkontinenz Darminkontinenz
+Kontinenzorgan Schließapparat
+Perianalabszess Periproktitis Paraproktitis
+Epicondylitis Epikodylose Epikondylopathie Epikondyalgie
+Tennisarm Tennisellenbogen
+Extensor Strecker
+Golferellenbogen Golferarm
+Flexor Beuger
+Ventralflexion Inklination
+Dorsalextension Dorsalflexion
+Auftragsvorbereitung Arbeitsvorbereitung
+E-Schicht Kennelly-Heaviside-Schicht
+Netzausbauplan Netzentwicklungsplan
+Molekulargastronomie Molekularküche
+Agrochemie Agrarchemie Agrikulturchemie
+Sprungschalter Schnappschalter
+Beipackzettel Packungsbeilage Waschzettel Produktinformation
+Netzwerklast Datenaufkommen Datenvolumen Traffic
+Datenfluss Datenverkehr
+einziehen einfahren
+ausziehen ausfahren hochfahren
+einfahren hineinfahren
+rundlaufen fluppen
+Gefieder Federkleid
+Farbe Färbung Farbschlag
+Inaktivität Passivität
+schubweise stoßweise
+Clownsnase Pappnase
+beinahe fast schier
+Nonkonformismus Nonkonformität Antikonformismus
+Eziden Yeziden Jesiden
+Nebenprodukt Abfallprodukt Spin-off Ableger
+erledigen klären regeln kümmern
+Idealtypus Idealtyp
+Wissenschaftslehre Wissenschaftstheorie Wissenschaftsphilosophie Wissenschaftslogik
+Registrierdatenbank Registrierungsdatenbank
+Aktionsplan Schlachtplan
+betreuen pflegen
+Kletterer Klettermaxe
+Blaumacher Laumalocher Leistungsverweigerer Verpisser Drückeberger
+verlassen vereinsamt verwaist zurückgelassen
+abgeschieden abgeschottet isoliert abgekapselt abgesondert
+geräumt evakuiert entvölkert
+Fingerzeig Hinweis
+drohen zusammenbrauen dräuen lauern nahen blühen
+Stimmungsmacher Antreiber Einpeitscher
+Kompromissvorschlag Entgegenkommen
+Stiftsdame Kanonisse Chorfrau Kanonissin
+schablonenhaft versatzstückartig vorgefertigt
+Biertulpe Tulpe
+Augenglas Bierkugel
+Mensurstiefel Stiefel Bierstiefel Glasstiefel
+Pint Pint-Glas Pinte
+Altbierglas Senfglas
+Melioration Meliorisation
+Gleis Geleise
+Rechtsetzung Gesetzgebungsverfahren
+Wolga-Ostsee-Kanal Wolga-Baltik-Kanal
+Subsidienregiment Mietregiment
+Microkernel Mikrokern
+Kätzchen-Weide Palmkatzlweide Salweide Palm-Weide Palmkätzchen Palmweide Kätzchenweide Sal-Weide
+uneins zerstritten entzweit verkracht
+kaputt zerrüttet
+Kosewort Hypokoristikum Kosename Koseform
+Verniedlichung Koseform
+Kanonissenstift Damenstift Frauenstift
+eskalieren zuspitzen ausarten verschärfen
+Gaumen Geschmack Geschmackssinn
+Nische Spezialgebiet
+glitzernd funkelnd blinkend
+glimmernd glimmend schimmernd
+reflektierend glänzend blank spiegelnd speckig
+Entlassungsbrief Befundbericht Epikrise Patientenbrief Arztbrief
+Bedienungstheorie Warteschlangentheorie
+Schalldeckel Kanzelhaube Kanzelhimmel Kanzeldeckel
+Zickzack-Faltung Ziehharmonika-Faltung Zickzackfaltung Leporellofaltung Ziehharmonikafaltung Leporello-Faltung
+Instrumentierung Instrumentation
+Orchestration Orchestrierung
+Pegeltrinker Spiegeltrinker
+Geburtszange Forzeps Forceps
+übereifrig eilfertig
+Schandgeld Judaslohn
+Blattmacher Zeitungsverleger Verleger
+Chefredakteur Chefredaktor Hauptschriftleiter
+Liedermacher Singer-Songwriter Barde Chanson-Sänger Chansonnier
+Frequenzumformer Frequenzwandler
+essigsauer ätzend aggressiv sauer zitronig
+scharf brennend heiß
+Randexistenz Marginalität
+scharf wütend gepfeffert geharnischt
+Hohlsprech Phrasendrescherei
+Hochleistungsschnittstahl HSS Hochleistungsschnellschnittstahl Hochleistungsschnellarbeitsstahl Schnellarbeitsstahl Schnellschnittstahl
+Demarkation Demarkierung
+Literaturverwaltungsprogramm Referenzmanager
+Scientometrie Szientometrie
+Kontrollstruktur Steuerkonstrukt
+Feuerfresser Feuerschlucker
+Blondkopf Blonder Blondschopf Blondling
+Nettozahler Geberland
+Emanzipation Abnabelung Selbstbefreiung
+Raketentriebwerk Raketenmotor
+Vorbeischwungmanöver Schwerkraftumlenkung Gravitationsmanöver
+Netzpublikation Online-Publikation
+Serialismus Serialität
+Guano Seevogeldünger
+nobel edel edelmütig gentlemanlike
+vorschlagen beantragen proponieren
+Souveränität Autonomie Selbstverwaltung Selbstbestimmtheit Unabhängigkeit
+Gegenlichtkompensation Gegenlichtausgleich
+Sprachgeographie Areallinguistik
+Anthroponymie Anthroponomastik
+Dialektatlas Sprachatlas
+Apophonie Ablaut
+Flexionsparadigma Wortparadigma
+Bleuel Wäschebleuel
+Schlegel Schlägel
+Mulchgerät Mähmulcher Mulcher
+Schlagwaffe Wuchtwaffe
+Endzeitvision Weltuntergangsszenario Untergangsszenario Endzeitszenario
+hölzern ungelenk unbeholfen unprofessionell
+Verkehrskollaps Verkehrsinfarkt
+Generationswechsel Generationenwechsel
+Ersatzlast Ballast
+Sequel Weiterführung Episode Fortsetzung
+Preiserhöhung Preiskorrektur Preisanpassung
+Grundstoff Ausgangsmaterial Ausgangsstoff Rohstoff Rohmaterial
+Titel Buchtitel Werktitel
+Nebentitel Titelergänzung Untertitel
+Filmtitel Titel
+Texttafel Zwischentitel
+Predigerorden Dominikaner
+Minoriten Franziskaner-Minoriten
+A-priori-Wahrscheinlichkeit Ursprungswahrscheinlichkeit Anfangswahrscheinlichkeit Vortestwahrscheinlichkeit
+Probabilität Wahrscheinlichkeit
+Vollzeitäquivalent Mitarbeiteräquivalent Vollbeschäftigteneinheit Vollkraft Vollzeitmitarbeiter Vollzeit-Arbeitskraft Mitarbeiterkapazität
+Feuerspektakel Feuerwerk
+Kapitalverzinsung Anlagenrendite Kapitalrentabilität Kapitalrendite Anlagenrentabilität Anlagenverzinsung
+Du-Pont-Kennzahlsystem Du-Pont-Schema
+Bilanzanalyse Jahresabschlussanalyse
+Aufstockung Akkumulation
+Sprechblase Textblase
+Logikgatter Gatter
+Nicht-Gatter Komplement-Gatter Inverter
+Umlaufschranke Umlaufgitter Umlaufschranken Drängelgitter Umlaufsperre
+Viehrost Weiderost Viehgitter
+Bewegungstherapie Heilgymnastik Kinesitherapie
+Übertragungsfunktion Systemfunktion
+Taupunkt Taupunkttemperatur
+Wasserdampfgehalt Feuchtigkeitsgrad Mischungsverhältnis
+Ruhemasse Masse
+Aspirationshygrometer Psychrometer
+Sonderfarbe Schmuckfarbe
+Satzspiegel Schriftspiegel
+Horizontalverschiebung Seitenverschiebung Blattverschiebung Transversalverschiebung
+Sprung Verwerfung Verschiebung Bruch
+Subfluenztheorie Unterströmungstheorie
+Kontraktionstheorie Schrumpfungstheorie Abkühlungstheorie
+Befehlszeileninterpreter Kommandozeileninterpreter Kommandointerpreter Befehlsinterpreter
+Prompt Eingabeaufforderung
+Echtzeit-Transaktionsverarbeitung Online-Transaktionsverarbeitung
+Rückplatte Busplatine
+Steckkarte Erweiterungskarte Elektronikkarte
+A*-Suche A*-Algorithmus
+Suchverfahren Suchalgorithmus
+Untermengensummenproblem Teilsummenproblem
+Nahinfrarotspektroskopie NIR-Spektroskopie
+Atomspektrometrie Atomspektroskopie
+Anti-Helmholtz-Spule Maxwell-Spule
+schwanken verändern flottieren wechseln alternieren fluktuieren
+Valuta Wertstellung
+Valutadatum Wertstellungsdatum
+Geldschuld Geldzahlungsschuld
+Rotbanner-Nordflotte Nordflotte
+Reptilienfonds Dispositionsfonds
+schwindelerregend schwindelnd
+Grafiksoftware Grafikprogramm
+Rendern Scankonvertierung Rasterung
+Radfahrstreifen Radstreifen Velostreifen
+Radverkehrsanlage Radfahranlage
+Jakobiter Jakobiten
+Distribuent Verteiler
+subventionieren stärken sponsern bezuschussen stützen unterstützen fördern
+Sattelpunkt Terrassenpunkt Horizontalwendepunkt
+Ratendarlehen Abzahlungsdarlehen Tilgungsdarlehen
+Diskontierungssummenfaktor Annuitätenbarwertfaktor Rentenbarwertfaktor
+Aufzinsung Askontierung
+Kalkulationszinsfuß Kalkulationszinssatz
+Nettobarwert Kapitalwert
+Barwert Gegenwartswert
+Kapitalmarktzins Geldmarktzins Marktzins
+Primärmarkt Emissionsmarkt
+Anschlusswert Anschlussleistung Scheinleistung
+Interne-Zinssatz-Methode Interne-Zinsfuß-Methode
+Rentabilitätsvergleichsrechnung Rentabilitätsrechnung
+Kapitalrückflussmethode Kapitalrückflussrechnung Amortisationsrechnung
+Amortisation Amortisierung
+herumspuken rumoren
+Sammelurkunde Globalurkunde
+Spezialitätsprinzip Bestimmtheitsgrundsatz
+Gesetzeskommentar Kommentar
+Geschäftstreuhand Treuunternehmen Treustiftung
+Filmcrew Crew Stab Filmstab
+Aufnahmeort Motiv Set Filmset Drehort
+Boykottieren Boykottierung
+Krankenbett Krankenlager
+Spritzstreckblasen Streckblasen
+Turtelei Liebesgeflüster Geturtel
+Salzgehalt Salzhaltigkeit Salzigkeit Salinität
+Granate Hammerschuss
+versponnen entrückt entschwebt weltfremd okkult
+Aufbewahrungsort Ablage Depot Lager
+Frontkämpfer Frontschwein Frontsoldat
+Bezugswert Handelsobjekt Basiswert
+Polschwankung Polbewegung
+Bedarfsflug Charterflug Anforderungsverkehr Orderverkehr
+Scheidebecher Absacker Schlürschluck Fluchtachterl Herrgöttli
+Feuerball Isothermalsphäre Feuerblase
+Großraumwagen Großraumstraßenbahn Straßenbahngroßraumwagen Großraumstraßenbahnwagen
+Wurfeisen Krähenfuß Fußangel
+Hauptburg Hochburg Kernburg
+Bermenmauer Grabenzwingermauer
+Baustoffwechsel Anabolismus
+Energiestoffwechsel Betriebsstoffwechsel
+Anorgasmie Orgasmushemmung
+Stellvertretung Vertretung Ersatz
+Abglanz Schimmer Widerschein
+Felsklettern Felsenklettern
+Perianalthrombose Perianalvenenthrombose Analthrombose
+Patronenlager Kammer
+gesondert extra separat getrennt
+ausdrücklich erklärtermaßen
+Kältesteppe Tundra
+unauffällig verhalten matt schwach unaufdringlich
+Brennebene Fourierebene
+Elektronenstrahlsystem Elektronenkanone Strahlsystem
+Elektronenstrahlung Kathodenstrahlen
+Strahlenpneumonitis Bestrahlungspneumonie
+Allwissenheit Omniszienz
+allwissend omniszient
+glitschen schlittern schliddern schlindern rutschen
+gleiten glitschen rutschen flutschen
+musartig pastös pampig mampfig breiartig musig breiig
+einkochen reduzieren
+Sagopalmfarne Cycas-Palmfarne
+Überhorizontrichtfunk Troposphärenfunk
+Schocker Gruselschocker Gruselfilm Horrorfilm
+Gruselschocker Horrorroman Schocker
+synchronisieren vertakten
+Pfotenabdruck Abdruck Fußabdruck Eindruck Trittsiegel
+traben schnüren
+Auftragsvolumen Größenordnung
+Anschlusszug Zugverbindung
+History Versionsgeschichte Verlauf Verlaufsprotokoll Chronik
+innerhalb hausintern intern
+Selbstdemontage Selbstzerfleischung Selbstzerstörung Kannibalismus
+nihilistisch selbstmörderisch todessehnsüchtig lebensverneinend
+unbeeindruckt kaltschnäuzig knochentrocken ungerührt
+versöhnungsbereit versöhnlich nachsichtig konziliant
+Klüpfel Klöpfel Knüpfel Klipfel
+Materialkosten Werkstoffkosten
+Fremdleistungskosten Dienstleistungskosten
+Vorkostenstelle Hilfskostenstelle Sekundärkostenstelle Nebenkostenstelle
+Ostzonenverzeichnis Ostliste
+Troll Störer Unruhestifter
+Wüterich Tobsüchtiger Tobender Rasender Wütender Berserker Randalierer
+Designerdroge Partydroge
+Feuerkröte Unke
+Großvaterrechte Bestandssicherung Besitzstandswahrung Bestandsgarantie Bestandsschutz
+Schmelzfeuerung Schmelzkammerfeuerung
+Streuwerttabelle Hashtabelle
+Roter-Punkt-Aktion Rote-Punkt-Aktion
+Gedankenspiel Gedankenexperiment Überlegung
+Europoolpalette Europalette
+Galeasse Galjäß
+Fauth Vogt Voigt
+Zirbe Zirbel Zirbelkiefer Arve Arbe
+Zwickeltag Brückentag Fenstertag
+zukunftsfest zukunftsfähig nachhaltig zukunftstauglich
+Flexi Flexidisc Schallfolie
+Pauschalabgabe Urheberrechtsabgabe
+Grillette Grilletta
+Bodenstruktur Bodengefüge
+Grundgefüge Primärgefüge
+Einzelkorngefüge Elementargefüge
+Hüllengefüge Kohärentgefüge
+Aggregatgefüge Aufbaugefüge Krümelgefüge
+Segregatgefüge Absonderungsgefüge
+Edaphon Bodenlebewesen
+Pflugsohlenverdichtung Pflugsohle
+Wellnessbereich Spa Wellnessoase
+DVD-Spieler DVD-Player DVD-Abspielgerät
+Sokal-Debatte Sokal-Kontroverse Sokal-Affäre
+Wiener-Filter Wiener-Kolmogoroff-Filter
+NV-Bescheinigung Nichtveranlagungsbescheinigung
+affirmativ jasagerisch liebedienerisch
+5-Zeller Hyperpyramide Hypertetraeder Pentachoron Pentatop
+Polychor Polychoron
+Hypertetraeder Simplex n-Simplex
+Transportkette Verkehrkette
+Blockzug Ganzzug
+Einzelwagenverkehr Wagenladungsverkehr
+Teilanschlussstelle Halbanschlussstelle
+Beförderungsklasse Serviceklasse Sitzklasse
+diplomatisch ausgleichend konfliktvermeidend
+Horizontalwinkel Azimutalwinkel
+Gefällmesser Gefällsmesser Gefällemesser
+Handgefällsmesser Handgefällemesser Handgefällmesser
+Überwerfungsbauwerk Kreuzungsbauwerk
+Abgesang Ausklang Abschied
+Magenkarzinom Magenkrebs
+Landkärtchenfalter Landkärtchen
+Präadaptation Voranpassung Präadaption Prädisposition
+Evangelisierung Evangelisation
+pointiert zugespitzt
+vornehm exklusiv nobel mondän fein extravagant elegant
+Décollement Ablederung
+Hypoderm Subdermis Subkutangewebe Subkutis Unterhaut
+Hypokaustum Hypokauste
+Mordwange Sühnestein
+Apside Apsis
+Riedname Flurname
+Gleisanschluss Anschlussgleis
+Umsetzgleis Umfahrgleis
+Umsetzendstelle Umsetzstelle Kuppelendstelle
+Zugfolgebetrieb Folgezugbetrieb
+Königszapfen Königsbolzen
+Netzbürger Netizen
+Scheren Scherschneiden
+Scherspalt Schneidspalt
+U-Bahn-Station U-Bahnhof
+ungeduldig fordernd
+Bergstock Bergmassiv
+Carlismus Karlismus
+Schwarzwirtschaft Untergrundwirtschaft Schattenwirtschaft Schwarzarbeit
+Zeitkorridor Zeitfenster
+Kordel Zierkordel Zierschnur
+Bindfaden Schnur Verpackungskordel Spagat Paketschnur Kordel Verpackungsschnur
+Strick Henkerstrick Strang
+Festmacherleine Trosse Festmacher Spring Leine
+Litzenleitung Seele Litze Ader
+Internetbuchungsmaschine Onlinebuchungsmaschine
+Ökumene Dauersiedlungsraum
+Hierarchie Machtverhältnis
+Teilnahmekarte Gewinnschein Teilnahmeschein Gewinnkarte
+Bordüre Borte
+Posament Applikation Besatz
+Papierband Papierschlange Luftschlange
+Wiederholung Neuauflage
+missgestaltet verwachsen verkrüppelt
+Storchenparkplatz Mutter-Kind-Parkplatz Eltern-Kind-Parkplatz Mutter-und-Kind-Parkplatz MuKi-Parkplatz
+Frauenparkplatz Damenparkplatz
+Parkfläche Parkplatz
+Aufstelltiefe Parkstandstiefe
+Anschlagtür Schwenktür
+Fitschenband Fischband Einstemmband
+Anschraubband Aufschraubband
+hineinschrauben anschrauben einschrauben
+Anschlagsrichtung Aufschlagrichtung Anschlagrichtung Aufschlagsrichtung Öffnungsrichtung
+Lebensmittelschädling Vorratsschädling
+Grafiktreiber Grafikkartentreiber
+Spiegelkugel Discokugel Diskokugel
+Coroutine Koroutine
+Untertyp Subtyp
+Hauptstrom Laststrom
+Tragriemen Gurt Riemen Tragband
+Business-to-Consumer Endkundengeschäft B2C Business-to-Customer
+Einkaufsliste Einkaufszettel
+Feinanteil Steinmehl Mehlkorn Füller Gesteinsmehl
+Quetschsand Brechsand
+S-Mine Springmine Splittermine Schrapnellmine
+vermeiden hüten
+Reichstagsgebäude Reichstag
+großzügig massiv
+Alma-Ata-Deklaration Alma-Ata-Erklärung
+Vereinsthaler Vereinstaler
+Valuationstabelle Valvationstabelle
+Guardein Wardein
+Konventionstaler Conventionstaler
+Tarnname Kryptonym Codename Kodename Deckname
+Finis Schlussvermerk
+unharmonisch dissonant unstimmig
+unbekehrbar verbissen unbelehrbar versessen fanatisch blindgläubig vernagelt zelotisch verbohrt
+Oberstleutnant Obristlieutenant
+Korps Verbindung Burschenschaft
+Wortverdreher Wortklauber Rabulist Verwirrer Silbenstecher Splitterrichter Sophist Täuscher Deutler Kasuist Haarspalter
+Schmuddelecke Schanddfleck
+Negativimage Negativschlagzeilen
+vergelten entlöhnen vergüten entgelten besolden bezahlen abgelten ausbezahlen entschädigen löhnen auszahlen entlohnen
+Gapsin-Putsch Gapsin-Revolution
+Flügelung Flügeln Zugteilung
+Sensationshunger Sensationsgier Sensationshascherei Sensationslust
+Hochkreuz Keltenkreuz
+Triskel Triskele
+Zymbal Zimbal Cimbalom Cymbalom
+Klangstäbe Claves Klanghölzer
+Nachrichtentrommel Buschtrommel Sprechtrommel
+Englisch-Horn Englischhorn Alt-Hoboe Altoboe
+Organologie Instrumentenkunde Musikinstrumentenkunde
+Anfall Fimmel Rappel
+Zentenar Hundertjährige
+Warteschleife Warterunden
+Omega-Verfahren Omega-Navigationsverfahren
+Lateration Trilateration
+Vermessungsnetz Netz
+Militärgeografie Militärgeographie
+Militärwissenschaft Kriegswissenschaft Wehrwissenschaft
+Hydrokultur Hydroponik
+Regizid Königsmord
+Wirkungsverlust Reibungsverlust Ineffizienz
+Sedezimalsystem Hexadezimalsystem
+freischlagen kahlschlagen freiholzen abholzen
+Betriebsmittel Systemressourcen Ressourcen
+loswerden abverkaufen
+Aktrice Schauspielerin
+Geschlechtsdrüse Keimdrüse Gonade
+Schlussformel Grußformel
+aktualisieren modernisieren updaten upgraden ajourieren
+Broca-Areal Broca-Zentrum
+Hirnrinde Cortex Kortex Pallium Hirnmantel
+Wernicke-Zentrum Wernicke-Region Wernicke-Areal
+PTC-Thermistor PTC-Widerstand Kaltleiter
+Heißleiter NTC-Thermistor NTC-Widerstand
+PPTC-Sicherung PTC-Sicherung
+Nuklid Atomsorte Nukleid
+Aktivität Zerfallsrate
+Aktivimeter Curiemeter
+Basentriplett Triplett Codon
+Startcodon Initiatorcodon
+Nukleinbasen Nucleinbasen Nukleobasen Nucleobasen
+Nucleotid Nukleotid
+einwerfen einwenden entgegnen kontern erwidern widersprechen entgegenhalten objizieren
+durchdringend scharf schneidend
+verwildert verwahrlost aufgelassen
+machohaft machomäßig chauvimäßig sexistisch chauvinistisch machistisch
+Überseechinese Auslandschinese
+Legistik Rechtsförmlichkeit
+IT-Recht Informationstechnologierecht
+Reinraumwerkbank Sterilbank Sterilkammer Sicherheitswerkbank
+Fließfertigung Reihenfertigung
+Diffusionsglühen Homogenisierungsglühen Ausgleichsglühen
+Homogenisieren Lösungsglühen
+Zellaufschluss Homogenisierung
+Diffusionskoeffizient Diffusionskonstante
+Wärmediffusivität Temperaturleitfähigkeit Temperaturleitzahl
+Elektronenblitzgerät Elektronenblitz Röhrenblitzgerät
+Vexierspiel Verwirrspiel
+Desinformation Falschinformation Fehlinformation
+Falschaussage Unwahrheit Lüge Schutzbehauptung
+Falschaussage Meineid Konfabulation
+Lügengestrüpp Lügengeflecht Lügengebilde Lügengespinst Lügengebäude
+Drescherhai Fuchshai
+Menschenhai Grauhai Grundhai Requiemhai
+Grauhai Kammzähnerhai
+Hochsee-Weißflossenhai Weißspitzen-Hochseehai
+Radkreuz Radmutternschlüssel Drehkreuz Kreuzschlüssel
+Internatsschule Schülerheim Internat
+Weiterbildungsinstitut Weiterbildungseinrichtung
+Preisgestaltung Preisfestlegung Preisfestsetzung
+Novemberkrise Herbstkrise
+Schwarzenberg-Bruck-Plan Schwarzenberg-Plan Siebzig-Millionen-Reich Großösterreich
+Dominante Oberdominante
+Reichskriegsministerium Reichswehrministerium
+Handelsministerium Wirtschaftsministerium
+Weltbühnenprozess Weltbühne-Prozess
+Thronhimmel Baldachin Himmel
+Schildhalter Wappenknecht
+Lichterscheinung Leuchterscheinung
+Holzstab Holzstock
+Deutschlandkette Schlandkette
+verdachtsunabhängig anlasslos
+Wasserkraft Hydroenergie
+Wasserkraftanlage Wasserkraftwerk
+Umformerwerk Bahnstromumformerwerk
+Bestandskunde Altkunde
+hintereinander nacheinander reihenweise hintereinanderweg
+Liniensystem Leitungssystem Linienorganisation
+Stellenbeschreibung Arbeitsplatzbeschreibung
+Opel-Mitarbeiter Opelaner
+BMW-Mitarbeiter BMWler
+Mittlere-Reife-Zug M-Zweig M-Zug M-Klasse
+Spendenempfänger Beihilfeempfänger Almosenempfänger Hilfeempfänger Hartz-IV-Empfänger
+Rechtsaugen-Flunder Scholle
+Sicherheitswache Bundessicherheitswachekorps
+Amyotrophie Muskelatrophie Muskelschwund
+Refsum-Syndrom Refsum-Kahlke-Krankheit Refsum-Thiébaut-Krankheit
+Nierenversagen Niereninsuffizienz
+Analgetikanephropathie Phenacetin-Niere
+Harnstau Harnstauung
+Urethralklappe Harnröhrenklappe
+Nierengift Nephrotoxin
+Antigen-Antikörper-Komplex Immunkomplex
+Askinanabolikum Anabolikum
+Atrioventrikularknoten AV-Knoten Aschoff-Tawara-Knoten
+Sinusknoten Keith-Flack-Knoten Sinuatrial-Knoten
+Sick-Sinus-Syndrom Sinusknotenerkrankung Sinusknotensyndrom
+Benoidgas Aërogengas Luftgas Aerogengas
+Testbenzin Siedegrenzbenzin
+Oldie Evergreen
+Dreamteam Idealbesetzung Spitzenmannschaft
+Keimbildung Nukleation
+Bänderton Warventon
+Warve Jahresschicht
+Warvenchronologie Bändertonkalender Bändertondatierung
+Expression Genexpression Exprimierung
+Embryonalhülle Eihaut
+Embryonalentwicklung Embryogenese
+Amniontier Nabeltier Amniot
+Endometrium Gebärmutterschleimhaut
+Sexualzyklus Brunstzyklus
+Endometriumkarzinom Korpuskarzinom Uteruskarzinom
+Amniotisches-Band-Syndrom Schnürringe
+Polyhydramnion Polyhydramnie Hydramnion
+Skelettdysplasie Osteochondrodysplasie
+Herzfehlbildung Herzfehler Herzvitium
+Knorpelwachstumsstörung Achondroplasie Chondrodysplasie
+Schildpattmuster Tortie
+Dilute-Gen Verdünnungsgen
+Zytogenetik Zellgenetik Cytogenetik
+Zeit-Weg-Diagramm Bildfahrplan
+Urbeginn Urgrund Quell Uranfang Urquell
+ungreifbar immateriell unfassbar intangibel
+Grenzenlosigkeit Uferlosigkeit Unendlichkeit
+Odysseus Listenreiche
+Ko-Kathedrale Konkathedrale
+Domkapitel Kathedralkapitel
+Schildkern-Technik Levalloistechnik
+Koralmbahn Koralpenbahn
+Karantanien Korotan
+Herbstzeitlose Herbst-Zeitlose
+Objektidentifizierung Duplikaterkennung
+eindrucksstark bildkräftig bildgewaltig eindrücklich
+Epochengemälde Zeitgemälde
+Heldensage Heldenepos Heldendichtung
+Dilatanz Scherverzähung
+Flussgeschwindigkeit Fließgeschwindigkeit Strömungsgeschwindigkeit
+Scherverdünnung Strukturviskosität Scherentzähung
+Antithixotropie Rheopexie
+scherverdünnend strukturviskos
+Esel Strafesel
+Vulkanit Extrusivgestein Effusivgestein Eruptivgestein Ergussgestein
+Kartenprüfnummer Sicherheitscode
+Quadratwurzel Wurzel
+Wohlfahrtsökonomie Wohlfahrtsökonomik Allokationstheorie
+Anfangsausstattung Nötigste Starterkit Grundausstattung Basics
+Marktgerechtigkeit Tauschgerechtigkeit
+routiniert geschliffen gekonnt gewandt
+bummeln zotteln trotten trollen schlendern
+hinterhertrotten hinterhertrollen
+Wallfahrt Hadsch Pilgerfahrt Pilgerreise
+Dschihadismus Jihadismus
+Religionskrieg Glaubenskrieg
+Artillerieortungsradar Artillerieradar Artillerieaufklärungsradar
+Drehflügler Drehflügelflugzeug Rotorflugzeug
+Chemiewaffenübereinkommen Chemiewaffenkonvention
+Mediastinum Mittelfellraum
+Mediastinalemphysem Pneumomediastinum
+Zisternenpunktion Suboccipitalpunktion Subokzipitalpunktion
+Heimlich-Manöver Heimlich-Handgriff Oberbauchkompression
+Suffokation Erstickung
+Bandstreifen Tänie
+Gedenkminute Schweigeminute
+Transportzeit Totzeit Laufzeit
+Nyquist-Plot Nyquist-Graph Nyquist-Diagramm
+Signumfunktion Vorzeichenfunktion
+Vorzeichen Signum
+Zeichentest Vorzeichentest
+Alternativhypothese Gegenhypothese
+Flaggleine Flaggenleine
+Buchstabenwappen Initialwappen
+Kadettenschule Kadettenanstalt
+Maisäß Hochsäß Niederleger Maien Maiensäß Vorsäß
+Schweighof Schwaighof
+Almwirtschaft Alpwirtschaft Bergweidewirtschaft Hochwirtschaft
+Transhumanz Wanderweidewirtschaft
+Sevennen Cevennen
+aktionsgeladen turbulent aktionsreich temporeich
+Haschee Haché
+U-Boot Nihilartikel
+Paradoxa Paradoxien
+Änderungswidmung Umwidmung Umstufung
+Einziehung Entwidmung
+Thronfolge Devolution
+Hund Hunt
+Anhänger Hänger
+Hubschraubersäge Helikoptersäge
+Pegeldifferenz Pegelunterschied
+Intensitätsinterferometer Korrelationsinterferometer
+Vierstreckensatz Strahlensatz
+Sonntagsfrage Wahlabsichtsfrage
+Reaktand Edukt Reaktant
+Operationismus Operationalismus
+Kanalkodierung Kanalcodierung
+Leitungscode Leitungskode
+Kraft-McMillan-Ungleichung Kraft-Ungleichung
+Arboreszenz Wurzelbaum
+Elter Vater Elterknoten Elternknoten
+Ecke Knoten
+Ordnungsdiagramm Liniendiagramm Hasse-Diagramm
+Komplementgraph Komplement
+Kantenkontraktion Kontraktion
+Adjazenzmatrix Nachbarschaftsmatrix
+Applikationsform Verabreichungsform
+Sacherschließung Inhaltserschließung
+Dokumentationswissenschaft Dokumentationsbewegung
+Katalogisierung Erschließung
+Cryptophon Cryptofon
+B-Kanal Nutzkanal
+Sender-Empfänger-Modell Shannon-Weaver-Modell
+Rufton Rufstrom Rufspannung Ruf
+R-Taste Rückfragetaste
+Datentaste Modemtaste
+Kommunikationssystem Kommunikationsnetz
+Edelmetall-Schnellschaltekontakt-Relais ESK-Relais Edelmetall-Schnellkontakt-Relais
+Nyquist-Shannon-Abtasttheorem WKS-Abtasttheorem
+bedenkenlos planlos ungehemmt
+Abfackelung Verbrennung Einäscherung Veraschung
+Erdbestattung Inhumation
+Karnevalslied Karnevalsschlager Fastnachtslied Faschingslied
+67P/Churyumov-Gerasimenko Tschurjumow-Gerassimenko Tschuri
+Artillerietraktor Artilleriezugmaschine Artillerieschlepper
+Stummelwort Abbreviatur Kurzwort Abkürzung Kurzbezeichnung Abbreviation
+Vokalisierung Vokalisation
+Vegetationszeit Vegetationsperiode Vegetationsphase
+Abrisskante Abbruchkante Bruchkante
+Fasanerie Fasanengarten Fasanenkammer
+Betschwester Frömmlerin Kirchenrutschn
+zündeln herumkokeln kokeln
+herausholen freibekommen losbekommen
+Standhaftigkeit Tapferkeit
+einfach umstandslos
+Hydrophyt Wasserpflanze
+Sumpfpflanze Helophyt
+Arundophyt Röhrichtpflanze
+Seichtwasserpflanze Tenagophyt
+Nassbodenpflanze Limosophyt
+Ionenaustauscher Ionentauscher
+Ionenaustauschchromatographie Ionenchromatographie
+Flüssigchromatographie Fluidchromatografie Fluidchromatographie Flüssigchromatografie
+Papierchromatografie Papierchromatographie
+Dünnschichtchromatografie Dünnschichtchromatographie
+Adsorptionschromatographie Adsorptionschromatografie
+Trennsäule Säule
+Entcarbonisierung Entkarbonisierung Dekarbonisierung
+Perlator Strahlregler Aerator Luftsprudler Mischdüse
+Königslachs Quinnat
+Hyposomatotropismus Wachstumshormonmangel
+Tripelpunkt Dreiphasenpunkt
+Sättigungsdampfdruck Gleichgewichtsdampfdruck
+Sauerstoffbar Sauerstofftankstelle
+Mekoniumaspirationsyndrom Mekoniumaspiration
+Deflation Sandflucht
+Lebensgemeinschaft Biozönose Biocoenose
+Fossilisationslehre Taphonomie
+Biostratinomie Biostratonomie
+Grabgemeinschaft Taphozönose
+Thanatocoenose Thanatozönose
+Pflanzengesellschaft Phytozönon
+Phytocoenose Phytozönose Pflanzengemeinschaft Phytozoenose
+Pflanzensoziologie Phytozönologie Vegetationsökologie
+Autoökologie Autökologie
+Bioökologie Ökologie
+Demökologie Populationsökologie
+Zeigerpflanze Indikatorpflanze
+Gitterfeldkartierung Rasterkartierung
+Topos Stereotyp
+Syllabogramm Silbenzeichen
+Mora More
+Morigkeit Silbengewicht
+Ultima Endsilbe
+Binnensilbe Mittelsilbe
+Silbenschwanz Koda Silbenende Silbenkoda Endrand Silbenauslaut
+Silbenanfang Silbenkopf Silbenanlaut Silbenansatz onset Anfangsrand
+Silbengipfel Silbenkern Nukleus
+Liquida Liquid Schwinglaut Fließlaut
+Phonotaktik Phonosyntax Phonotagmatik
+Vocoid Vokoid
+Silbengrenze Silbenjunktur Silbenfuge
+Gelenk Silbengelenk
+Anschlusskorrelation Silbenschnittkorrelation
+Laut Phon Sprachlaut
+Syllabizität Silbizität
+Lautdauer Lautlänge
+Geräuschkonsonant Obstruent Geräuschlaut
+Sonorlaut Sonorant
+Flächensteife Flächensteifigkeit
+Zentrifugalmoment Deviationsmoment Nebenträgheitsmoment
+Trägheitshauptachse Hauptachse Hauptträgheitsachse
+Drehachse Rotationsachse
+Gleitung Scherung
+Schubmittelpunkt Querkraftmittelpunkt Drillruhepunkt
+stadtfein ausgehfertig
+Gestaltungsraster Rastersystem
+Zwiebelfisch Fisch
+Ablette Laugele Laube Ukelei Zwiebelfisch
+Augenblicksbildung Okkasionalismus Gelegenheitsbildung Ad-hoc-Wortbildung Ad-hoc-Bildung
+Pseudo-Maschine P-Maschine
+Fehlbestand Inventurdifferenz
+Stimmungswandel Stimmungsumschwung Stimmungsänderung
+Farbquantisierung Farbreduktion
+Farbtabelle Farbpalette
+Dithering Fehlerdiffusion
+Quantisierungsabweichung Quantisierungsfehler
+Ultraschallbild Sonogramm
+Doppler-Fizeau-Effekt Doppler-Effekt
+Universalherrschaft Weltherrschaft
+Radiotelex Funkfernschreiben
+Telegrafie Telegraphie
+Abwehr-Enigma Zählwerksmaschine ENIGMA-G Enigma-G Zählwerks-Enigma
+Christbaumschmuck Christbaumkugel Lametta
+Geisterbär Kermodebär
+Geleitflugzeugträger Geleitträger
+Stiftungsrat Kuratorium
+Dienstpistole Ordonnanzwaffe Dienstwaffe
+Comicalbum Comicbuch Comicbook
+Einzelbildtechnik Stop-Motion Einzelbildaufnahme Einzelbild-Technik
+Objektanimation 3D-Animation
+Legofilm Brickfilm
+Allee Baumstraße
+orthodox dogmatisch streng puristisch
+orthodox buchstabengetreu
+Wahrheitsbehauptung Wahrheitsanspruch
+Unbelehrbarer Hundertprozentiger Betonkopf Kommisskopf Sturkopf Dickschädel
+Lebensstandard Lebensqualität Lebensbedingungen
+Verkehrsinfrastruktur Transportinfrastruktur
+Kaventsmann Monsterwelle Riesenwelle
+Bakteriophage Phage
+Viron Virion
+Kapsid Capsid
+Protocyte Procyte
+Geißel Flagellum
+Murein Polysaccharid-Peptid Peptidoglykan Peptidoglycan
+Makromolekül Riesenmolekül
+Pulsarwind-Nebel Plerion
+Gramfärbung Gram-Färbung
+Iod-Kaliumiodid-Lösung Iod-Iodkalium
+Gentianaviolett Kristallviolett
+zweibeinig biped
+quadruped vierfüßig vierbeinig
+Speicherloch Speicherleck
+Wärmeübergangszahl Wärmeübergangskoeffizient Wärmeübertragungskoeffizient
+Phasengrenze Grenzfläche
+Erdrinde Erdkruste
+evangelisch-lutherisch lutherisch
+Energieversorgung Stromversorgung
+Landstadt Oppidum Ackerbürgerstadt Provinznest
+Ort Ortschaft Gemeinde
+Doku-Parodie Mockumentary
+Verbindungsgraben Laufgraben
+Scharte Schießscharte
+Traverse Zwerchwall
+Rikoschettschuss Prellschuss
+Gefallsucht Eitelkeit Koketterie
+Dandytum Stutzerhaftigkeit Geckenhaftigkeit Affigkeit
+Vornehmtuerei Dünkelhaftigkeit Snobismus
+Spleenhaftigkeit Extravaganz Exaltiertheit Exzentrizität Überspanntheit Exzentrik
+Ziereremit Schmuckeremit
+Eishai Grönlandhai
+Lenkradsperre Lenkradschloss
+entlöten auslöten
+Katzenstaupe Katzenseuche Katzenpest Agranulomatose Aleukozytose Panleukopenie
+Postknecht Postreiter
+Postkurs Poststraße Postroute Postlinie
+Niedersächsisch Westniederdeutsch
+Übersetzer Transcompiler Transpiler
+Kompilator Übersetzer Kompiler Compiler Kompilierer
+Naturgewalten Elemente Naturkräfte Urgewalten
+Unteraufgabe Teilaufgabe
+Gemeinböhmisch Gemeintschechisch
+Ruthenisch Russinisch
+Russinen Karpatenrussinen Karpatorussen Rusniaken Russynen Ungarnrussinen Ruthenen Karpato-Ukrainer
+Wicklungsverluste Kupferverluste
+Dynamoblech Motorenblech
+Transformatorenblech Kernblech
+Restverlust Nachwirkungsverlust Viskositätsverlust
+Fußgängerampel Fußgängersignalanlage Fußgängerschutzanlage
+Signalnotprogramm Ersatzsignalprogramm
+Idealanspruch Quote
+Einpendlerüberschuss Pendlerüberschuss
+Multilokalität Mehrörtigkeit
+Lastenseilbahn Materialseilbahn
+erneuern umgestalten reorganisieren umbauen umbilden reformieren restrukturieren
+Fehlerhäufigkeit Fehlerdichte Fehlerrate Fehlerquotient
+Prozesslenkung Prozessregelung Prozesssteuerung
+Statusregister Zustandsregister
+Steradiant Sterad
+Fatalist Schicksalsergebener Schicksalsgläubiger
+Speigatt Wasserpforte Speigat
+Eigeninitiative Selbstständigkeit
+Selbstbezug Autoreferenz Selbstreferenz
+Bodenabzieher Wasserschieber Flitsche Gummiwischer Abzieher
+Zwistel Zwuschel Zwockel Zwille Kreuzbergschleuder Gambel Steinschleuder Katschi Zwackel Schlatte Flitsch Fletsche Katapult Schlatsche Spatzenschießer Schleuder Katsch
+Irrlicht Irrwisch Sumpflicht
+Staatswald Staatsforst
+Staatsbesitz Staatseigentum
+Waldinventur Forstinventur
+Forsteinrichtung Forsttaxation Forstabschätzung Taxation
+Habitatbaum Biotopbaum
+Seitenkanalattacke Seitenkanalangriff
+Staatstheorie Staatsphilosophie
+Sozialschmarotzer Arbeitsverweigerer
+Geschäftsplan Businessplan
+Kardia Cardia Magenmund
+Javaneraffe Langschwanzmakak Krabbenesser
+Meerkatzenverwandter Hundsaffe
+Produktschlüssel Lizenzschlüssel Schlüsselcode
+Serienfotografie Reihenfotografie
+Chronofotografie Fotochronografie
+Projektionsapparat Projektionsgerät Vorführgerät Projektor Bildwerfer
+Lebensrad Wunderrad Phantaskop Phenakistiskop Phanakistiskop
+Filmprojektor Laufbildprojektor
+Zweithörer Gaststudierender Gaststudent
+Gasthörer Hörer Hospitant
+Mehrfachimmatrikulation Doppelstudium Parallelstudium
+Bildwiederholrate Bildwiederholfrequenz
+Horizontalfrequenz Zeilenfrequenz
+Deltamodulation Δ-M Δ-Modulation
+Pulsphasenmodulation Pulspositionsmodulation
+Zettelwirtschaft Loseblattsammlung
+Seltene-Erden-Magnet Seltenerdmagnet
+Angrenzer Anstößer Anlieger Grundstücksnachbar Anrainer Anwohner Nachbar
+Vorgangs-Knoten-Darstellung Tätigkeits-Knoten-Darstellung Metra-Potenzial-Methode
+Kollisionstheorie Stoßtheorie
+Umkehrzahl Invertzahl Kehrzahl Spiegelzahl
+Arrheniusgraph Arrheniusdarstellung Arrheniusplot
+Sommerresidenz Sommerschloss
+Sommeraufenthalt Sommerwohnsitz
+Statuten Verfahrensregeln Satzung
+Gebetsfahne Gebetsflagge
+Namensänderung Umbenennung
+Anlaufpunkt Ansprechpunkt Auskunftsstelle
+Urinteststreifen Urinstick
+eingetrocknet schrumpfig verhutzelt vertrocknet schrumpelig eingeschrumpelt hutzelig verschrumpelt
+wettergegerbt faltig zerfurcht
+Lackmusstreifen Lackmuspapier
+grannig borstig stoppelig
+Weltgetriebe Weltgeschehen
+Landtagsmarschall Landmarschall
+Parlamentspräsident Parlamentssprecher
+erfreut anerkennend wohlgefällig
+Nacktnasenaffe Feuchtnasenprimat Feuchtnasenaffe
+Kleinlemur Katzenmaki
+Giftspritze Todesspritze
+Grundierung Primer Grundfarbe
+Ausgangsfarbe Grundfarbe Kardinalfarbe
+Weinkellner Sommelier
+Souterrainwohnung Tiefparterre Souterrain Kellerwohnung
+Trance Hypnose Entrückung
+Einkaufsboulevard Ladenstraße Geschäftsstraße Einkaufsstraße Einkaufsmeile
+Z-Baum Zukunftsbaum
+Dauerwald Dauermischwald
+Rücken Schwelle
+Gakkelrücken Nansenrücken Hackelrücken
+Erdaltertum Paläozoikum Erdaltzeit
+Erdzeitalter Zeitalter Ära
+Steinzeit Lithikum
+Erdmittelalter Erdmittelzeit Mesozoikum
+Lithosphärenplatte Kontinentalplatte
+Herdmechanismus Herdprozess Herdvorgang
+Bruchtektonik Bruchschollentektonik
+Santon Santonium
+Chronostratigrafie Chronostratigraphie
+Semmeringfenster Semmeringsystem
+Schäfchenwolke Bilderbuchwolke
+Wirren Umbruch Chaos
+Duckmäuserei Duckmäusertum Untertanengeist
+Unterwürfigkeit Kriecherei Speichelleckerei
+plus positiv
+Thronräuber Usurpator
+Holländerwindmühle Kappenwindmühle
+Bockwindmühle Kastenmühle Ständermühle
+Hüftkopfnekrose Femurnekrose
+Erdgastrasse Erdgas-Trasse
+Bahnknoten Eisenbahnknoten Eisenbahnknotenpunkt Schienenkreuz
+Kommentare Begleitmusik Kommentierung
+Schneekanone Schneilanze Schneelanze Schneeerzeuger
+Haupthistokompatibilitätskomplex Hauptgewebeverträglichkeitskomplex
+Disulfidbindung Disulfidbrückenbindung Disulfidbrücke
+Präkursor-Protein Propeptid
+Immunpräzipitation Immunopräzipitation
+Förster-Resonanzenergietransfer Fluoreszenz-Resonanzenergietransfer
+Fahrbetrieb Fahrgeschäft
+Medikamentenmissbrauch Medikamentenabhängigkeit Tablettenmissbrauch Tablettenabhängigkeit Arzneimittelmissbrauch Tablettensucht
+Lastganglinie Lastgangkennlinie Lastprofil Lastgang Lastkurve
+bösartig fies schlecht übel böswillig sauber gemein böse
+Iranistik Irankunde
+vorausschauenderweise umsichtigerweise intelligenterweise klugerweise klüglich
+Ruhrbesetzung Ruhreinmarsch Ruhrinvasion Ruhrkrise
+Kriegskredit Kriegsanleihe
+Secondhandshop Brocki Brockenhaus
+Paketzusteller Paketbote
+knotig verwachsen knorrig
+bäurisch erdverbunden
+unverzeihlich unentschuldbar
+Passerelle-Regelung Passerelle-Klausel Brückenklausel
+wach munter wachend vigil frisch rege ansprechbar
+Blutdiamant Konfliktdiamant
+Konfliktressource Konfliktrohstoff Konfliktmineral
+Coltan Koltan
+Ressourcenfluch Ressourcenfalle
+Bandgenerator Van-de-Graaff-Generator
+Weiterverbreitung Waffenverbreitung Proliferation Weitergabe
+Ordensgelübde Profess
+Konventsmesse Konventmesse
+Brautmesse Brautamt
+Alexandria Alexandrien
+Machwerk Schundwerk
+Fluse Fussel
+Kopierschutz Kopiersperre
+Afrikaans Kapholländisch Kolonial-Niederländisch
+Awestisch Avestisch
+Paschtunisch Paschto Paschtu
+Funkalphabet Buchstabiertafel Telefonalphabet Buchstabieralphabet Fliegeralphabet
+Pannationalismus Panbewegung Panideologie
+Eigentümlichkeit Art Charakter Gepräge Wesen Eigenart
+Wohnfolgeordnung Wohnsitzregel Residenzregel
+Stammmutter Ahnmutter Ahnherrin Ahnfrau
+Ponor Schwinde Bachschwinde Schluckloch Schwalgloch
+Trope Tropus Tropos
+leptosom ektomorph
+Konstitutionstyp Körperbautyp
+pyknomorph endomorph
+Klampe U-Hakerl Krampen Klampfen Klampen Agraffe Klampfe Krampe
+Haftel Heftel Hafte Häftel
+Nichtschülerabiturprüfung Externenprüfung Fremdenprüfung Nichtschülerabitur
+Infektionsrisiko Ansteckungsgefahr
+Stahlwerker Stahlkocher
+Werkerziehung Werkunterricht Werken
+Besenbeiz Straußwirtschaft
+Annäherungsgraben Sappe Laufgraben
+Standardsprache Gemeinsprache
+Störung Dislokation
+Filialunternehmen Mehrbetriebsunternehmen Filialist
+Schlucht-Weide Gebirgs-Weide
+Waagepunkt Herbstpunkt
+Äquinoktie Äquinoktialpunkt
+vorurteilsgeprägt vorurteilsbeladen voreingenommen vorurteilsbehaftet befangen
+Christenheit Christen
+Kirchenlatein Küchenlatein Vulgärlatein
+würdevoll andachtsvoll feierlich weihevoll gemessen andächtig
+ehrfurchtgebietend achtunggebietend majestätisch hoheitsvoll souverän erhaben
+Lexikometrie Lexikostatistik
+Häufigkeitswörterbuch Frequenzwörterbuch
+Gas-Ultrazentrifuge Gaszentrifuge
+Gagelstrauch Gagel
+Grefe Grebe Gräffe Greve
+Gogericht Gowgericht Gohgericht
+Thing Ding Thaiding
+Höft Stack Buhne Kribbe Schlenge Schlacht
+USB-Stick USB-Speicher-Stick Zumpferl
+Kubakrokodil Rautenkrokodil
+Saltie Salzwasserkrokodil Leistenkrokodil
+Hörmander-Klasse Symbolklasse
+Halbnorm Seminorm
+Glashauseffekt Treibhauseffekt
+Nanothermit Superthermit
+Luhn-Algorithmus Luhn-Formel
+sinnleer sinnlos sinnentleert
+verlieren vergehen
+Kernchemie Nuklearchemie
+Kernchemiker Nuklearchemiker
+Philanthropismus Philanthropinismus
+Scheinwissenschaft Pseudowissenschaft
+Arierschein Ariernachweis
+Sternlespeier Sternspucker Sternensprüher Sternspritzer Sprühkerze Spautzemännchen Sternwerfer Sternsprüher Wunderkerze Spritzkerze Sternschneuzer Sternchenfeuer Sternenspritzer
+Zugriff! Angriff! Attacke!
+Müsliesser Körnerfresser
+Flatrate-Trinken Flatrate-Saufen
+sehr ganz total herzlich
+hingucken hinschauen
+Koranvers Aya Sure
+wirtschaftsschwach abgehängt strukturschwach
+Nahostkonflikt Israel-Palästina-Konflikt
+Pflock Zapfen Pinn Dolle
+Stift Stäbchen Pinneken Holznagel Holzstift Metallstift Pinnchen
+Besucheransturm Massenandrang Massenansturm Besucherandrang
+Massenprodukt Massenware Dutzendware Massenartikel
+CL-Signaturverfahren Camenisch-Lysyanskaya-Signaturverfahren
+Erzeugermatrix Generatormatrix
+Einnahmenüberschussrechnung Einnahmen-Ausgaben-Rechnung
+Setzstock Pflanzstock Setzholz
+Hüllenlosigkeit Nacktsein Nudität Blöße Nacktheit
+eindeutig glatt klar
+dreist frech unverschämterweise frechweg glatt kaltschnäuzig unverfrorenerweise
+Kaninchenhunger Kaninchen-Auszehrung
+Wehrmedizin Militärmedizin
+vorwärmen anwärmen
+auseinanderbekommen auseinanderdividieren auseinanderbringen
+gebietsweise regional
+Referenz Fundstelle Quellennachweis Literaturangabe Quellenangabe Beleg
+Handreichung Begleittext
+kontextfrei isoliert
+Hintergrundgeräusche Atmo
+Bankauskunft Bonitätsbewertung Bonitätsauskunft Schufa-Auskunft
+Warentrenner Trennstab Warentrennstab Trennholz
+Kiefernartige Nadelgehölz Konifere Nadelhölzer Pinales Coniferales Nadelholzgewächs
+niederschlagen flachlegen umhauen niederstrecken ausknocken zusammenschlagen
+Binnennachfrage Inlandsnachfrage
+Histaminose Histamin-Intoleranz
+handheld mobil transportabel portabel
+Backshop Schnellbäcker Schnellbäckerei Selbstbedienungsbäckerei SB-Bäckerei
+Ladenlokal Geschäftsräume Geschäftslokal Lokal Etablissement
+Lebensmittelgeschäft Lebensmittelladen Kolonialwarenladen Kolonialwarengeschäft
+Bäckerladen Brotgeschäft Bäckerei
+Feinkostgeschäft Delikatessengeschäft
+Fajumporträt Mumienporträt
+Komplementär-Darlington-Schaltung Sziklai-Paar
+Monster Missgeburt Monstrum
+Erbgutveränderung Mutation
+Sonderausgabe Imprint-Auflage Imprint-Ausgabe Buchclubausgabe
+Reduzierung Abbau Reduktion Dezimierung Kürzung Verringerung Verkleinerung Beschneidung Herabsetzung Senkung Minderung Verminderung
+Schönredner Beschöniger Tatsachenverdreher
+unverzichtbar obligatorisch Muss Must-have
+Wackelkontakt Wackler
+Todesschlaf Topor Präkoma Sopor
+Hypersomnie Schlafsucht
+Nordstern Angelstern Polaris Polarstern
+Alkor Augenprüfer Reiterlein
+Quarzstaublunge Silikose
+Herzgehirn Herzintelligenz
+Achtzylindermotor Achtender
+Fünfzylindermotor Fünfender
+Zehnzylindermotor Zehnender
+Dreizylindermotor Dreiender
+Methanbildner Methanogene
+Hungaristen Pfeilkreuzler
+Elektroneurographie Elektroneurografie
+Elektromyografie Elektromyographie
+Selbsthypnose Autohypnose
+kapern entern entführen hijacken
+Siegel Siegelstempel Petschaft
+starten aufbrechen abmarschieren ausrücken
+Kasperletheater Kasperltheater Kaspertheater
+verpassen erteilen geben
+Fastnachtskampagne Karnevalssession Karnevalszeit Fastnachtszeit Fastnachtssession Karnevalskampagne
+gesellschaftsfähig anständig vorzeigbar präsentabel
+Hobelbank Werkbank
+Werktisch Arbeitstisch
+Unrecht Gesetzwidrigkeit Ungerechtigkeit Tort
+Lasterhöhle Sündenpfuhl
+liederlich verkommen verwahrlost verrucht verworfen versaut verderbt lasterhaft verdorben sittenlos sündig
+Kurzerzählung Kurzgeschichte
+Schauerballade Bänkellied Bänkelsong Moritat
+Ballade Erzählgedicht
+Abfahrt Skipiste Hang Piste
+Anführer Babo Boss
+Ganymed Ganymedes
+Romanze Liebesfilm
+beaufschlagen beschicken ausstatten
+dicht voll üppig
+Showdown Entscheidungsschlacht
+Abtreibungsgegner Lebensrechtsbewegung Lebensschutzbewegung
+Schoppensalamander Salamander
+Philisterium Altherrenschaft
+Studentinnenverbindung Damenverbindung
+konjugieren flektieren beugen
+winken zuwinken
+Szenenbuch Storyboard
+Pulverauftragschweißen Laserauftragschweißen
+Auftragschweißen Cladding
+halbmast halbstocks
+Enduro Geländemotorrad
+Engramm Erinnerungsbild
+terrestrisch landgestützt erdgebunden irdisch
+Müdigkeit Schlafdruck Schlafbedürfnis
+Zwölffingerdarmgeschwür Duodenalulkus
+einführen besetzen schaffen einsetzen einweihen inaugurieren
+Amtseinführung Investitur Amtseinsetzung Besetzung Installation Einsetzung Inauguration Einführung
+Kaufkraft Geldwert
+Fundgegenstand Fundstück Fund Fundobjekt
+Kniebeuge Niederknien
+Stuckkünstler Stuckarbeiter Stuckateur Gipser Putzer Verputzer
+Skonto Barzahlungsnachlass Rechnungsabzug
+Todesfatwa Mordaufruf
+Hyperinfektion Superinfektion Suprainfektion
+Erstinfektion Primärinfektion
+Zweitinfektion Sekundärinfektion
+Candidamycosis Kandidamykose Candidosis Candidiasis Kandidose
+Soor Moniliasis
+Cytomegalievirus Zytomegalievirus
+DNA-Virus DNS-Virus
+Doppelinfektion Koinfektion
+Protozoeninfektion Protozoonose
+Gebieterin Zuchtmeisterin Domse Mistress Herrin Domina
+Reizentzug Reizdeprivation
+Säuglingsheim Säuglingsklinik
+Ober Oberkellner
+Standardmessunsicherheit Unsicherheit Standardunsicherheit Messunsicherheit
+Dimensionsbetrachtung Dimensionsprobe Einheitenbetrachtung
+Wutzwerg Rumpelstilzchen
+Synthesizer Synthi
+Elektrophon Elektrofon
+Textverarbeitungssoftware Textverarbeitung Textverarbeitungsprogramm Schreibprogramm
+Weinbrand Cognac Kognak
+Straßenkunst Straßenmalerei Streetart Street-Art
+Milchmixgetränk Milchmischgetränk
+Milchshake Milkshake
+Flachrechner Tablet-PC Tablet Tablet-Computer Tabletcomputer
+I-Pad iPad
+Ganzfruchtgetränk Smoothie
+Fassadenvorbau Auslucht Vorbau Erker
+Veranda Beischlag Terrasse
+Flugbahnwagen Schienenzeppelin
+Trans-Europ-Express TEE
+Bismarckdenkmal Bismarckturm
+einscannen erfassen einlesen
+Veresterung Esterbildung
+Glykane Mehrfachzucker Vielfachzucker Polysaccharid Glycane Polyosen
+Brenztraubensäure Acetylameisensäure
+Ketocarbonsäure Oxosäure Ketosäure
+Gluconeogenese Glukoneogenese
+Milchsäureethylester Ethyllactat 2-Hydroxypropionsäureethylester
+Italienisierung Italianisierung
+Burschensprache Studentensprache
+Laktat Lactat
+Milchsäure 2-Hydroxypropansäure 2-Hydroxypropionsäure
+Hydroxycarbonsäure Hydroxysäure Oxysäure
+Carboxygruppe Carboxylgruppe
+Wegweiserbrücke Verkehrszeichenbrücke Schilderbrücke
+Seitenstreifen Abstellstreifen
+Bundesautobahn BAB Autobahn
+LED-Lampe LED-Leuchtmittel LED-Birne LED-Glühbirne
+angrabschen antatschen begrabschen betatschen
+Metrik Softwaremetrik
+Affinität Anklang Reminiszenz
+Dalian-Yantai-Tunnel Bohai-Tunnel
+Farbfrosch Pfeilgiftfrosch Baumsteigerfrosch
+Froschlurche Anura
+Kompressionssyndrom Crush-Syndrom
+Privileg Vergünstigung Gunst Vorteil Vorzug
+Begünstigung Besserstellung Privilegierung Bevorzugung
+Minderwuchs Kleinwüchsigkeit Zwergwuchs Kleinwuchs Mikrosomie
+Vorlage Muster Modell Blaupause
+Klangwirkung Klangbeschaffenheit Akustik
+Wolfsmensch Werwolf
+Märchenfigur Märchengestalt Sagengestalt
+Schneeweißchen Schneewittchen
+Augenerkrankung Augenkrankheit
+Hippus Augenzwinkern
+Augenentzündung Ophthalmie
+verwöhnen lobhudeln pampern
+Stimulans Genussmittel Stimulanzien
+Tabakspfeife Pfeife
+Nikotin Nicotin
+Couchgarnitur Sitzgruppe Sitzlandschaft Polstergarnitur
+Balkanschnitzel Paprikaschnitzel Pusztaschnitzel Zigeunerschnitzel
+Strich Anschaffe Straßenstrich
+siderisch sideral sternbezogen
+Schiffschaukel Schiffsschaukel
+Achterbahn Berg-und-Tal-Bahn Hochschaubahn
+Benachrichtigung Meldung Info Nachricht Mitteilung Memo Notiz Stellungnahme
+Schaubude Jahrmarktsbude Spielbude
+Kinderbilderbuch Bilderbuch
+Wimmelbilderbuch Wimmelbuch
+Extremität Ausgeprägtheit Extremheit Extremsein
+Wärmeleitschweißen Wärmeleitungsschweißen
+Kettenflieger Kettenprater Kettenkarussell
+Rücklage Erspartes Spargroschen Ersparnis Reserve Zurückgelegtes Notgroschen
+Spareinlage Sparbetrag Sparguthaben
+Guthaben Plus Haben Aktivposten
+Heerbann Heermannie
+Anteilschein Aktie Anteilsschein
+MDAX Midcap-DAX
+Smallcap-DAX SDAX
+Geldmittel Geldvorrat Reserve Vermögensreserve Fonds Geldbestand
+Rentenfonds Anleihenfonds
+Aprikosenschnaps Aprikosenbrand Abricotine
+Culture-Clash-Komödie Culture-Clash-Comedy Kulturschock-Komödie Fish-out-of-water-Komödie
+Buchstabenrätsel Anagramm Schüttelwort Letterwechsel Letterkehr
+Verschlossensein Verschlossenheit
+Monsun Monsunwind
+Rhein Rhenus
+Hedge-Fonds Hedgefonds
+Lasertiefschweißen Tiefschweißen
+zahlenmäßig numerisch nummerisch
+Internet-Banking Onlinebanking Internetbanking
+Telebanking Phonebanking Telefonbanking
+Wolke Cloud Datenwolke Rechnerwolke
+Cloudcomputing Cloud-Computing
+Dotcom-Krise Dotcomkrise
+Selbstverständlichkeit Binsenwahrheit Offensichtlichkeit Grundwahrheit
+spärlich winzig zart
+auseinanderstieben ausschwärmen auseinanderlaufen verteilen
+Fortschrittsglaube Fortschrittsoptimismus
+Lockspitzel Anstifter
+Streuselkuchen Beerdigungskuchen
+schwerbehindert körperbehindert versehrt schwerbeschädigt
+Straßenglätte Winterglätte Glatteis
+Organisationswiki Unternehmenswiki Firmenwiki
+Affluenza Überflusskrankheit
+Lebenswandel Lebensführung
+wittern spüren
+spekulieren mutmaßen annehmen
+Dinett Teewagen Servierwagen
+Anisschnaps Ouzo Pastis Arak Raki
+autsch! aua! au!
+Neo-Jazz Nujazz Jazz-Hop Electro-Lounge Electro-Jazz Phusion
+trüb fahl matt
+Nutzererfahrung Anwendererlebnis Nutzungserlebnis Benutzererfahrung Nutzererlebnis
+Buggy VW-Buggy
+Partnervermittlung Partneragentur
+Partnerbörse Online-Partnerbörse Online-Partneragentur
+Straßengüterverkehr Güterkraftverkehr
+Marsianer Marsmensch
+Champagner Schampus
+so dahingehend derart
+Handout Papier Paper Tischvorlage Handreichung
+schlüpfrig schmierig anzüglich eindeutig-zweideutig zweideutig unanständig frivol pikant
+saftig gesalzen rustikal unfein deftig gepfeffert derb ungehobelt handfest
+andeutend anspielungsreich zweideutig doppelbödig anspielend mehrdeutig
+exhibitionistisch zeigefreudig
+zeigen demonstrieren
+Wendewort Palindrom
+regelkonform wohlgeformt sprachrichtig grammatikkonform grammatisch korrekt
+Begrenzungslicht Standlicht
+Kurvenstar Sexsymbol Sexgöttin Sexbombe
+Straßenräumlampe Frontblitzer
+Mannschaftstransportwagen Mannschaftswagen Mannschaftstransportfahrzeug
+Kennzeichenleuchte Kontrollschildbeleuchtung Kennzeichenbeleuchtung
+Kraftfahrzeugkennzeichen Kontrollschild
+Rückfahrlicht Rückfahrscheinwerfer
+Hoare-Logik Hoare-Kalkül
+Schlussregel Inferenzregel
+Umformungsregel Transformationsregel
+Knotenpunkt Nodalpunkt
+Dandy-Walker-Fehlbildung Dandy-Walker-Syndrom Dandy-Walker-Malformation
+Ordensname Mönchsname
+Grammatik Sprachlehre
+Regelapparat Grammatik Regeln Regelwerk Sprachbau
+ungrammatisch regelwidrig
+Actioner Actionfilm
+Filmgenre Filmgattung
+approximieren annähern
+heißgeliebt vielgeliebt
+Eisenbahngesellschaft Bahn Bahngesellschaft Eisenbahnunternehmen
+möglich möglicherweise allfällig gegebenenfalls denkbar eventuell eventuell etwaig
+Passphrase Mantra
+wirr wild abstrus konfus abenteuerlich wüst
+Geschäftsidee Geschäftsmodell Unternehmenskonzept
+fleischfressend karnivor zoophag
+Sonnentau Drosera
+Kannenpflanze Nepenthes
+Venusfliegenfalle Fliegenfalle
+Schlachtgetümmel Kampfgetümmel Schlachtgewühl
+voraus vorweg vorab
+Intercom Sprechanlage
+Sex-Appeal Sexappeal
+befreit entlastet erleichtert heilfroh erlöst
+Sondereinladung Extraeinladung
+It-Girl Partygirl
+gewinnen unterkriegen durchsetzen niederringen
+Slivowitz Zwetschgenschnaps Zwetschgenbrand Zwetschgenwasser
+Perkussionist Schlagwerker
+Altenteiler Auszügler
+Leibzucht Leibgeding
+Witthum Widum Wittum
+Doppelalbum Doppel-LP Album
+Doppelalbum 2-CD-Box Doppel-CD
+Kapitalgut Investitionsgut
+bewaffnet waffentragend
+Chruschtschow-Ultimatum Berlin-Ultimatum
+Arisierer Ariseur
+Netzhautheilkunde Retinologie Netzhautchirurgie
+Porajmos Porrajmos
+rekonstruktiv wiederherstellend
+Eugenetik Rassenhygiene Eugenik
+Pondoland Mpondoland
+Behandlungsfehler Kunstfehler
+Hauptwohnung Hauptwohnsitz
+Fahrradlicht Fahrradbeleuchtung Lichtanlage
+1a-Zustand unbenutzt Top-Zustand makellos ungelesen
+Bestellerkredit Finanzkredit
+Exportkreditversicherung Ausfuhrversicherung Exportrisikoversicherung
+Äquivalenzprinzip Versicherungsprinzip
+Kundenberatungszentrum Customer-Care-Center Callcenter Call-Center Telefonberatungszentrum Kundenbetreuungszentrum
+gegenwärtig aktuell derzeitig augenblicklich momentan heutig nunmehrig jetzig
+Stierhai Sambesihai Bullenhai
+weinen schreien krähen
+Aufbaurollladen Aufsatzrollladen
+Rollladenpanzer Rollpanzer
+g-Wert Energiedurchlassgrad
+crossmedial medienübergreifend
+Reservebank Ersatzbank
+anbauen anpflanzen kultivieren ziehen
+herstellen produzieren erzeugen
+Größenordnung Potenz
+speziell eigen
+Proportionalzählrohr Proportionalzähler
+Turmhügelburg Erdkegelburg Erdhügelburg Motte
+zweimähdig zweischürig
+Schwereanomalie Gravitationsanomalie
+Schwerebeschleunigung Fallbeschleunigung Schwere
+Bezugsfläche Referenzfläche
+Regimentschef Regimentsinhaber
+Nutzwertanalyse Punktbewertungsverfahren Punktwertverfahren
+videowall Videowand Großbildschirm
+E-Buch Digitalbuch
+Anaglyphenbild Anaglyphe
+Gabelung Abzweig Autobahngabelung
+Kardiotokographie Kardiotokografie
+Herzschlagfrequenz Herzfrequenz
+Erziehungsgehalt Erziehungsprämie Betreuungsgeld Hausfrauengehalt Erziehungsbonus
+Zeltling Pavillon Überdachung Gartenpavillon
+Abstellplatz Unterstand Carport Autounterstand Unterstellmöglichkeit Schutzdach
+Arbeitsraum Atelier Werkraum
+Fabrikationsstätte Produktionsstätte
+Industriebetrieb Produktionshalle
+Alluvialboden Anspülung Alluvion Alluvium Anschwemmung
+Elektronenmikroskop Übermikroskop
+Modularisierung Komponentisierung
+Sammelwerk Herausgeberschrift
+Monographie Monografie
+scharenweise zahlreich waggonweise busweise massenhaft zuhauf
+Geograf Geograph
+Kumpanei Komplizenschaft
+Kumpanei Anbiederungsversuch
+Grundstock Anfangsbestand
+Privatrecht Zivilrecht
+Abmarkung Bannstein Grenzstein Markstein
+Klathrat Clathrat
+Paneuropaunion Paneuropa-Union
+Panasiatismus Panasienbewegung Panasianismus
+Panlatinismus Panlateinismus
+Panrumänismus Panromanismus
+Hispanität Spaniertum
+Mitspracherecht Mitentscheidungsrecht
+Regierungschef Staatenlenker Kabinettschef Staatschef
+Rektor Direx Schulleiter
+Tretboot Pedalo
+beherbergen umfassen enthalten unterbringen aufnehmen
+Datenbankindex Index
+Zippverschluss Reißverschluss
+Islandit Andesit
+Rotte Herde Trupp Koppel Gruppe Schule Rudel Meute Schwarm Sprung
+Kohlroulade Kohlrolle Krautwickel Krautwurst
+Divisionär Divisionsgeneral
+Sandalenfilm Antikfilm Peplum Antikenfilm
+Weltpriester Diözesanpriester
+Mäzenat Mäzen
+Meiji-Zeit Meiji-Ära Meiji-Periode
+Colbertismus Merkantilismus
+Weißbrot Weizenbrot Stuten
+Knalltüte Klatsche
+schläfrig somnolent schlaftrunken benommen
+Biotopverbund Biotopvernetzung
+Schwarzkittel Wildschwein
+Istgleichzeichen Gleichheitszeichen
+entmutigt demoralisiert decouragiert
+kleinmütig mutlos verzagt kleingläubig
+Paarmenge Paar Zweiermenge
+Intelligenzmodell Intelligenztheorie
+down bedrückt depri deprimiert niedergeschlagen
+Alphabettafel Seelenschreiber Ouija Witchboard Hexenbrett
+produktiv gelungen erfolgreich fruchtbringend gewinnbringend
+Nullebene Basement
+Ankerwährung Leitwährung
+Nominal Münznominal
+Albus Weißpfennig
+Schneeberger Mutgroschen Zinsgroschen
+Sechsling Sößling Sechser
+Translozierung Transferierung
+Dwinabusen Dwinabucht
+Kolbenbannerzug Saubannerzug
+Papstpalast Vatikanpalast
+Katzbalger Landsknechtsschwert
+Knüppelweg Bohlenweg Prügelweg Knüppeldamm
+Währungssystem Währungsordnung
+Einlagensicherung Guthabensicherung
+Stückzins Marchzins
+Aktiendarlehen Aktienleihe
+Blankokredit Blankodarlehen
+Beleihungsgrenze Beleihungssatz
+Kreditsicherheit Kreditsicherung
+Parteiprogramm Grundsatzprogramm
+Pflasterdecke Pflasterung
+Schotterweg Sandweg
+Behelfsstraße Baustellenzufahrt Baustraße Fahrweg
+freischaufeln freimachen
+Hollywood Traumfabrik
+umstellbar vertauschbar kommutativ permutierbar kommutabel
+Block Scholle Bruchflügel
+Störungslinie Verwerfungslinie Bruchlinie
+Matrjoschka Matroschka
+Brenzcatechinamine Catecholamine Katecholamine
+Hilfsaktion Rettungsaktion
+Offenbarungseid EV
+Parallelität Nebenläufigkeit
+Remake Neuverfilmung
+Neuaufnahme Neufassung Coverversion Neueinspielung
+Geldwesen Finanzwesen
+Gemischschmierung Mischungsschmierung
+Gartenkolonie Laubenkolonie
+Papierwaren Papeterie Papierwarenhandlung
+Schweifklammer Nasenklammer Akkolade
+Frontalunterricht Klassenunterricht
+Verteilungsregel Verteilungsprinzip
+Münzwäscherei Waschsalon
+Holzsandale Kläpperchen Kläpperkes
+Holzpantoffel Clog Klotschen
+Arbeitsschuh Sicherheitsschuh
+Pfennigabsatz Bleistiftabsatz
+Suchtstoffübereinkommen Betäubungsmittelkonventionen
+Nebeneffekt Seiteneffekt
+Fußballdrama Fußballkrimi
+Lebensraumtyp FFH-Lebensraumtyp
+Vordüne Primärdüne
+Sekundärdüne Haldendüne Weißdüne
+Frauenschuh Marienfrauenschuh Gelb-Frauenschuh
+Bädertherapie Balneotherapie
+Strukturanalyse Strukturaufklärung
+Silberspiegelprobe Tollensprobe
+Iodoformprobe Lieben-Reaktion
+Eisüberzug Klareis
+Eiskorn Hagelkorn
+Hagelschlag Hagelschauer
+Psychoanalytiker Analytiker
+Joggingschuh Laufschuh
+Nedelin-Katastrophe Nedelin-Desaster
+Godiva-Reaktor Godiva-Apparat
+Abdominalsyndrom Pseudoperitonitis Scheinperitonitis
+Ischurie Harnverhalt Harnverhaltung
+Tanzwut Choreomania Tanzplage Tanzsucht Tanzkrankheit
+Bühnenarbeiter Kulissenschieber
+Aktionsturbine Impulsturbine Gleichdruckturbine
+K.-o.-System Einzelausscheidung
+Balkenverband Gebälk Balkenwerk
+souverän sicher überlegen gelassen
+Sicherheitsbehälter Containment
+Reaktorkessel Reaktordruckbehälter
+Grafiktablett Digitalisiertablett
+Spielekonsole Spielkonsole
+Konsolenspiel Konsolengame
+PC-Spiel Computergame Computerspiel PC-Game
+Unterschriftenpad Signaturtablett
+Marionettenpolitiker Politmarionette
+Polypgreifer Spinne Mehrschalengreifer Schrottgreifer
+Einachsschlepper Einachser Einachstraktor
+Siemens-Schuckertwerke Siemens-Schuckert
+Treuhandanstalt Treuhand
+steiermärkisch steirisch
+Pangaea Pangäa Pangea
+Begriffsverhältnis Begriffsbeziehung
+Eindachhof Einhof Einfirsthof
+Einfirsthaus Einhaus
+Ostfriesenhaus Gulfhof Gulfhaus
+Hauberg Haubarg
+Utlande Uthlande
+Haufenhof Gruppenhof
+Orientierungsmaßstab Handlungsmaxime Richtschnur
+Tonwelle Capstan
+Mockbuster Knockbuster
+Lotos Lotosblume
+Abstreitbarkeit Bestreitbarkeit
+Darstellungsmatrix Abbildungsmatrix
+Gelenkwagen Gelenkzug Gelenker Gliederbus Schlenker Ziehharmonikabus Gelenkbus Schlenki
+Gelenkfahrzeug Gliederfahrzeug
+Solobus Normalbus Solowagen
+Harmonikainstrument Harmonika
+Krankenakte Patientenakte
+Selbstauskunft Eigenauskunft
+Harmonikatür Falttür Ziehharmonikatür
+Nagelband Nagelkette Nagelstreifen Reifenkiller Nagelsperre Nagelgurt
+sammelnd anhäufend zusammentragend
+Positivismus Empirismus
+Naturwissenschaft Naturforschung Naturlehre
+Pferdemensch Kentaur Zentaur
+Eibe Taxus
+Schirmföhre Parapluie-Baum
+gedeihen aufblühen
+austreiben hervorsprießen ausschlagen sprießen treiben
+Spektrograf Spektrograph
+Wildform Wildtyp
+Nutzsorte Nutzpflanze
+Obstbaumwiese Bungert Bongert Bitz Obstwiese Streuobstwiese Obstgarten
+Windfarm Windpark
+Ravennagras Elefantengras
+Elefantengras Napiergras Uganda-Gras
+Wichtigtuer Gschaftlhuber Großtuer
+durchdringend dominant intensiv aufdringlich stark penetrant
+gewaltsam gewalthaft brachial
+ausgefranst fransig
+Mindesteinkommen Grundeinkommen
+Sturmwind Sturm Windsbraut
+Zivilist Zivilperson
+Q-Schlüssel Q-Gruppen
+wegrauchen aufrauchen
+erfahren sein erleben haben
+Leadsänger Frontsänger
+Gewissensfrage Gretchenfrage
+Gretchenfrage Kernfrage Kardinalfrage Schlüsselfrage Hauptfrage
+Feme Veme
+Postwachstum Wachstumswende Entwachstum Wachstumsrücknahme
+Schwarzenhäupter Schwarzhäupter
+Bauensemble Bauwerksensemble Ensemble Gebäudeensemble
+wegrutschen abgleiten abrutschen
+Führungstraining Führungskräftetraining
+Umlegung Baulandumlegung
+Felsenbeinpyramide Felsenbein Pyramis
+momentweise augenblicksweise
+etappenweise episodisch phasenweise
+schablonenhaft floskelhaft schablonesk formelhaft
+sprichwörtlich idiomatisch redensartlich phraseologisch
+Harnleitermündung Uretermündung Ureterostium
+Gesichtslähmung Fazialislähmung Fazialisparese
+Verfall Schwund Mangelernährung Marasmus Phthise Phthisis Abbau Degeneration Kachexie
+Transimpedanzverstärker I-U-Wandler Strom-Spannungs-Wandler
+Goldman-Hodgkin-Katz-Gleichung GHK-Gleichung Goldman-Gleichung
+Membranpotential Transmembranpotential
+Konzentrationselement Konzentrationszelle
+Siachen-Konflikt Siachen-Krieg
+Vorkurs Vorbereitungskurs Propädeutikum Vorkursus Einführungsveranstaltung
+Kostenwahrheit Verursachungsgerechtigkeit
+Adschara Adscharien
+Kalmückien Kalmükien Kalmykien
+Handzuginstrumentenmacher Harmonikamacher
+Holzblasinstrumentenmacher Holzblasinstrumentenbauer
+Blechblasinstrumentenbauer Metallblasinstrumentenmacher
+Instrumentenbauer Instrumentenmacher
+Verwestlichung Westernisierung
+Bergamtsbuch Bergbuch
+Bergrevier Bergbaurevier
+Backe-Plan Hungerplan
+Randalationsversuch Randalierversuch Randaleversuch
+Westkurdistan Rojava Rodschawa
+Akkusationsprinzip Anklagegrundsatz
+Prozessgrundsatz Prozessmaxime
+Verhandlungsgrundsatz Beibringungsgrundsatz
+Zivilverfahrensrecht Zivilprozessrecht
+Zivilprozess Zivilverfahren
+Strafprozess Strafverfahren
+Dispositionsmaxime Verfügungsgrundsatz
+Offizialprinzip Offizialmaxime
+Gon Neugrad
+Spannweite Stützweite
+ausgemacht haarsträubend hagebüchen beispiellos unfassbar hanebüchen
+geerdet masseführend
+Carnot-Kreisprozess Carnot-Prozess
+Autobahnrasthof Autobahnraststätte Autobahnraststation Autobahnrastplatz Autobahnrastanlage
+alkoholsüchtig alkoholabhängig alkoholkrank trunksüchtig versoffen
+Johannisbeerlikör Cassis
+Ristgriff Oberhandgriff
+Kammgriff Untergriff
+Transalaikette Transalai Transalaigebirge
+Nationaleinkommen Sozialprodukt
+Nettonationaleinkommen Nettosozialprodukt
+Leuchtspurmunition Glimmspurmunition
+Frühbeet Anzuchtbeet Mistbeet
+Pflanzfläche Plantage Anpflanzung
+erschummeln ermogeln
+Lourdesgrotte Mariengrotte
+Farbbuch Buntbuch
+Generalstabsakademie Generalstabsschule Kriegsakademie Führungsakademie
+Ovarialzyklus Menstruationszyklus
+Delimitation Grenzberichtigung
+Grenzvertrag Grenzabkommen
+erwartbar normal
+Rassenlehre Rassentheorie Rassenkunde
+Indoeuropäer Indogermane
+Sattelanhänger Sattelauflieger Auflieger
+Wagenkasten Lokomotivkasten
+Kneipp-Therapie Kneipp-Medizin
+Quotenhit Quotenrenner
+Anscheinsbeweis Prima-facie-Beweis
+Rundholz Bloch Blochholz
+schleierhaft mysteriös Geheimnis verborgen rätselhaft unklar
+Scheitholz Scheitholt
+unpräzise vage ungenau unscharf unspezifisch unklar wischi-waschi unsauber schwammig
+Hitzeflimmern Luftflimmern
+Schachty-Prozess Schachty-Affäre
+Spezifikation Einteilung
+Besatzungsrecht Okkupationsrecht
+Röntgenstrukturanalyse Röntgenkristallographie
+Verteilungszahl Wahlzahl
+Auszugshaus Ausziehhaus Ausgedinghaus Austragshaus Ausgedingehaus Ellerhaus Stöckli
+Dungau Gäuboden
+Selbstmordversuch Suizidversuch
+Nizza-Klassifikation Markenklassifikation
+Markenzeichen Marke
+Jugendkonzentrationslager Jugendschutzlager Jugendverwahrlager
+Maisonette Maisonettewohnung Maisonnette
+Knopfharmonika Knopfakkordeon
+Turbulator Turbulenzgenerator
+Vortexgenerator Wirbelgenerator
+übelberaten schlechtberaten
+Dreiländereck Länderdreieck
+Einsatzbereitschaft Einsatzfähigkeit
+Kreuzallergie Kreuzreaktion
+Kastanienball Kastanienballett Kastanien-Orgie Kastanienbankett
+Aserbaidschan-Türkisch Aserbaidschanisch
+Malabarisch Malayalam
+Südasien Vorderindien
+Zentralfeuerpatrone Zentralfeuermunition
+Kurbellenkerachse Traghebelachse
+Klimahütte Wetterhäuschen Stevenson-Hütte Thermometerhütte Wetterhütte
+Thermohygrograph Thermo-Hygrograph
+Papierlaterne Laterne Lampion
+Solvabilität Eigenmittelausstattung
+Liquidierbarkeit Flüssigkeit
+Wettersteindolomit Wettersteinkalk
+Anisium Anis
+Karnium Karn
+Laboratoriumsmedizin Labormedizin
+pathognostisch pathognomonisch
+Dopplung Doppelung
+Tierhalter Tierbesitzer
+Symboltakt-Synchronisation Taktrückgewinnung
+Konzertreihe Konzertzyklus
+Mozartiade Mozart-Festspiele
+Soirée Soiree Konzertabend
+Vormittagskonzert Matinée Konzertvormittag
+hochkant aufgestellt
+Handelspreisempfehlung Händlerpreisempfehlung
+Differentiation Differenziation
+Steigung Anstieg
+Jacobi-Matrix Ableitungsmatrix Funktionalmatrix
+Bijektivität Eineindeutigkeit
+Differentialblutbild Differenzialblutbild
+Hämogramm Blutbild
+Gematria Gematrie Gimatria
+Wüstenluchs Karakal
+Judenhelfer Judenretter
+Ungarnsturm Ungarneinfall
+Massage Lymphdrainage
+Zukunft Futur
+Verbform Verbkategorie
+Tätigkeitsform Aktiv
+Passiv Leideform
+werden-Passiv Vorgangspassiv
+sein-Passiv Zustandspassiv
+modal modusbezogen
+zukünftig futurisch
+Vergangenheitstempus Vergangenheitszeit
+Kleidergröße Konfektionsgröße Kleidungsgröße
+Rentenalter Pensionsalter Ruhestand Rente
+Herkulesstaude Herkuleskraut Bärenkralle Riesenbärenklau Riesen-Bärenklau
+Verbalaspekt Aspekt
+Akzidenz Akzidens
+Geistesstörung Geisteskrankheit
+Hirschferkel Zwergböckchen
+Lernwort Vokabel
+Fachwortschatz Nomenklatur Terminologie Fachsprache Begrifflichkeit Fachterminologie Fachausdrücke
+Notation Codierung
+Titel Werkbezeichnung Werkname Werktitel
+Länderkürzel Länderkennzeichen Ländercodes
+Tabaksucht Nikotinsucht
+dauerhaft reell stabil solide langlebig wertbeständig währschaft
+Thymus Bries
+unterstützen kümmern versorgen betreuen helfen
+Nebensächlichkeit Belangloses Belanglosigkeiten Vermischtes Trivia
+Klebefleisch Analogschinken Formfleisch
+Blutstuhl Hämatochezie Rektalblutung
+Speiseröhrenkrebs Ösophaguskarzinom
+Ginko Fächerblattbaum Ginkgo
+Fliegerangriff Luftangriff Luftschlag
+Schnelldenker Blitzmerker
+Bromcyan Bromcyanid Campilit
+E-Mobil Elektromobil
+zertreten tottreten kaputttreten
+Flexionselement Flexionsmittel
+Derivationsverfahren Ableitungsverfahren
+Ableitungsmittel Derivationsmittel
+Außenschmarotzer Außenparasit Ektoparasit
+Modalwort Kommentaradverb Satzadverb
+Lokaladverb Ortsadverb
+Temporaladverb Zeitadverb
+Interrogativadverb Frageadverb
+Abstammungsgutachten Vaterschaftstest
+Unterhaltungsfilm Popcornkino Unterhaltungskino
+Autorenkino Autorenfilm
+erstaunlicherweise unglaublicherweise überraschenderweise
+Kosovokrieg Kosovo-Konflikt
+Teilübereinstimmung Ähnlichkeiten Gemeinsamkeiten Parallelen
+sein zeigen darstellen darstellen ausmachen
+Hedonistin Genießerin Genussmensch Partyluder Lebedame
+Ingermanisch Ingrisch Ischorisch
+Alarmglocke Sturmglocke Feuerglocke
+Sprengstoffgürtel Sprengstoffweste
+Fruchtgelee Gelee
+Formationsrunde Einführungsrunde
+komparieren steigern
+drängend vorrangig dringend akut eilig eilbedürftig prioritär dringlich vordringlich
+drängen pressieren eilen
+Botaniker Pflanzenkundler Pflanzenforscher
+Floriansjünger Feuerwehrmann
+Stahlkappenstiefel Springerstiefel
+reaktionsschnell geistesgegenwärtig flink
+Busfahrstreifen Busfahrspur Bussonderspur Bussonderfahrstreifen Busspur
+Stereovilli Stereozilie
+Wolff-Gang Urnierengang
+Nebenhodenentzündung Epididymitis
+Durchschnittsverdiener Normalverdiener
+Bezugsperson Vertrauensperson
+Cutman Schnellbehandler
+Korreferent Zweitgutachter
+Dependenz Abhängigkeitsbeziehung Abhängen Angewiesen-Sein Abhängigkeitsverhältnis Bedingtheit Determiniertheit Angewiesenheit Abhängig-Sein Abhängigkeit
+drucken bringen abdrucken
+Musikschrank Musiktruhe Musikmöbel
+einberufen zusammenrufen herbeirufen zusammentrommeln
+Nebenstrecke Geheimweg Schleichweg Nebenweg
+Wandersymbol Wegmarkierung Wandermarkierung Wegzeichen
+Manntag Personentag
+Waldweg Forstweg
+Trolley Rollkoffer Reisekoffer Koffer
+Zwickl Zwickelbier Kellerbier
+Märzenbier Märzen
+Exportbier Export
+Stütze Stunze Steize
+Unkrautvernichter Herbizid Unkrautbekämpfungsmittel Unkrautvernichtungsmittel
+Brandwand Brandmauer Feuermauer Brandschutzwand
+reibungslos unterbrechungsfrei
+exzessiv wild zuchtlos hemmungslos orgiastisch zügellos ausschweifend
+Affinerie Scheideanstalt
+Atomausstieg Kernkraftausstieg Atomverzicht
+Druckerpatrone Tintenpatrone
+Schwerverbrechen Kapitalverbrechen Kapitaldelikt
+Rahmenhandlung Rahmenerzählung
+Ehrenbürger Honoratior
+Herstellungskosten Herstellkosten Anschaffungskosten Gestehungskosten Fertigungskosten
+entschärfen abmildern
+abfälschen verfälschen
+MakerSpace Makerspace FabLab
+Verschwörungstheorie Konspirationstheorie Konspirationismus
+Denazifikation Denazifizierung Entnazifizierung
+leichtgängig laufruhig reibungslos ruckfrei ruckelfrei
+Transsumpt Insert
+Wachszinspflichtiger Wachszinsiger
+Mühlenteich Mühlenweiher Mühlteich
+Mühlgraben Mühlengraben Mühlkanal
+Mühlbach Mühlenbach
+Lampe Latüchte Leuchte Licht
+Schuldknechtschaft Obnoxiation
+Suppenküche Suppenanstalt Volksküche Gassenküche
+Schlitzkabel Leckkabel Leckleitung Strahlerkabel
+Bosman-Entscheidung Bosman-Urteil
+Stromschlüssel Elektrolytbrücke Salzbrücke
+hüsteln räuspern
+Schlangenphobie Schlangenangst Ophidiophobie
+Vertragshafen Traktatshafen
+Durchflusszeit Totzeit
+Bodenzahl Trennstufenzahl
+Satellitenbus Satellitenplattform
+Bockbrücke Gerüstpfeilerviadukt
+Endverkaufspreis Straßenpreis
+Gleichgewichtspreis Marktpreis
+Kastenbrot Kommissbrot
+Melanocyt Melanozyt
+Anoderm Analschleimhaut Analkanalhaut Analhaut
+Chorioidea Aderhaut Choroidea
+Lederhaut Sclera
+Springteufel Kastenteufel Schachtelteufel
+weitere mehr zusätzliche
+topp! abgemacht!
+ernährungsbezogen nutritiv
+doch! wohl!
+Handstreich Schlag Coup Operation
+Eineinhalbdecker Anderthalbdecker
+unsensibel unglücklich verunglückt ungeschickt undiplomatisch
+Normandie-Format Normandie-Quartett
+Russophobie Russenfeindlichkeit Antirussismus
+Antigräzismus Griechenfeindlichkeit
+Türkenfeindlichkeit Türkenphobie
+Arabophobie Antiarabismus
+Drei-Elementen-Lehre Drei-Elemente-Lehre
+Südostwall Reichsschutzstellung
+Negride Negroide
+Regelkarte Qualitätsregelkarte
+Radebrechen Rädern
+Armenhaus Ptochodochium
+Oberingenieur Chefingenieur
+Auspendlergemeinde Wegpendlergemeinde Pendlergemeinde
+Blutgerücht Ritualmordlegende Blutanklage Blutbeschuldigung
+Hydrostößel Hydraulikstößel
+Fühlerlehre Fächerspion
+Härtetest Belastungsprobe Stresstest
+Bildungsbürger Citoyen
+Bedeutungsbestandteil Sem
+Biometrie Körpervermessung
+parterre ebenerdig
+Wortfamilie Lexemverband
+Dörfler Dorfbewohner Dorfmensch
+Bundesversammlung Bundestag
+Föderationssowjet Föderationsrat
+Bürgerkammer Abgeordnetenkammer Unterhaus
+Kontrollraum K-Raum
+Führerverordnung Führererlass
+Pferdetram Rösslitram Pferdestraßenbahn Pferdeeisenbahn Pferdebahn
+Abschiebungshaft Ausschaffungshaft Schubhaft Abschiebehaft
+Namenspapier Rektapapier
+Ramadan-Krieg Jom-Kippur-Krieg Oktoberkrieg
+Junikrieg Sechstagekrieg
+Sinai-Krieg Suezkrise Sueskrise Suezkrieg Sinai-Feldzug
+Ermüdungskrieg Abnutzungskrieg
+Libanonkrieg Libanon-Feldzug
+Nullarbor-Wüste Nullarbor-Ebene
+Gollasch Gulasch Gujasch Goulasch Gulyas
+Klobassi Burenwurst Klobasse Klobassa
+Würstelgulasch Wurstgulasch
+Verteidiger Abwehrspieler
+Freischicht Freizeitausgleich
+Trockentoilette Plumpsklo
+Konfessionsschule Bekenntnisschule
+Religionsgespräch Kolloquium Disputation
+studieren durcharbeiten durchackern
+verlesen vorlesen
+Schweinkram Schweinigelei Schmuddelkram Ferkelei
+überhaucht bereift
+bereift beringt
+interesselos absichtslos
+US-Staatsangehörigkeit US-Staatsbürgerschaft
+Investor-Staat-Vertrag Investitionsvertrag
+Sagenkreis Sagenzyklus
+Sagen-Universum Sagenwelt Saga
+Wunschwelt Märchenwelt
+Weißstickerei Tüllspitze Nadelspitze Häkelspitze Strickspitze Borte Klöppelspitze Zierband Spitze Reticella-Spitze Guipure Occhi
+Progression Progress Progredienz
+episodisch phasenhaft
+zyklisch rhythmisch
+Ernährung Nutrition
+Angstanfall Panikattacke Angstzustände
+Kuschelsex Blümchensex
+Kapitalbilanz Kapitalverkehrsbilanz
+Drittland Drittstaat
+Nehrung Sandhaken
+Schnarrer Ersatzstimme Electrolarynx
+Friedhofsbahn Friedhofsumlaufbahn Friedhofsorbit
+Mittelgangwagen Durchgangswagen Großraumwagen
+Unerschrockenheit Furchtlosigkeit
+wucherisch exorbitant horrend überhöht überteuert
+Birnbaum Birnenbaum
+Turbinentauchpumpe Turbotauchpumpe
+Obstbaukunde Pomologie
+Pomologe Obstkundler
+Vinkulierung Vinkulation
+Leistenregion Leistengegend
+Hodenbruch Hodensackbruch
+Gefrierschutzmittel Frostschutzmittel
+Spektralverteilung Spektrum Frequenzspektrum
+F-Schlepp Flugzeugschlepp
+Addison-Schilder-Syndrom Adrenoleukodystrophie
+Abetalipoproteinämie Bassen-Kornzweig-Syndrom Akanthozytose
+Überträger Konduktor
+Babinski-Zeichen Babinski-Reflex
+Magenlähmung Gastroparese Magenatonie
+Aussprache Lauterzeugung Artikulation Lautgebung Phonation Lautbildung Sprechweise
+Erfolgszwang Leistungsdruck
+Verkabelung Kabelage Kabelnetz
+Chemikant Chemieverfahrenstechniker
+Übertreibungen Exzesse Auswüchse
+auflassen stilllegen
+Wurfgeschoss Wurfgegenstand
+Feldherr Heerführer Schlachtenlenker
+Guang-Stadt Kanton Guangzhou
+Mezzanine-Kapital Mezzanine-Finanzierung
+Selbstübereinstimmung Parität Identität Gleichheit Nämlichkeit Egalität Kongruenz
+Zesteur Zestenreißer Zestenreibe Zestenschneider Zestenschäler
+Gurkenhobel Gemüsehobel
+Durchgangsstadium Übergangszeit Übergangsphase
+Feldulme Iper
+Einstein-Hilbert-Gleichung Einsteingleichung Gravitationsgleichung
+Pökel Sur
+Unterengadinisch Vallader
+Sprachvarietät Varietät
+Seltenheit Ausgefallenheit Exotik Außergewöhnlichkeit Fremdheit
+Samenplasma Seminalplasma
+Jen-Mo-Punkt Saxonus Millionen-Dollar-Punkt
+G-Punkt G-Zone G-Spot Gräfenberg-Zone
+Kallikrein-3 Semenogelase
+Lernmittelfreiheit Lehrmittelfreiheit
+Valoren Schmucksachen Wertsachen Wertpapiere Wertgegenstände
+Fragment Teil Teilstück Bruchstück Scherbel Stück Scherbe Splitter
+besessen teuflisch böse dämonisch
+herunterwürgen devorieren hinunterwürgen verschlingen verschlucken runterschlucken hinterschlucken
+Römersalat Kochsalat
+König Schah
+Namenschrist Taufscheinchrist
+Fersentalerisch Mochenisch
+zumachen schließen zuziehen
+Reizgas Tränengas
+Schädlingsbekämpfungsmittel Pestizid Biozid
+Ovidukt Eileiter
+Interzeption Nidationshemmung
+Unbedingtheit Absolutheit
+Kleinwindenergieanlage Windgenerator
+Gratiskultur Kostenloskultur Umsonstkultur
+Generalformel Markush-Formel
+Immunhistologie Immunhistochemie Antikörperfärbung
+klonal monoklonal
+Blutbildung Hämatopoese
+Blutzelle Hämocyt Hämozyt Blutkörperchen Hämatocyt
+Katastrophenwiederherstellung Notfallwiederherstellung
+Kutte Mönchsgewand
+Dialogfeld Dialogfenster Dialog Dialogbox
+Schädelvermessung Kraniometrie
+Habit Ordenstracht Ordensgewand
+Werkzeuge Gezähe Werkzeug
+Postament Piedestal
+Onychophagie Fingernagelkauen Nagelkauen Nägelkauen Nägelbeißen
+Hyperurikämie-Syndrom Lesch-Nyhan-Syndrom Hyperurikose
+Anidrose Anidrosis Anhidrose Anhidrosis
+Horner-Syndrom Horner-Trias
+Gradtagszahl Gradtagzahl
+Pierre-Marie-Syndrom Akromegalie Marie-Syndrom Pachyakrie
+Querschiff Querhaus Transept
+Mittelschiff Hauptschiff
+Verhinderer Bremser
+Dieselmotor Diesel Selbstzünder
+Kleiderdampfer Dampfglätter Kleiderdampfgerät
+Antrittsvorlesung Antrittsrede
+Barett Béret
+Probelehrveranstaltung Probevorlesung
+hämatogen blutbildend
+Lymphe Gewebsflüssigkeit
+Fruktifizierung Fruktifikation Fruchtkörperbildung
+gellen schrillen
+Ausländerfeind Flüchtlingshasser Fremdenhasser Fremdenfeind
+Schwulenfeind Schwulenhasser
+Bergbauingenieurwesen Montanwissenschaften Montanwesen Montanistik
+Resilienz Robustheit
+untersuchen bearbeiten beackern
+abtragen zerstören wegreißen hinwegfegen fortreißen
+Sprachenkontakt Sprachkontakt
+Samogitisch Schemaitisch
+Jatwingisch Sudauisch
+Jatwinger Jadwingen Jotwinger Jatwägen Jadwinger Sudauer Pollexaner
+Schalauen Schalwen
+Gladiatorenkrieg Spartacus-Aufstand
+Ermöglicher Befähiger Weichensteller Enabler
+Brückengleichrichter Zweipuls-Brückenschaltung Graetzschaltung Graetzbrücke
+Kelvin-Brücke Thomson-Brücke
+Ringmodulator Balance-Modulator Ringmischer Produktmodulator
+Tonfunkensender Löschfunkensender
+Sicherheitsanforderungsstufe Sicherheits-Integritätslevel
+Schnellpostgut Eilbrief Expressversand Schnellpost Eilbotensendung Eilsendung Eilzustellung Schnellsendung
+eigenständig überschneidungsfrei
+wissensdurstig lernhungrig lernbegierig
+verzichtbar unnötig überflüssig unwichtig entbehrlich
+zusätzlich frei überschüssig
+Fruganer Fruitarier Frutarier Fructarier Frutaner Fruitaner
+Fruitarismus Fruganismus
+Pendelstütze Pendelstab
+Eurotunnel Kanaltunnel Ärmelkanaltunnel
+personenbezogen menschbezogen
+ermahnend adhortativ
+bläulich blassblau livide livid
+Großrabbiner Oberrabbiner
+Notbeleuchtung Notlicht
+hinaus raus
+Kalenderrechnen Wochentagsberechnung
+Feder-Masse-Verschluss Masseverschluss
+Schornsteinfeger-Monopol Kehrmonopol
+Preisdiskriminierung Preisdifferenzierung
+Zahlungsbedingung Zahlungskondition
+Durchschnittskosten Stückkosten
+Feuerwehrauto Feuerlöschfahrzeug Löschfahrzeug Feuerwehrfahrzeug
+Stoma Spaltöffnung
+Meristem Bildungsgewebe
+Nebenbedeutung Konnotation Unterton Subtext Andeutung Nebenton Beiklang
+Gezeitenhub Tidenhub Tidehub
+Katharer Albigenser Albingenser
+Dentin Zahnbein
+Bleichmittel Bleiche
+Strömungstauchen Flusstauchen
+Pumpspeicherkraftwerk Umwälzwerk Pumpspeicherwerk
+Speicherwasserkraftwerk Wasserspeicherkraftwerk
+Massenkultur Populärkultur Volkskultur Popularkultur
+Bildhauerei Plastik Bildhauerkunst
+-Komplement Einerkomplement
+Zweiersystem Dualsystem Binärsystem
+Baukunst Architektur
+Druckgrafik Grafik
+Inselrinde Inselcortex
+fachsprachlich fachterminologisch
+Lehr-Lern-Forschung Lehr-Lernforschung
+Dendrologie Gehölzkunde
+Nabe Gefüge Nexus Verbindung
+Geheimdienstabfrage Selektoren
+Bergrettungsdienst Bergrettung Bergwacht
+Zweiparteiensystem Zweiparteiendemokratie
+Krepis Krepidoma
+Richtschicht Euthynterie
+Stylobates Stylobat
+Peripteraltempel Ringhallentempel Peripteros
+Oppositionsschleife Planetenschleife
+Eichtheorie Eichfeldtheorie
+Entartungsgrad Multiplizität
+Subunternehmen Nachunternehmen
+Subunternehmer Nachunternehmer
+Verrechnungsabkommen Tilgungsträger
+Weihnachtsengel Christbaumengel Rauschgoldengel
+altertümelnd archaisierend
+Hausmeier Majordomus
+Merowinger Merovinger
+Sigrune Siegrune
+Birkenzucker Pentanpentol Xylitol Xylit
+Alditol Zuckeralkohol
+einmalblühend einjährig hapaxanth
+Schlüsselbeinbruch Klavikulafraktur
+Ofenbesteck Kaminbesteck
+Bougierung Dilatation
+Klistier Klysma Analspülung Einlauf
+Rundbolzenkupplung Trompetenkupplung
+Wulfilabibel Gotenbibel
+Dualis Dual Zweizahl
+Repetitionskreis Bordakreis
+Positionssinn Lagesinn
+Homagial-Eid Lehnseid
+Lehnsgeber Lehnsherr
+Nachrichtenboje Dekoboje Signalboje
+Kraftsensor Kraftaufnehmer
+Rettungsdienst Rettung
+Ärztenotdienst Ärztefunkdienst
+Muslimbrüder Muslimbruderschaft
+Asylgegner Asylkritiker
+Katasterplan Katastermappe
+Faltstore Plissee Faltrollo Faltenstore
+Biokohle Pflanzenkohle
+Radialkompressor Zentrifugalkompressor
+Kreiselpumpe Zentrifugalpumpe
+Pumpturbine Pumpenturbine
+Massenkraftabscheider Massenkraftentstauber
+lind mild lau
+Gewandhaus Tuchhalle
+natürlich echt ungekünstelt unverstellt
+Glasauge Augenprothese Kunstauge
+Torso Stamm Rumpf
+Wachspapier Ölpapier
+Schwierigkeitsgrad Schwierigkeitsskala
+wortklauberisch sophistisch wortakrobatisch haarspalterisch spitzfindig kasuistisch rabulistisch
+Organistrum Orgelbühne Orgelchor Chorempore Chortribüne
+Mundheilkunde Stomatologie
+Westreich Westrom
+Byzanz Ostrom
+Komsa-Kultur Finn-Kultur
+aufstellen postieren hinstellen stellen platzieren
+Pseudodezimale Pseudotetrade
+Kapgrenzkrieg Xhosakrieg Kaffernkrieg Grenzkrieg
+Selbstentzündungstemperatur Zündtemperatur Entzündungspunkt Zündpunkt Entzündungstemperatur
+Estrich Unterlagsboden
+Berlinismus Berolinismus
+Hammermechanik Klaviermechanik Anschlagmechanik
+Ätzflüssigkeit Ätzmittel Beize
+Fahrleitungswagen Fahrdrahtwagen Oberleitungswagen Turmwagen Turmlore Oberleitungsrevisionswagen
+Trolley-Problem Weichenstellerfall
+Vorarlbergerisch Vorarlbergisch
+Schuhschachtel-Prinzip Scheunen-Prinzip
+Petuh Petuhschnack Petuhtanten-Deutsch Petuhtanten-Dänisch Petuhsnak
+Stoßlaut Stoßton
+Registervergaser Stufenvergaser
+Einfallswinkel Inzidenzwinkel
+Verwaltungsvorschrift Verwaltungsrichtlinie
+Sitzungskennung Sitzungsbezeichner Sitzungs-ID Sitzungsnummer
+zustandshaltend zustandsbehaftet
+Westpapua Westneuguinea
+Pidgin-Englisch Neuguinea-Pidgin
+Oberleitungslastkraftwagen Oberleitungs-Lkw Oberleitungslastwagen
+Stephanstag Stephanitag Stefanitag Stephanustag
+Immediatvortragsrecht Immediatrecht
+Theologe Religionswissenschaftler
+Tongking-Zwischenfall Tonkin-Zwischenfall
+Tonkin-Resolution Tongking-Resolution
+Freifrau Baronin
+Freifräulein Freiin Baronesse
+Wort Datenwort Binärwort
+Wortlänge Wortbreite
+Laienschauspieler Laiendarsteller
+Gehörsrüge Anhörungsrüge
+Kieferrelationsbestimmung Bissnahme
+Condylographie Axiographie Pantografie Kondylografie
+Dünnschichttechnik Dünnschichttechnologie
+Cebiche Ceviche Seviche
+Merkel-Dach Merkelizer Merkel-Raute
+Islamwissenschaftler Islamist
+Lambert-Eaton-Rooke-Syndrom Pseudomyasthenie
+Höchstlohn Gehaltsobergrenze Maximallohn
+Berufsklassifizierung Berufsklassifikation
+Aversion Widerwillen Widerstreben Abscheu Abneigung Antipathie Horror Ekel
+Brauschänke Brauschenke Braukrug
+Grutrecht Braurecht Braugerechtigkeit Braugerechtsame
+Erblehngericht Lehngericht Erbgericht
+Grut Gruit
+Bierkrawall Bierfehde Bierstreik Bierstreit Bierkrieg Bierboykott
+Merkurstab Hermesstab Heroldsstab Caduceus
+ferngesteuert telematisch
+Feingebäck Feinbackware
+zweifelsfrei gesichert belastbar sicher verlässlich
+3-Tupel Tripel
+Quadrupel 4-Tupel
+Quintupel 5-Tupel
+Hexatupel 6-Tupel
+Schuldrecht Obligationenrecht
+Brutschmarotzer Brutparasit
+Balkan-Miniermotte Rosskastanienminiermotte
+Miniermotte Blatt-Tütenmotte
+homöotherm homoiotherm gleichwarm
+Volksmusik Heimatmusik
+Handgriff Hilfeleistung Handreichung Handschlag Nebenarbeit
+Freilager Freizone
+erläutern dartun beschreiben darlegen ausführen schildern darstellen
+Speckkloß Speckknödel
+Lungensuppe Beuscherl Lungenhaschee Salonbeuschel
+antipyretisch fiebersenkend
+Burgenlandungar Burgenlandmagyare
+Beanstandung Bemängelung Kritik
+Tuscien Tuszien
+Herausschneiden Ektomie Exstirpation Totalexstirpation Entfernung Exzision
+Leistungsort Erfüllungsort
+Herumtreiber Rumtreiber Streuner Gammler
+Mehrfädigkeit Mehrsträngigkeit
+Schmelzsalzbatterie Hochtemperaturbatterie Thermalbatterie
+Sekundärelement Sekundärzelle
+Primärelement Primärzelle
+Silberoxid-Zink-Batterie Silberoxid-Zelle
+Laternenbatterie Blockbatterie
+Zink-Manganoxid-Zelle Alkali-Mangan-Zelle Alkali-Mangan-Batterie Alkaline
+Komturei Kommende
+Haselstrauch Haselnussstrauch
+Adelsarchiv Gutsarchiv Herrschaftsarchiv
+Findbuch Repertorium
+Mazedonien-Kiefer Balkankiefer
+UTM-Referenzsystem UTMREF
+Fahrregal Hebelschubanlage Rollregal Verschieberegal Schieberegal
+Netzstation Ortsnetzstation Umspannstation Trafostation Transformatorenstation
+Änderungsschneider Flickschneider
+antriggern nachfragen triggern anfragen anregen auslösen
+Flagellant Geißler Auspeitscher
+Funktionspapier Netzpapier
+Isometriepapier Dreiecknetzpapier
+Kavalierperspektive Kavalierprojektion
+Wahrscheinlichkeitspapier Wahrscheinlichkeitsnetz
+Stauropegie Stauropegia
+Floridakrieg Seminolenkrieg
+Vorneverteidigung Vorwärtsstrategie Vorwärtsverteidigung
+Hughes-Syndrom Hughes-Stovin-Syndrom
+Abszessbildung Abszedierung
+Körperfunktionslehre Physiologie
+Nähzubehör Kurzwaren
+nähen sticheln schneidern
+Kinderneurologie Neuropädiatrie
+Hydration Hydratation
+Hydrathülle Hydrat-Sphäre
+Hydratwasser Kristallwasser
+Solvatisierung Solvatation
+Hydratationsenergie Hydrationsenergie Hydrationsenthalpie
+CDU-Spendenaffäre Schwarzgeldaffäre
+Gebläse Windanlage Windwerk Balgwerk
+Orgel Pfeifenorgel
+Wildpinkler Eckenpinkler
+Schulverweigerer Schulschwänzer
+grauhaarig grauköpfig grau ergraut
+Haare Behaarung
+Spitzbart Kinnbart Ziegenbart
+Schifferkrause Seemannsbart
+digital diskret
+Gäste Besucher Publikum
+konsumorientiert konsumistisch konsumgeil materialistisch
+hedonistisch materialistisch diesseitsorientiert
+Synchronblitz Blitzsynchronisation
+Kontrahent Diskussionsteilnehmer
+Verstärker Vervielfältiger Multiplikator Verbreiter
+cytostatisch zytostatisch vermehrungshemmend
+Reichsmatrikel Heeresmatrikel
+Eindellung Perlottierung
+Fahrbahnschwellen Bodenschwellen Kreissegmentschwellen Geschwindigkeitshügel Temposchwellen Tempohemmschwellen Bremsschwellen
+Versatz Fahrgassenversatz
+Mittelinsel Fahrbahnteiler Verkehrsinsel
+Sortierbereich Vorsortierstreifen Vorsortierbereich
+Abbiegefahrstreifen Abbiegespur
+Querungshilfe Sprunginsel Querungsanlage Straßenübergang
+Radwegfurt Radfahrerfurt Radfahrerüberfahrt Radwegefurt
+Haushaltsklippe Fiskalklippe
+Wassermeerrettich Wasabi
+wegsortieren durchsortieren absortieren sortieren aussortieren einsortieren
+Förderturm Fördergerüst
+Kleinkindpädagogik Vorschulpädagogik Frühpädagogik Elementarpädagogik
+Hoßbach-Protokoll Hoßbach-Niederschrift
+Protofaschismus Präfaschismus
+Gelehrsamkeit Kompetenz
+Großereignis Großveranstaltung Massenevent Massenveranstaltung
+Bundesgenosse Kooperierender Kooperationspartner Verbündeter Partner Bündnispartner
+Machtenthebung Sturz Putsch
+schuldfähig zurechnungsfähig
+Schuldfähigkeit Deliktfähigkeit
+Schuldfähigkeit Zurechnungsfähigkeit
+Berufsanfänger Einsteiger Berufseinsteiger
+Böckenförde-Doktrin Böckenförde-Theorem Böckenförde-Diktum Böckenförde-Dilemma
+nennen deklarieren apostrophieren hinstellen heißen titulieren
+ankündigen avisieren ankünden ansagen
+Rückschau Geschichtsdarstellung
+Tunnelvortriebsmaschine Tunnelbohrmaschine
+Schlauheit Gewitztheit Findigkeit Aufgewecktheit Pfiffigkeit Cleverness
+Arbeitstugend Arbeitsethik Arbeitsmoral
+Mähnenhirsch Rusa
+Berührungsangst Distanziertheit
+Normalflora Standortflora Kommensale Kolonisationsflora
+Ortslexikon Ortsverzeichnis Gazetteer
+Sudetengebiet Sudetenland
+Riemengetriebe Riemenantrieb Hülltrieb Riementrieb
+Friktionsgetriebe Planscheiben-Reibradgetriebe
+Bikuspidalklappe Mitralklappe
+AV-Klappe Segelklappe Atrioventrikularklappe
+Herzklappenfehler Klappenvitium
+Mitralinsuffizienz Mitralklappeninsuffizienz
+Herzminutenvolumen Körperzeitvolumen Herzzeitvolumen
+nervenschwach neurasthenisch überfordert
+Hoheitsgebiet Territorium Herrschaftsgebiet Revier
+Totenbahre Bahre
+Bahrtuch Sargtuch Baartuch Sargdecke
+schlaff atonisch spannungslos
+Frittenporzellan Frittenware
+Remunerierung Remuneration
+Missstimmung Spannungen Verstimmung Dysharmonie Unruhe Verstimmtheit Unfrieden
+stummelig stummelförmig stummelartig
+einspeichern einlagern speichern
+Wareneingang Annahme
+Webplattform Webserver-Plattform
+Schiebepuzzle Schieberätsel Schiebefax 15-Puzzle Fünfzehnerspiel Ohne-Fleiß-kein-Preis-Spiel 14-15-Puzzle
+körnig krisselig
+Perineum Damm
+Adrianopelrot Türkischrotfärbung Indischrot
+Funkensieb Funkenfänger
+Absonderlichkeit Abstrusität Bizarrerie
+Manifestant Kundgebungsteilnehmer
+Seehöhe Meereshöhe
+Industriestandard Quasistandard De-facto-Standard
+Eignungsuntersuchung Eignungstest
+Boulevardjournalismus Sensationsjournalismus
+verzögern verlangsamen hemmen bremsen
+Kartäuserklöße Weckzämmädä Bavesen Semmelnudeln Semmelschmarrn Weckschnitten Semmelschnitten Pofesen Fotzelschnitten
+fachsprachlich Fachsprache Fachjargon
+Firmenbezeichnung Firma Firmenname
+Produktbezeichnung Produktname
+Schiacciata Focaccia
+Teigschaber Gummifotze
+Kleine-Levin-Syndrom Dornröschen-Syndrom
+Federbesen Laubrechen Laubbesen Kratze Fächerbesen Laubharke
+Mammalverkehr Busensex Tittenfick Notarkrawatte
+Setzbild Mosaik
+Domscholast Domscholaster Domschulmeister
+Adelsdiplom Adelsbrief
+Zyklusstörung Menstruationsstörung
+Jakobsfrucht Jackfrucht Jackbaumfrucht
+Schraubenkupplung UIC-Kupplung UIC-Standard-Kupplung
+Vibrationsstampfer Vibrostampfer Rüttelstampfer
+Supernote Superdollar
+Quergebäude Gartenhaus Hinterhaus
+Halbschwingung Halbwelle
+verzerrt verschoben verquer
+Schlussformel Kolophon Verfasserbemerkung Verfasseranmerkung
+Geltungssucht Geltungsbedürfnis Geltungsdrang
+verzerren verfremden
+Bildlauf Scrollen
+Fahrradparkplatz Fahrradabstellplatz Fahrradstand Fahrradabstellanlage
+Radstation Fahrradstation Velostation
+Sicherheitsabsperrung Absperrgitter
+Gurtabsperrpfosten Tensator
+Zirkassier Tscherkessen
+Bierstürzer Saufmaschine Trichter Beschleuniger Bierrutsche Bierbong
+Montierhebel Reifenheber Montiereisen
+kontrastarm flau
+austesten checken antesten abchecken herumexperimentieren ausprobieren
+Reichsunmittelbarkeit Reichsfreiheit
+Somatotopik Somatotopie
+Irisanalyse Augendiagnose Irisdiagnostik Iridologie
+Interzellularraum Extrazellularraum Zwischenzellraum
+Zytomembran Plasmalemma Zellmembran Plasmamembran
+Reichsstraße Aerarial-Straße Ärarialstraße
+Strangmoor Aapamoor
+Palsamoor Palsenmoor
+perfekt makellos tadellos einwandfrei tipptopp
+erheblich groß bedeutend umfangreich
+hyperreal traumähnlich unvertraut unwirklich traumartig fremd verfremdet
+phantastisch magisch märchenhaft fantastisch
+paranormal außernatürlich übernatürlich
+auslachen belächeln
+blasphemieren lästern
+hypothetisch theoretisch angenommen
+Softwareverrottung Softwarezerfall Softwareerosion
+Erlös Umsatz
+Birefringenz Doppelbrechung
+Langmuire-Trog Pockels-Langmuire-Waage Filmwaage
+ambiphil amphipathisch amphiphil
+Ambiphilie Amphiphilie
+Monolage Monoschicht
+Höhenmesser Altimeter
+Bittprozession Bittgang Öschprozession Flurprozession
+Pilling Miezel Möppchen Wollmaus Knötchen Fussel Wollknötchen
+Strahlenangst Radiophobie
+Schamfrist Karenzzeit Abwartezeit Abwarten
+Lohntüte Nettolohn Auszahlungsbetrag
+Vorzüge Komfort Annehmlichkeiten
+Dienstalterliste Anciennitätsliste Dienstaltersliste
+SS-Ehrenring SS-Totenkopfring Totenkopfring
+SS-Ehrendolch SS-Dolch
+Anwendungslogikschicht Domänenschicht Verarbeitungsschicht Geschäftslogikschicht
+Architekturstil Architekturmuster
+Westintegration Westbindung
+Heldin Heroin
+Buntfarbenaufdruck Splittertarn
+Khasaren Chasaren
+Berg-Karabach Bergkarabach
+Heerfolge Heeresfolge
+Gaslift Mammutpumpe Airlift Druckluftheber Löscherpumpe
+Kunstgezeug Kunst
+Sportartikel Sportgerät Fitnessgerät
+Arbeitstempo Schlagzahl
+Sättigung Farbsättigung
+Strahlungsintensität Strahlungsstärke Strahlstärke
+Strahlungsleistung Strahlungsfluss
+Kaltgerätekabel Kaltgeräte-Anschlusskabel
+Kleingerätekabel Kleingeräte-Anschlusskabel
+Besucherzahlen Traffic
+Synchronschauspieler Synchronsprecher
+Burma-Katze Burmese
+Spürsinn Analysefähigkeit
+Kyros-Erlass Kyros-Edikt
+Anwaltszwang Anwaltserfordernis
+Gewaltanstrengung Klimmzüge
+danebengehen danebenschießen danebenzielen
+Mikrochemie Mikroanalyse
+Markendehnung Markentransfer
+Propagandatruppe Propagandakompanie
+diesseitig irdisch vergänglich weltlich
+Optimismus Aufbruchstimmung
+Urey-Miller-Experiment Miller-Urey-Experiment Miller-Experiment
+Gasbrand Gasgangrän Gasphlegmone Clostridium-Zellulitis Gasödem Clostridium-Myositis
+Pfefferküste Malaguettaküste
+Staatsmonopolkapitalismus Stamokap
+Pentalobular Pentalob
+wesentlich maßgebend sehr maßgeblich entscheidend
+IAS-Rechner IAS-Computer Princeton-Maschine
+nüchtern stocknüchtern
+Seilrutsche Guerillarutsche Seilbahn Tyrolienne Tirolienne
+Ergonovin Ergobasin Ergometrin
+Verschluss Schließe
+Gürtelschnalle Gürtelschließe Koppelschloss
+Junges Tierkind Jungtier Kleines
+Tafelwerk Formelsammlung Tabellenbuch
+hintersinnig verborgen hintergründig
+Dsungaren Oiraten
+Khoshuud Choschuten
+Shockley-Queisser-Limit Shockley-Queisser-Grenze
+Farbstoffsolarzelle Grätzel-Zelle
+Stapelsolarzelle Tandem-Solarzelle Mehrfachsolarzelle
+Konzentratorzelle Konzentrator-Photovoltaik
+Smekal-Raman-Effekt Raman-Effekt Raman-Streuung
+Shockley-Diode Vierschichtdiode Dinistor
+Zweirichtungs-Diode Diac
+Dokumentar Dokumentalist
+Bürochef Büroleiter Bürovorsteher
+Kanzleischreiber Kanzlist Schreibkraft Schreiber
+Tarnkappenradar Rauschradar Stealth-Radar
+Genlokus Locus Lokus Genlocus
+Centromer Zentromer
+Bra-Ket-Notation Dirac-Notation
+Sanftmut Milde Zahmheit Sanftheit Sanftmütigkeit Friedfertigkeit
+Widerstandslosigkeit Gefügigkeit
+Eisbecher Glace-Töpfli
+Schwedeneisbecher Schwedenbecher
+Nepalesisch Nepalisch Nepali
+Subskript Tiefstellung
+Hochstellung Superskript
+ausspucken aushusten ausspeien auswerfen
+dolmetschen übersetzen übertragen
+UT untertitelt
+langsam allmählich
+heranziehen versorgen erziehen großziehen aufziehen
+beschreien verhexen verzaubern
+Verrohung Entartung Verwilderung
+Prälat Inspektor Dekan Dechant Präses Propst Superintendent
+Themenstrang Thread Thema Diskussionsfaden
+Wehrsport Militärsport
+Wehrertüchtigungslager Reichsausbildungslager
+Orientierungsmarsch O-Marsch
+Wiesenmonat Prairial
+Keimmonat Germinal
+Fruchtmonat Fructidor
+Hitzemonat Thermidor
+Weinlesemonat Vendémiaire Weinmonat
+Schulschwänzen Schulmüdigkeit Schulverweigerung
+herausrupfen herausziehen herausreißen jäten ausraufen auszupfen ausreißen entfernen ziehen ausrupfen ausjäten
+niederzuzwingen bewältigbar beherrschbar bezwingbar besiegbar niederzuringen, überwindbar
+Gesindehaus Häuslingshaus
+Einfamilienwohnhaus Familienhaus Einfamilienhaus
+Domsfreiheit Domfreiheit Domimmunität
+Domdechant Domdekan
+Kaufinteresse Kaufneigung Kauflust
+Schiffmühle Schiffsmühle
+Barbaresken-Korsar Barbaresken-Pirat
+philosophisch gesinnungsmäßig weltanschaulich ideologisch
+kaufwillig kauflustig kaufsüchtig kaufbegierig
+quasireligiös religiomorph religionshaft pseudoreligiös religionsartig
+Prozessionsweg Kreuzweg
+Tiefbohrer Tieflochbohrer
+Drallwinkel Spiralwinkel
+hüftsteif kreuzlahm lendenlahm
+Schneckenbekämpfungsmittel Molluskizid
+Ostarmenien Kaukasisch-Armenien
+Völkermord-Einnerungstag Völkermordgedenktag
+Tenor Spruch Entscheidungsformel Urteilsformel Dispositiv
+Kleinkrieg Parteigängerkrieg
+Kordon Grenzbefestigung
+Entenschnabel Entenkopf
+Sachleistung Deputat
+Anthraximpfstoff Milzbrandimpfstoff
+Attenuation Virulenzminderung Attenuierung
+Immunogenizität Immunogenität
+erbrochen ausgereihert ausgerülpst ausgeworfen ausgekotzt
+Konvertibilität Konvertierbarkeit
+Zechine Dukat Zecchine
+Kurantmünze Courantmünze Courantmüntze
+essbar verzehrbar genießbar
+Sängerknaben Domsingknaben Knabenchor
+Schreibpapier Kopierpapier Druckerpapier
+Wissensverlust Know-how-Verlust Knowhow-Verlust
+Frontismus Frontenbewegung
+Frontist Fröntler
+Siebenerverein Polizeikartell
+Reichsbevollmächtigter Reichskommissär Reichskommissar
+Weißwal Beluga
+streunend herrenlos
+Anfängerpiste Idiotenhügel Anfängerhügel
+Geomantie Geomantik
+Joseftag Seppitag Josefitag Josephinentag Josefi Josefstag
+Mixtur Zubereitung
+Auslandswährung Fremdwährung
+schilpen tschilpen tschirpen
+Urpfedt Treueschwur Unfehde Urfehde Urphed Urphede Gelöbnis
+Urfehdebrief Friedensurkunde
+Mimus Pantomime Verwandlungskünstler Pantomimin Mimiker
+schauspielerisch darstellerisch mimisch
+erzürnen entrüsten verdrießen erbosen verärgern aufbringen erbittern kränken
+Kartothek Zettelkasten
+auspflügen ausackern auszackern
+Altmetall Alteisen Schrott
+Wortführer Gesprächsleiter
+Versammlungsleiter Sitzungsleiter
+Elektromüll Elektronikschrott Elektroschrott Elektronikmüll Altgeräte
+Süßsack Zimtapfel Rahmapfel
+Grafenfrucht Araticum
+Puzzlesteinchen Puzzleteilchen Puzzlestück
+Initiator Impulsgeber Entfacher Auslöser Anfacher
+Tory Konservativer
+gesprächsbereit kommunikativ mitteilsam auskunftsfreudig kommunikationsstark
+Flächenwertstufenkarte Choroplethenkarte Flächenkartogramm
+Taylor-Konus Taylor-Kegel
+ausgräten entgräten
+Stammbelegschaft Festangestellten
+Zugangsweg Angriffspunkt Zugangsmöglichkeit Zugang Einfallstor
+Schlunze Chaotin Schlampe
+Serpentinenstraße Serpentine
+herumreichen weitergeben weiterreichen
+Perfektionist Hundertprozentiger Zweihundertprozentiger
+behandeln thematisieren
+Saumtier Tragetier Lasttier Tragtier
+Milchlieferant Milchvieh
+Lastverteilerwerk Schaltwerk
+Zuckerhut Zuckerstock
+alarmiert beunruhigt besorgt
+Heilsversprechen Mantra
+Handspiel Hand
+Ermessensspielraum Entscheidungsrahmen Entscheidungsspielraum Handlungsspielraum
+klaglos widerspruchslos
+Obmannschaft Hauptmannschaft
+gezerrt gelängt flaserig
+erzieherisch lehrerhaft pädagogisch belehrend
+Schimpfkanonade Schimpftirade Wutgeheul Wutrede Rant
+Hungersnot Ernährungskrise Hungerkatastrophe Nahrungsmittelknappheit
+authentisch aufrichtig
+spuren mitziehen einfügen
+blondgeschopft blondgelockt blondhaarig blondschopfig
+Würgeengel Todesengel
+Zeitpräferenz Gegenwartspräferenz
+stören behindern
+zersetzen unterhöhlen untergraben unterminieren aushöhlen
+zunichtemachen annihilieren
+Preisschild Preisetikett
+Abendkasse Kinokasse Kasse Ticketschalter Kartenverkaufsstelle Theaterkasse
+Kartenvorverkaufsstelle Tageskasse Kartenverkauf Kartenvorverkauf
+Kartenschalter Kartenausgabeschalter Kartenausgabe
+-Kriterium -Regel
+Stellschütz Stellfalle
+Kontrollschacht Einstiegschacht Revisionsschacht Eisteg
+Bundesgrenze Landesgrenze Staatsgrenze
+Transatlantikliner Atlantikliner
+Platzreservierung Kartenreservierung
+Umsturzversuch Putschversuch
+Oberschlaumeierei Klugscheißerei Besserwisserei
+flugfähig flügge flugreif
+Erbgutträger Chromosom DNA-Doppelstrang DNA-Molekül
+banausisch ungebildet banausenhaft niveaulos kulturbanausisch kulturlos
+Vierlinienschema Vierliniensystem Hauptliniensystem
+Liniensystem Linienschema
+Dreilinienschema Dreiliniensystem
+Zweiliniensystem Zweilinienschema
+Schießbudenfigur Pappkamerad Schützenscheibe
+Vorzeige-Figur Pappkamerad Vorzeige-Person
+Attrappe Dummy Puppe
+Trapezunt Tabzon
+Trapez Schaukelreck Hängereck
+Zirkuskunst Circuskunst Artistik
+Kippbild Vexierbild Umschlagfigur
+Mitmacher Mitstreiter
+WG-Kollege Mitbewohner Wohngemeinschaftskollege
+Söffelpumpe Tauchpumpe Süffelpumpe
+unqualifiziert unkompetent inkompetent
+verschriftlichen dokumentieren kodifizieren
+verhallen verklingen verstummen ausklingen abklingen
+Verhaltenskodex Knigge Etikette Benimmregeln
+manche gewisse bestimmte spezielle
+Regularium Regelwerk Regelsammlung Regularien Reglement
+Ablaufplan Programm Fahrplan Regie
+Netzplan Projektplan Ablaufplan Durchlaufterminierung Vorgangsknotennetzplan
+Agenda To-do-Liste Aufgabenliste Pendenzenliste
+verstört zerrissen aufgewühlt
+Schändung Schmähung Verunehrung Rufschädigung Entehrung
+einführend vorbildend propädeutisch
+tiefgehend intensiv
+Rasenpflanze Gras Graspflanze
+scharf intensiv kräftig stark ausgeprägt heftig
+Gesinnungsgenosse Gesinnungsfreund Sympathisant
+Leistungsanforderung Leistungserwartung
+Klingenspitze Ort
+Striezel Rosinenstollen Christstollen
+Sollbestand Soll-Bestand
+Baumwolltasche Jutetasche Baumwollbeutel Stoffbeutel
+termingemäß vereinbarungsgemäß pünktlich
+superpünktlich überpünktlich
+Laune Stimmungsschwankung Anfall Kaprize Stimmung Kaprice Gemütsschwankung Anwandlung Aufwallung
+kompromisslos konzessionslos ultimativ knallhart
+Härte Kompromisslosigkeit
+Fahrzeugkatalysator Katalysator Kat
+Kwantung-Armee Guandong-Armee
+Viktoriabarsch Nilbarsch
+Typus Menschentypus Ethnie Rasse
+Weltganze Welt
+Ruhestörung Lärmbelästigung
+Flughafenscanner Bodyscanner Nacktscanner Körperscanner Ganzkörperscanner
+Lauterkeit Unverderbtheit Reinheit Unschuld
+Holzwarth-Gasturbine Explosions-Gasturbine Verpuffungs-Gasturbine Gleichraum-Gasturbine
+umringt eingekesselt eingekreist umzingelt umstellt
+Kurländisch Kuronisch
+angeekelt geekelt angewidert abgestoßen
+Ratsmitglied Ratsherrin Ratsherr Ratmann Ratsfrau
+Halbwertszeit Halbwertzeit
+Heuwiese Futterwiese
+Einstreu Tierstreu
+Wildblumenwiese Blumenwiese Kräuterwiese
+Magerweide Magerrasen Magerwiese Magergrünland
+Bombarde Mörserschiff
+Kopfkissen Ruhekissen
+Dekokissen Zierkissen
+Bodenkissen Sitzsack Sitzkissen
+Polsterstuhl Polstersessel Sessel Lehnstuhl Bergère
+Fußhocker Fußablage
+Feststoffraketentriebwerk Feststoffraketenantrieb
+Kompostierung Rotte
+Kolmogorow-Komplexität Beschreibungskomplexität
+Informationsbezirk Informationsmenge
+Steuercode Steuerkode Steuerzeichen
+lokalisieren verorten einordnen zuordnen
+Hedschasbahn Wüstenbahn Mekkabahn
+Westgalizien Neugalizien
+Affinität Schwägerschaft
+Katzenmusik Katzengeschrei Raunzen Gejaule Geraunze
+Katzenmusik Lärmmusik Chairvari
+Tierstimme Tierlaut
+Bernoulli-Kette Bernoulli-Prozess
+Ussuritiger Amurtiger
+Greyerzbezirk Greyerzerland
+Raketentechnologie-Kontrollregime Trägertechnologie-Kontrollregime
+Mittelbosnien Zentralbosnien
+Lockangebot Lockvogelangebot
+Köder Lockspeise Luder Lockvogel
+Kompensationskauf Frustkauf
+Großeinkauf Wochenendeinkauf
+weglenken umleiten umlenken ablenken abfälschen
+Bürokratiedschungel Behördendschungel
+Zopfstil Rokokoklassizismus
+rein einfach nur bloß
+Greisenalter Hochbetagtheit Hochbejahrtheit Senium
+Volljährigkeit Großjährigkeit Majorennität Mündigkeit
+Jungmädchenschwarm Teenyschwarm Teenieschwarm Mädchenschwarm
+Sprachebene Stilebene Sprachschicht
+vorfühlen vortasten
+Ergotherapeut Beschäftigungstherapeut
+Ergotherapie Beschäftigungstherapie
+artverwandt gleichartig vergleichbar
+Wurzelwerk Wurzelstock Wurzelsystem
+Clipverschluss Klickschnalle Klickverschluss Steckschnalle
+Eurasianismus Eurasiertum Eurasismus
+bezeichnet benamt gekennzeichnet benannt
+gebrandmarkt abgestempelt stigmatisiert
+gekennzeichnet gezinkt markiert
+Kollation Kollationierung
+Kollation Kollationspflicht
+Mitverantwortlicher Komplize Mitwisser Mittäter Spießgeselle Helfershelfer Mitbeteiligter
+erleiden davontragen einhandeln zurückbehalten zuziehen
+kahlfressen abgrasen abfressen abweiden
+Mechaniker Schrauber
+Partykleid Cocktailkleid
+Form Observanz Ausprägung Erscheinungsform Ausrichtung
+Anprobe Umkleidekabine Anprobierkabine
+Datenwürfel OLAP-Würfel
+erfolglos gescheitert glücklos verkracht
+Sonntagskind Glückspilz Glückskind Duslbauer Glücklicher
+Lehrstuhl Professorenstelle Professur
+Übersättigung Überladung Überfüllung Überfrachtung
+Amoklenker Amokfahrer
+Transitland Durchgangsland Transitstaat
+aussetzen ruhen vertagen zurückstellen unterbrechen
+herunterpendeln herabhängen herunterhängen herabbaumeln herunterbaumeln
+Gesprächstherapie Gesprächspsychotherapie
+Querfeldeinlauf Geländelauf Crosslauf
+Donezrücken Donezplatte
+Anpasskurve Fitkurve Ausgleichskurve Regressionskurve
+Musikregisseur Tonmeister
+Stadtgas Leuchtgas
+Polyvinylidenfluorid Polyvinylidendifluorid
+Hofetikette Hofzeremoniell
+Zentralpyrenäen Hochpyrenäen
+Podlasien Podlachien
+Zikade Zirpe
+Bandolier Bandalier Bandelier
+vorstehen führen leiten präsidieren lenken vorsitzen
+Staatsbetrieb Staatsunternehmen
+Autophagie Autophagozytose
+Mischbatterie Mischarmatur
+Typus Art
+herunterbeten nennen auflisten aufführen vorbringen anführen aufzählen vortragen angeben aufsagen
+harken rechen
+Erfolgsgeheimnis Erfolgsrezept
+Brotbackautomat Brotbackmaschine Brotbackgerät
+Volksheilkunde Volksmedizin
+Grüße Gruß Grüßle
+Lernpfad Themenweg Lehrpfad
+Skulpturenweg Kunstwanderweg
+Baumkronenpfad Waldwipfelweg Baumkronenweg Baumwipfelpfad
+Sabatier-Reaktion Sabatier-Prozess
+Minimalstaat Nachtwächterstaat
+Omnisexualität Pansexualität
+omnisexuell pansexuell
+Bisexualität Ambisexualität
+bisexuell ambisexuell
+Heterosexualität Alloiophilie
+Sexualangst Genophobie
+entheiligen profanisieren entweihen
+Dekoobjekte Flitter Schnickschnack Nippsachen Nippes Firlefanz Klimbim Lifestyle-Krempel
+Bioverfahrenstechnik Bioprozesstechnik
+Indianerwestern Indianerfilm
+Galloitalienisch Galloitalisch
+fadenscheinig halbherzig pflaumenweich
+Trauerzug Leichenzug
+Klagefrau Klageweib Trauerweib
+vehement hitzig erbittert scharf aggressiv hart
+Leichenschmaus Trauermahl
+scharf dicht eng
+geladen scharf
+Wohlsein Behaglichkeit
+Vibrator Masturbator Massagestab Stimulator Massagegerät Vibrationsgerät Vibrationsstab
+Kollokation Standardformulierung
+Berufsmusiker Profimusiker
+Bewegung Strömung Initiative
+Oberhoheit Suzeränität
+Formulierung Phrase Ausdruck Wortkombination
+Atuatuker Aduatuker
+Kongo-Krise Kongowirren
+Erleidnis Erlebnis
+modernisiert erneuert runderneuert
+Einwohner Seelen
+Bestellabruf Lieferabruf
+kompliziert ausgefuchst durchdacht ausgeklügelt hochkomplex ausgefeilt feingesponnen komplex raffiniert kunstvoll
+Pferd Rössel Springer Ross Pferdchen
+Jugendtorheit Jugendsünde
+Orchiektomie Orchektomie Orchidektomie
+Gottesleute Schaloputen Chlysten
+Agnostik Anti-Gnostik
+Körperorgan Organ
+Schreibblockade Schaffenskrise
+Ablenkung Scheinaktivität
+Blutjaspis Heliotrop
+Siliziumdioxid Siliciumdioxid
+Quarz Tiefquarz
+Lithurgik Gesteinsbearbeitung
+Lithologie Sedimentgesteinskunde
+Horrorclown Gruselclown Prank
+Fahrvergnügen Fahrspaß
+Verum Tautologie
+Tensoranalysis Tensoranalyse
+Flexarm Schwanenhals
+Gebetbuch Andachtsbuch
+Schacherer Abzocker Geschäftemacher Schieber Spekulant
+Geschäftstätigkeit Geschäft Geschäftsleben
+konventionell unpersönlich geschäftlich geschäftsmäßig offiziell formell
+formell gebührend ausdrücklich formgerecht
+Bucheignerzeichen Exlibris Bücherzeichen Buchmarke
+Unaufdringlichkeit Bescheidenheit Zurückhaltung Unauffälligkeit
+unehrfürchtig pietätlos respektlos verletzend
+Psychoneuroimmunologie Psychoimmunologie
+Gierfähre Gierseilfähre
+Phloem Siebteil
+Xylem Holzteil
+Fahnenband Gedenkbanderole
+Bandschnalle Interimspange Ordensspange Ribbon Bandspange Interimsspange Feldschnalle
+Ordenspange Ordensschnalle
+Lüttwitz-Kapp-Putsch Kapp-Putsch Kapp-Lüttwitz-Putsch
+Volksversicherung Bürgerversicherung
+Todesschwadron Killerkommando
+Euthanasierung Einschläferung Euthanasie
+Präparandenanstalt Präparandie
+erschaudern stocken stutzen erstarren
+Stängelripsen Stängelmus Stielmus Rübstielchen Runkelstielchen Streppmaut Rübstiel Köhlstille
+Assimilationspolitik Assimilierungspolitik
+Zwangsassimilierung Zwangsassimilation
+Stielgemüse Stängelgemüse Blattstielgemüse
+begleiten mitkommen
+Geldpolitik Geldmarktpolitik
+Konsumgütervektor Güterbündel
+Iso-Nutzenfunktion Nutzen-Isoquante Indifferenzkurve Iso-Nutzenkurve
+Dynamisieren Potenzieren
+korrekt realitätsnah realistisch treffend
+Brustbein Sternum
+Zügelung Beherrschung Zähmung Abschwächung Abbremsung
+Zügelung Bändigung Beherrschung Abbremsung Abschwächung Mäßigung Zähmung
+Aktei Dokumentensammlung Aktensammlung
+Ansteckplakette Orden
+Nacktfoto Aktbild Aktfoto Akt
+Leistungslohn Stücklohn Akkordlohn Akkord Gedinge
+Sektion Amtsbereich
+Arbeitsgebiet Sprengel Amtsbereich Ressort Dezernat
+Fließarbeit Fließbandarbeit
+Polyaramid Aramid
+Universalbank Vollbank
+Strafexpedition Pancho-Villa-Expedition
+Durchstecherei Geheimnisverrat
+Dienstvergehen Amtsvergehen
+Laugenstange Brezenstange
+Mehrsystembahn Stadtregiotram Regionalstraßenbahn Stadtregionalbahn Zweisystembahn Zweisystemstadtbahn Regiotram Regionalstadtbahn Stadt-Umland-Bahn Mehrsystemstadtbahn
+Suchtpotenzial Suchtfaktor
+Ferrule Zwinge Fassreifen Presshülse
+Konsumbereitschaft Konsumlaune Konsumfreude
+verfassungsgemäß verfassungsmäßig verfassungskonform grundgesetzadäquat grundgesetzkonform
+Schmierenkomödie Schmierentheater Farce
+Kapitularvikar Kapitelsvikar
+Matrixmultiplikation Matrizenmultiplikation
+Matrixprodukt Matrizenprodukt Produktmatrix
+Matrixaddition Matrizenaddition
+Matrizensumme Matrixsumme Summenmatrix
+Zechensterben Zechenschließungen
+Vorkarpaten Subkarpaten
+höchstmöglich maximal
+Postfahrrad Postrad Zustellrad
+Transportrad Lastenrad
+Grubenfahrrad Grubenflitzer
+Immobilieninvestor Baulöwe Immobilienunternehmer Immobilienspekulant Immobilienhai
+geschlechtsreif zeugungsfähig mannbar erwachsen
+Wandschirm Paravent Stellwand
+Kiwi Schnepfenstrauß
+Knarrfunkensender Knallfunkensender
+Magnetverstärker Transduktor
+Pomoranisch Ostseeslawisch
+Urslawisch Protoslawisch
+Protosprache Grundsprache Ursprache
+Moliseslawisch Molisekroatisch
+Altslawisch Altkirchenslawisch Altbulgarisch
+Knaanisch Kanaanitisch Judenslawisch
+Altrussisch Altostslawisch
+Westpolesisch Westpolessisch
+himmelstürmend prometheisch übermenschlich
+zwieträchtig zerstritten
+Zwecklehre Teleologie
+isolieren absondern
+herausgreifen herauslesen rauspicken herauspicken rausfischen heraussuchen raussuchen herausfischen
+Organstreit Organstreitigkeit
+auflesen aufsammeln aufklauben aufnehmen
+Celluloseacetat Acetylzellulose
+Einwurf Diskussionsbeitrag Einwand Stellungnahme Redebeitrag Einwendung Einlassung Wortbeitrag Argumente Beitrag
+Entkommunisierung Dekommunisierung
+liefern bereitstellen
+Rot-Faschismus Linksfaschismus
+Chutzen Hochwacht
+Kreidfeuer Kreitfeuer
+Turmwächter Türmer Turmbläser
+Türmerwohnung Türmerstube Türmerzimmer
+Mittelmeerklima Etesienklima
+Wolfauslassen Wolfausläuten Wolfaustreiben
+Thesprotien Thesprotia
+Spinner Wahnsinnsknabe Verrückter
+Zwei-Drittel-Regel Drittel-Regel
+Mundwasser Mundspülung
+Justitiar Justiziar
+Junktim Junktimklausel
+Handhabungseinrichtung Handhabungsgerät
+Hospitalschiff Lazarettschiff
+festtreten antreten
+Stipulierung Stipulation
+möglich denkbar
+Verwahrloster Kaputtnik Heruntergekommener
+Schlange Karawane Kolonne Fahrzeugkolonne Konvoi
+vorstehen hervorstehen herausgucken hervorragen überstehen herausragen auskragen
+Prachtkerl Leckerbissen Prachtbursche Prachtweib Prachtexemplar
+Piefigkeit Kleinstadtmief Hinterwäldlertum Landpomeranzentum Provinzialität Zurückgebliebenheit
+Borniertheit Engstirnigkeit Beschränktheit Ignoranz Verbohrtheit
+Schilfrohrbestand Röhricht Schilfbewuchs Schilfgürtel Schilf
+Uferzone Ufer Uferbereich
+Gewässerrandstreifen Uferstreifen
+Aue Bachaue Uferlandschaft Flussaue
+Sumpfwald Bruchwald Moorwald Broich Auwald Bruch
+Magnetkies Eisenerz
+Magnitudo Sternhelligkeit
+Mahut Elefantenführer
+Ovarialzyste Eierstockzyste
+Zucht Züchtung
+Tiermast Fleischproduktion Viehmast
+stechen punktieren
+unerklärlich mirakulös wundersam wunderbar mirakelhaft
+extra betont
+Straßenkreuzer Schiff Dickschiff
+B-Prominente B-Promis B-Prominenz
+Angeberauto Luxusgefährt Zuhälterschlitten Angeberkiste Protzkarre
+erfolgsorientiert gewinnorientiert profitorientiert
+Volksdemokratie Volksrepublik
+Teleskopkuppel Sternwartekuppel
+Teleskopsäule Teleskoppfeiler
+Spleißbox Spleißverteiler
+Bleibe-Erlaubnis Aufenthaltstitel Aufenthaltsgenehmigung Bleibeerlaubnis Aufenthaltserlaubnis
+unbekümmert unernst nonchalant salopp flapsig hanswurstig
+Absicherungsstrategie Wertsicherungsstrategie
+Universal Universalinstrument
+Phase Phasenwinkel
+Ringlaser Laserkreisel
+Erbärmdebild Miserikordienbild Schmerzensmann
+Verrätselung Mystifikation Mystifizierung Vergeheimnissung
+Wunderglaube Wundergläubigkeit
+Überflutung Überschwemmung Hochwasser
+Formschwerpunkt Auftriebspunkt
+Nationalitätenstaat Vielvölkerstaat
+Plattform Schild
+Zechprellerei Zechbetrug
+Freireisender Vogtländer
+Lossprechung Freisprechung
+Drucker Drucktechnologe Drucktechniker
+Küchenschwamm Topfschwamm Haushaltsschwamm
+Hinteransicht Kehrseite Rückseite
+Gewebe Zeug Webstoff Webware
+Fahrtwindsirene Jericho-Trompete
+eponym namengebend
+Initiationsritus Übergangsritus
+Freispiegelstollen Spiegelstollen
+Unterdruckentwässerung Vakuumentwässerung
+Kanat Qanat
+Kanzlerdominanz Kanzlerdemokratie
+nuancieren verändern modulieren
+weg fort
+Funduk Khan Karawanserei
+Handlungskonzept Strategieplan Aktionsplan
+Akzessibilitätshierarchie Zugänglichkeitshierarchie Keenan-Comrie-Hierarchie
+Kausalattribution Kausalattribuierung
+Vergleich Komparation
+Heimaturlaub Fronturlaub
+Hartnäckigkeit Zähigkeit Ausdauer Durchhaltevermögen Beharrlichkeit
+Adelsmatrikel Adelsbuch
+Unternehmenssprecher Pressesprecher Sprecher
+wegkratzen abschaben abkratzen wegschaben kratzen
+verknittert faltig knittrig zerknittert
+wellen ondulieren
+Kaminaufsatz Schornsteinabdeckung Kaminabdeckung Schornsteinaufsatz
+statuarisch standbildhaft
+Wildschweine Schwarzwild
+Patchworkfamilie Stieffamilie Patchwork-Familie
+Familie Kernfamilie
+Ems-Hase-Kanal Emskanal Hanekenkanal
+Seilziehen Tauziehen
+Rauchschwade Rauchwolke
+Zwilling Zwillingsschwester Zwillingsbruder
+Zwillingspaar Zwillinge
+Spendenquittung Zuwendungsbestätigung
+bedingend konditional
+stöhnen jammern
+hinzufügen anmerken einflechten bemerken hinzusetzen anfügen
+Büßereis Büßerschnee Zackenfirn
+Explosionsort Bodennullpunkt Einschlagsort
+Mediterraneum Mittelmeerraum
+Wutausbruch Wutanfall Ausraster
+Schwunglosigkeit Schwerfälligkeit Transusigkeit Trägheit
+haftbar regresspflichtig schadenersatzpflichtig
+aufsprossen hochwachsen hochwachsen schossen aufschießen emporschießen gedeihen aufwachsen emporsprießen emporschießen
+Separationsansatz Produktansatz
+Prädikativ Prädikativum
+Objekt Satzergänzung
+Zerfallsprodukte Detritus
+Verlegenheitsprogramm Pausenfüller
+Säulenjoch Joch
+danebengießen danebengehen danebenschütten
+punktiert bepunktet gepunktet betüpfelt getüpfelt
+Planartechnik Planarprozess
+Jagdhund Jaghund Schießhund
+Standardbasis Einheitsbasis
+Basistransformation Basiswechsel
+Basiswechselmatrix Übergangsmatrix Transformationsmatrix
+Festkleid Festgewand Festtagskleid Feiertagsgewand Feiertagskleid Festtagsgewand
+festsitzend sessil festgewachsen
+Farblosigkeit Albinismus Leuzismus Leukopathie
+Melanismus Schwarzfärbung
+Cocktaillöffel Limonadenlöffel
+Honigaufnehmer Honigheber Honiglöffel
+Schaumlöffel Schaumkelle
+Spaghettizange Spaghettigreifer Pastazange
+Teeei Tee-Ei
+Trichterrandbecherkultur Trichterbecherkultur
+Apostellöffel Tauflöffel
+Tutorat Tutorium Tutoriat
+herausschlagen austreiben
+Benediktenkraut Benediktinerdistel Bitterdistel Natterkraut Kardobenediktenkraut Spinndistel
+Eintrittswahrscheinlichkeit Schadenswahrscheinlichkeit Eintretenswahrscheinlichkeit
+inspirierend anregend
+Hutchinson-Weber-Peutz-Syndrom Peutz-Jeghers-Syndrom
+Baugewerksschule Baugewerkenschule Baugewerkeschule Baugewerkschule
+Studentenvertretung Studierendenvertretung
+kreditwürdig gut
+Fraiß Fraisch
+Fraischbuch Fraißbuch
+Papageienschaukel Bogerschaukel
+Kugelfang Geschossfang
+Neuanlage Ausbau Zubau
+Lächerlichkeit Lachplatte Witz
+Mikrosphäre Kapsel Vesikel
+Kursplan Syllabus Veranstaltungskonzept
+Seerose Aktinie Seenelke Seeanemone
+Korallenriff Riff
+kotieren messen
+denkwürdig bedeutsam bedeutend bemerkenswert weltbewegend
+Kaffeebecher Kaffeetasse Kaffeepott
+Teetasse Teeschale Teeglas Teeschälchen
+Trinkglas Glas
+aufbereiten reinigen läutern filtrieren klären filtern
+durchspülen ausspülen spülen
+abspülen abspritzen
+durchwischen abwischen auswischen wischen
+abwischen wegwischen aufwischen
+Glufosinat Phosphinothricin
+reprotoxisch reproduktionstoxisch
+Teppichkehrer Leuwagen Teppichdackel
+Leistenbruch Inguinalhernie
+Binnenmigration Binnenwanderung
+Fräskopf Messerkopf
+Minimalmengenschmierung Minimalmengen-Kühlschmierung
+Habichtskauz Uralkauz
+schäbig schofelig armselig schofel erbärmlich
+Engherzigkeit Kleinherzigkeit Kleinmut Kleingeistigkeit Halbherzigkeit
+Einstiegsamt Eingangsamt
+Schwarzhändler Schmuggler Kontrebandist
+Körperpflegeartikel Hygieneartikel Hygienebedarf Körperpflegeprodukt Hygieneprodukt
+Redaktion Schriftleitung
+Geisterdorf Wüstung Geisterstadt
+Luftveränderung Ortsveränderung Tapetenwechsel
+Beruf Berufsbezeichnung Tätigkeitsbezeichnung
+durchexerzieren durchdeklinieren durchspielen
+Potenzmethode von-Mises-Iteration Vektoriteration
+Konvergenzgeschwindigkeit Konvergenzordnung
+Gestaltänderungsenergiehypothese Mises-Vergleichsspannung Gestaltänderungshypothese
+Jungstar Neuentdeckung
+Interpolation Zwischenwertberechnung
+Condorcet-Paradoxon Zirkelpräferenz
+Arrow-Paradoxon Arrow-Theorem
+Weinkeller Bodega
+Erfolgsserie Siegeszug
+Schnapprollo Springrollo
+kanonisch kanonisiert
+Zitierkartell Zitierzirkel
+Straffälligkeit Delinquenz Kriminalität Straftaten
+Brotberuf Geldberuf Brotjob
+befreundet Freunde
+Zeitleiste Zeittafel Zeitstrahl
+Richtwaage Maurerwaage Wasserwaage
+ehestens frühestens
+RAID Festplattenverbund
+Vakuumenergie Grundzustandsenergie Quantenvakuum Nullpunktsenergie
+Wachswalze Wachszylinder
+Frankatur Frankierung Freimachung
+Skelettszintigrafie Knochenszintigrafie
+Chemosensibilität Chemosensitivität
+Cytotoxizität Zytotoxizität
+Zytokin Cytokin
+Cytostatikum Zytostatikum
+Lost Schwefelyperit Schwefellost Yperit S-Lost Senfgas Gelbkreuzgas
+schlecht beschissen scheiße
+vorschieben vorschützen verschanzen vorgeben
+Hausgenosse Mitbewohner
+Schneestolz Sternglanz Chionodoxa Sternhyazinthe
+Weckmehl Semmelmehl Paniermehl Semmelbrösel
+Steakrestaurant Steakhaus Steakhouse
+Hausstand Familie Haushalt Hausgenossenschaft Hauswesen Hausgemeinschaft
+Generalversammlung GV
+leichtlebig unbeschwert leichtherzig unbekümmert
+erholt ausgeschlafen regeneriert ausgeruht
+überdreht durchgedreht ausgetickt durchgeknallt wildgeworden übergeschnappt ausgeflippt
+Zigarettenanzünder Zigarrenanzünder
+Gewaltaktion Gewaltakt Gewalttat
+Mindestanforderung Mindestvoraussetzung
+Raufasertapete Raufaser
+Offiziator Offiziant
+Hundebaby Hundejunges Welpe
+Negativserie Pannenserie Pechsträhne
+Längenproblem Längengradproblem
+Wahlfälschung Wahlbetrug
+Hyoscin Scopolamin
+Topikalisierung Vorfeldbesetzung
+Darmverschlingung Darmverdrehung Volvulus
+verknüpfen koppeln
+jugendfrisch aufgeblüht
+verflucht verzaubert verwunschen verhext behext
+salafistisch islamistisch dschihadistisch wahhabitisch
+Binde-s Fugen-s
+Schaltschütz Schütz
+Karolinenfrage Karolinenstreit
+slapstickartig grotesk
+Shootingstar Senkrechtstarter
+Makroaufnahme Naheinstellung Detailaufnahme Nahaufnahme Makro
+Collatz-Problem -Vermutung
+Radó-Funktion Fleißiger-Biber-Funktion
+Untergymnasium Progymnasium
+Schwebeflug Rüttelflug Standschwebeflug
+Dutzendgesicht Allerweltsgesicht
+Seelenkuss Zungenkuss
+Küsschen Bussi Busserl
+zusammenhanglos unmotiviert
+Kretzer Flussbarsch Egli
+Liege Liegestuhl
+Phasenübergang Phasenumwandlung Phasentransformation
+Kondensationslinie Kondensationskurve
+Taupunktlinie Taukurve Taupunktkurve Taulinie
+Erstarrungslinie Erstarrungskurve Gefrierpunktslinie Gefrierpunktskurve
+Sublimationskurve Sublimationslinie
+Sublimierung Sublimation
+Flüchtlingsheim Asylbewerberheim
+Notunterkunft Behelfswohnung Behelfsunterkunft
+unmenschlich menschenunwürdig
+nett offen entgegenkommend sympathisch freundlich
+Geoinformationstechnik Geomatik
+unerkundbar unerforschbar unzugänglich unerforschlich geheimnisvoll unergründlich unbegreiflich abgründig entrückt
+Vertreiber Vermarkter
+Telefonverkauf Telefonvertrieb Telefonmarketing
+Grenzschranke Grenzbalken Schlagbaum Grenzsperre Grenzbaum Grenzbarriere
+Kaffeepresse Pressstempelkanne Kaffeebereiter Cafetière Kaffeedrücker Siebstempelkanne Chambordkanne Quetschkanne
+Landesschutzoffizier L-Offizier
+Navigator Navigationsoffizier
+Beugemuskel Flexor Beuger
+Kampfname Pseudonym
+Gebaren Auftreten Habitus Gestus Gehabe Attitüde
+Schiebermütze Batschkapp Schlägerpfanne Schlägermütze
+Ungereimtheit Unstimmigkeit Inkonsistenz Widersprüchlichkeit Merkwürdigkeit
+Margeritentag Margarittentag Margaretentag
+Madjarisierung Magyarisierung
+Spitzhaube Spitzkappe
+Belgizismus Belgismus
+Deutschlandismus Teutonismus Bundesgermanismus Germanismus
+Grundsicherung Mindestsicherung Grundversorgung
+Nutzwertberechnung Parifizierung
+Rückeroberung Wiedereroberung
+Alpenstaat Alpenanrainerstaat
+melodisch musikalisch melodiös harmonisch stimmig
+Defereggen Defereggental
+Feuchtigkeit Nässe Nass
+Ämterkumulation Ämterhäufung
+Walze Rollschweller Registerschweller Crescendotritt
+Registerfessel Register-Prolongement Kombinationsprolongement
+verwickelt kompliziert verdreht mehrdeutig
+Turanismus Panturanismus
+Mandschu Mandschuren
+Spurassistent Spurhalteassistent
+unredlich betrügerisch unlauter
+ausgereift durchdacht
+vernunftbegabt verständig einsichtsfähig
+Abmessung Baugröße Einbaugröße Bauform Formfaktor Maße
+Feuerwehrgerätebeschaffungskartell Feuerwehr-Kartell Feuerwehrfahrzeuge-Kartell
+Klasse Schuljahr Jahrgangsstufe
+Schwimmvergnügen Schwimmaktivität Badespaß Schwumm
+Timur Tamerlan
+Galicisch Galegisch
+Vernakularsprache Vernakulärsprache
+Asturisch-Leonesisch Asturleonesisch
+Krull Bugkopf Krullgalion
+Sequentialisierung Sequenzialisierung
+Immunofluoreszenz Immunfluoreszenz
+Triangulation Triangulierung
+Tiegelziehverfahren Czochralski-Verfahren
+Kristallzüchtung Kristallzucht
+Einkristall Monokristall
+Multikristall Vielkristall Polykristall
+Gleitschalungsfertigung Gleitbauverfahren Gleitbauweise
+Nachzögling Nachgeborener Nachzügler
+Internet-Jargon Netzjargon
+Atelierwohnung Fabriketage Künstlerwohnung Loft Loftwohnung ehemalige
+Informationsblase Filterblase
+Autorenlesung Buchvorstellung Lesung Vorleseabend Leseabend Dichterlesung
+Bernstein-Stachelmakrele Grünel
+Pferdemakrele Stachelmakrele
+überspitzt pointiert zugespitzt
+Faszination Fesselung Bannung
+Heißwasserspeicher Warmwasserspeicher Speichererhitzer Boiler
+Attributionsfehler Korrespondenzverzerrung
+aufgehellt pastellfarben blass milchig pastellen pastellig verblasst
+stalken behelligen plagen nachstellen stören zusetzen belästigen
+gaunerisch ganovenhaft betrügerisch gaunerhaft
+Verleihung Zuerteilung Zuerkennung Zusprechen Vergabe Erteilung
+Thrombembolektomie Thrombektomie
+Beutezug Raubzug Diebestour
+bürgerlich unadelig unedelig
+Durchsuchung Durchsuchungsaktion Razzia
+Operation Aktion Manöver Einsatz
+Erkundungsaktion Streifzug Erkundungsgang Erkundungsfahrt
+Patrouille Streife Kontrollgang
+Rachezug Strafaktion Bestrafungsaktion Strafexpedition
+meistverbreitet vorherrschend häufigst prävalent
+geruchsfrei geruchlos
+Kap Landzunge Landspitze
+Antransport Anlieferung Herantransport
+Absatz Vertrieb Verkauf Verteilung
+Arzneimittelzulassung Arzneimittelfreigabe Marktfreigabe Zulassung
+Flüchtiger Entflohener
+Hutewald Hutung Hudewald
+Hude Waldweide Hute
+Selbstschutz Verteidigung Gegenwehr
+Defensive Deckung Abwehr Hintermannschaft Verteidigung
+abschirmen decken beschatten
+Regelwidrigkeit Unregelmäßigkeit
+Lebensmittelfarbe Farbstoff
+Fremdsprachenkenntnisse Sprachkenntnisse
+neongrün giftgrün knallgrün quietschgrün
+Konzertsaal Orpheum Tonhalle
+Konzerthaus Philharmonie
+Aufführungsstätte Veranstaltungsort
+Wohnzimmertheater Zimmertheater
+Marionettentheater Puppentheater Puppenspiel Figurentheater
+parteilich parteigebunden
+One-Woman-Show One-Man-Show Alleinunterhalterprogramm
+fantasielos phantasielos unoriginell unkreativ
+Findbarkeit Auffindbarkeit
+Pitot-Rohr Staudrucksonde Pitotrohr
+Gesamtdruck Totaldruck
+Ruhedruck Stagnationsdruck
+normal selbstverständlich gesund natürlich
+Leitungssatz Kabelsatz Kabelbaum
+zwielichtig schillernd ambivalent
+CDU-Mitglied Christdemokrat
+Kassandrarufer Warner
+räumen evakuieren
+paragraphenreiterisch vorschriftengläubig bürokratisch
+Filterzigarette Aktive
+Schöllenenschlucht Schöllenen
+Erdfalltrichter Erdabsturz
+Becherzelle Goblet-Zelle
+Meibom-Drüse Tarsaldrüse
+Jobprofil Berufsbild
+hierher! herkommen!
+gemeinsam kollektiv
+Weste Gilet
+Platzkarte Tischkarte
+Ambulanzdienst Sanitätswachdienst
+Anzahl Numerus
+Notenkonferenz Zeugniskonferenz
+Schneidefähigkeit Schnitthaltigkeit Schärfe
+Feldversuch Feldexperiment
+Laborversuch Laborexperiment
+Longshirt Tunika Hängerchen
+Zwickmühle Zielkonflikt Dilemma
+Vorteilsnahme Vorteilsannahme
+importiert eingeführt
+Schneidekennlinie Schneidkennlinie
+Entzerrvorverstärker Entzerrervorverstärker
+Vorverstärker Vorstufe
+Buchungskarte TeleKarte
+Telefonwertkarte Taxcard Telefonkarte
+Einzelschrittverfahren Gauß-Seidel-Verfahren
+Jacobi-Verfahren Gesamtschrittverfahren
+Transposition Transponierung Stürzen
+Untiefe Furt
+Viehtrift Trift
+herunterpicken weglesen absuchen heruntersammeln absammeln ablesen
+zusammenklauben zusammenlesen zusammensuchen
+einsammeln einkassieren kassieren wegnehmen
+Popcorn Puffmais
+Bergstrich Bergschraffe Schraffe
+Termingeschäft Zeitgeschäft
+Handelstag Börsentag
+Geschlechtspartner Sexualpartner Intimpartner
+Eins-a-Lage Toplage 1-a-Lage
+Bogen Pfeilbogen
+Heidewitzka! wow!
+Niobit Columbeisen Columbit
+Mangelernährung Unterernährung
+Staatsterritorium Staatsgebiet
+Simplonstrecke Simplonlinie
+Morgen Juchert Joch
+regelkonform gehörig ordentlich geziemend angemessen gebührend zutreffend ordnungsgemäß
+Fachschule Fachakademie
+Pseudostrecke Pseudoentfernung
+Golftümmler Vaquita
+selbstverständlich natürlicherweise natürlich logischerweise naturgemäß
+Verlautbarungsjournalismus Hofberichterstattung
+Ergebenheitsadresse Huldigungsschreiben
+Zypernkonflikt Zypernfrage
+Kampfmittelräumdienst Kampfmittelbeseitigungsdienst Munitionsbergungsdienst
+Delaborierung Bombenentschärfung
+Rangierberg Ablaufhügel Ablaufrücken Ablaufberg Rollberg Eselsrücken
+Gleisharfe Gleisgruppe Gleisfeld
+Einlassbeginn Türöffnung
+Tab-Vervollständigung Befehlszeilenergänzung
+Stielwarze Fibrom
+ausscheidend exkretorisch absondernd
+Tschechenigel Panzerigel Stahlspinne
+Blindstopfen Abdeckkappe Blindverschluss Verschlussstopfen Verschlusskappe
+Hutmutter Kappenmutter
+Verschlussschraube Endstopfen Blindschraube
+Spülmaschinenschlauch Waschmaschinenschlauch Zulauf Zuleitung
+Polenbegeisterung Polenschwärmerei
+Fankult Fankultur
+Fankurve Fanblock
+roboterhaft ruckartig roboterartig eckig
+Krankheitsanzeichen Prodromalsymptom Prodrom
+Diamond-Blackfan-Syndrom Diamond-Blackfan-Anämie
+Debré-de-Toni-Fanconi-Syndrom De-Toni-Fanconi-Komplex Glucose-Aminosäuren-Diabetes
+Zartheit Hagerkeit Schlankheit Zierlichkeit Grazilität Magerkeit
+Faktenwissen Sachwissen
+Handdruckspritze Feuerspritze
+Hydroschild Wasserschild
+Hydraulis Wasserorgel Hydraulos
+Saugkorb Saugkopf
+Cent Eurocent
+Größensymbol Formelzeichen
+Gebrauchshund Arbeitshund
+Konzipist Konzipient
+Rechtsanwaltsanwärter Konzipient Referendar Substitut
+Steinsalz Halitit Salzgestein
+Creole Kreole
+Zwischenfazit Zwischenbilanz
+Klemmleiste Klemmenleiste
+Embryonentransfer Embryotransfer
+Laktotropin Lactotropin Prolaktin
+Buchgroßhandel Verlagsauslieferung Zwischenbuchhandel Barsortiment
+Verdunklung Abdunklung Verdunkelung Verfinsterung Abdunklung
+Misswahl Schönheitswettbewerb
+Nüchternheit Unsentimentalität Sachlichkeit
+Groundplane-Antenne Marconi-Antenne Monopolantenne
+Radarschifferzeugnis Radarschifferpatent Radarpatent
+Entenflügel Canard
+Eckfittich Afterschwinge Alula Daumenfittich
+Ornithopter Schwingenflügler Schwingflüger Schwingenflugzeug
+Doku-Drama Dokudrama
+Meißelzeichen Meißelkreuz
+Exzentrum Exzenter
+Winkelgetriebe Kegelradgetriebe
+Oldtimer-Kennzeichen H-Kennzeichen
+Crowdworking Gig-Work Plattformarbeit
+Bergsport Alpinsport
+Vorhemd Hemdbrust
+Entzündbarkeit Entflammbarkeit
+Fischgrund Fanggebiet Fanggrund
+aufgelegt gestimmt
+feuerrot glutrot
+Erdbevölkerung Menschheit Menschengeschlecht
+Modegeschäft Bekleidungsgeschäft
+Falschmünzerei Münzfälschung
+saunieren saunen
+Showbusiness Unterhaltungsbranche
+Keelinginseln Kokosinseln
+Bartenwale Mysticeti
+Verteidigungsetat Verteidigungsbudget Verteidigungshaushalt
+Parochialkirche Pfarrkirche
+Profilkirche Themenkirche
+Lokalie Filialkirche Succursalkirche
+Brennfläche Brennlinie Kaustik
+rationieren zuteilen
+Badetuch Badehandtuch
+Kardinalkämmerer Camerlengo
+hängig abfallend
+Totalaussage Pauschalaussage
+Currypulver Curry
+Innkreisbahn Innviertelbahn
+Übertragung Weitergabe
+Inguschetien Inguschien
+Acker-Schmalwand Schotenkresse Gänserauke
+Acker-Pfennigkraut Acker-Täschelkraut Ackertäschel Acker-Hellerkraut
+Nougatcreme Nuss-Nougat-Creme
+mikrowellengeeignet mikrowellenfest
+spülmaschinenfest spülmaschinengeeignet
+Lastschrift Bankeinzug
+Lieferschein Warenbegleitschein
+Zibingebirge Zibinsgebirge
+Felsentor Brandungstor Bogenfelsen
+Afrikasiedlung Kolonialsiedlung
+Ronde Schrötling Münzrohling
+Quellfassung Brunnenstube
+Eifelwasserleitung Römerkanal
+Billion 1.000.000.000.000
+Blechdose Aluminiumdose Aludose Getränkedose
+spruchreif fertig
+Spätlateinisch Spätlatein
+nebeneinander gemeinsam
+Pfanne Bratpfanne
+Kaki Khaki
+Parodontose Parodontitis Paradentose
+Knoblauchmayonnaise Aioli Allioli
+Büsinger-Händel Büsinger-Handel
+Lymphknoten Lymphdrüse
+Absender Versender
+Richtstollen Pilotstollen
+Zugangsstollen Fensterstollen
+Speicherkartenleser Kartenleser Speicherkartenlesegerät
+Dixie Dixieland US-Südstaaten
+Minamata-Übereinkommen Quecksilber-Konvention
+Varicella-Zoster-Virus Varizella-Zoster-Virus
+Militärgeologie Wehrgeologie
+Marktfähigkeit Marktgängigkeit
+Notfunk Katastrophenfunk
+Vorzugsjude Austauschjude
+Besatzungsmacht Besatzer Okkupationsmacht
+Leydig-Zwischenzelle Leydig-Zelle
+Meiose Reifeteilung
+Oogenese Ovogenese
+Einheitenzeichen Einheitenkürzel
+besänftigen mildern
+Räuber-Beute-Beziehung Räuber-Beute-Verhältnis
+Rheinkorrektur Rheinrektifikation Rheinbegradigung Rheinregulierung
+Abiklausur Abiturklausur
+Schiismus Schiitentum
+Sunnitentum Sunnismus
+Stöberhund Epagneul Spaniel
+Bracke Schweißhund
+Milizsystem Milizprinzip
+uferfern pelagial
+Fahrradnummer Fahrradkennzeichen Velovignette
+Verbindung Liaison
+Eisschelf Schelfeis
+Publikationsverzeichnis Publikationsliste
+Radikalenerlass Extremistenbeschluss
+Labiatae Lippenblütler Lippenblütengewächse Lamiaceae
+Rangierdraht Schaltdraht
+Segelflosser Skalar
+Buntbarsch Cichlide
+Dezimalbruch Zehnerbruch
+Ferrikaliumcyanid Bronzeblau Französischblau Eisenhexacyanidoferrat Miloriblau Stahlblau Preußischblau Tonerblau Chinesischblau Pottascheblau Eisencyanblau Tintenblau
+Allantoin Glyoxylsäurediureid
+Nukleotidpolymer Nukleinsäure
+gamslederfarben chamois
+Basisklasse Oberklasse Elternklasse Superklasse
+Signatur Methodensignatur
+Meißnisch Meißenisch
+anbauen zubauen anfügen hinzubauen
+Karkasse Knochengerüst Gerippe
+Entenpresse Geflügelpresse
+Sympathieverlust Abkühlung Sich-Fremdwerden Sich-Entfremden Trennung Auseinandertriften Entfremdung Entäußerung
+Heizperiode Heizzeit
+gesundheitsfördernd salutogen gesundheitserhaltend
+Inkarnat Fleischton Karnat Fleischfarbe Hautfarbe Karnation
+Intimhygiene Genitalhygiene
+Strauchratte Degu
+Faulschlamm Sapropel
+Äskulapstab Asklepiosstab Schlangenstab
+Sechsersystem Hexalsystem
+Unärsystem Bierdeckelnotation
+Kleene-*-Abschluss Verkettungshülle Sternhülle
+Vibro-Seismik Vibroseis
+Satzbruch Anakoluthie Anakoluth Anacoluthon Anakoluthon
+Gorgoneion Medusenhaupt Gorgonenhaupt
+Zwiebel Bolle
+garantiert versichert verbürgt
+Interessensphäre Einflusssphäre
+Leprosorium Leprakolonie Leprosenhaus
+Handwerkskammer HWK
+Vertuer Verprasser Vergeuder Verschwender
+Diskant Sopran Kopfstimme
+Wettbewerbsverfälschung Wettbewerbsverzerrung
+achten wertschätzen hochhalten
+Nothafen Schutzhafen
+Koreanistik Koreanologie
+Glycin Aminoethansäure Aminoessigsäure Glyzin Glykokoll
+Xylothek Holzbibliothek
+ziselieren eingravieren reliefieren
+Reliefkünstler Bildstecher Toreute Ziseleur
+Bindemäher Mähbinder Binder
+Hohlkreuz Hyperlordose
+Wirbelsäulenseitverkrümmung Skoliose
+Dalbe Dückdalben Dukdalben Dalben Dalle Dälben Duckdalben
+08/15 profan schnöde Standard Dutzendware mittelmäßig normal schlicht gewöhnlich Mittelmaß ordinär alltäglich Hausmannskost durchschnittlich billig handelsüblich mittelprächtig allgemein banal einfach gemein seriell nullachtfünfzehn Durchschnitt stinknormal
+Saterfriesisch Saterländisch
+Deutschenauslieferung Baltenauslieferung
+M-Tag Pauktag Mensurtag Bestimmtag
+wissensdurstig bildungshungrig neugierig lernwillig wissbegierig
+Kohnstamm-Phänomen Kohnstamm-Effekt
+Textiltechnologie Textiltechnik
+Schriftsippe Schriftsystem
+Elektromobilität E-Mobilität
+Kreuzschmerzen LWS-Syndrom Lumbalgie Rückenschmerzen
+Brachialgie Armschmerzen
+Querachse Links-Rechts-Achse Horizontalachse Transversalachse Breitenachse
+Logitudinalachse Längsachse Vertikalachse
+Pfeilachse Tiefenachse Sagittalachse
+vorjährig letztjährig
+komplementär gegensätzlich
+Vardar-Mazedonien Vardar-Makedonien
+Makedonien Mazedonien
+Sprachbad Immersion
+Aponeurose Sehnenplatte
+Bloßfüßigkeit Barfüßigkeit
+Pferdefuß Spitzfuß
+Prolog Eröffnung Ouvertüre Vorspiel
+Erinnerungsstück Andenken Erbstück
+Luchs Nordluchs
+Abspielgerät Wiedergabegerät Player
+fährtenlaut spurlaut
+Frettchenjagd Frettieren
+Fristenregelung Fristenlösung
+Schreckung Territion
+Kompartmentsyndrom Muskelkompressionssyndrom
+Fasziotomie Faszienspaltung
+Lebenslagenprinzip Lebenslagenkonzept
+Dampfboot Vaporetto
+Dioskuren Tyndariden
+Stromdiscounter Energiediscounter Billigstromanbieter
+Verjährungsverzicht Verjährungseinredeverzicht
+Schmiedestar Hitzestar Feuerstar Gießerstar Infrarotstar Glasbläserkatarakt Glasbläserstar Wärmestar
+störungssicher fehlertolerant
+Urial Steppenschaf
+Banteng Sunda-Ochse
+Verborgenblüher Geheimblüher Kryptogame
+Impfausweis Impfbuch Impfpass
+Knochenschlüssel Zehnlochschlüssel Knochen
+Majuskelziffer Versalziffer Normalziffer
+Mediävalziffer Minuskelziffer
+Wiener-Chintschin-Theorem Wiener-Chintchin-Kriterium Chintschin-Kolmogorow-Theorem
+Autoleistungsspektrum Wirkleistungsspektrum
+Vermessungsflugzeug Messflugzeug
+CFC-12 Freon-12 Dichlordifluormethan R-12
+Grifflochregister Griffregister Daumenregister
+Universalitätsprinzip Weltrechtsgrundsatz Weltrechtsprinzip
+Fruchtwasserspiegelung Amnioskopie
+Amnionflüssigkeit Fruchtwasser
+Grotrian-Diagramm Termschema Niveauschema
+Umgebung Ambiente
+Bezugsrahmen Nebenumstände Orientierungsrahmen Kontext
+Ponzi-Plan Ponzi-System Ponzi-Schema
+Frambösie piã Himbeerseuche Parangi Buba Pian Yaws pián bouba
+Ansprechendsein Gefälligsein Konzinnität
+gehaltvoll inhaltsreich themenreich inhaltsschwer stoffreich
+Riesentopf Gletschertopf
+Wachsleiche Fettleiche
+Hangschloss Vorhängeschloss Vorhangschloss
+Mikronucleus Mikronukleus Kleinkern
+Großkern Makronucleus Makronukleus
+haploid monoploid
+Klöntür Halbtür
+Nahrungsvakuole Gastriole
+Yawara Pasak Dulodulo
+Pratze Schlagpolster
+Isabellbär Himalayabär
+Druckpunkt Atemi-Punkt Akupressurpunkt Kupso-Punkt
+Papillenödem Stauungspapille
+Kombitherme Gastherme
+Sammelheizung Zentralheizung
+Zuarbeiter Assessor Assistent Beisitzer
+Berührungselektrizität Berührungsspannung Kontaktpotential Kontaktspannung Kontaktelektrizität
+Berührungsspannung Berührspannung
+Richtungsharfe Richtungsgruppe Reihungsbahnhof
+Zugeinheit Zugverband
+Zugkomposition Zugskomposition
+Großmotorschiff Großmotorgüterschiff
+Bewahrer Absicherer Beschützer Wächter Behüter
+Sternenschau Astroskopie Sternbeobachtung Sternguckerei
+Engbrüstigkeit Kurzatmigkeit Asthma
+Votivgabe Votiv
+monolithisch asynthetisch unzusammengesetzt
+Kombiinstrument Kombinationsinstrument
+Trennblatt Registerblatt
+Registerkarte Leitkarte
+Bettelknopf Anforderungsknopf
+Bettelampel Anforderungsampel
+Vorrangschaltung ÖPNV-Bevorrechtigung
+Schwingungsdauer Periodendauer Schwingungszeit
+Planetenmaschine Orrery
+Planetarium Sternentheater
+Bauxitrückstand Rotschlamm
+Tiersteuung Zoochorie Tierausbreitung
+Chorologie Arealkunde Synchorologie
+Anemochorie Windstreuung
+Furanocumarin Furocumarin
+Vollziehungsbeamter Vollstreckungsbeamter
+Schlangentoxin Schlangengift Ophiotoxin
+Kfz-Brief Fahrzeugausweis Fahrzeugbrief Typenschein
+Selbstbefruchtung Autogamie Selbstbestäubung
+Fledermausbestäubung Chiropterogamie Chiropterophilie Fledermausblütigkeit
+Kulturvarietät Cultivar Kultivar
+Buntschriftstellerei Poikilographie
+besiegeln determinieren
+Warnfärbung Aposematismus
+Trockenholz Baumleiche Totholz Moderholz
+Gliedmaßenfehlbildung Dysmelie
+Scheibenwaschwasser Scheibenwischwasser
+entscheidungsfreudig entschlussfreudig
+würzen parfümieren aromatisieren
+Feigbohne Wolfsbohne Lupine
+Honigdrüse Nektarium
+Bittschrift Supplik
+Papierboot Argonaut
+Perlboot Nautilus
+Kammqualle Rippenqualle
+Bittersalz Epsomsalz Magnesiumsulfat Epsomit Epsom-Salz
+Yajé Hoasca Yagé Cipó Daime Ayahuasca Natem
+Arowana Silbergabelbart Aruana Arahuana
+Pharmakodynamik Arzneiwirkungslehre
+Arzneikonzentrationsverlauf Pharmakokinetik
+Lohnbuchführung Lohnbuchhaltung
+Masthuhn Broiler
+Kurztext Miszelle
+heilig anbetungswürdig
+Pfahlbautenspitz Torfhund Torfspitz
+Staatskalender Staatsadressbuch Staatshandbuch
+vorwegentscheiden präjudizieren
+Rahmenprogramm Mantelprogramm
+Filmbiografie Biopic
+Likörwein Südwein
+Drachenfrucht Pitahaya Pitaya
+Diskusbuntbarsch Pompadurfisch Heckel-Diskus
+Sumpfbecken Paludarium Sumpfterrarium
+Aquarium Wasserbecken Bassin Wassergehege
+Uferterrarium Riparium
+Bachlaufterrarium Rivarium
+Terrarienkunde Terraristik
+Regelblatt Regelplan
+Verkehrszeichenplan Beschilderungsplan
+Samadhi-Tank Isolationstank Entspannungstank Floating-Tank Schwebebad
+Kopfblatt Nebenausgabe Mantelzeitung
+Klangarchiv Geräuscharchiv
+Regelkontrolle Baumkontrolle
+Verkehrssicherungspflicht Verkehrspflicht
+Interföderationsrecht Zwischenländerrecht
+Dieselpartikelfilter Partikelfilter Rußpartikelfilter Dieselrußpartikelfilter
+leiblich fleischlich körperlich sinnlich
+Festkörperakkumulator Feststoffbatterie Festkörperakku
+Trancheur Vorschneider Zerleger
+sagenumwoben finster unirdisch elbisch unheimlich jenseitig düster geheimnisvoll
+Filmeditor Cutter Schnittmeister
+Sukzessorstaat Nachfolgestaat
+Blauholzbaum Blutholzbaum
+Volksausschuss Nationalausschuss
+Alumneum Alumnat
+Stift Konvikt Studienhaus
+Standardrente Eckrente
+Standardrentenniveau Rentenniveau
+Gehaltstüte Lohntüte
+Nullpunktsfluktuation Quantenfluktuation Vakuumfluktuation
+Pauli-Verbot Pauli-Prinzip
+Blutmond Kupfermond
+Skolopender Chilopoda Hundertfüßer
+Blickschutz Sichtschutz
+Reinigung Katharsis Klärung Läuterung
+Riesengarnele Garnele Crevette
+Erreichbarkeit Ansprechbarkeit Verfügbarkeit Kontaktierbarkeit
+Heckschule Winkelschule Klippschule
+Notverkauf Selbsthilfeverkauf
+absetzen setzen sedimentieren ablagern niederschlagen
+Regio-S-Bahn NordWestBahn
+Überempfindlichkeit Hypersensibilität Hochsensibilität Hochsensitivität
+thematisch inhaltlich
+konzeptionsmäßig konzeptuell
+Theaterausrüstung Fundus
+Nominalkompositum Substantivkompositum
+Streitsucht Zanksucht
+Detailgetreue Detailtreue
+Primasprit Agraralkohol Weingeist Trinksprit
+Angelika Arznei-Engelwurz Engelwurz
+Hackblock Hackklotz Hackstock
+Stirnholz Hirnholz
+Aktmodell Nacktmodell
+annagen anknabbern anbeißen
+anknoten festknoten
+heraldisch wappenkundlich
+Allgemeinwissen Allgemeinbildung
+Straßenname Hodonym Dromonym
+Landschaftsname Choronym Raumname
+Antiestrogen Estrogen-Blocker
+Kastrationsangst Kastrationskomplex
+Vermisstenanzeige Abgängigkeitsanzeige
+Skiunfall Schiunfall
+Schmarre Wundmal Narbe Schramme
+spendabel splendid großzügig generös freigebig
+Extraterritorialität Exterritorialität
+Abtritterker Aborterker
+Kubikmeter m³
+Cytomegalie Einschlusskörperchenkrankheit Zytomegalie
+Makrolakton Makrolid
+Maßhoff-Lymphadenitis Brennemann-Syndrom Pseudoappendizitis
+Merkmal-Wert-Struktur Attribut-Wert-Matrix
+Wissensdatenbank Wissensbasis
+Bisam Bisamratte Bisambiber Wasserkaninchen Sumpfhase Sumpfkaninchen Zibetratte Moschusratte Zwergbiber
+Bleioxidfarbe Mennige Rostschutzmittel Rostschutzfarbe
+NO Stickstoffmonoxid
+Pauschalbetrag Pauschbetrag
+Liniierung Linierung Lineatur
+Refraktionsbestimmung Augenglasbestimmung Augenprüfung Brillenglasbestimmung
+Finanzberater Vermögensberater
+Interventionsklage Drittwiderspruchsklage
+erste primäre
+Hostienschändung Hostienfrevel
+HGÜ-Kurzkopplung Gleichstromkupplung Gleichstromkurzkupplung HGÜ-Kurzkupplung
+Kreuzbein-Darmbein-Gelenk Iliosakralgelenk Sakroiliakalgelenk Kreuz-Darmbein-Gelenk
+Steißteratom Steißbeinteratom
+Teratom Wundergeschwulst
+Innenverdichtung Nachverdichtung
+Habitattrennung Habitatfragmentierung Lebensraumzerschneidung
+Flächenversiegelung Bodenversiegelung
+Zwei-Drittel-Gesetz Drittelgesetz
+Paragrafenzeichen § Paragraphenzeichen
+Dehnungszeichen Längenzeichen
+Stoffgruppe Stoffklasse
+Kapitaldeckungsverfahren Kapitaldeckungsprinzip
+Pfostenloch Pfostengrube Pfostensetzung
+Unterwasserkabel Seekabel
+Brustvergrößerung Brustaugmentation
+Berufung Ruf
+Selbstverbuchung Selbstausleihe
+Westarmenisch Türkisch-Armenisch
+Wachstuch Wachsleinwand Firnistuch
+De-facto-Regime De-facto-Staat
+Nordtürkisch Nordosttürkisch
+missionieren bekehren
+Gewandschneider Wandschneider
+Betreuungsschlüssel Personalschlüssel
+Klassenstärke Klassenfrequenz Klassengröße
+Bildungsparadoxon Qualifizierungsparadoxon Bildungsparadox Qualifizierungsparadox
+Witwenspitze Biquoquet
+Verschmutzung Befleckung Besudelung Verunreinigung Verdreckung Beschmutzung
+Synklinale Synkline Synklinorium
+Antiklinorium Antiklinale
+Geosynkline Geosynklinale
+gangbar begehbar passierbar
+Kommentator Deuter Ausleger Interpret Erklärer
+Katapher Kataphora
+Pro-Form Proform Verweisform
+Castoreum Bibergeil
+Nebelwolke Dampfwolke Nebel
+Autor-Jahr-Zitierweise Harvard-Methode Harvard-Zitieren Harvard-System Harvard-Zitat
+um-sich-selbst-wissend autonoetisch
+Produktionswirtschaft Produktionswirtschaftslehre
+Charadrius Galadrius Caladrius
+Blauschaf Bharal Nahur
+zusammenwickeln zusammenlegen zusammenklappen zusammenfalten
+Stammtischrunde Trinkgesellschaft Symposion
+multifunktional Mehrzweck-
+Binnenkolonisation Landesausbau
+Zimier Helmkleinod Clainot Helmzier Cimir
+Marschenkrankheit 3-Tage-Fieber Marschenfieber Stoppelfieber Wechselfieber Marschkrankheit Drüddendagsfeber Dreitagefieber Drei-Tage-Fieber Ernteseuche
+Klassenbuch Klassentagebuch
+Brachsmen Brasse Brachsme Brachse Brachsen Pliete Blei Bresen
+Pinselschwanz-Beutelmaus Pinselschwanzbeutler
+Schattenwerfer Schattenstab Gnomon Schattenzeiger
+Konsil Konsilium
+Konsiliarius Konsiliararzt
+Schulersatzprojekt Ergänzungsschule
+Borosilicatglas Borosilikatglas Borsilikatglas
+Hüpfspiel Paradiesspiel Huppekästchen Hickeln Tempelhüpfen Hüppekästchen Hopse Hickelkasten Hinkekasten Hüpfekästchen
+Provinzialkapitel Provinzkapitel
+Ölpreisschock Ölpreiskrise Ölkrise
+gemeinschaftstauglich bindungsfähig soziabel gesellig gemeinschaftsfähig
+Halbgesagtes Angedeutetes Andeutung Zwischentöne
+indirekt hintenrum versteckt verblümt
+Raumfrequenz Ortsfrequenz
+Besatzungssoldat Besatzer
+Prequel Vorgeschichte
+Fernsehserie Serie
+Thermokarst Kryokarst
+Neretvabahn Narentabahn
+Stichlinie Stichstrecke
+Stichbahn Flügelbahn
+Knabenzins Knabenlese
+Eisenbahngüterverkehr Schienengüterverkehr
+Spastizität Spastik
+Kalklöser Entkalker Entkalkungsmittel
+Lebewesengruppe Taxon
+Rentenbeginn Renteneintritt
+Säuglingsalter Babyphase
+engelgleich seraphisch engelsgleich
+Ketokörper Ketonkörper
+Tunnelanschlag Tunnelanstich
+Trägerbohlwand Rühlwand Träger-Bohlwand
+Hochdruck-Bodenvermörtelung Düsenstrahlverfahren Hochdruckinjektionsverfahren
+bereichern verbessern
+Kinetheodolit Kinotheodolit
+Stimmlippenknötchen Stimmbandknötchen Schreiknötchen Sängerknötchen
+Wahrnehmungsvermögen Wahrnehmungsfähigkeit Sensorium Perzeptibilität
+Schuh-Fluoroskop Pedoskop
+Röntgendiagnostik Röntgen
+Außenseiter-Favorit Geheimtipp
+Ladung Wagenladung Fuhre Fuder
+Existenzgründung Neugründung Unternehmensgründung
+Startkapital Grundkapital Stammkapital Gründungskapital
+Königsfamilie Königshaus
+Adelsfamilie Adelsgeschlecht Adelshaus
+Adelstitel Adelsrang
+knollig knollenförmig knubbelig knubblig
+Knoten Verdickung Knubbel
+knittrig verknittert knubbelig knubblig knautschig verknubbelt verknautscht
+Lebensform Lebensentwurf Lebensweise Lebensmodell
+himmelsschreiend empörend ungeheuerlich unerhört unfassbar skandalös schreiend unerträglich
+Lebensmittelunverträglichkeit Lebensmittelintoleranz
+danebengegangen misslungen missraten
+Bestellung Auftragserteilung Beauftragung
+Nebengebäude Annex Anbau Erweiterungsbau
+Quintett Fünfergruppe
+Achtergruppe Oktett
+Septett Siebenergruppe
+Sextett Sechsergruppe
+Buffetschrank Geschirrschrank Küchenschrank
+hauchzart hauchdünn hauchfein
+allein schon schier
+Chemoautotrophie Chemosynthese Chemolithotrophie
+Udzat-Auge Horusauge Udjat-Auge Mondauge
+Bestplatzierter Favorit Siegesanwärter
+Außenseiter Schlechtplatzierter
+Badebürste Saunabürste Frottierbürste Rückenreiniger Duschbürste Rückenbürste
+Webkamm Webblatt Riet Weberblatt
+Schwammkürbis Luffa
+Blänke Lacke
+Kreuzigung Ans-Kreuz-Schlagen
+Landesverräter Vaterlandsverräter
+geadert geädert marmoriert
+eingeengt eingekeilt eingepfercht eingezwängt beengt eingeklemmt
+Libertarianismus Libertarismus
+Schneider Wasserschneider Wasserläufer
+verlustbehaftet defizitär ausgeleiert drittklassig lückenhaft fehlerhaft brüchig
+Veltlinbahn Valtellinabahn
+Hallantrieb Hall-Effekt-Antrieb
+Laufstall Laufgitter
+verabreden abkaspern
+Haufenparadox Acervus Haufenschluss
+Bett Bettung
+Sattelkupplung Sattelplatte
+Regel-3-Tonner Regellastwagen
+Silberfischchen Zuckergast
+Ungeziefer Schädling
+Terminalfaden Terminalfilum
+Pygidium Telson
+verurteilungswürdig verdammenswert verachtenswert verdammungswürdig verurteilenswert verwerflich
+Krankenhausplanung Krankenhausbedarfsplanung
+Refraktion Strahlenbrechung Brechkraft
+Insiderinformationen Insiderwissen
+Zurückweisung Abweisung
+leibeigen sklavisch hörig
+leibeigen hörig sklavisch
+leibeigen sklavisch hörig
+Kreuzschlitzschraubenzieher Phillips-Schraubenzieher Kreuzschlitzschraubendreher Kreuzschraubenzieher Phillips-Schraubendreher
+Selbstmordbaum Schellenbaum Pong-Pong-Baum Zerberusbaum See-Mango Milchbaum
+Gesellschaftswagen Partywagen
+Musikwagen Float Soundmobil
+Teilnahmeort Mitmachort
+Arbeitsumfeld Arbeitsumgebung
+nutzen wahrnehmen profitieren
+Moosbeere Cranberry Kranichbeere
+angestrengt bitter streng verkniffen
+Ablösesumme Ablöse Abstandszahlung Abstand
+Insidertipp Geheimtipp
+bauschig aufgeplustert
+undifferenziert unterschiedslos ununterschieden
+Sektorkopplung Sektorenkopplung
+Grünbleierz Buntbleierz Phosphorblei Pyromorphit Pseudokampylith Phosphorbleyspat Bleiapatit Polychrom Braunbleierz Sexangulit
+Arsenikbleispath Flockenerz Traubenblei Grünbleierz Mimetit Gorlandit Mimetesit
+Konichalcit Conichalcit Higginsit
+Kalkvolborthit Calciovolborthit Tangeit
+Nadeleisenerz Goethit
+Kupferglas Kupferglanz Chalkosin
+Willemit Belgit Villemit Hebertin
+Tennantit Binnit Julianit Arsenfahlerz
+Tetraedrit Antimonfahlerz Schwarzerz
+Freibergit Silberfahlerz Weißgiltigerz
+Mottramit Vesbin
+giftig bitterböse strafend
+Thrakien Thrazien
+Ägäis-Thrakien Westthrakien
+Elementargeist Naturgeist
+ungreifbar übersinnlich wesenlos ungegenständlich unsinnlich unkörperlich körperlos
+Stufenzahl Zehnerpotenz
+Meerschaum Sepiolith
+Kautabak Mundtabak Snus Priem
+Lufteinlass Lufthutze
+Holzbirne Wildbirne
+Kletzenbrot Zelten Hutzelbrot Hutzenbrot Birnenbrot Früchtebrot Schnitzbrot Berewecke
+Klopfnächte Anglöckelnächte Klöflesnächte Bosselsnächte Anklopfnächte Klöpfelnächte Kräflsnächte
+Tanzlokal Tanzcafé Ballhaus
+Aufdampfen Bedampfen
+sprechbar aussprechbar mitteilbar sagbar aussagbar
+Flüssigseife Handwaschemulsion
+kälteunempfindlich kälteresistent frosthart winterhart
+standfest standsicher
+Selbsterkenntnis Selbsterkennung Selbstkritik Selbstreflexion
+Odin Grimnir Allvater Wotan
+Steingeld Rai
+Faltungsmatrix Filtermaske Kern Filterkern Filteroperator Faltungskern
+Auftrennung Zertrennung Zersplitterung Aufspaltung Spaltung Zerlegung Teilung Zerspaltung Aufteilung Zerteilung Zergliederung Trennung Demontage Fragmentierung
+Interrobang Fragerufzeichen
+Damenspende Ballspende
+Festivalbändchen Kontrollarmband Einlassband
+Laufvariable Laufindex Zählvariable
+Faserzement Wellasbest
+Gebietsprälatur Territorialprälatur
+Bachkrebs Steinkrebs
+Risswachstum Rissausbreitung
+Parathyrin Parathormon Nebenschilddrüsenhormon
+Doppelkreuz Rautezeichen Schweinegatter Hash Raute Lattenzaun
+Primasch Stehgeiger
+Kaffeehaus-Musiker Salonmusiker
+Erbsünde Sündenfall Ursünde
+Netzkabel Stromzuführung Stromkabel Kabel
+Junggesellin Alleinstehende Alleinlebende Unverheiratete Single
+daneben nebenbei nebenher parallel
+Acetylpernitrat Peroxiacetylnitrat PAN
+PBzN Peroxibenzoylnitrat PBN
+2-Propenal Acrolein Acrylaldehyd Propenal Aqualin Akrolein Prop-2-enal
+Kritiker Andersdenkender Opponent Gegner
+Bambusgras Zimmerbambus Bonsai-Bambus Seychellengras
+Süßgräser Gramineae Poaceae
+Nandine Himmelsbambus
+Fischöl Tran Polaröl
+Ambra Amber
+Pottwal Kaschelott
+Styrax Storaxharz Balsam
+Benzoeharz Benzoe
+Walrat Cetaceum Spermaceti Spermazeti
+Schrumpfrate Schrumpfverhältnis
+Gummielastizität Entropieelastizität
+Lockerung Vollzugslockerung
+Raumschall Diffusfeld Diffusschall
+Dachgeschosswohnung Dachwohnung Mansarde
+Ibisch Ibischa Hemisch Ibsche Eisenkraut Ibischpappel Eibischwurz Homes Eibich Hülfwurz Hünst Eibschen Arznei-Eibisch Weizpappel Sammetpappeln Teewurzel Adewurz Ungerschkrud Ipsch Heemst Pallenblöm Ybesce Ibischwurz Schleimwurzel Hüffwurzel Heilwurz Sumpfmalve Eibesch Rockwort Ebich Hemst Ibschge Samtpappel Arteawurzel Althee Grozpapel
+Wellness-Urlaub Kur Entspannungsurlaub
+menschlich zwischenmenschlich
+Keto Ketos Cetus
+Erdzeit Weltzeit
+Interessenpartei Klientelpartei
+Saatweizen Brotweizen Weichweizen
+Durumweizen Glasweizen Hartweizen Durum
+Friese Friesenpferd
+Abstammung Pedigree Papiere Pferderasse
+Fjordpferd Norwegerpony
+Rennpferd Vollblut Araber
+Sportpferd Springpferd Dressurpferd Warmblut
+Bowlinganlage Bowlinghalle Bowlingcenter
+Purgiergurke Koloquintenkürbis Teufelsapfel Pomaquinte Alhandal Bitterkürbis
+Güterwagen Güterwaggon
+Zirkassisch Westkaukasisch Abchasisch-Adygheisch
+Hermetik Hermetismus
+Mischkonzern Konglomerat Multikonzern
+Flüssigkeitsaufnahme Trinken Flüssigkeitszufuhr
+Innenraum Innere Interieur
+Strapaze Mühsal Quälerei Überanstrengung Schinderei Schlauch Tortur
+Turmdrehkran Turmkran
+Stimmstörung Dysphonie
+Münzverrufung Münzverruf
+Regionalgeld Regionalwährung Lokalwährung
+Nordalbingien Nordelbingen Nordelbien
+befallen einnisten kontaminieren infizieren
+Franken Frankenland
+unseretwegen unserethalben
+Notstromaggregat Stromerzeugungsaggregat Netzersatzanlage
+Wobbler Wobbelsender Wobbelgenerator
+Tabubruch Grenzüberschreitung
+Dachetage Dachgeschoss
+Stadtphysikus Stadtphysicus Stadtarzt
+Gemeinderat Gemeindeparlament
+bestgehasst meistgehasst
+Sightseeing-Tour Stadtrundfahrt
+Ballspielhalle Ballspielhaus
+Postengeschacher Pöstchenschieberei
+Protektion Begünstigung Bevorteilung Begönnerung
+Lernbiographie Bildungshintergrund
+Shoppingtour Kaufrausch Kauforgie Großeinkauf
+Tendenzunternehmen Tendenzbetrieb
+Wohnturm Donjon
+Vorhaltezeit Bereithaltezeit
+Anpassungserwartung Konformitätsdruck
+Butzenscheibe Nabelscheibe Batzenscheibe
+Rundfenster Oculus Ochsenauge
+Kaliumüberschuss Hyperkaliämie
+Geschworenengericht Schwurgericht
+Metalimnial Sprungschicht Metalimnion
+Biosphäre Lebensraum
+eiszeitlich glazial
+Quinoa Pseudogetreide Andenhirse
+Todesdrohung Morddrohung
+hinterhältig meuchlings heimtückisch
+Ethnopharmakologie Ethnobotanik
+Anzugtasche Kleidersack
+Taschenmesser Sackmesser
+Mittelniederländisch Dietsch
+müde ermattet erschöpft
+Forscherdrang Experimentierfreude Risikofreude Entdeckergeist
+Sinnstiftung Sinngebung
+schmucklos trostlos glanzlos unglamourös banal unauffällig
+durchzappen durchschalten
+Wettersatellit Meteorologiesatellit
+Bestrahlungsstärke Strahlungsstromdichte
+Preiseinbruch Preissturz
+Abbrechklingenmesser Stanleymesser Teppichmesser Japanmesser Cutter Cuttermesser
+eincremen einschmieren einbalsamieren einsalben anstreichen beschmieren
+ausgebleicht verblasst ausgeblichen ausgewaschen blass verblichen verwaschen verschossen abgeblasst
+zerstampfen zertreten zertrampeln treten kaputttrampeln kaputttreten
+Einschulungsgottesdienst Schulanfängergottesdienst
+Signalfarbe Neonfarbe Leuchtfarbe
+Sitzungssaal Versammlungsraum Tagungsraum
+glimmen glosen
+schimmern glänzen
+oszillieren pulsieren schwingen
+wogen ziehen spuken wabern treiben
+Lipoidproteinose Urbach-Wiethe-Syndrom
+Strand-Beifuß Strandwermut Strandbeifuß
+Kamerunbeule Calabar-Schwellung Loiasis Loaose
+vollendet unvergleichlich unübertroffen unerreicht
+ideal vollendet makellos perfekt vollkommen
+meisterhaft meisterlich bravourös Meister-
+beispielgebend musterhaft vorbildlich beispielgebend mustergültig beispielhaft
+Kubaelfe Hummelkolibri Bienenelfe
+vermietet verliehen verdungen
+zusammengewürfelt zusammengeschustert zusammengepanscht zusammengekloppt zusammengerührt zusammengehauen
+Liquidierung Liquidation Tötung Ausschaltung
+aufgebläht überdimensioniert überbordend
+Schicksalstag Schlüsselmoment Wendepunkt
+Bistrotisch Stehtisch
+tagsüber untertags tags
+melden durchsagen durchgeben
+Koinzidenzprinzip Simultanitätsprinzip
+Sachsenross Westfalenpferd
+Banachraum Banach-Raum
+Innenproduktnorm Hilbertnorm Skalarproduktnorm
+Faktorraum Quotientenvektorraum Quotientenraum
+Ulam-Spirale Primzahl-Spirale
+Äquivalent Entschädigung Gegenwert Gegenleistung Ausgleich Entsprechung Ersatz Abgeltung Surrogat
+Frauensachen Mädelskram
+nachbestellen nachkaufen nachordern
+vollständig rückstandsfrei restlos rückstandslos
+Spielfigur Token Spielgeld Jeton Chip Stein Spielstein
+Jochpilz Zygomyzete
+Sichtung Ersteinschätzung Einteilung Triage
+Lysozym Muramidase
+Kriegsbegeisterung Kriegseuphorie
+Volkstümelei Heimattümelei
+Klangbild Klangfarbe Klangfülle
+Kreuzchen Kreuzerl
+Urbedeutung Grundbedeutung
+Grundkraft Elementarkraft Urkraft
+Popeln Nasebohren Nasenbohren In-der-Nase-Bohren
+Inseldenken Silodenken Abgrenzungsdenken
+Schnellkomposter Kompostbeschleuniger
+Rauhcouverture Beaverteen Biber-Stoff Beaver Rohflanell Baumwollflanell Flannelette Biber
+Gruppenfoto Familienfoto
+Trendumkehr Trendwende
+Weiser Seher Wissender
+Kaffeeservice Geschirr Schüssel Teller Tafelservice Topf Porzellan Küchengeschirr Sonntagsgeschirr Service Nachtgeschirr Essgeschirr
+Sicherheitsrasierer Rasierhobel
+Formulierungsproblem Formulierungsschwierigkeit
+Formulierungshilfe Formulierungsalternative Formulierungsvorschlag
+offenlegen verraten preisgeben offenbaren
+Färbung Farbgebung Kolorierung Farbgestaltung
+Weide Salix
+austragen verteilen herumbringen bringen zustellen
+Grassteppe Grasebene Prärie Grassavanne
+Ingber Ingwerwurzel Imber Ingwer Immerwurzel
+Wurzelstock Rhizom
+Bäderwesen Bäderheilkunde Balneologie
+Krapp Färberkrapp
+Rötegewächs Krappgewächs Kaffeegewächs
+Wanderungsbilanz Wanderungssaldo
+Hausherrin Herrschaft Hausherr
+Nennspannung Nominalspannung
+Liebenswürdigkeit Nettigkeit Herzlichkeit
+Körnchen Bröckelchen Krümchen Stückchen Bisschen
+militärisch soldatisch diszipliniert
+Reaktion Response
+Cloisonné Zellenemail
+Spartenorganisation Geschäftsbereichsorganisation
+Geschicklichkeitsturnier Geschicklichkeitswettbewerb
+entrückt weltenfern
+aufwertend meliorativ
+Herabsetzung Abqualifizierung Verächtlichmachung Abwertung
+starten anspringen angehen
+Lawinenverschüttetensuche Lawinenrettung
+Amüsierlokal Vergnügungsstätte Amüsieretablissement
+Nachtclub Stripbar Rotlicht-Lokal Rotlicht-Bar Striplokal
+Mitbringsel Dankeschön Aufmerksamkeit Gastgeschenk Geschenkle
+übermütig leichtsinnig
+Megaregion Megalopolis
+Soutane Priestergewand
+y-Achsenabschnitt Ordinatenabschnitt
+Menschenkinder Sterbliche Menschen
+Unterpannonien Niederpannonien
+Kostprobe Geschmacksprobe Probierhäppchen
+Mundvoll Miniportion Häppchen Bissen
+Projektant Planer
+Edelknabe Knappe Wappner Armiger Wäpeling Wepeling Edelknecht
+Fechtfeder Federschwert
+Mordhau Mordstreich Mordschlag
+Versuchsaufbau Versuchsanordnung
+Ton Laut Geräusch Mucks
+Schälmesser Hipkesmess Kartoffelschälmesser Tourniermesser Aberrämmchen Schneiddeiferl Pitter Knippchen Pittermesschen Hölzestielchen Hümmchen Kneipchen Pittermesser Zöppken Hümmelken Hipken
+Küchenarbeit Kochen Kocherei
+Rahmenbedingungen Eckpunkte Richtgrößen
+Endlossatz Bandwurmsatz Satzgirlande
+Folgesatz Konsekutivsatz
+Wechselgeber Trassant
+Küchenhilfe Küchenhelfer
+Hausarbeit Haushalt
+Monumentalismus Gigantismus Kolossalismus Gigantomanie
+Feindberührung Feindkontakt
+los! komm!
+Speichersubsystem Speicher-Engine
+Wikingerschach Wikingerspiel Bauernkegeln Kubb Schwedenschach Wikingerkegeln Stöckchenspiel
+Distanzierung Sinneswandel Kurswechsel Abkehr
+gehörig ordentlich
+Neurolues Neurosyphilis
+Lisene Mauerblende
+Disputation Verteidigung Defensio
+Lungenfacharzt Lungenarzt Pneumologe Pulmologe
+Nebulium Nephelium Nebulum
+Riechstörung Dysosmie
+Taten Handeln Handlung
+Auswechselung Ersetzen Austausch Wechsel Auswechseln Ersatz Austauschen
+Zerknirschtheit Reuegefühl Reue Schuldgefühl Gewissensnot Selbstvorwürfe
+kuschlig verschmust knuddlig schmusig
+unansehnlich nachlässig unelegant
+glatt steif fest
+Stirnreflektor Augenspiegel Stirnspiegel
+Pumphose Pluderhose Haremshose
+Klaps Patscher Patsch Streich
+Weitsicht Umsicht Weitblick
+Entblößung Entkleidung
+eintreiben abknöpfen kassieren einziehen einkassieren einstreichen greifen
+Perverser Abartiger Perversling
+Vaterlandsliebhaber Vaterlandsfreund Patriot
+Wirtschaftsgut Produkt
+Sachgut Produkt
+Hizopf Eisenkraut Eisop Josefskraut Duftisoppe Weinespenkraut Esope Hisopo Ibsche Ispen Heisop Essigkraut Bienenkraut Isop Ysop Gewürzysop Hyssop
+Heilkraut Heilpflanze Arzneipflanze
+Vorderschaftrepetierer Vorderschaftrepetiergewehr Pumpgun
+Kartause Kartäuserkloster
+Aufzug Demonstration
+zubauen verbauen bebauen
+Südchinesisch Kantonesisch Guangdonghua Yue
+Wasserjungfer Kleinlibelle
+Ursache Grund
+Kreuzfahrtschiff Ozeanriese
+Überlegung Gedankengang Reflexion
+Schrittmacher Taktgeber
+Pardune Abspannseil
+pfeifen fahren wehen jagen blasen treiben fegen
+Mottowagen Motivwagen
+Trommelbauch Blähbauch
+Gangsterbraut Gangsterliebchen
+gewinnend liebenswürdig charmant nett
+Sklerotalring Skleralring
+wertschätzend positiv lobend anerkennend
+jauchen odeln
+Güllebehälter Jauchegrube Güllegrube Güllekeller
+Bedeutung Reichweite Wirkung Strahlkraft
+glanzvoll glamourös strahlend blendend
+Transportbehälter Transportkiste Transportbox
+Munitionskiste Munitionsbehälter Metallkiste Blechkiste
+Benutzereingabe Benutzerinteraktion
+Tagesaktualität Tagesgeschehen
+Weidenblattlarve Aal-Larve Leptocephalus
+Golf-Tang Golftang Sargassum
+Funkstellenkennung Rufzeichen Kennung Stationskennung
+Lichterschiff Barge Leichterschiff Bording Schute Leichter Prähm
+Larmoyanz Selbstmitleid
+Chicle Kaugummi Mastix
+überdrehen übertakten
+Calciumkarbonat CaCO3 Kalziumkarbonat Kalk Calciumcarbonat
+Natronfeldspat Albit
+Websterit Aluminit
+Alaunspat Alaunstein Lœvigit Alunit Lœwigit
+Rufzeichen Freiton
+Besetzeichen Besetzton
+Rundgang Runde Tour
+Vordertür Vordereingang
+Hintereingang Hintertür
+beeinträchtigen eintrüben überschatten dämpfen
+fangen auffangen schnappen
+schmücken dekorativ verschönern verzieren zieren
+Wandtisch Konsole
+Kadscharen Qadscharen
+Jerusalembohne Lunjabohne Mungobohne Mungbohne
+Antoniterorden Antoniusorden
+Kälberzähne Gräupchen Graupen Kochgerste Rollgerste
+Beriberi Kakke Thiaminmangelerkrankung Beri-Beri
+V1 Flügelbombe
+Kukuinuss Kerzennuss Lumbangbaum Bankul-Nussbaum Kemirinuss Lichtnussbaum Candlenut
+versendet raus aufgegeben abgeschickt verschickt abgesendet
+Musterfestellungsklage Musterklage
+Flatrate Pauschalpreis Preispauschale Pauschaltarif Pauschalbetrag Pauschale Pauschalsumme
+Trapezakrobat Trapezkünstler
+Limes Grenzwert
+Sequenz Folge
+Geltendmachung Durchsetzung
+Zahnstangengewinde Steckwinde
+astronomisch kosmisch galaktisch
+Auskunftsverweigerung Verschweigen Schweigen
+Van-Allen-Strahlungsgürtel Van-Allen-Gürtel
+Sonnenwind-Blase Heliosphäre
+Terminationsschock Randstoßwelle
+ungestützt freitragend selbsttragend
+zugestellt verstellt verbaut zugebaut
+Kinonacht Filmnacht
+Tonaufnahme Tonbandaufnahme Tonaufzeichnung Bandaufnahme Phonogramm Aufzeichnung Mitschnitt
+Bestand Besatz
+Schwammtuch Wettex Spontextuch
+Totenstille Grabesruhe
+R-40 Monochlormethan Chlormethan Methylchlorid
+Benzenamin Aminobenzol Benzamin Anilin Benzidam Phenylamin Aminobenzen
+Nitrobenzol Nitrobenzen Benzalin Mirbanessenz Mononitrobenzol Mirbanöl
+Razemat Racemat
+2,3-Dihydroxybutandisäure Tartarsäure Weinsteinsäure Weinsäure Threarsäure 2,3-Dihydroxybernsteinsäure
+Weißling Wittling Gadden Merlan
+Metakommunikation Verständigung
+Luxor Theben
+übereinanderlegen überschlagen übereinanderschlagen
+Schlitzohrigkeit Verschmitzheit Bauernschläue Gewieftheit
+Schwierigkeit Falle Hindernis Fußangel
+freudestrahlend hocherfreut
+Nanismus Nanosomie Verzwergung
+Abstammungstheorie Deszendenztheorie
+Iatrochemie Chymiatrie Chemiatrik Chemiatrie
+Dexamethason-Hemmtest Dexamethason-Suppressionstest
+Hyperinsulinämie Hyperinsulinismus
+leicht schwach lau
+Schlichtkleid Winterkleid Ruhekleid
+ungeübt eingerostet
+Schlafwagen WL
+Strömungskupplung Föttinger-Kupplung
+Hauptquartier Kommandozentrale
+Einsatzleitung Führungsstab Führungseinheit
+Klause Hucke Kate Kotten
+Kontrollleuchte Leuchtsymbol Kontrolldiode Kontrolllämpchen
+Leuchtsymbol Warnleuchte Warnlämpchen
+Tiermehl Tierkörpermehl Kadavermehl
+Glykation Glykierung
+Gebeugter-Mann-Krankheit Chikungunya
+Ninjutsu Ninpo
+versimpelt unterkomplex simplifiziert platt
+Tieftemperaturtechnik Kryogenik Kryotechnik
+Umlaufrichtung Drehsinn Umlaufsinn Drehrichtung
+Karborundum Siliciumcarbid Siliziumcarbid Siliziumkarbid Karborund
+Ca2 Calciumhydroxid Weißkalkhydrat Kalkhydrat Löschkalk Hydratkalk Kalkwasser
+Kalkung Kalkdüngung
+Anhydrit Anhydritspat Karstenit Ca[SO4] Gekrösstein Calciumsulfat Muriacit
+Verunreinigung Verseuchung Kontamination Verschmutzung
+Sandwüste Sandmeer Erg Edeyen Dünenwüste Dünenmeer
+Hammada Felswüste Steinwüste
+Banderole Bauchbinde
+Volumenviskosität Zähigkeitskoeffizient
+Stauwasserboden Staunässeboden
+Silt Schluff
+Dahlin Alantin Polyfructose Inulin Alantstärke
+Textfassung Verschriftlichung
+Verschriftlichung Alphabetisierung Verschriftung
+Alphabetisierungsrate Alphabetisierungsgrad
+Wahlschlappe Wahlniederlage Wahldebakel
+Bienentrachtpflanze Bienenweide
+Monocopter Gyropter
+Bezähmer Unterwerfer Überwältiger Besieger Bezwinger
+Bindehemmer Ligaturtrenner
+Strandräuber Strandpirat
+Epikanthus-Falte Oberlidfalte Mongolenfalte
+Auslastung Beanspruchung Nutzungsgrad
+Rhyolith Liparit Quarzporphyr
+Zündstein Feuerstein
+reparaturbedürftig verwohnt abgewohnt renovierungsbedürftig
+retten zurückbekommen wiederbekommen wiederherstellen
+Autokorso Korso
+aufstrebend karrieregeil ehrgeizig strebsam karrierebewusst ambitioniert
+Faustgruß Faustcheck Ghettofaust
+unterstützungswürdig unterstützenswert
+Gemeinschaftlichkeit Miteinander Miteinander-Klarkommen Zusammenleben
+Linienbus Stadtbus
+Überlandbus Regionalbus
+Akkubus E-Bus Elektrobus Batteriebus
+Fächergleis Strahlengleis
+Tribok Blide Schleuder Tribock Trebuchet
+Nummernscheibe Fingerlochscheibe Wählscheibe
+Demonstrationsmodell Anschauungsmodell Vorführmodell
+verseucht verpestet
+Geschäftsessen Arbeitsessen
+Schmalrumpfflugzeug Standardrumpfflugzeug
+Einschüchterungsversuch Abschreckungsversuch
+Abschreckung Einschüchterung
+Schnellstartleiste Schnellstart-Leiste
+Startleiste Taskleiste
+Minenhund Panzerabwehrhund
+Vorraum Windfang
+Ausgründung Auslagerung Ausgliederung Ableger Abspaltung
+Präsentator Berichterstatter Referent Vortragender
+angekündigt vorausgesagt prognostiziert
+Balance-Board Hoverboard E-Board Mini-Segway
+Wandler Schallwandler Treiber
+Parcours Kurs
+REM-Schlaf Traumschlaf
+Musiklabel Plattenlabel
+Pentagramm Drudenfuß Drudenstern Pentalpha
+verfolgen monitoren
+Artbildung Speziation
+Fahneneid Vereidigung Gelöbnis Angelobung
+Glyzerin 1,2,3-Propantriol Glycerin Glycerol Propantriol Glycerinum Propan-1,2,3-triol
+Tigerspinne Wespenspinne Seidenbandspinne Zebraspinne
+abschalten ausschalten herunterfahren
+Brexiteer Brexit-Befürworter
+Schadstoffeintrag Deposition
+mundfertig verzehrfertig
+inbegriffen einbegriffen inklusive eingeschlossen
+Kombinationsfähigkeit Kombinationsvermögen Kombinationsgabe
+unbenutzbar tabu kompromittiert belastet verbrannt
+stornieren aussteigen canceln
+Faden fathom Klafter
+Lobbyismus Lobbyarbeit Einflussnahme
+Schmuddelecke Schanddfleck
+Folterspezialist Folterer Folterknecht
+Höllenqual Höllenpein
+Knarre Ratsche
+Blitzumfrage Blitzbefragung
+Immobiliengutachter Immobiliensachverständiger
+Existenzialismus Existentialismus
+Raumspray Raumbedufter Luftverbesserer Geruchsneutralisator Raumlüfter Lufterfrischer Raumdeo
+Lichtsmog Lichtverschmutzung
+Badearzt Kurarzt
+Zwergpinscher Rehpinscher
+unerlaubterweise vorschriftswidrig illegalerweise verbotenerweise widerrechtlich
+dementgegen demgegenüber
+Schorf Wundschorf Grind
+Quiene Queene Quie Queen Galtlig Kalbin Färse Beijst Mänsche Manse Beijste Schumpe Schump Meis Sterke Starke Guschti
+Ammoniumcarbonat Diammoniumcarbonat
+zeitintensiv zeitaufwändig zeitaufwendig
+Vergreisung Überalterung
+Richtantenne Richtstrahler Richtstrahlantenne
+Heilsalbei Küchensalbei Garten-Salbei
+Christrose Schneerose
+Ranunculaceum Hahnenfußgewächs
+Kakaofett Kakaobutter
+tagträumerisch traumtänzerisch
+stillschweigend unausgesprochen ungesagt mimisch pantomimisch
+Schlussverkauf Gelegenheiten Verkauf Totalausverkauf Ausverkauf Sonderangebote Räumungsverkauf
+Rückschluss Gegenschluss Umkehrschluss
+Kinderschänder Kinderverzahrer
+brandig faulig gangränös
+Kernkompetenz Hauptaufgabe
+Tierkrankheit Zoonose
+Schichtsilikat Blattsilikat Phyllosilikat
+Silikat Kieselsäurensalz
+Diatomeenerde Kieselguhr Bergmehl Kieselmehl Tripolit Celit Tripel Kieselgur Infusorienerde Novaculit Diatomeenpelit Diatomit
+Rootspumpe Wälzkolbenpumpe
+Pumpe Flüssigkeitsförderer
+Engelskind Sternenkind Schmetterlingskind
+Fensterkeil Fensterstopper Fensterklammer
+Facettenreichtum Vielseitigkeit
+Bordwerkzeug Bordmittel Notfallwerkzeug Notfallkoffer
+Kevinismus Chantalismus
+Zentralkurdisch Sorani Südkurdisch
+zurückschlagen wehren
+Sofortbildkamera Polaroid
+andocken verkoppeln ankoppeln
+landen ankommen
+Münzmeisterpfennig Zahlpfennig Rechenpfennig Raitpfennig
+rechtsläufig dextrograd
+niedrig nichtswürdig verachtenswert
+Filmtablette Dragee
+grellrot feuerrot blutrot knallrot
+neonrot signalrot leuchtrot feuerwehrrot
+zweckorientiert zielgerichtet zweckgerichtet nutzenorientiert
+Familiensilber Silberbesteck Tafelsilber
+Wasserflugzeug Flugboot
+Veranstaltungskalender Veranstaltungsprogramm
+Flottenkarte Tankkarte
+Einverstanden! Deal! Abgemacht!
+Vorspann Intro
+Blattfahne Friedenslilie Einblatt Scheidenblatt Spathiphyllum
+Programmsprecher Programmankündiger Fernsehansager
+Marktlücke Marktnische
+Stichprobenstandardabweichung Stichprobenstreuung
+Quartilsabstand Interquartilsabstand
+Streuungsmaß Dispersionsmaß Streuungsparameter
+Hoover-Koeffizient Balassa-Hoover-Index Hoover-Index Hoover-Ungleichverteilung
+Hirschman-Index Herfindahl-Hirschman-Index Herfindahl-Index
+Klickgeräusch Klick Klicken klick
+Lageparameter Lagemaß
+Variationsfaktor Dispersionsindex
+Verteilungstest Anpassungstest
+Holzstich Holzriss
+Xylografie Xylographie
+Abgeschiedenheit Sich-Zurückziehen Zurückgezogenheit
+empfängnisbereit östrisch
+Tragzeit Tragezeit
+Schuldgeständnis Schuldbekenntnis Schuldeingeständnis Schuldanerkenntnis
+Unbeteiligter Unschuldiger
+Vorbote Alarmsignal Warnzeichen Vorzeichen
+Alpinhaus Alpinenhaus
+Tropenhaus Tropikarium Troparium
+Riesengleiter Gleitflieger Flattermaki Pelzflatterer Colugo
+Wärmekapazitätsverhältnis Isentropenexponent Adiabatenexponent
+Südkaper Südkaperwal
+Innensechsrund Torx
+Inbus Innensechskant Imbus
+Sternschraube Felgenschloss Felgensicherung Radschraubensicherung Radsicherungsbolzen Radsicherung
+Ablammen Lämmergeburt
+Beleuchtungsstärke Lichtstromdichte
+Kugelsektor Kugelausschnitt
+Kugelschicht Kugelzone
+Bauchspeicheldrüsenkrebs Pankreaskarzinom
+Gallengang Gallenweg
+Lebermetastase Leberfilia
+Gerinnungsstörung Koagulopathie
+Krematorium Feuerbestattungsanlage
+Abortfliege Mottenmücke Gullyfliege Herzmücke Schmetterlingsmücke
+Pfosten Pömpel Poller Hafenpoller
+Traumdeutung Oneirologie
+Anemonenfisch Clownsfisch Clownfisch
+Frischeisen Schweißeisen Schmiedeeisen
+irgendwer Wildfremder
+Neuzugang Neuankömmling Neuer
+Prokrastinierer Aufschieber
+Kofferkuli Gepäckwagen
+Einkaufsroller Einkaufswagen Hackenporsche Einkaufsrolli
+Anlaufstelle Kontaktmöglichkeit
+Arbeitsalltag Tagesgeschehen Routine Trott Alltag
+Prestigeobjekt Statussymbol
