@@ -93,6 +93,9 @@ function! s:on_exit(jobid, status, event) abort
         if has_key(l:jobinfo.opts, 'on_exit')
             call l:jobinfo.opts.on_exit(a:jobid, a:status, a:event)
         endif
+        if has_key(s:jobs, a:jobid)
+            call remove(s:jobs, a:jobid)
+        endif
     endif
 endfunction
 
@@ -142,12 +145,16 @@ function! s:job_start(cmd, opts) abort
     elseif l:jobtype == s:job_type_vimjob
         let s:jobidseq = s:jobidseq + 1
         let l:jobid = s:jobidseq
-        let l:job  = job_start(a:cmd, {
+        let l:jobopt = {
             \ 'out_cb': function('s:out_cb', [l:jobid, a:opts]),
             \ 'err_cb': function('s:err_cb', [l:jobid, a:opts]),
             \ 'exit_cb': function('s:exit_cb', [l:jobid, a:opts]),
             \ 'mode': 'raw',
-        \})
+        \ }
+        if has('patch-8.1.889')
+          let l:jobopt['noblock'] = 1
+        endif
+        let l:job  = job_start(a:cmd, l:jobopt)
         if job_status(l:job) !=? 'run'
             return -1
         endif
@@ -169,12 +176,16 @@ function! s:job_stop(jobid) abort
     if has_key(s:jobs, a:jobid)
         let l:jobinfo = s:jobs[a:jobid]
         if l:jobinfo.type == s:job_type_nvimjob
-            call jobstop(a:jobid)
+            " See: vital-Whisky/System.Job
+            try
+              call jobstop(a:jobid)
+            catch /^Vim\%((\a\+)\)\=:E900/
+              " NOTE:
+              " Vim does not raise exception even the job has already closed so fail
+              " silently for 'E900: Invalid job id' exception
+            endtry
         elseif l:jobinfo.type == s:job_type_vimjob
             call job_stop(s:jobs[a:jobid].job)
-        endif
-        if has_key(s:jobs, a:jobid)
-            call remove(s:jobs, a:jobid)
         endif
     endif
 endfunction

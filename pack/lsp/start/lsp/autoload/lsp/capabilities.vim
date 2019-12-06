@@ -1,7 +1,7 @@
 function! s:has_bool_provider(server_name, ...) abort
     let l:value = lsp#get_server_capabilities(a:server_name)
     for l:provider in a:000
-        if empty(l:value) || !has_key(l:value, l:provider) || type(l:value) != type({})
+        if empty(l:value) || type(l:value) != type({}) || !has_key(l:value, l:provider)
             return 0
         endif
         let l:value = l:value[l:provider]
@@ -26,7 +26,11 @@ function! lsp#capabilities#has_hover_provider(server_name) abort
 endfunction
 
 function! lsp#capabilities#has_rename_provider(server_name) abort
-    return s:has_bool_provider(a:server_name, 'renameProvider') || s:has_bool_provider(a:server_name, 'renameProvider', 'prepareProvider')
+    return s:has_bool_provider(a:server_name, 'renameProvider')
+endfunction
+
+function! lsp#capabilities#has_rename_prepare_provider(server_name) abort
+    return s:has_bool_provider(a:server_name, 'renameProvider', 'prepareProvider')
 endfunction
 
 function! lsp#capabilities#has_document_formatting_provider(server_name) abort
@@ -50,11 +54,27 @@ function! lsp#capabilities#has_implementation_provider(server_name) abort
 endfunction
 
 function! lsp#capabilities#has_code_action_provider(server_name) abort
+    let l:capabilities = lsp#get_server_capabilities(a:server_name)
+    if !empty(l:capabilities) && has_key(l:capabilities, 'codeActionProvider')
+        if type(l:capabilities['codeActionProvider']) == type({})
+            if has_key(l:capabilities['codeActionProvider'], 'codeActionKinds') && type(l:capabilities['codeActionProvider']['codeActionKinds']) == type([])
+                return len(l:capabilities['codeActionProvider']['codeActionKinds']) != 0
+            endif
+        endif
+    endif
     return s:has_bool_provider(a:server_name, 'codeActionProvider')
 endfunction
 
 function! lsp#capabilities#has_type_definition_provider(server_name) abort
     return s:has_bool_provider(a:server_name, 'typeDefinitionProvider')
+endfunction
+
+function! lsp#capabilities#has_document_highlight_provider(server_name) abort
+    return s:has_bool_provider(a:server_name, 'documentHighlightProvider')
+endfunction
+
+function! lsp#capabilities#has_folding_range_provider(server_name) abort
+    return s:has_bool_provider(a:server_name, 'foldingRangeProvider')
 endfunction
 
 " [supports_did_save (boolean), { 'includeText': boolean }]
@@ -81,7 +101,7 @@ function! lsp#capabilities#get_text_document_change_sync_kind(server_name) abort
     let l:capabilities = lsp#get_server_capabilities(a:server_name)
     if !empty(l:capabilities) && has_key(l:capabilities, 'textDocumentSync')
         if type(l:capabilities['textDocumentSync']) == type({})
-            if  has_key(l:capabilities['textDocumentSync'], 'change') && type(l:capabilities['textDocumentSync']) == type(1)
+            if  has_key(l:capabilities['textDocumentSync'], 'change') && type(l:capabilities['textDocumentSync']['change']) == type(1)
                 let l:val = l:capabilities['textDocumentSync']['change']
                 return l:val >= 0 && l:val <= 2 ? l:val : 1
             else
@@ -94,4 +114,24 @@ function! lsp#capabilities#get_text_document_change_sync_kind(server_name) abort
         endif
     endif
     return 1
+endfunction
+
+function! lsp#capabilities#has_signature_help_provider(server_name) abort
+    let l:capabilities = lsp#get_server_capabilities(a:server_name)
+    if !empty(l:capabilities) && has_key(l:capabilities, 'signatureHelpProvider')
+        return 1
+    endif
+    return 0
+endfunction
+
+function! lsp#capabilities#get_signature_help_trigger_characters(server_name) abort
+    let l:capabilities = lsp#get_server_capabilities(a:server_name)
+    if !empty(l:capabilities) && has_key(l:capabilities, 'signatureHelpProvider')
+        if type(l:capabilities['signatureHelpProvider']) == type({})
+            if  has_key(l:capabilities['signatureHelpProvider'], 'triggerCharacters')
+                return l:capabilities['signatureHelpProvider']['triggerCharacters']
+            endif
+        endif
+    endif
+    return []
 endfunction

@@ -32,6 +32,9 @@ let g:asyncomplete_auto_popup = 0
 " No smart completions.
 let g:asyncomplete_smart_completion = 0
 
+" No signature help popups.
+let  g:lsp_signature_help_enabled = 0
+
 " ----
 
 let g:lsp_registered_ccls = 0
@@ -49,7 +52,7 @@ if executable('ccls')
 				\ 'name': 'ccls',
 				\ 'cmd': {server_info->['ccls']},
 				\ 'root_uri': {server_info->lsp#utils#path_to_uri(lsp#utils#find_nearest_parent_file_directory(lsp#utils#get_buffer_path(), 'compile_commands.json'))},
-				\ 'initialization_options': { 'cacheDirectory': g:ccls_cache_dir },
+				\ 'initialization_options': { 'cache': {'directory': g:ccls_cache_dir }},
 				\ 'whitelist': ['c', 'cpp', 'objc', 'objcpp', 'cc'],
 				\ })
 

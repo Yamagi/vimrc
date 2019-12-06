@@ -2,10 +2,8 @@ function! lsp#utils#is_remote_uri(uri) abort
     return a:uri =~# '^\w\+::' || a:uri =~# '^\w\+://'
 endfunction
 
-" Decode uri function is taken from vital framework: https://github.com/vim-jp/vital.vim
-" For it's license (NYSL), see http://www.kmonos.net/nysl/index.en.html
 function! s:decode_uri(uri) abort
-    let l:ret = substitute(a:uri, '+', ' ', 'g')
+    let l:ret = substitute(a:uri, '[?#].*', '', '')
     return substitute(l:ret, '%\(\x\x\)', '\=printf("%c", str2nr(submatch(1), 16))', 'g')
 endfunction
 
@@ -109,13 +107,38 @@ function! lsp#utils#find_nearest_parent_file(path, filename) abort
 endfunction
 
 " Find a nearest to a `path` parent filename `filename` by traversing the filesystem upwards
+" The filename ending with '/' or '\' will be regarded as directory name,
+" otherwith as file name
 function! lsp#utils#find_nearest_parent_file_directory(path, filename) abort
-    let l:path = lsp#utils#find_nearest_parent_file(a:path, a:filename)
+    if type(a:filename) == 3
+        let l:matched_paths = {}
+        for current_name in a:filename
+            let l:path = lsp#utils#find_nearest_parent_file_directory(a:path, current_name)
 
-    if !empty(l:path)
-        return fnamemodify(l:path, ':p:h')
+            if !empty(l:path)
+                if has_key(l:matched_paths, l:path)
+                    let l:matched_paths[l:path] += 1
+                else
+                    let l:matched_paths[l:path] = 1
+                endif
+            endif
+        endfor
+        return empty(l:matched_paths) ? 
+                    \ '' : 
+                    \ keys(l:matched_paths)[index(values(l:matched_paths), max(values(l:matched_paths)))]
+
+    elseif type(a:filename) == 1
+        if a:filename[-1:] ==# '/' || a:filename[-1:] ==# '\'
+            let l:modify_str = ':p:h:h'
+            let l:path = lsp#utils#find_nearest_parent_directory(a:path, a:filename[:-2])
+        else
+            let l:modify_str = ':p:h'
+            let l:path = lsp#utils#find_nearest_parent_file(a:path, a:filename)
+        endif
+
+        return empty(l:path) ? '' : fnamemodify(l:path, l:modify_str)
     else
-        return ''
+        echoerr "The type of argument \"filename\" must be String or List"
     endif
 endfunction
 
@@ -141,14 +164,19 @@ endfunction
 
 function! lsp#utils#echo_with_truncation(msg) abort
     let l:msg = a:msg
-    let l:winwidth = winwidth(0)
 
-    if &showcmd
-        let l:winwidth -= 11
+    if &laststatus == 0 || (&laststatus == 1 && tabpagewinnr(tabpagenr(), '$') == 1)
+        let l:winwidth = winwidth(0)
+
+        if &ruler
+            let l:winwidth -= 18
+        endif
+    else
+        let l:winwidth = &columns
     endif
 
-    if &laststatus != 2 && &ruler
-        let l:winwidth -= 18
+    if &showcmd
+        let l:winwidth -= 12
     endif
 
     if l:winwidth > 5 && l:winwidth < strdisplaywidth(l:msg)
@@ -156,4 +184,38 @@ function! lsp#utils#echo_with_truncation(msg) abort
     endif
 
     exec 'echo l:msg'
+endfunction
+
+" Convert a character-index (0-based) to byte-index (1-based)
+" This function requires a buffer specifier (expr, see :help bufname()),
+" a line number (lnum, 1-based), and a character-index (char, 0-based).
+function! lsp#utils#to_col(expr, lnum, char) abort
+    let l:lines = getbufline(a:expr, a:lnum)
+    if l:lines == []
+        if type(a:expr) != v:t_string || !filereadable(a:expr)
+            " invalid a:expr
+            return a:char + 1
+        endif
+        " a:expr is a file that is not yet loaded as a buffer
+        let l:lines = readfile(a:expr, '', a:lnum)
+    endif
+    let l:linestr = l:lines[-1]
+    return strlen(strcharpart(l:linestr, 0, a:char)) + 1
+endfunction
+
+" Convert a byte-index (1-based) to a character-index (0-based)
+" This function requires a buffer specifier (expr, see :help bufname()),
+" a line number (lnum, 1-based), and a byte-index (char, 1-based).
+function! lsp#utils#to_char(expr, lnum, col) abort
+    let l:lines = getbufline(a:expr, a:lnum)
+    if l:lines == []
+        if type(a:expr) != v:t_string || !filereadable(a:expr)
+            " invalid a:expr
+            return a:col - 1
+        endif
+        " a:expr is a file that is not yet loaded as a buffer
+        let l:lines = readfile(a:expr, '', a:lnum)
+    endif
+    let l:linestr = l:lines[-1]
+    return strchars(strpart(l:linestr, 0, a:col - 1))
 endfunction

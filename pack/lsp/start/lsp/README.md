@@ -1,4 +1,4 @@
-# vim-lsp
+# vim-lsp [![Gitter](https://badges.gitter.im/vimlsp/community.svg)](https://gitter.im/vimlsp/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Async [Language Server Protocol](https://github.com/Microsoft/language-server-protocol) plugin for vim8 and neovim.
 
@@ -45,6 +45,32 @@ vim-lsp supports incremental changes of Language Server Protocol.
 
 Refer to docs on configuring omnifunc or [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim).
 
+## Snippets
+vim-lsp does not support snippets by default. If you want snippet integration, you will first have to install a third-party snippet plugin and a plugin that integrates it in vim-lsp.
+At the moment, you have two options:
+1. [UltiSnips](https://github.com/SirVer/ultisnips) together with [vim-lsp-ultisnips](https://github.com/thomasfaingnaert/vim-lsp-ultisnips)
+2. [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) together with [vim-lsp-neosnippet](https://github.com/thomasfaingnaert/vim-lsp-neosnippet)
+
+For more information, refer to the readme and documentation of the respective plugins.
+
+## Folding
+
+You can let the language server automatically handle folding for you. To enable this, you have to set `'foldmethod'`, `'foldexpr'` and (optionally) `'foldtext'`:
+
+```vim
+set foldmethod=expr
+  \ foldexpr=lsp#ui#vim#folding#foldexpr()
+  \ foldtext=lsp#ui#vim#folding#foldtext()
+```
+
+If you would like to disable folding globally, you can add this to your configuration:
+
+```vim
+let g:lsp_fold_enabled = 0
+```
+
+Also see `:h vim-lsp-folding`.
+
 ## Supported commands
 
 **Note:**
@@ -54,20 +80,26 @@ Refer to docs on configuring omnifunc or [asyncomplete.vim](https://github.com/p
 | Command | Description|
 |--|--|
 |`:LspCodeAction`| Gets a list of possible commands that can be applied to a file so it can be fixed (quick fix) |
-|`:LspDeclaration`| Go to declaration |
-|`:LspDefinition`| Go to definition |
+|`:LspDeclaration`| Go to the declaration of the word under the cursor, and open in the current window |
+|`:LspDefinition`| Go to the definition of the word under the cursor, and open in the current window |
 |`:LspDocumentDiagnostics`| Get current document diagnostics information |
 |`:LspDocumentFormat`| Format entire document |
 |`:LspDocumentRangeFormat`| Format document selection |
 |`:LspDocumentSymbol`| Show document symbols |
 |`:LspHover`| Show hover information |
-|`:LspImplementation` | Show implementation of interface |
+|`:LspImplementation` | Show implementation of interface in the current window |
 |`:LspNextError`| jump to next error |
+|`:LspNextReference`| jump to next reference to the symbol under cursor |
+|`:LspPeekDeclaration`| Go to the declaration of the word under the cursor, but open in preview window |
+|`:LspPeekDefinition`| Go to the definition of the word under the cursor, but open in preview window |
+|`:LspPeekImplementation`| Go to the implementation of an interface, but open in preview window |
+|`:LspPeekTypeDefinition`| Go to the type definition of the word under the cursor, but open in preview window |
 |`:LspPreviousError`| jump to previous error |
+|`:LspPreviousReference`| jump to previous reference to the symbol under cursor |
 |`:LspReferences`| Find references |
 |`:LspRename`| Rename symbol |
 |`:LspStatus` | Show the status of the language server |
-|`:LspTypeDefinition`| Go to type definition |
+|`:LspTypeDefinition`| Go to the type definition of the word under the cursor, and open in the current window |
 |`:LspWorkspaceSymbol`| Search/Show workspace symbol |
 
 ### Diagnostics
@@ -102,6 +134,48 @@ Also two highlight groups for every sign group are defined (for example for LspE
 ```viml
 highlight link LspErrorText GruvboxRedSign " requires gruvbox
 highlight clear LspWarningLine
+```
+
+#### Highlights
+
+Highlighting diagnostics requires either NeoVim 0.3+ or Vim with patch 8.1.0579.
+They are enabled by default when supported, but can be turned off respectively by
+
+```viml
+let g:lsp_highlights_enabled = 0
+let g:lsp_textprop_enabled = 0
+```
+
+Can be customized by setting or linking `LspErrorHighlight`, `LspWarningHighlight`,
+`LspInformationHighlight` and `LspHintHighlight` highlight groups.
+
+#### Virtual text
+
+In NeoVim 0.3 or newer you can use virtual text feature (enabled by default).
+You can disable it by adding
+
+```viml
+let g:lsp_virtual_text_enabled = 0
+```
+
+To your configuration.
+
+Virtual text will use the same highlight groups as signs feature.
+
+### Highlight references
+
+Highlight references to the symbol under the cursor. To enable, set in your
+configuration:
+
+```viml
+let g:lsp_highlight_references_enabled = 1
+```
+
+To change the style of the highlighting, you can set or link the `lspReference`
+highlight group, e.g.:
+
+```viml
+highlight lspReference ctermfg=red guifg=red ctermbg=green guibg=green
 ```
 
 ## Debugging
