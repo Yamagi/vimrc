@@ -1,9 +1,10 @@
 asyncomplete.vim
 ================
 
-Provide async autocompletion for vim8 and neovim with `timers`.
-This repository is fork of [https://github.com/roxma/nvim-complete-manager](https://github.com/roxma/nvim-complete-manager)
-in pure vim script with python dependency removed.
+Async autocompletion for Vim 8 and Neovim with |timers|.
+
+This is inspired by [nvim-complete-manager](https://github.com/roxma/nvim-complete-manager) but written
+in pure Vim Script.
 
 ### Installing
 
@@ -14,9 +15,9 @@ Plug 'prabirshrestha/asyncomplete.vim'
 #### Tab completion
 
 ```vim
-inoremap <expr> <Tab> pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
 inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
-inoremap <expr> <cr> pumvisible() ? "\<C-y>" : "\<cr>"
+inoremap <expr> <cr>    pumvisible() ? "\<C-y>" : "\<cr>"
 ```
 
 ### Force refresh completion
@@ -27,7 +28,7 @@ imap <c-space> <Plug>(asyncomplete_force_refresh)
 
 ### Auto popup
 By default asyncomplete will automatically show the autocomplete popup menu as you start typing.
-If you would like to disable the default behvior set `g:asyncomplete_auto_popup` to 0.
+If you would like to disable the default behavior set `g:asyncomplete_auto_popup` to 0.
 
 ```vim
 let g:asyncomplete_auto_popup = 0
@@ -50,28 +51,6 @@ inoremap <silent><expr> <TAB>
   \ asyncomplete#force_refresh()
 inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
 ```
-
-### Remove duplicates
-
-If you have many sources enabled (especially the buffer source), it might be
-useful to remove duplicates from the completion list. You can enable this by
-setting `g:asyncomplete_remove_duplicates` to 1.
-
-```vim
-let g:asyncomplete_remove_duplicates = 1
-```
-
-### Smart Completion
-
-To enable fuzzy smart completion:
-
-```vim
-let g:asyncomplete_smart_completion = 1
-let g:asyncomplete_auto_popup = 1
-```
-
-Refer to docs to checks if your vim or neovim supports smart completion.
-Auto popup is required to support smart completion.
 
 #### Preview Window
 
@@ -164,10 +143,6 @@ au User asyncomplete_setup call asyncomplete#register_source({
     \ })
 ```
 
-### Priority
-
-Use `priority` to control the order of the source. Highest priority comes first. `priority` is optional and defaults to `0` when registering a source.
-
 ### Example
 
 ```vim
@@ -194,7 +169,6 @@ endfunction
 au User asyncomplete_setup call asyncomplete#register_source({
     \ 'name': 'javascript',
     \ 'whitelist': ['javascript'],
-    \ 'priority': 5,
     \ 'completor': function('s:js_completor'),
     \ })
 ```
@@ -220,3 +194,33 @@ This is one of the core reason why the original context must be passed when call
 All the credit goes to the following projects
 * [https://github.com/roxma/nvim-complete-manager](https://github.com/roxma/nvim-complete-manager)
 * [https://github.com/maralla/completor.vim](https://github.com/maralla/completor.vim)
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/prabirshrestha/asyncomplete.vim/graphs/contributors"><img src="https://opencollective.com/asyncomplete/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/asyncomplete/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/asyncomplete"><img src="https://opencollective.com/asyncomplete/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/asyncomplete/contribute)]
+
+<a href="https://opencollective.com/asyncomplete/organization/0/website"><img src="https://opencollective.com/asyncomplete/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/1/website"><img src="https://opencollective.com/asyncomplete/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/2/website"><img src="https://opencollective.com/asyncomplete/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/3/website"><img src="https://opencollective.com/asyncomplete/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/4/website"><img src="https://opencollective.com/asyncomplete/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/5/website"><img src="https://opencollective.com/asyncomplete/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/6/website"><img src="https://opencollective.com/asyncomplete/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/7/website"><img src="https://opencollective.com/asyncomplete/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/8/website"><img src="https://opencollective.com/asyncomplete/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/asyncomplete/organization/9/website"><img src="https://opencollective.com/asyncomplete/organization/9/avatar.svg"></a>

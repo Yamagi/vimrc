@@ -20,6 +20,22 @@ function! lsp#ui#vim#diagnostics#handle_text_document_publish_diagnostics(server
     call lsp#ui#vim#signs#set(a:server_name, a:data)
 endfunction
 
+function! lsp#ui#vim#diagnostics#force_refresh(bufnr) abort
+    let l:data = lsp#ui#vim#diagnostics#get_document_diagnostics(a:bufnr)
+    if !empty(l:data)
+        for [l:server_name, l:response] in items(l:data)
+            call lsp#ui#vim#virtual#set(l:server_name, l:response)
+            call lsp#ui#vim#highlights#set(l:server_name, l:response)
+            call lsp#ui#vim#diagnostics#textprop#set(l:server_name, l:response)
+            call lsp#ui#vim#signs#set(l:server_name, l:response)
+        endfor
+    endif
+endfunction
+
+function! lsp#ui#vim#diagnostics#get_document_diagnostics(bufnr) abort
+    return get(s:diagnostics, lsp#utils#get_buffer_uri(a:bufnr), {})
+endfunction
+
 function! lsp#ui#vim#diagnostics#document_diagnostics() abort
     if !g:lsp_diagnostics_enabled
         call lsp#utils#error('Diagnostics manually disabled -- g:lsp_diagnostics_enabled = 0')
@@ -35,11 +51,11 @@ function! lsp#ui#vim#diagnostics#document_diagnostics() abort
     endif
 
     let l:result = []
-    for [l:server_name, l:data] in items(l:diagnostics)
+    for l:data in values(l:diagnostics)
         let l:result += lsp#ui#vim#utils#diagnostics_to_loc_list(l:data)
     endfor
 
-    call setqflist(l:result)
+    call setloclist(0, l:result)
 
     " autocmd FileType qf setlocal wrap
 
@@ -47,7 +63,7 @@ function! lsp#ui#vim#diagnostics#document_diagnostics() abort
         call lsp#utils#error('No diagnostics results found')
     else
         echo 'Retrieved diagnostics results'
-        botright copen
+        botright lopen
     endif
 endfunction
 
@@ -55,8 +71,10 @@ endfunction
 "
 " Note: Consider renaming this method (s/diagnostics/diagnostic) to make
 " it clear that it returns just one diagnostic, not a list.
-function! lsp#ui#vim#diagnostics#get_diagnostics_under_cursor() abort
-    let l:diagnostics = s:get_all_buffer_diagnostics()
+function! lsp#ui#vim#diagnostics#get_diagnostics_under_cursor(...) abort
+    let l:target_server_name = get(a:000, 0, '')
+
+    let l:diagnostics = s:get_all_buffer_diagnostics(l:target_server_name)
     if !len(l:diagnostics)
         return
     endif
@@ -68,10 +86,7 @@ function! lsp#ui#vim#diagnostics#get_diagnostics_under_cursor() abort
     let l:closest_distance = -1
 
     for l:diagnostic in l:diagnostics
-        let l:range = l:diagnostic['range']
-        let l:start_line = l:range['start']['line'] + 1
-        let l:start_char = l:range['start']['character']
-        let l:start_col = lsp#utils#to_col('%', l:start_line, l:start_char)
+        let [l:start_line, l:start_col] = lsp#utils#position#lsp_to_vim('%', l:diagnostic['range']['start'])
 
         if l:line == l:start_line
             let l:distance = abs(l:start_col - l:col)
@@ -88,18 +103,30 @@ endfunction
 function! lsp#ui#vim#diagnostics#next_error() abort
     let l:diagnostics = filter(s:get_all_buffer_diagnostics(),
         \ {_, diagnostic -> diagnostic['severity'] ==# 1 })
-    if !len(l:diagnostics)
+    call s:next_diagnostic(l:diagnostics)
+endfunction
+
+function! lsp#ui#vim#diagnostics#next_warning() abort
+    let l:diagnostics = filter(s:get_all_buffer_diagnostics(),
+        \ {_, diagnostic -> diagnostic['severity'] ==# 2 })
+    call s:next_diagnostic(l:diagnostics)
+endfunction
+
+function! lsp#ui#vim#diagnostics#next_diagnostic() abort
+    call s:next_diagnostic(s:get_all_buffer_diagnostics())
+endfunction
+
+function! s:next_diagnostic(diagnostics) abort
+    if !len(a:diagnostics)
         return
     endif
-    call sort(l:diagnostics, 's:compare_diagnostics')
+    call sort(a:diagnostics, 's:compare_diagnostics')
 
     let l:view = winsaveview()
     let l:next_line = 0
     let l:next_col = 0
-    for l:diagnostic in l:diagnostics
-        let l:line = l:diagnostic['range']['start']['line'] + 1
-        let l:char = l:diagnostic['range']['start']['character']
-        let l:col = lsp#utils#to_col('%', l:line, l:char)
+    for l:diagnostic in a:diagnostics
+        let [l:line, l:col] = lsp#utils#position#lsp_to_vim('%', l:diagnostic['range']['start'])
         if l:line > l:view['lnum']
             \ || (l:line == l:view['lnum'] && l:col > l:view['col'] + 1)
             let l:next_line = l:line
@@ -110,17 +137,16 @@ function! lsp#ui#vim#diagnostics#next_error() abort
 
     if l:next_line == 0
         " Wrap to start
-        let l:next_line = l:diagnostics[0]['range']['start']['line'] + 1
-        let l:next_char = l:diagnostics[0]['range']['start']['character']
-        let l:next_col = lsp#utils#to_col('%', l:next_line, l:next_char) - 1
+        let [l:next_line, l:next_col] = lsp#utils#position#lsp_to_vim('%', a:diagnostics[0]['range']['start'])
+        let l:next_col -= 1
     endif
 
     let l:view['lnum'] = l:next_line
     let l:view['col'] = l:next_col
     let l:view['topline'] = 1
     let l:height = winheight(0)
-    let totalnum = line('$')
-    if totalnum > l:height
+    let l:totalnum = line('$')
+    if l:totalnum > l:height
         let l:half = l:height / 2
         if l:totalnum - l:half < l:view['lnum']
             let l:view['topline'] = l:totalnum - l:height + 1
@@ -134,19 +160,31 @@ endfunction
 function! lsp#ui#vim#diagnostics#previous_error() abort
     let l:diagnostics = filter(s:get_all_buffer_diagnostics(),
         \ {_, diagnostic -> diagnostic['severity'] ==# 1 })
-    if !len(l:diagnostics)
+    call s:previous_diagnostic(l:diagnostics)
+endfunction
+
+function! lsp#ui#vim#diagnostics#previous_warning() abort
+    let l:diagnostics = filter(s:get_all_buffer_diagnostics(),
+        \ {_, diagnostic -> diagnostic['severity'] ==# 2 })
+    call s:previous_diagnostic(l:diagnostics)
+endfunction
+
+function! lsp#ui#vim#diagnostics#previous_diagnostic() abort
+    call s:previous_diagnostic(s:get_all_buffer_diagnostics())
+endfunction
+
+function! s:previous_diagnostic(diagnostics) abort
+    if !len(a:diagnostics)
         return
     endif
-    call sort(l:diagnostics, 's:compare_diagnostics')
+    call sort(a:diagnostics, 's:compare_diagnostics')
 
     let l:view = winsaveview()
     let l:next_line = 0
     let l:next_col = 0
-    let l:index = len(l:diagnostics) - 1
+    let l:index = len(a:diagnostics) - 1
     while l:index >= 0
-        let l:line = l:diagnostics[l:index]['range']['start']['line'] + 1
-        let l:char = l:diagnostics[l:index]['range']['start']['character']
-        let l:col = lsp#utils#to_col('%', l:line, l:char)
+        let [l:line, l:col] = lsp#utils#position#lsp_to_vim('%', a:diagnostics[l:index]['range']['start'])
         if l:line < l:view['lnum']
             \ || (l:line == l:view['lnum'] && l:col < l:view['col'])
             let l:next_line = l:line
@@ -158,17 +196,16 @@ function! lsp#ui#vim#diagnostics#previous_error() abort
 
     if l:next_line == 0
         " Wrap to end
-        let l:next_line = l:diagnostics[-1]['range']['start']['line'] + 1
-        let l:next_char = l:diagnostics[-1]['range']['start']['character']
-        let l:next_col = lsp#utils#to_col('%', l:next_line, l:next_char) - 1
+        let [l:next_line, l:next_col] = lsp#utils#position#lsp_to_vim('%', a:diagnostics[-1]['range']['start'])
+        let l:next_col -= 1
     endif
 
     let l:view['lnum'] = l:next_line
     let l:view['col'] = l:next_col
     let l:view['topline'] = 1
     let l:height = winheight(0)
-    let totalnum = line('$')
-    if totalnum > l:height
+    let l:totalnum = line('$')
+    if l:totalnum > l:height
         let l:half = l:height / 2
         if l:totalnum - l:half < l:view['lnum']
             let l:view['topline'] = l:totalnum - l:height + 1
@@ -196,7 +233,9 @@ function! s:get_diagnostics(uri) abort
 endfunction
 
 " Get diagnostics for the current buffer URI from all servers
-function! s:get_all_buffer_diagnostics() abort
+function! s:get_all_buffer_diagnostics(...) abort
+    let l:target_server_name = get(a:000, 0, '')
+
     let l:uri = lsp#utils#get_buffer_uri()
 
     let [l:has_diagnostics, l:diagnostics] = s:get_diagnostics(l:uri)
@@ -206,7 +245,9 @@ function! s:get_all_buffer_diagnostics() abort
 
     let l:all_diagnostics = []
     for [l:server_name, l:data] in items(l:diagnostics)
-        call extend(l:all_diagnostics, l:data['response']['params']['diagnostics'])
+        if empty(l:target_server_name) || l:server_name ==# l:target_server_name
+            call extend(l:all_diagnostics, l:data['response']['params']['diagnostics'])
+        endif
     endfor
 
     return l:all_diagnostics

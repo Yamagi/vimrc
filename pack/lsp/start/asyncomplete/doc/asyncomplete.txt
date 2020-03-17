@@ -7,30 +7,20 @@ CONTENTS                                                *asyncomplete-contents*
 
     1. Introduction              |asyncomplete-introduction|
     2. Options                   |asyncomplete-options|
-    3. Global vim configuration  |asyncomplete-global-config|
+    3. Functions                 |asyncomplete-functions|
+    4. Global vim configuration  |asyncomplete-global-config|
+    5. Known Issues              |asyncomplete-known-issues|
 
 ===============================================================================
 1. Introduction                                     *asyncomplete-introduction*
 
 Async autocompletion for Vim 8 and Neovim with |timers|.
 
-This is a fork of https://github.com/roxma/nvim-complete-manager in pure Vim
-script with the Python dependency removed.
-
+This is inspired by https://github.com/roxma/nvim-complete-manager but written
+in pure Vim Script.
 
 ===============================================================================
 2. Options                                               *asyncomplete-options*
-
-
-g:asyncomplete_remove_duplicates             *g:asyncomplete_remove_duplicates*
-
-    Type: |Number|
-    Default: `0`
-
-    Remove duplicates from the completion list keeping the match from the
-    source with the highest priority. Set to `1` to enable.
-
-    Note that this might be slow if you have large and/or many sources!
 
 
 g:asyncomplete_auto_popup                           *g:asyncomplete_auto_popup*
@@ -40,46 +30,21 @@ g:asyncomplete_auto_popup                           *g:asyncomplete_auto_popup*
 
     Automatically show the autocomplete popup menu as you start typing.
 
-g:asyncomplete_default_refresh_pattern  *g:asyncomplete_default_refresh_pattern*
-
-    Type: |String|
-    Default: `'\(\k\+$\|\.$\|:$\)'`
-
-    Default refresh pattern to use for when to show the popup menu.
-
-g:asyncomplete_smart_completion                  *g:asyncomplete_smart_completion*
-
-    Type: |Number|
-    Default: 0
-
-    Enable smart completion i.e. fuzzy match.
-    Requirements:
-        * Vim8 with lua support `:echo has('lua')` or Neovim 0.2.2+
-        * TextChangedP autocmd support - `:echo exists('##TextChangedP')`
-        * `let g:asyncomplete_auto_popup = 1`
-
-    Feel free to suggest or send pull requests to improve the smart completion
-    algorithm.
-
-g:asyncomplete_force_refresh_on_context_changed *g:asyncomplete_force_refresh_on_context_changed*
-
-    Type: |Number|
-    Default: `0`
-
-    Automatically force refresh the autocomplete if the context has
-    already changed when results were received.
-
-    Note Setting to 1 may call force_refresh often which may slow down vim
-    specially for those sources that are heavy in computation in vimscript.
-
 g:asyncomplete_log_file                               *g:asyncomplete_log_file*
 
     Type: |String|
     Default: null
 
-    Log file path.
+    Path to log file.
 
-g:asyncomplete_auto_completeopt                       *g:asyncomplete_auto_completeopt*
+g:asyncomplete_popup_delay                         *g:asyncomplete_popup_delay*
+
+    Type: |Number|
+    Default: 30
+
+    Milliseconds to wait before opening the popup menu
+
+g:asyncomplete_auto_completeopt               *g:asyncomplete_auto_completeopt*
 
     Type: |Number|
     Default: 1
@@ -89,8 +54,86 @@ g:asyncomplete_auto_completeopt                       *g:asyncomplete_auto_compl
 
     Set to 0 to disable.
 
+g:asyncomplete_preprocessor                        *g:asyncomplete_preprocessor*
+
+    Type: |Array| for zero or one |Function|
+    Default: []
+
+    Set a function to allow custom filtering or sorting.
+    Below example implements removing duplicates.
+
+      function! s:my_asyncomplete_preprocessor(options, matches) abort
+        let l:visited = {}
+        let l:items = []
+        for [l:source_name, l:matches] in items(a:matches)
+          for l:item in l:matches['items']
+            if stridx(l:item['word'], a:options['base']) == 0
+              if !has_key(l:visited, l:item['word'])
+                call add(l:items, l:item)
+                let l:visited[l:item['word']] = 1
+              endif
+            endif
+          endfor
+        endfor
+
+        call asyncomplete#preprocess_complete(a:options, l:items)
+      endfunction
+
+      let g:asyncomplete_preprocessor = [function('s:my_asyncomplete_preprocessor')]
+
+    Note:
+    asyncomplete#preprocess_complete() must be called synchronously.
+    Plans to support async preprocessing will be supported in the future.
+
+    context and matches in arguments in preprecessor function should be treated
+    as immutable.
 ===============================================================================
-3. Global vim configuration                          *asyncomplete-global-config*
+3. Functions                                            *asyncomplete-functions*
+
+asyncomplete#close_popup()                         *asyncomplete#close_popup()*
+
+    Insert selected candidate and close popup menu.
+    Following example prevents popup menu from re-opening after insertion.
+>
+    inoremap <expr> <C-y> pumvisible() ? asyncomplete#close_popup() : "\<C-y>"
+<
+asyncomplete#cancel_popup()                       *asyncomplete#cancel_popup()*
+
+    Cancel completion and close popup menu.
+    Following example prevents popup menu from re-opening after cancellation.
+>
+    inoremap <expr> <C-e> pumvisible() ? asyncomplete#cancel_popup() : "\<C-e>"
+<
+asyncomplete#get_source_info({source-name})    *asyncomplete#get_source_info()*
+
+    Get the source configuration info as dict.
+    Below example implements a priority sort function.
+>
+    function! s:sort_by_priority_preprocessor(options, matches) abort
+      let l:items = []
+      for [l:source_name, l:matches] in items(a:matches)
+        for l:item in l:matches['items']
+          if stridx(l:item['word'], a:options['base']) == 0
+            let l:item['priority'] =
+                \ get(asyncomplete#get_source_info(l:source_name),'priority',0)
+            call add(l:items, l:item)
+          endif
+        endfor
+      endfor
+
+      let l:items = sort(l:items, {a, b -> b['priority'] - a['priority']})
+
+      call asyncomplete#preprocess_complete(a:options, l:items)
+    endfunction
+
+    let g:asyncomplete_preprocessor = [function('s:sort_by_priority_preprocessor')]
+<
+asyncomplete#get_source_names()               *asyncomplete#get_source_names()*
+
+    Get the registered source names list.
+
+===============================================================================
+4. Global vim configuration                          *asyncomplete-global-config*
 
 If you notice messages like 'Pattern not found' or 'Match 1 of <N>' printed in
 red colour in vim command line and in `:messages` history and you are annoyed
@@ -99,6 +142,13 @@ with them, try setting `shortmess` vim option in your `.vimrc` like so:
     set shortmess+=c
 <
 See `:help shortmess` for details and description.
+
+===============================================================================
+5. Known Issues                                       *asyncomplete-known-issues*
+
+Builtin complete such as omni func, file func flickers and closes.
+    You need vim with patch v8.1.1068.
+    https://github.com/vim/vim/commit/fd133323d4e1cc9c0e61c0ce357df4d36ea148e3
 
 ===============================================================================
 

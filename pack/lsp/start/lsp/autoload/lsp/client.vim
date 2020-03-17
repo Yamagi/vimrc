@@ -1,5 +1,5 @@
-let s:save_cpo = &cpo
-set cpo&vim
+let s:save_cpo = &cpoptions
+set cpoptions&vim
 
 let s:clients = {} " { client_id: ctx }
 
@@ -247,7 +247,13 @@ function! s:lsp_send(id, opts, type) abort " opts = { id?, method?, result?, par
     if (a:type == s:send_type_request)
         let l:id = l:request['id']
         if get(a:opts, 'sync', 0) !=# 0
+            let l:start_time = reltime()
+
+            let l:timeout = get(a:opts, 'sync_timeout', -1)
             while has_key(l:ctx['requests'], l:request['id'])
+                if (reltimefloat(reltime(l:start_time)) * 1000) > l:timeout && l:timeout != -1
+                    throw 'lsp#client: timeout'
+                endif
                 sleep 1m
             endwhile
         endif
@@ -262,10 +268,10 @@ function! s:lsp_get_last_request_id(id) abort
 endfunction
 
 function! s:lsp_is_error(obj_or_response) abort
-    let vt = type(a:obj_or_response)
-    if vt == type('')
+    let l:vt = type(a:obj_or_response)
+    if l:vt == type('')
         return len(a:obj_or_response) > 0
-    elseif vt == type({})
+    elseif l:vt == type({})
         return has_key(a:obj_or_response, 'error')
     endif
     return 0
@@ -324,6 +330,6 @@ endfunction
 
 " }}}
 
-let &cpo = s:save_cpo
+let &cpoptions = s:save_cpo
 unlet s:save_cpo
 " vim sw=4 ts=4 et
