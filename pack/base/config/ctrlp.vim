@@ -7,7 +7,7 @@
 let g:ctrlp_map = '<leader>o'
 
 " Toggle (buffer mode).
-map <Leader>bs :CtrlPBuffer<CR>
+map <Leader>bf :CtrlPBuffer<CR>
 
 " Save the cache dir into the runtime dir.
 if has ("win64") || has("win32")
