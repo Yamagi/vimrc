@@ -1,5 +1,7 @@
 # vim-pencil
 
+[![Vint](https://github.com/reedes/vim-pencil/workflows/Vint/badge.svg)](https://github.com/reedes/vim-pencil/actions?workflow=Vint)
+
 > Rethinking Vim as a tool for writers
 
 <br/>
@@ -692,6 +694,7 @@ If you find the _pencil_ plugin useful, check out these others by [@reedes][re]:
 * [vim-thematic][th] - modify Vim’s appearance to suit your task and environment
 * [vim-wheel][wh] - screen-anchored cursor movement for Vim
 * [vim-wordy][wo] - uncovering usage problems in writing
+* [vim-wordchipper][wc] - power tool for shredding text in Insert mode
 
 Unimpressed by _pencil_? [vim-pandoc][vp] offers prose-oriented features
 with its own Markdown variant.
@@ -709,6 +712,7 @@ with its own Markdown variant.
 [vw]: http://therandymon.com/woodnotes/vim-for-writers/vimforwriters.html
 [wh]: http://github.com/reedes/vim-wheel
 [wo]: http://github.com/reedes/vim-wordy
+[wc]: http://github.com/reedes/vim-wordchipper
 [vp]: http://github.com/vim-pandoc/vim-pandoc
 
 # Future development
@@ -716,6 +720,4 @@ with its own Markdown variant.
 If you’ve spotted a problem or have an idea on improving _pencil_, please
 report it as an issue, or better yet submit a pull request.
 
-```
 <!-- vim: set tw=73 :-->
-```
