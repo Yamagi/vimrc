@@ -22,20 +22,24 @@ function! s:server_initialized() abort
             continue
         endif
 
+        let l:server = lsp#get_server_info(l:server_name)
         let l:name = s:generate_asyncomplete_name(l:server_name)
         let l:source_opt = {
             \ 'name': l:name,
-            \ 'completor': function('s:completor', [l:server_name]),
+            \ 'completor': function('s:completor', [l:server]),
             \ }
         if type(l:init_capabilities['completionProvider']) == type({}) && has_key(l:init_capabilities['completionProvider'], 'triggerCharacters')
             let l:source_opt['triggers'] = { '*': l:init_capabilities['completionProvider']['triggerCharacters'] }
         endif
-        let l:server = lsp#get_server_info(l:server_name)
-        if has_key(l:server, 'whitelist')
-            let l:source_opt['whitelist'] = l:server['whitelist']
+        if has_key(l:server, 'allowlist')
+            let l:source_opt['allowlist'] = l:server['allowlist']
+        elseif has_key(l:server, 'whitelist')
+            let l:source_opt['allowlist'] = l:server['whitelist']
         endif
-        if has_key(l:server, 'blacklist')
-            let l:source_opt['blacklist'] = l:server['blacklist']
+        if has_key(l:server, 'blocklist')
+            let l:source_opt['blocklist'] = l:server['blocklist']
+        elseif has_key(l:server, 'blacklist')
+            let l:source_opt['blocklist'] = l:server['blacklist']
         endif
         if has_key(l:server, 'priority')
             let l:source_opt['priority'] = l:server['priority']
@@ -63,36 +67,30 @@ function! s:generate_asyncomplete_name(server_name) abort
     return 'asyncomplete_lsp_' . a:server_name
 endfunction
 
-function! s:completor(server_name, opt, ctx) abort
-    call lsp#send_request(a:server_name, {
+function! s:completor(server, opt, ctx) abort
+    let l:position = lsp#get_position()
+    call lsp#send_request(a:server['name'], {
         \ 'method': 'textDocument/completion',
         \ 'params': {
         \   'textDocument': lsp#get_text_document_identifier(),
-        \   'position': lsp#get_position(),
+        \   'position': l:position,
         \ },
-        \ 'on_notification': function('s:handle_completion', [a:server_name, a:opt, a:ctx]),
+        \ 'on_notification': function('s:handle_completion', [a:server, l:position, a:opt, a:ctx]),
         \ })
 endfunction
 
-function! s:handle_completion(server_name, opt, ctx, data) abort
+function! s:handle_completion(server, position, opt, ctx, data) abort
     if lsp#client#is_error(a:data) || !has_key(a:data, 'response') || !has_key(a:data['response'], 'result')
         return
     endif
 
-    let l:result = a:data['response']['result']
+    let l:options = {
+        \ 'server': a:server,
+        \ 'position': a:position,
+        \ 'response': a:data['response'],
+        \ }
 
-    if type(l:result) == type([])
-        let l:items = l:result
-        let l:incomplete = 0
-    elseif type(l:result) == type({})
-        let l:items = l:result['items']
-        let l:incomplete = l:result['isIncomplete']
-    else
-        let l:items = []
-        let l:incomplete = 0
-    endif
-
-    call map(l:items, 'lsp#omni#get_vim_completion_item(v:val, a:server_name)')
+    let l:completion_result = lsp#omni#get_vim_completion_items(l:options)
 
     let l:col = a:ctx['col']
     let l:typed = a:ctx['typed']
@@ -100,5 +98,5 @@ function! s:handle_completion(server_name, opt, ctx, data) abort
     let l:kwlen = len(l:kw)
     let l:startcol = l:col - l:kwlen
 
-    call asyncomplete#complete(a:opt['name'], a:ctx, l:startcol, l:items, l:incomplete)
+    call asyncomplete#complete(a:opt['name'], a:ctx, l:startcol, l:completion_result['items'], l:completion_result['incomplete'])
 endfunction

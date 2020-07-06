@@ -160,23 +160,33 @@ function! s:get_active_sources_for_buffer() abort
     call asyncomplete#log('core', 'computing active sources for buffer', bufnr('%'))
     let b:asyncomplete_active_sources = []
     for [l:name, l:info] in items(s:sources)
-        let l:blacklisted = 0
+        let l:blocked = 0
 
-        if has_key(l:info, 'blacklist')
-            for l:filetype in l:info['blacklist']
+        if has_key(l:info, 'blocklist')
+            let l:blocklistkey = 'blocklist'
+        else
+            let l:blocklistkey = 'blacklist'
+        endif
+        if has_key(l:info, l:blocklistkey)
+            for l:filetype in l:info[l:blocklistkey]
                 if l:filetype == &filetype || l:filetype is# '*'
-                    let l:blacklisted = 1
+                    let l:blocked = 1
                     break
                 endif
             endfor
         endif
 
-        if l:blacklisted
+        if l:blocked
             continue
         endif
 
-        if has_key(l:info, 'whitelist')
-            for l:filetype in l:info['whitelist']
+        if has_key(l:info, 'allowlist')
+            let l:allowlistkey = 'allowlist'
+        else
+            let l:allowlistkey = 'whitelist'
+        endif
+        if has_key(l:info, l:allowlistkey)
+            for l:filetype in l:info[l:allowlistkey]
                 if l:filetype == &filetype || l:filetype is# '*'
                     let b:asyncomplete_active_sources += [l:name]
                     break
@@ -259,6 +269,15 @@ function! asyncomplete#cancel_popup() abort
   return pumvisible() ? "\<C-e>" : ''
 endfunction
 
+function! s:get_min_chars(source_name) abort
+  if exists('b:asyncomplete_min_chars')
+    return b:asyncomplete_min_chars
+  elseif has_key(s:sources, a:source_name)
+    return get(s:sources[a:source_name], 'min_chars', g:asyncomplete_min_chars)
+  endif
+  return g:asyncomplete_min_chars
+endfunction
+
 function! s:on_change() abort
     if s:should_skip() | return | endif
 
@@ -288,11 +307,12 @@ function! s:on_change() abort
     let l:refresh_pattern = get(b:, 'asyncomplete_refresh_pattern', '\(\k\+$\)')
     let [l:_, l:startidx, l:endidx] = asyncomplete#utils#matchstrpos(l:ctx['typed'], l:refresh_pattern)
     let l:startcol = l:startidx + 1
+    let l:typed_len = l:endidx - l:startidx
 
     if l:startidx > -1
         if s:should_skip_popup() | return | endif
         for l:source_name in b:asyncomplete_active_sources
-            if !has_key(l:sources_to_notify, l:source_name)
+            if l:typed_len >= s:get_min_chars(l:source_name) && !has_key(l:sources_to_notify, l:source_name)
                 if has_key(s:matches, l:source_name) && s:matches[l:source_name]['ctx']['lnum'] ==# l:ctx['lnum'] && s:matches[l:source_name]['startcol'] ==# l:startcol
                     continue
                 endif

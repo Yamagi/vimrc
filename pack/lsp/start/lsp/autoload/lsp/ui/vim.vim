@@ -2,56 +2,24 @@ function! s:not_supported(what) abort
     return lsp#utils#error(a:what.' not supported for '.&filetype)
 endfunction
 
-function! lsp#ui#vim#implementation(in_preview) abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_implementation_provider(v:val)')
-    let l:command_id = lsp#_new_command()
-    call setqflist([])
-
-    if len(l:servers) == 0
-        call s:not_supported('Retrieving implementation')
-        return
+function! lsp#ui#vim#implementation(in_preview, ...) abort
+    let l:ctx = { 'in_preview': a:in_preview }
+    if a:0
+        let l:ctx['mods'] = a:1
     endif
-    let l:ctx = { 'counter': len(l:servers), 'list':[], 'last_command_id': l:command_id, 'jump_if_one': 1, 'in_preview': a:in_preview }
-    for l:server in l:servers
-        call lsp#send_request(l:server, {
-            \ 'method': 'textDocument/implementation',
-            \ 'params': {
-            \   'textDocument': lsp#get_text_document_identifier(),
-            \   'position': lsp#get_position(),
-            \ },
-            \ 'on_notification': function('s:handle_location', [l:ctx, l:server, 'implementation']),
-            \ })
-    endfor
-
-    echo 'Retrieving implementation ...'
+    call s:list_location('implementation', l:ctx)
 endfunction
 
-function! lsp#ui#vim#type_definition(in_preview) abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_type_definition_provider(v:val)')
-    let l:command_id = lsp#_new_command()
-    call setqflist([])
-
-    if len(l:servers) == 0
-        call s:not_supported('Retrieving type definition')
-        return
+function! lsp#ui#vim#type_definition(in_preview, ...) abort
+    let l:ctx = { 'in_preview': a:in_preview }
+    if a:0
+        let l:ctx['mods'] = a:1
     endif
-    let l:ctx = { 'counter': len(l:servers), 'list':[], 'last_command_id': l:command_id, 'jump_if_one': 1, 'in_preview': a:in_preview }
-    for l:server in l:servers
-        call lsp#send_request(l:server, {
-            \ 'method': 'textDocument/typeDefinition',
-            \ 'params': {
-            \   'textDocument': lsp#get_text_document_identifier(),
-            \   'position': lsp#get_position(),
-            \ },
-            \ 'on_notification': function('s:handle_location', [l:ctx, l:server, 'type definition']),
-            \ })
-    endfor
-
-    echo 'Retrieving type definition ...'
+    call s:list_location('typeDefinition', l:ctx)
 endfunction
 
 function! lsp#ui#vim#type_hierarchy() abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_type_hierarchy_provider(v:val)')
+    let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_type_hierarchy_provider(v:val)')
     let l:command_id = lsp#_new_command()
 
     if len(l:servers) == 0
@@ -76,81 +44,59 @@ function! lsp#ui#vim#type_hierarchy() abort
     echo 'Retrieving type hierarchy ...'
 endfunction
 
-function! lsp#ui#vim#declaration(in_preview) abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_declaration_provider(v:val)')
-    let l:command_id = lsp#_new_command()
-    call setqflist([])
-
-    if len(l:servers) == 0
-        call s:not_supported('Retrieving declaration')
-        return
+function! lsp#ui#vim#declaration(in_preview, ...) abort
+    let l:ctx = { 'in_preview': a:in_preview }
+    if a:0
+        let l:ctx['mods'] = a:1
     endif
-
-    let l:ctx = { 'counter': len(l:servers), 'list':[], 'last_command_id': l:command_id, 'jump_if_one': 1, 'in_preview': a:in_preview }
-    for l:server in l:servers
-        call lsp#send_request(l:server, {
-            \ 'method': 'textDocument/declaration',
-            \ 'params': {
-            \   'textDocument': lsp#get_text_document_identifier(),
-            \   'position': lsp#get_position(),
-            \ },
-            \ 'on_notification': function('s:handle_location', [l:ctx, l:server, 'declaration']),
-            \ })
-    endfor
-
-    echo 'Retrieving declaration ...'
+    call s:list_location('declaration', l:ctx)
 endfunction
 
-function! lsp#ui#vim#definition(in_preview) abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_definition_provider(v:val)')
-    let l:command_id = lsp#_new_command()
-    call setqflist([])
-
-    if len(l:servers) == 0
-        call s:not_supported('Retrieving definition')
-        return
+function! lsp#ui#vim#definition(in_preview, ...) abort
+    let l:ctx = { 'in_preview': a:in_preview }
+    if a:0
+        let l:ctx['mods'] = a:1
     endif
-
-    let l:ctx = { 'counter': len(l:servers), 'list':[], 'last_command_id': l:command_id, 'jump_if_one': 1, 'in_preview': a:in_preview }
-    for l:server in l:servers
-        call lsp#send_request(l:server, {
-            \ 'method': 'textDocument/definition',
-            \ 'params': {
-            \   'textDocument': lsp#get_text_document_identifier(),
-            \   'position': lsp#get_position(),
-            \ },
-            \ 'on_notification': function('s:handle_location', [l:ctx, l:server, 'definition']),
-            \ })
-    endfor
-
-    echo 'Retrieving definition ...'
+    call s:list_location('definition', l:ctx)
 endfunction
 
 function! lsp#ui#vim#references() abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_references_provider(v:val)')
+    let l:ctx = { 'jump_if_one': 0 }
+    let l:request_params = { 'context': { 'includeDeclaration': v:false } }
+    call s:list_location('references', l:ctx, l:request_params)
+endfunction
+
+function! s:list_location(method, ctx, ...) abort
+    " typeDefinition => type definition
+    let l:operation = substitute(a:method, '\u', ' \l\0', 'g')
+
+    let l:capabilities_func = printf('lsp#capabilities#has_%s_provider(v:val)', substitute(l:operation, ' ', '_', 'g'))
+    let l:servers = filter(lsp#get_allowed_servers(), l:capabilities_func)
     let l:command_id = lsp#_new_command()
 
-    call setqflist([])
 
-    let l:ctx = { 'counter': len(l:servers), 'list':[], 'last_command_id': l:command_id, 'jump_if_one': 0, 'in_preview': 0 }
+    let l:ctx = extend({ 'counter': len(l:servers), 'list':[], 'last_command_id': l:command_id, 'jump_if_one': 1, 'mods': '', 'in_preview': 0 }, a:ctx)
     if len(l:servers) == 0
-        call s:not_supported('Retrieving references')
+        call s:not_supported('Retrieving ' . l:operation)
         return
     endif
 
+    let l:params = {
+        \   'textDocument': lsp#get_text_document_identifier(),
+        \   'position': lsp#get_position(),
+        \ }
+    if a:0
+        call extend(l:params, a:1)
+    endif
     for l:server in l:servers
         call lsp#send_request(l:server, {
-            \ 'method': 'textDocument/references',
-            \ 'params': {
-            \   'textDocument': lsp#get_text_document_identifier(),
-            \   'position': lsp#get_position(),
-            \   'context': {'includeDeclaration': v:false},
-            \ },
-            \ 'on_notification': function('s:handle_location', [l:ctx, l:server, 'references']),
+            \ 'method': 'textDocument/' . a:method,
+            \ 'params': l:params,
+            \ 'on_notification': function('s:handle_location', [l:ctx, l:server, l:operation]),
             \ })
     endfor
 
-    echo 'Retrieving references ...'
+    echo printf('Retrieving %s ...', l:operation)
 endfunction
 
 function! s:rename(server, new_name, pos) abort
@@ -174,10 +120,10 @@ function! s:rename(server, new_name, pos) abort
 endfunction
 
 function! lsp#ui#vim#rename() abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_rename_prepare_provider(v:val)')
+    let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_rename_prepare_provider(v:val)')
     let l:prepare_support = 1
     if len(l:servers) == 0
-        let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_rename_provider(v:val)')
+        let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_rename_provider(v:val)')
         let l:prepare_support = 0
     endif
 
@@ -207,7 +153,7 @@ function! lsp#ui#vim#rename() abort
 endfunction
 
 function! s:document_format(sync) abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_document_formatting_provider(v:val)')
+    let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_document_formatting_provider(v:val)')
     let l:command_id = lsp#_new_command()
 
     if len(l:servers) == 0
@@ -250,7 +196,7 @@ endfunction
 
 function! lsp#ui#vim#stop_server(...) abort
     let l:name = get(a:000, 0, '')
-    for l:server in lsp#get_whitelisted_servers()
+    for l:server in lsp#get_allowed_servers()
         if !empty(l:name) && l:server != l:name
             continue
         endif
@@ -287,7 +233,7 @@ function! s:get_selection_pos(type) abort
 endfunction
 
 function! s:document_format_range(sync, type) abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_document_range_formatting_provider(v:val)')
+    let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_document_range_formatting_provider(v:val)')
     let l:command_id = lsp#_new_command()
 
     if len(l:servers) == 0
@@ -333,10 +279,8 @@ function! lsp#ui#vim#document_range_format_opfunc(type) abort
 endfunction
 
 function! lsp#ui#vim#workspace_symbol() abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_workspace_symbol_provider(v:val)')
+    let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_workspace_symbol_provider(v:val)')
     let l:command_id = lsp#_new_command()
-
-    call setqflist([])
 
     if len(l:servers) == 0
         call s:not_supported('Retrieving workspace symbols')
@@ -363,10 +307,8 @@ function! lsp#ui#vim#workspace_symbol() abort
 endfunction
 
 function! lsp#ui#vim#document_symbol() abort
-    let l:servers = filter(lsp#get_whitelisted_servers(), 'lsp#capabilities#has_document_symbol_provider(v:val)')
+    let l:servers = filter(lsp#get_allowed_servers(), 'lsp#capabilities#has_document_symbol_provider(v:val)')
     let l:command_id = lsp#_new_command()
-
-    call setqflist([])
 
     if len(l:servers) == 0
         call s:not_supported('Retrieving symbols')
@@ -398,6 +340,7 @@ function! s:handle_symbol(server, last_command_id, type, data) abort
 
     let l:list = lsp#ui#vim#utils#symbols_to_loc_list(a:server, a:data)
 
+    call setqflist([])
     call setqflist(l:list)
 
     if empty(l:list)
@@ -408,7 +351,7 @@ function! s:handle_symbol(server, last_command_id, type, data) abort
     endif
 endfunction
 
-function! s:handle_location(ctx, server, type, data) abort "ctx = {counter, list, jump_if_one, last_command_id, in_preview}
+function! s:handle_location(ctx, server, type, data) abort "ctx = {counter, list, last_command_id, jump_if_one, mods, in_preview}
     if a:ctx['last_command_id'] != lsp#_last_command()
         return
     endif
@@ -430,15 +373,16 @@ function! s:handle_location(ctx, server, type, data) abort "ctx = {counter, list
             let l:loc = a:ctx['list'][0]
 
             if len(a:ctx['list']) == 1 && a:ctx['jump_if_one'] && !a:ctx['in_preview']
-                call lsp#utils#location#_open_vim_list_item(l:loc)
+                call lsp#utils#location#_open_vim_list_item(l:loc, a:ctx['mods'])
                 echo 'Retrieved ' . a:type
                 redraw
             elseif !a:ctx['in_preview']
+                call setqflist([])
                 call setqflist(a:ctx['list'])
                 echo 'Retrieved ' . a:type
                 botright copen
             else
-                let l:lines = readfile(fnameescape(l:loc['filename']))
+                let l:lines = readfile(l:loc['filename'])
                 if has_key(l:loc,'viewstart') " showing a locationLink
                     let l:view = l:lines[l:loc['viewstart'] : l:loc['viewend']]
                     call lsp#ui#vim#output#preview(a:server, l:view, {
@@ -589,5 +533,11 @@ function! lsp#ui#vim#code_action() abort
         \   'sync': v:false,
         \   'selection': v:false,
         \   'query': '',
+        \ })
+endfunction
+
+function! lsp#ui#vim#code_lens() abort
+    call lsp#ui#vim#code_lens#do({
+        \   'sync': v:false,
         \ })
 endfunction

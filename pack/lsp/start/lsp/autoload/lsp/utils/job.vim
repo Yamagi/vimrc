@@ -1,3 +1,6 @@
+" https://github.com/prabirshrestha/async.vim#d15123af3483350e235397116b554cb37e705130 (dirty)
+"    :AsyncEmbed path=./autoload/lsp/utils/job.vim namespace=lsp#utils#job
+
 " Author: Prabir Shrestha <mail at prabir dot me>
 " Website: https://github.com/prabirshrestha/async.vim
 " License: The MIT License {{{
@@ -127,12 +130,19 @@ function! s:job_start(cmd, opts) abort
         return s:job_error_unsupported_job_type
     endif
 
+    " options shared by both vim and neovim
+    let l:jobopt = {}
+    if has_key(a:opts, 'cwd')
+      let l:jobopt.cwd = a:opts.cwd 
+    endif
+
     if l:jobtype == s:job_type_nvimjob
-        let l:job = jobstart(a:cmd, {
+        call extend(l:jobopt, {
             \ 'on_stdout': function('s:on_stdout'),
             \ 'on_stderr': function('s:on_stderr'),
             \ 'on_exit': function('s:on_exit'),
         \})
+        let l:job = jobstart(a:cmd, l:jobopt)
         if l:job <= 0
             return l:job
         endif
@@ -145,12 +155,12 @@ function! s:job_start(cmd, opts) abort
     elseif l:jobtype == s:job_type_vimjob
         let s:jobidseq = s:jobidseq + 1
         let l:jobid = s:jobidseq
-        let l:jobopt = {
+        call extend(l:jobopt, {
             \ 'out_cb': function('s:out_cb', [l:jobid, a:opts]),
             \ 'err_cb': function('s:err_cb', [l:jobid, a:opts]),
             \ 'exit_cb': function('s:exit_cb', [l:jobid, a:opts]),
             \ 'mode': 'raw',
-        \ }
+        \ })
         if has('patch-8.1.889')
           let l:jobopt['noblock'] = 1
         endif
@@ -190,16 +200,34 @@ function! s:job_stop(jobid) abort
     endif
 endfunction
 
-function! s:job_send(jobid, data) abort
+function! s:job_send(jobid, data, opts) abort
     let l:jobinfo = s:jobs[a:jobid]
+    let l:close_stdin = get(a:opts, 'close_stdin', 0)
     if l:jobinfo.type == s:job_type_nvimjob
         call jobsend(a:jobid, a:data)
+        if l:close_stdin
+          call chanclose(a:jobid, 'stdin')
+        endif
     elseif l:jobinfo.type == s:job_type_vimjob
-        if has('patch-8.1.0818')
+        " There is no easy way to know when ch_sendraw() finishes writing data
+        " on a non-blocking channels -- has('patch-8.1.889') -- and because of
+        " this, we cannot safely call ch_close_in().  So when we find ourselves
+        " in this situation (i.e. noblock=1 and close stdin after send) we fall
+        " back to using s:flush_vim_sendraw() and wait for transmit buffer to be
+        " empty
+        "
+        " Ref: https://groups.google.com/d/topic/vim_dev/UNNulkqb60k/discussion
+        if has('patch-8.1.818') && (!has('patch-8.1.889') || !l:close_stdin)
             call ch_sendraw(l:jobinfo.channel, a:data)
         else
             let l:jobinfo.buffer .= a:data
             call s:flush_vim_sendraw(a:jobid, v:null)
+        endif
+        if l:close_stdin
+            while len(l:jobinfo.buffer) != 0
+                sleep 1m
+            endwhile
+            call ch_close_in(l:jobinfo.channel)
         endif
     endif
 endfunction
@@ -279,24 +307,28 @@ function! s:job_pid(jobid) abort
 endfunction
 
 " public apis {{{
-function! async#job#start(cmd, opts) abort
+function! lsp#utils#job#start(cmd, opts) abort
     return s:job_start(a:cmd, a:opts)
 endfunction
 
-function! async#job#stop(jobid) abort
+function! lsp#utils#job#stop(jobid) abort
     call s:job_stop(a:jobid)
 endfunction
 
-function! async#job#send(jobid, data) abort
-    call s:job_send(a:jobid, a:data)
+function! lsp#utils#job#send(jobid, data, ...) abort
+    let l:opts = get(a:000, 0, {})
+    call s:job_send(a:jobid, a:data, l:opts)
 endfunction
 
-function! async#job#wait(jobids, ...) abort
+function! lsp#utils#job#wait(jobids, ...) abort
     let l:timeout = get(a:000, 0, -1)
     return s:job_wait(a:jobids, l:timeout)
 endfunction
 
-function! async#job#pid(jobid) abort
+function! lsp#utils#job#pid(jobid) abort
     return s:job_pid(a:jobid)
 endfunction
 " }}}
+
+let &cpo = s:save_cpo
+unlet s:save_cpo

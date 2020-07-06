@@ -54,16 +54,14 @@ inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
 
 #### Preview Window
 
-To disable preview window:
-
-```vim
-set completeopt-=preview
-```
-
 To enable preview window:
 
 ```vim
-set completeopt+=preview
+" allow modifying the completeopt variable, or it will
+" be overridden all the time
+let g:asyncomplete_auto_completeopt = 0
+
+set completeopt=menuone,noinsert,noselect,preview
 ```
 
 To auto close preview window when completion is done.
@@ -83,7 +81,6 @@ asyncomplete.vim deliberately does not contain any sources. Please use one of th
 
 ```vim
 Plug 'prabirshrestha/asyncomplete.vim'
-Plug 'prabirshrestha/async.vim'
 Plug 'prabirshrestha/vim-lsp'
 Plug 'prabirshrestha/asyncomplete-lsp.vim'
 
@@ -92,7 +89,7 @@ if executable('pyls')
     au User lsp_setup call lsp#register_server({
         \ 'name': 'pyls',
         \ 'cmd': {server_info->['pyls']},
-        \ 'whitelist': ['python'],
+        \ 'allowlist': ['python'],
         \ })
 endif
 ```
@@ -104,6 +101,7 @@ endif
 | Languages/FileType/Source     | Links                                                                                              |
 |-------------------------------|----------------------------------------------------------------------------------------------------|
 | Buffer                        | [asyncomplete-buffer.vim](https://github.com/prabirshrestha/asyncomplete-buffer.vim)               |
+| [Emmet][emmet-vim]            | [asyncomplete-emmet.vim](https://github.com/prabirshrestha/asyncomplete-emmet.vim)                 |
 | Emoji                         | [asyncomplete-emoji.vim](https://github.com/prabirshrestha/asyncomplete-emoji.vim)                 |
 | Filenames / directories       | [asyncomplete-file.vim](https://github.com/prabirshrestha/asyncomplete-file.vim)                   |
 | [NeoInclude][neoinclude]      | [asyncomplete-neoinclude.vim](https://github.com/kyouryuukunn/asyncomplete-neoinclude.vim)         |
@@ -120,6 +118,7 @@ endif
 | Vim tags                      | [asyncomplete-tags.vim](https://github.com/prabirshrestha/asyncomplete-tags.vim)                   |
 | Vim                           | [asyncomplete-necovim.vim](https://github.com/prabirshrestha/asyncomplete-necovim.vim)             |
 
+[emmet-vim]:    https://github.com/mattn/emmet-vim
 [neosnippet]:   https://github.com/Shougo/neosnippet.vim
 [neoinclude]:   https://github.com/Shougo/neoinclude.vim
 [tmuxcomplete]: https://github.com/wellle/tmux-complete.vim
@@ -138,7 +137,7 @@ endfunction
 
 au User asyncomplete_setup call asyncomplete#register_source({
     \ 'name': 'mylanguage',
-    \ 'whitelist': [*],
+    \ 'allowlist': ['*'],
     \ 'completor': function('s:completor'),
     \ })
 ```
@@ -168,7 +167,7 @@ endfunction
 
 au User asyncomplete_setup call asyncomplete#register_source({
     \ 'name': 'javascript',
-    \ 'whitelist': ['javascript'],
+    \ 'allowlist': ['javascript'],
     \ 'completor': function('s:js_completor'),
     \ })
 ```
