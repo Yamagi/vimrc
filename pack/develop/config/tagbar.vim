@@ -4,7 +4,7 @@
 " ----
 
 " Toggle
-map <Leader>t :TagbarToggle<CR>
+map <Leader>T :TagbarToggle<CR>
 
 " If there's a custom ctags binary, use it.
 " See gutentags.vim for details.
