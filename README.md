@@ -27,6 +27,7 @@ Installation is easy:
    example: `mkdir ~/vim_old/ ; mv ~/.vim* ~/vim_old/`
 2. Clone this repository into `~/.vim/` (Unix) or `~\vimfiles\`
    (Windows).
+3. Start Vim and run `helptags ALL` to generate the help tags.
 
 That's enough to get you going. For the full experience you need to
 provide several tools / binaries in your PATH:
