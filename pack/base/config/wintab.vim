@@ -4,27 +4,24 @@
 " ----
 
 " Next buffer.
-nmap <Leader>bn <Plug>(wintabs_next)<CR>
+nmap <Leader>bn <Plug>(wintabs_next)
 
 " Previous buffer.
-nmap <Leader>bp <Plug>(wintabs_previous)<CR>
+nmap <Leader>bp <Plug>(wintabs_previous)
 
 " Close buffer.
-nmap <Leader>bd <Plug>(wintabs_close)<CR>
+nmap <Leader>bd <Plug>(wintabs_close)
 
-" Close all buffers but current.
+" Make current buffer the only one.
 nmap <Leader>bo <Plug>(wintabs_only)<CR>
 
-" Undo last buffer operation.
-nmap <Leader>bu <Plug>(wintabs_undo)<CR>
+" Close window or tab.
+nmap <Leader>bwc <Plug>(wintabs_close_window)
+nmap <Leader>bwt <Plug>(wintabs_close_vimtab)
 
-" Close window.
-map <C-T>c <Plug>(wintabs_close_vimtab)
-map <C-W>c <Plug>(wintabs_close_window)
-
-" Make current tab or window the only one.
-map <C-T>o <Plug>(wintabs_only_vimtab)
-map <C-W>o <Plug>(wintabs_only_window)
+" Make current window or tab the only one.
+map <Leader>bwo <Plug>(wintabs_only_window)
+map <Leader>bto <Plug>(wintabs_only_vimtab)
 
 " No seperator at the lists end.
 let g:wintabs_ui_sep_rightmost = ''
