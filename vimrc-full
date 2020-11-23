@@ -193,6 +193,13 @@ set showcmd
 " Zeigt in der Kommandozeile an, in welchem Mode wir sind.
 set showmode
 
+" Hilfsfunktion für die Spell Checker Sprache. Wenn der Spell Checker
+" eingeschaltet ist, wird die Sprache zurückgegeben, sonst ein leerer
+" String.
+function! SpellState()
+  return &spell ? ',' . &spelllang : ''
+endfunction
+
 " Statuszeilenlayout.
 "  %< Stelle an der bei zu langer Zeile gekürzt wird
 "  %n Buffer-Nummer
@@ -200,6 +207,7 @@ set showmode
 "  %R Read-Only Flag
 "  %M Änderungsflag
 "  %Y Filetype
+"  %{SpellState()} Spell Checker Sprache
 "  $= Teiler für links und rechts Ausrichtung
 "  %l Aktuelle Zeilennummer
 "  %L Gesamtzahl Zeilen der Datei
@@ -207,9 +215,9 @@ set showmode
 "  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
 "  %P Aktuelle Position in Prozent
 if g:vimrc_utf8 == 1
-	set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y)%=L∶\ %l/%L\ C∶\ %c%V\ (%P)
+	set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})%=L∶\ %l/%L\ C∶\ %c%V\ (%P)
 else
-	set statusline=%<\ %n:\ %f\ (%R%M%Y)%=L:\ %l/%L\ C:\ %c%V\ (%P)\ 
+	set statusline=%<\ %n:\ %f\ (%R%M%Y%{SpellState()})%=L:\ %l/%L\ C:\ %c%V\ (%P)\ 
 endif
 
 " ----
