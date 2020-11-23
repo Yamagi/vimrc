@@ -1,5 +1,6 @@
 let s:enabled = 0
 let s:already_setup = 0
+let s:Stream = lsp#callbag#makeSubject()
 let s:servers = {} " { lsp_id, server_info, init_callbacks, init_result, buffers: { path: { changed_tick } }
 let s:last_command_id = 0
 let s:notification_callbacks = [] " { name, callback }
@@ -49,7 +50,7 @@ function! lsp#enable() abort
         return
     endif
     if !s:already_setup
-        doautocmd User lsp_setup
+        doautocmd <nomodeline> User lsp_setup
         let s:already_setup = 1
     endif
     let s:enabled = 1
@@ -64,6 +65,8 @@ function! lsp#enable() abort
     endif
     call lsp#ui#vim#completion#_setup()
     call lsp#internal#diagnostics#_enable()
+    call lsp#internal#highlight_references#_enable()
+    call lsp#internal#show_message_request#_enable()
     call s:register_events()
 endfunction
 
@@ -75,7 +78,11 @@ function! lsp#disable() abort
     call lsp#ui#vim#virtual#disable()
     call lsp#ui#vim#highlights#disable()
     call lsp#ui#vim#diagnostics#textprop#disable()
+    call lsp#ui#vim#signature_help#_disable()
+    call lsp#ui#vim#completion#_disable()
     call lsp#internal#diagnostics#_disable()
+    call lsp#internal#highlight_references#_disable()
+    call lsp#internal#show_message_request#_disable()
     call s:unregister_events()
     let s:enabled = 0
 endfunction
@@ -166,7 +173,7 @@ function! lsp#register_server(server_info) abort
         \ 'buffers': {},
         \ }
     call lsp#log('lsp#register_server', 'server registered', l:server_name)
-    doautocmd User lsp_register_server
+    doautocmd <nomodeline> User lsp_register_server
 endfunction
 
 "
@@ -206,23 +213,24 @@ function! s:register_events() abort
         if exists('##TextChangedP')
             autocmd TextChangedP * call s:on_text_document_did_change()
         endif
-        if g:lsp_highlight_references_enabled
-            autocmd CursorMoved * call s:on_cursor_moved()
-        endif
-        autocmd BufWinEnter,BufWinLeave,InsertEnter * call lsp#ui#vim#references#clean_references()
     augroup END
-    call s:on_text_document_did_open()
+
+    for l:bufnr in range(1, bufnr('$'))
+        if bufexists(l:bufnr) && bufloaded(l:bufnr)
+            call s:on_text_document_did_open(l:bufnr)
+        endif
+    endfor
 endfunction
 
 function! s:unregister_events() abort
     augroup lsp
         autocmd!
     augroup END
-    doautocmd User lsp_unregister_server
+    doautocmd <nomodeline> User lsp_unregister_server
 endfunction
 
-function! s:on_text_document_did_open() abort
-    let l:buf = bufnr('%')
+function! s:on_text_document_did_open(...) abort
+    let l:buf = a:0 > 0 ? a:1 : bufnr('%')
     if getbufvar(l:buf, '&buftype') ==# 'terminal' | return | endif
     if getcmdwintype() !=# '' | return | endif
     call lsp#log('s:on_text_document_did_open()', l:buf, &filetype, getcwd(), lsp#utils#get_buffer_uri(l:buf))
@@ -262,15 +270,6 @@ function! s:on_text_document_did_change() abort
     if getbufvar(l:buf, '&buftype') ==# 'terminal' | return | endif
     call lsp#log('s:on_text_document_did_change()', l:buf)
     call s:add_didchange_queue(l:buf)
-endfunction
-
-function! s:on_cursor_moved() abort
-    let l:buf = bufnr('%')
-    if getbufvar(l:buf, '&buftype') ==# 'terminal' | return | endif
-
-    if g:lsp_highlight_references_enabled
-        call lsp#ui#vim#references#highlight(v:false)
-    endif
 endfunction
 
 function! s:call_did_save(buf, server_name, result, cb) abort
@@ -346,10 +345,10 @@ endfunction
 
 function! s:fire_lsp_buffer_enabled(server_name, buf, ...) abort
     if a:buf == bufnr('%')
-        doautocmd User lsp_buffer_enabled
+        doautocmd <nomodeline> User lsp_buffer_enabled
     else
         " Not using ++once in autocmd for compatibility of VIM8.0
-        let l:cmd = printf('autocmd BufEnter <buffer=%d> doautocmd User lsp_buffer_enabled', a:buf)
+        let l:cmd = printf('autocmd BufEnter <buffer=%d> doautocmd <nomodeline> User lsp_buffer_enabled', a:buf)
         exec printf('augroup _lsp_fire_buffer_enabled | exec "%s | autocmd! _lsp_fire_buffer_enabled BufEnter <buffer>" | augroup END', l:cmd)
     endif
 endfunction
@@ -723,7 +722,7 @@ function! s:on_exit(server_name, id, data, event) abort
         if has_key(l:server, 'init_result')
             unlet l:server['init_result']
         endif
-        doautocmd User lsp_server_exit
+        doautocmd <nomodeline> User lsp_server_exit
     endif
 endfunction
 
@@ -733,6 +732,12 @@ function! s:on_notification(server_name, id, data, event) abort
     let l:server = s:servers[a:server_name]
     let l:server_info = l:server['server_info']
     let l:lsp_diagnostics_config_enabled = get(get(l:server_info, 'config', {}), 'diagnostics', v:true)
+
+    let l:stream_data = { 'server': a:server_name, 'response': l:response }
+    if has_key(a:data, 'request')
+        let l:stream_data['request'] = a:data['request']
+    endif
+    call s:Stream(1, l:stream_data) " notify stream before callbacks
 
     if lsp#client#is_server_instantiated_notification(a:data)
         if has_key(l:response, 'method')
@@ -756,7 +761,11 @@ function! s:on_notification(server_name, id, data, event) abort
 endfunction
 
 function! s:on_request(server_name, id, request) abort
-    call lsp#log_verbose('<---', a:id, a:request)
+    call lsp#log_verbose('<---', 's:on_request', a:id, a:request)
+
+    let l:stream_data = { 'server': a:server_name, 'request': a:request }
+    call s:Stream(1, l:stream_data) " notify stream before callbacks
+
     if a:request['method'] ==# 'workspace/applyEdit'
         call lsp#utils#workspace_edit#apply_workspace_edit(a:request['params']['edit'])
         call s:send_response(a:server_name, { 'id': a:request['id'], 'result': { 'applied': v:true } })
@@ -764,8 +773,11 @@ function! s:on_request(server_name, id, request) abort
         let l:response_items = map(a:request['params']['items'], { key, val -> lsp#utils#workspace_config#get_value(a:server_name, val) })
         call s:send_response(a:server_name, { 'id': a:request['id'], 'result': l:response_items })
     else
-        " Error returned according to json-rpc specification.
-        call s:send_response(a:server_name, { 'id': a:request['id'], 'error': { 'code': -32601, 'message': 'Method not found' } })
+        " TODO: for now comment this out until we figure out a better solution.
+        " We need to comment this out so that others outside of vim-lsp can
+        " hook into the stream and provide their own response.
+        " " Error returned according to json-rpc specification.
+        " call s:send_response(a:server_name, { 'id': a:request['id'], 'error': { 'code': -32601, 'message': 'Method not found' } })
     endif
 endfunction
 
@@ -799,7 +811,7 @@ function! s:handle_initialize(server_name, data) abort
 
     call lsp#ui#vim#documentation#setup()
 
-    doautocmd User lsp_server_init
+    doautocmd <nomodeline> User lsp_server_init
 endfunction
 
 function! lsp#get_whitelisted_servers(...) abort
@@ -868,9 +880,12 @@ function! s:get_text_document_text(buf, server_name) abort
 endfunction
 
 function! s:get_text_document(buf, server_name, buffer_info) abort
+    let l:server = s:servers[a:server_name]
+    let l:server_info = l:server['server_info']
+    let l:language_id = has_key(l:server_info, 'languageId') ?  l:server_info['languageId'](l:server_info) : &filetype
     return {
         \ 'uri': lsp#utils#get_buffer_uri(a:buf),
-        \ 'languageId': &filetype,
+        \ 'languageId': l:language_id,
         \ 'version': a:buffer_info['version'],
         \ 'text': s:get_text_document_text(a:buf, a:server_name),
         \ }
@@ -898,8 +913,26 @@ function! s:get_versioned_text_document_identifier(buf, buffer_info) abort
         \ }
 endfunction
 
-" lsp#request {{{
+" lsp#stream {{{
+"
+" example:
+"
+" function! s:on_textDocumentDiagnostics(x) abort
+"   echom 'Diagnostics for ' . a:x['server'] . ' ' . json_encode(a:x['response'])
+" endfunction
+"
+" au User lsp_setup call lsp#callbag#pipe(
+"    \ lsp#stream(),
+"    \ lsp#callbag#filter({x-> has_key(x, 'response') && !has_key(x['response'], 'error') && get(x['response'], 'method', '') == 'textDocument/publishDiagnostics'}),
+"    \ lsp#callbag#subscribe({ 'next':{x->s:on_textDocumentDiagnostics(x)} }),
+"    \ )
+"
+function! lsp#stream() abort
+    return s:Stream
+endfunction
+" }}}
 
+" lsp#request {{{
 function! lsp#request(server_name, request) abort
     let l:ctx = {
         \ 'server_name': a:server_name,
@@ -948,14 +981,14 @@ function! s:request_cancel(ctx) abort
     if a:ctx['request_id'] <= 0 || a:ctx['done'] | return | endif " we have not made the request yet or request is complete, so nothing to cancel
     if lsp#get_server_status(a:ctx['server_name']) !=# 'running' | return | endif " if server is not running we cant send the request
     " send the actual cancel request
-    let l:Dispose = lsp#callbag#pipe(
+    let a:ctx['dispose'] = lsp#callbag#pipe(
         \ lsp#request(a:ctx['server_name'], {
         \   'method': '$/cancelRequest',
         \   'params': { 'id': a:ctx['request_id'] },
         \ }),
         \ lsp#callbag#subscribe({
-        \   'error':{e->l:Dispose()},
-        \   'complete':{->l:Dispose()},
+        \   'error':{e->s:send_request_dispose(a:ctx)},
+        \   'complete':{->s:send_request_dispose(a:ctx)},
         \ })
         \)
 endfunction
@@ -971,14 +1004,21 @@ function! lsp#send_request(server_name, request) abort
         \ lsp#callbag#subscribe({
         \   'next':{d->l:ctx['cb'](d)},
         \   'error':{e->s:send_request_error(l:ctx, e)},
-        \   'complete':{->l:ctx['dispose']()},
+        \   'complete':{->s:send_request_dispose(l:ctx)},
         \ })
         \)
 endfunction
 
+function! s:send_request_dispose(ctx) abort
+    " dispose function may not have been created so check before calling
+    if has_key(a:ctx, 'dispose')
+        call a:ctx['dispose']()
+    endif
+endfunction
+
 function! s:send_request_error(ctx, error) abort
     call a:ctx['cb'](a:error)
-    call a:ctx['dispose']()
+    call s:send_request_dispose(a:ctx)
 endfunction
 " }}}
 

@@ -20,7 +20,11 @@ CONTENTS                                                  *vim-lsp-contents*
       g:lsp_preview_doubletap               |g:lsp_preview_doubletap|
       g:lsp_insert_text_enabled             |g:lsp_insert_text_enabled|
       g:lsp_text_edit_enabled               |g:lsp_text_edit_enabled|
+      g:lsp_documentation_debounce          |g:lsp_documentation_debounce|
       g:lsp_documentation_float             |g:lsp_documentation_float|
+      g:lsp_documentation_float_docked      |g:lsp_documentation_float_docked|
+      g:lsp_documentation_float_docked_maxheight
+                              |g:lsp_documentation_float_docked_maxheight|
       g:lsp_diagnostics_echo_cursor         |g:lsp_diagnostics_echo_cursor|
       g:lsp_diagnostics_echo_delay          |g:lsp_diagnostics_echo_delay|
       g:lsp_diagnostics_float_cursor        |g:lsp_diagnostics_float_cursor|
@@ -33,6 +37,7 @@ CONTENTS                                                  *vim-lsp-contents*
       g:lsp_textprop_enabled                |g:lsp_textprop_enabled|
       g:lsp_use_event_queue                 |g:lsp_use_event_queue|
       g:lsp_highlight_references_enabled    |g:lsp_highlight_references_enabled|
+      g:lsp_highlight_references_delay      |g:lsp_highlight_references_delay|
       g:lsp_get_supported_capabilities      |g:lsp_get_supported_capabilities|
       g:lsp_peek_alignment                  |g:lsp_peek_alignment|
       g:lsp_preview_max_width               |g:lsp_preview_max_width|
@@ -47,11 +52,13 @@ CONTENTS                                                  *vim-lsp-contents*
       g:lsp_snippet_expand                  |g:lsp_snippet_expand|
       g:lsp_completion_resolve_timeout      |g:lsp_completion_resolve_timeout|
       g:lsp_tagfunc_source_methods          |g:lsp_tagfunc_source_methods|
+      g:lsp_show_message_request_enabled    |g:lsp_show_message_request_enabled|
     Functions                             |vim-lsp-functions|
       lsp#enable                            |lsp#enable()|
       lsp#disable                           |lsp#disable()|
       lsp#register_server                   |lsp#register_server()|
       lsp#register_command                  |lsp#register_command()|
+      lsp#stream			    |lsp#stream()|
       lsp#stop_server                       |lsp#stop_server()|
       lsp#utils#find_nearest_parent_file_directory()
                               |lsp#utils#find_nearest_parent_file_directory()|
@@ -141,7 +148,7 @@ like to improve performance make sure you have vim/neovim with lua support.
 Currently only diff algorithm uses lua internally if available.
 Following is th default value used to detect lua.
 >
-    let g:lsp_enable_lua = has('nvim-0.4.0') || (has('lua') && has('patch-8.2.0775'))
+    let g:lsp_use_lua = has('nvim-0.4.0') || (has('lua') && has('patch-8.2.0775'))
 
 Windows users can download the binaries from the following url and place
 lua53.dll in the `PATH` or besides `vim.exe` or `gvim.exe` executables.
@@ -196,6 +203,19 @@ on pyls (https://github.com/palantir/python-language-server)
             autocmd User lsp_buffer_enabled call s:on_lsp_buffer_enabled()
        augroup END
 <
+TCP SERVERS						*vim-lsp-tcp*
+You can use netcat to connect to LSP servers that don't support stdio, but do
+support TCP. Set your cmd to use your netcat executable (`nc` on unix-likes),
+localhost, and your server's port. The Godot game engine uses 6008 as its LSP
+port and godot ftplugins define gdscript or gdscript3 filetype: >
+
+	au User lsp_setup 
+	    \ call lsp#register_server({
+	    \     'name': 'godot',
+	    \     'cmd': ["nc", "localhost", "6008"],
+	    \     'allowlist': ['gdscript3', 'gdscript']
+	    \ })
+>
 VIM-LSP-SETTINGS                                         *vim-lsp-settings_plugin*
 Refer to [vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) on how
 to automatically register various language servers.
@@ -296,8 +316,8 @@ g:lsp_preview_float                         *g:lsp_preview_float*
 	    autocmd!
 	    if !has('nvim')
 		autocmd User lsp_float_opened
-		    \ call win_execute(lsp#ui#vim#output#getpreviewwinid(),
-		    \		       'setlocal wincolor=PopupWindow')
+		    \ call setwinvar(lsp#ui#vim#output#getpreviewwinid(),
+		    \		       '&wincolor', 'PopupWindow')
 	    else
 		autocmd User lsp_float_opened
 		    \ call nvim_win_set_option(
@@ -364,6 +384,17 @@ g:lsp_text_edit_enabled                           *g:lsp_text_edit_enabled*
 	let g:lsp_text_edit_enabled = 1
 	let g:lsp_text_edit_enabled = 0
 
+g:lsp_documentation_debounce                      *g:lsp_documentation_debounce*
+    Type: |Number|
+    Default: `80`
+
+    Time in milliseconds to delay the completion documentation popup. Might
+    help with performance. Set this to `0` to disable debouncing.
+
+    Example: >
+	let g:lsp_documentation_debounce = 120
+	let g:lsp_documentation_debounce = 0
+
 g:lsp_documentation_float                      *g:lsp_documentation_float*
     Type: |Number|
     Default: `1`
@@ -373,6 +404,26 @@ g:lsp_documentation_float                      *g:lsp_documentation_float*
     Example: >
 	let g:lsp_documentation_float = 1
 	let g:lsp_documentation_float = 0
+
+g:lsp_documentation_float_docked               *g:lsp_documentation_float_docked*
+    Type: |Number|
+    Default: `0`
+
+    Dock the floating documentation window for complete items if enabled.
+
+    Example: >
+	let g:lsp_documentation_float_docked = 1
+	let g:lsp_documentation_float_docked = 0
+
+g:lsp_documentation_float_docked_maxheight     *g:lsp_documentation_float_docked_maxheight*
+    Type: |Number|
+    Default: `&previewheight`
+
+    The maximum height of the docked documentation window if enabled.
+
+    Example: >
+	let g:lsp_documentation_float_docked_maxheight = 1
+	let g:lsp_documentation_float_docked_maxheight = 0
 
 g:lsp_diagnostics_echo_cursor                *g:lsp_diagnostics_echo_cursor*
     Type: |Number|
@@ -390,7 +441,6 @@ g:lsp_diagnostics_echo_delay                *g:lsp_diagnostics_echo_delay*
     Default: `500`
 
     Delay milliseconds to echo diagnostic error for the current line to status. Requires
-    Enables echo of diagnostic error for the current line to status. Requires
     |g:lsp_diagnostics_enabled| and |g:lsp_diagnostics_echo_cursor| set to 1.
 
     Example: >
@@ -541,7 +591,7 @@ g:lsp_use_event_queue                               *g:lsp_use_event_queue*
 
 g:lsp_highlight_references_enabled      *g:lsp_highlight_references_enabled*
     Type: |Number|
-    Default: `0`
+    Default: `1`
 
     Enable highlighting of the references to the symbol under the cursor.
 
@@ -555,6 +605,17 @@ g:lsp_highlight_references_enabled      *g:lsp_highlight_references_enabled*
 
     Example: >
     highlight lspReference ctermfg=red guifg=red ctermbg=green guibg=green
+
+g:lsp_highlight_references_delay            *g:lsp_highlight_references_delay*
+    Type: |Number|
+    Default: `350`
+
+    Delay milliseconds to highlight references. Requires
+    |g:lsp_highlight_references_enabled| set to 1.
+
+    Example: >
+	let g:lsp_highlight_references_delay = 200
+	let g:lsp_highlight_references_delay = 1000
 
 g:lsp_get_supported_capabilities         *g:lsp_get_supported_capabilities*
     Type: |List|
@@ -603,6 +664,17 @@ g:lsp_signature_help_enabled                *g:lsp_signature_help_enabled*
     Example: >
 	let g:lsp_signature_help_enabled = 1
 	let g:lsp_signature_help_enabled = 0
+
+g:lsp_show_workspace_edits                     *g:lsp_show_workspace_edits*
+    Type: |Boolean|
+    Default: `0`
+
+    Enable showing changes made in a workspace edit in the |location-list|.
+    Set to `0` to disable.
+
+    Example: >
+	let g:lsp_show_workspace_edits = 1
+	let g:lsp_show_workspace_edits = 0
 
 g:lsp_fold_enabled                                    *g:lsp_fold_enabled*
     Type: |Number|
@@ -678,6 +750,13 @@ g:lsp_tagfunc_source_methods                 *g:lsp_tagfunc_source_methods*
     The LSP methods to call to get symbols for tag lookup. See
     |vim-lsp-tagfunc|.
 
+g:lsp_show_message_request_enabled         *g:lsp_show_message_request_enabled*
+    Type: |Number|
+    Default: `1`
+
+    Determines whether or not `window/showMessageRequest` should show message to
+    the user or if it should be ignored. Set to `1` to enable.
+
 ==============================================================================
 FUNCTIONS                                               *vim-lsp-functions*
 
@@ -709,6 +788,7 @@ one parameter which is a vim |dict| and is refered to as |vim-lsp-server_info|
 		\ 'blocklist': ['filetype to blocklist'],
 		\ 'config': {},
 		\ 'workspace_config': {'param': {'enabled': v:true}},
+		\ 'languageId': {server_info->'python'},
 		\ })
 	endif
 <
@@ -729,6 +809,7 @@ The vim |dict| containing information about the server.
 	'blocklist': ['filetype'],
 	'config': {},
 	'workspace_config': {},
+	'languageId': {server_info->'filetype'},
     }
 <
  * name:
@@ -806,6 +887,16 @@ The vim |dict| containing information about the server.
     Example: >
 	'workspace_config': {'pyls': {'plugins': \
 		{'pydocstyle': {'enabled': v:true}}}}
+<
+  * languageId:
+    optional function returning |string|
+    By default the languageId is the current filetype. If you're using a sub
+    filetype like 'ios.swift' your language server may not return anything
+    because it does not know this language.
+    In this case you might want to overwrite the languageId with this key.
+
+    Example: >
+	'languageId': {server_info->'typescript'}
 <
   * config:
     optional vim |dict|
@@ -961,6 +1052,22 @@ For example, the rust-analyzer expects the client handles some custom command as
       endif
   endfunction
   call lsp#register_command('rust-analyzer.applySourceChange', function('s:rust_analyzer_apply_source_change'))
+<
+lsp#stream()						*lsp#stream()*
+
+Stream api to listen to responses and notifications from language server or
+vim-lsp. Always verify the existence of request, response and server before
+accessing. Subscribing to stream should never throw an error.
+>
+function! s:on_textDocumentDiagnostics(x) abort
+    echom 'Diagnostics for ' . a:x['server'] . ' ' . json_encode(a:x['response'])
+endfunction
+
+au User lsp_setup call lsp#callbag#pipe(
+    \ lsp#stream(),
+    \ lsp#callbag#filter({x-> has_key(x, 'response') && !has_key(x['response'], 'error') && get(x['response'], 'method', '') == 'textDocument/publishDiagnostics'}),
+    \ lsp#callbag#subscribe({ 'next':{x->s:on_textDocumentDiagnostics(x)} }),
+    \ )
 <
 
 lsp#stop_server({name-of-server})                        *lsp#stop_server()*

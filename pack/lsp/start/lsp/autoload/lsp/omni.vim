@@ -62,7 +62,7 @@ function! lsp#omni#complete(findstart, base) abort
         let l:refresh_pattern = '\(\k\+$\)'
         for l:server_name in l:info['server_names']
             let l:server_info = lsp#get_server_info(l:server_name)
-            if has_key (l:server_info, 'config') && has_key(l:server_info['config'], 'refresh_pattern')
+            if has_key(l:server_info, 'config') && has_key(l:server_info['config'], 'refresh_pattern')
                 let l:refresh_pattern = l:server_info['config']['refresh_pattern']
                 break
             endif
@@ -236,6 +236,7 @@ function! s:send_completion_request(info) abort
                 \ 'params': {
                 \   'textDocument': lsp#get_text_document_identifier(),
                 \   'position': lsp#get_position(),
+                \   'context': { 'triggerKind': 1 },
                 \ },
                 \ 'on_notification': function('s:handle_omnicompletion', [l:server_name, s:completion['counter'], a:info]),
                 \ })
@@ -270,9 +271,9 @@ function! s:get_vim_completion_item(item, options) abort
     elseif !empty(get(a:item, 'insertText', ''))
         " if plain-text insertText, use it.
         let l:word = a:item['insertText']
-    elseif has_key(a:item, 'textEdit')
+    elseif has_key(a:item, 'textEdit') && type(a:item['textEdit']) ==# v:t_dict
         let l:word = lsp#utils#make_valid_word(a:item['label'])
-        let l:expandable = l:word !=# a:item['textEdit']['newText']
+        let l:expandable = l:word !=# get(a:item['textEdit'], 'newText', '')
     endif
     if !empty(l:word)
         let l:word = split(l:word, '\n')[0]

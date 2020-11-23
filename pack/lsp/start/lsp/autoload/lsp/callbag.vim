@@ -1,8 +1,15 @@
-" https://github.com/prabirshrestha/callbag.vim#d0d8c3faa9b2877603b3d137a153e1a8acc463ec
+" https://github.com/prabirshrestha/callbag.vim#7648b131a2774505333aeb927ceeb778d780ae6d
 "    :CallbagEmbed path=autoload/lsp/callbag.vim namespace=lsp#callbag
 
+let s:undefined_token = '__callbag_undefined__'
+let s:str_type = type('')
+
 function! lsp#callbag#undefined() abort
-    return '__callback_undefined__'
+    return s:undefined_token
+endfunction
+
+function! lsp#callbag#isUndefined(d) abort
+    return type(a:d) == s:str_type && a:d ==# s:undefined_token
 endfunction
 
 function! s:noop(...) abort
@@ -138,7 +145,7 @@ function! s:createNext(data, d) abort
 endfunction
 
 function! s:createError(data, e) abort
-    if !a:data['end'] && a:e != lsp#callbag#undefined()
+    if !a:data['end'] && !lsp#callbag#isUndefined(a:e)
         let a:data['end'] = 1
         call a:data['sink'](2, a:e)
     endif
@@ -221,6 +228,40 @@ function! s:forEachOperationSource(data, t, d) abort
     if a:t == 0 | let a:data['talkback'] = a:d | endif
     if a:t == 1 | call a:data['operation'](a:d) | endif
     if (a:t == 1 || a:t == 0) | call a:data['talkback'](1, lsp#callbag#undefined()) | endif
+endfunction
+" }}}
+
+" tap() {{{
+function! lsp#callbag#tap(...) abort
+    let l:data = {}
+    if a:0 > 0 && type(a:1) == type({}) " a:1 { next, error, complete }
+        if has_key(a:1, 'next') | let l:data['next'] = a:1['next'] | endif
+        if has_key(a:1, 'error') | let l:data['error'] = a:1['error'] | endif
+        if has_key(a:1, 'complete') | let l:data['complete'] = a:1['complete'] | endif
+    else " a:1 = next, a:2 = error, a:3 = complete
+        if a:0 >= 1 | let l:data['next'] = a:1 | endif
+        if a:0 >= 2 | let l:data['error'] = a:2 | endif
+        if a:0 >= 3 | let l:data['complete'] = a:3 | endif
+    endif
+    return function('s:tapFactory', [l:data])
+endfunction
+
+function! s:tapFactory(data, source) abort
+    let a:data['source'] = a:source
+    return function('s:tapSouceFactory', [a:data])
+endfunction
+
+function! s:tapSouceFactory(data, start, sink) abort
+    if a:start != 0 | return | endif
+    let a:data['sink'] = a:sink
+    call a:data['source'](0, function('s:tapSourceCallback', [a:data]))
+endfunction
+
+function! s:tapSourceCallback(data, t, d) abort
+    if a:t == 1 && has_key(a:data, 'next') | call a:data['next'](a:d) | endif
+    if a:t == 2 && lsp#callbag#isUndefined(a:d) && has_key(a:data, 'complete') | call a:data['complete']() | endif
+    if a:t == 2 && !lsp#callbag#isUndefined(a:d) && has_key(a:data, 'error') | call a:data['error'](a:d) | endif
+    call a:data['sink'](a:t, a:d)
 endfunction
 " }}}
 
@@ -447,6 +488,40 @@ function! s:notify_event_handler(index) abort
 endfunction
 " }}}
 
+" fromPromise() {{{
+function! lsp#callbag#fromPromise(promise) abort
+    let l:data = { 'promise': a:promise }
+    return function('s:fromPromiseFactory', [l:data])
+endfunction
+
+function! s:fromPromiseFactory(data, start, sink) abort
+    if a:start != 0 | return | endif
+    let a:data['sink'] = a:sink
+    let a:data['ended'] = 0
+    call a:data['promise'].then(
+        \ function('s:fromPromiseOnFulfilledCallback', [a:data]),
+        \ function('s:fromPromiseOnRejectedCallback', [a:data]),
+        \ )
+    call a:sink(0, function('s:fromPromiseSinkCallback', [a:data]))
+endfunction
+
+function! s:fromPromiseOnFulfilledCallback(data, ...) abort
+    if a:data['ended'] | return | endif
+    call a:data['sink'](1, a:0 > 0 ? a:1 : lsp#callbag#undefined())
+    if a:data['ended'] | return | endif
+    call a:data['sink'](2, lsp#callbag#undefined())
+endfunction
+
+function! s:fromPromiseOnRejectedCallback(data, err) abort
+    if a:data['ended'] | return | endif
+    call a:data['sink'](2, a:err)
+endfunction
+
+function! s:fromPromiseSinkCallback(data, t, ...) abort
+    if a:t == 2 | let a:data['ended'] = 1 | endif
+endfunction
+" }}}
+
 " debounceTime() {{{
 function! lsp#callbag#debounceTime(duration) abort
     let l:data = { 'duration': a:duration }
@@ -481,7 +556,7 @@ endfunction
 " subscribe() {{{
 function! lsp#callbag#subscribe(...) abort
     let l:data = {}
-    if type(a:1) == type({}) " a:1 { next, error, complete }
+    if a:0 > 0 && type(a:1) == type({}) " a:1 { next, error, complete }
         if has_key(a:1, 'next') | let l:data['next'] = a:1['next'] | endif
         if has_key(a:1, 'error') | let l:data['error'] = a:1['error'] | endif
         if has_key(a:1, 'complete') | let l:data['complete'] = a:1['complete'] | endif
@@ -502,12 +577,104 @@ function! s:subscribeSourceCallback(data, t, d) abort
     if a:t == 0 | let a:data['talkback'] = a:d | endif
     if a:t == 1 && has_key(a:data, 'next') | call a:data['next'](a:d) | endif
     if a:t == 1 || a:t == 0 | call a:data['talkback'](1, lsp#callbag#undefined()) | endif
-    if a:t == 2 && a:d == lsp#callbag#undefined() && has_key(a:data, 'complete') | call a:data['complete']() | endif
-    if a:t == 2 && a:d != lsp#callbag#undefined() && has_key(a:data, 'error') | call a:data['error'](a:d) | endif
+    if a:t == 2 && lsp#callbag#isUndefined(a:d) && has_key(a:data, 'complete') | call a:data['complete']() | endif
+    if a:t == 2 && !lsp#callbag#isUndefined(a:d) && has_key(a:data, 'error') | call a:data['error'](a:d) | endif
 endfunction
 
 function! s:subscribeDispose(data, ...) abort
     if has_key(a:data, 'talkback') | call a:data['talkback'](2, lsp#callbag#undefined()) | endif
+endfunction
+" }}}
+
+" toList() {{{
+function! lsp#callbag#toList() abort
+    let l:data = { 'done': 0, 'items': [], 'unsubscribed': 0 }
+    return function('s:toListFactory', [l:data])
+endfunction
+
+function! s:toListFactory(data, source) abort
+    let a:data['unsubscribe'] = lsp#callbag#subscribe(
+        \ function('s:toListOnNext', [a:data]),
+        \ function('s:toListOnError', [a:data]),
+        \ function('s:toListOnComplete', [a:data])
+        \ )(a:source)
+    if a:data['done'] | call s:toListUnsubscribe(a:data) | endif
+    return {
+        \ 'unsubscribe': function('s:toListUnsubscribe', [a:data]),
+        \ 'wait': function('s:toListWait', [a:data])
+        \ }
+endfunction
+
+function! s:toListUnsubscribe(data) abort
+    if !has_key(a:data, 'unsubscribe') | return | endif
+    if !a:data['unsubscribed']
+        call a:data['unsubscribe']()
+        let a:data['unsubscribed'] = 1
+        if !a:data['done']
+            let a:data['done'] = 1
+            try
+                throw 'lsp#callbag toList() is already unsubscribed.'
+            catch
+                let a:data['error'] = v:exception . ' ' . v:throwpoint
+            endtry
+        endif
+    endif
+endfunction
+
+function! s:toListOnNext(data, item) abort
+    call add(a:data['items'], a:item)
+endfunction
+
+function! s:toListOnError(data, error) abort
+    let a:data['done'] = 1
+    let a:data['error'] = a:error
+    call s:toListUnsubscribe(a:data)
+endfunction
+
+function! s:toListOnComplete(data) abort
+    let a:data['done'] = 1
+    call s:toListUnsubscribe(a:data)
+endfunction
+
+function! s:toListWait(data, ...) abort
+    if a:data['done']
+        if has_key(a:data, 'error')
+            throw a:data['error']
+        else
+            return a:data['items']
+        endif
+    else
+        let l:opt = a:0 > 0 ? copy(a:1) : {}
+        let l:opt['timedout'] = 0
+        let l:opt['sleep'] = get(l:opt, 'sleep', 1)
+        let l:opt['timeout'] = get(l:opt, 'timeout', -1)
+
+        if l:opt['timeout'] > -1
+            let l:opt['timer'] = timer_start(l:opt['timeout'], function('s:toListTimeoutCallback', [l:opt]))
+        endif
+
+        while !a:data['done'] && !l:opt['timedout']
+            exec 'sleep ' . l:opt['sleep'] . 'm'
+        endwhile
+
+        if has_key(l:opt, 'timer')
+            silent! call timer_stop(l:opt['timer'])
+        endif
+
+        if l:opt['timedout']
+            throw 'lsp#callbag toList().wait() timedout.'
+        endif
+
+        if has_key(a:data, 'error')
+            throw a:data['error']
+        else
+            return a:data['items']
+        endif
+    endif
+endfunction
+
+function! s:toListTimeoutCallback(opt, ...) abort
+    let a:opt['timedout'] = 1
 endfunction
 " }}}
 
@@ -534,20 +701,20 @@ endfunction
 " of() {{{
 function! lsp#callbag#of(...) abort
     let l:data = { 'values': a:000 }
-    return function('s:arrayFactory', [l:data])
+    return function('s:listFactory', [l:data])
 endfunction
 " }}}
 
-" fromArray() {{{
-function! lsp#callbag#fromArray(array) abort
-    let l:data = { 'values': a:array }
-    return function('s:arrayFactory', [l:data])
+" fromList() {{{
+function! lsp#callbag#fromList(list) abort
+    let l:data = { 'values': a:list }
+    return function('s:listFactory', [l:data])
 endfunction
 
-function! s:arrayFactory(data, start, sink) abort
+function! s:listFactory(data, start, sink) abort
     if a:start != 0 | return | endif
     let a:data['disposed'] = 0
-    call a:sink(0, function('s:arraySinkCallback', [a:data]))
+    call a:sink(0, function('s:listSinkCallback', [a:data]))
     let l:i = 0
     let l:n = len(a:data['values'])
     while l:i < l:n
@@ -560,7 +727,7 @@ function! s:arrayFactory(data, start, sink) abort
 endfunction
 
 
-function! s:arraySinkCallback(data, t, ...) abort
+function! s:listSinkCallback(data, t, ...) abort
     if a:t != 2 | return | endif
     let a:data['disposed'] = 1
 endfunction
@@ -605,7 +772,7 @@ function! s:mergeSourceCallback(data, i, t, d) abort
         call insert(a:data['sourceTalkbacks'], a:d, a:i)
         let a:data['startCount'] += 1
         if a:data['startCount'] == 1 | call a:data['sink'](0, a:data['talkback']) | endif
-    elseif a:t == 2 && a:d != lsp#callbag#undefined()
+    elseif a:t == 2 && !lsp#callbag#isUndefined(a:d)
         let a:data['ended'] = 1
         let l:j = 0
         while l:j < a:data['n']
@@ -962,7 +1129,7 @@ function! s:flattenTalkbackCallback(data, t, d) abort
         endif
     endif
     if a:t == 2
-        if a:data['innertTalkback'] != 0 | call a:data['innerTalkback'](2, lsp#callbag#undefined()) | endif
+        if a:data['innerTalkback'] != 0 | call a:data['innerTalkback'](2, lsp#callbag#undefined()) | endif
         call a:data['outerTalkback'](2, lsp#callbag#undefined())
     endif
 endfunction
@@ -975,7 +1142,7 @@ function! s:flattenSourceCallback(data, t, d) abort
         let l:InnerSource = a:d
         if a:data['innerTalkback'] != 0 | call a:data['innerTalkback'](2, lsp#callbag#undefined()) | endif
         call l:InnerSource(0, function('s:flattenInnerSourceCallback', [a:data]))
-    elseif a:t == 2 && a:d != lsp#callbag#undefined()
+    elseif a:t == 2 && !lsp#callbag#isUndefined(a:d)
         if a:data['innerTalkback'] != 0 | call a:data['innerTalkback'](2, lsp#callbag#undefined()) | endif
         call a:data['outerTalkback'](1, a:d)
     elseif a:t == 2
@@ -993,7 +1160,7 @@ function! s:flattenInnerSourceCallback(data, t, d) abort
         call a:data['innerTalkback'](1, lsp#callbag#undefined())
     elseif a:t == 1
         call a:data['sink'](1, a:d)
-    elseif a:t == 2 && a:d != lsp#callbag#undefined()
+    elseif a:t == 2 && !lsp#callbag#isUndefined(a:d)
         call a:data['outerTalkback'](2, lsp#callbag#undefined())
         call a:data['sink'](2, a:d)
     elseif a:t == 2
@@ -1031,6 +1198,62 @@ function! s:scanSourceCallback(data, t, d) abort
         call a:data['sink'](1, a:data['acc'])
     else
         call a:data['sink'](a:t, a:d)
+    endif
+endfunction
+" }}}
+
+" switchMap() {{{
+function! lsp#callbag#switchMap(makeSource, ...) abort
+    let l:data = { 'makeSource': a:makeSource }
+    if a:0 == 1
+        let l:data['combineResults'] = a:1
+    else
+        let l:data['combineResults'] = function('s:switchMapDefaultCombineResults')
+    endif
+    return function('s:switchMapSourceCallback', [l:data])
+endfunction
+
+function! s:switchMapDefaultCombineResults(a, b) abort
+    return a:b
+endfunction
+
+function! s:switchMapSourceCallback(data, inputSource) abort
+    let a:data['inputSource'] = a:inputSource
+    return function('s:switchMapFactory', [a:data])
+endfunction
+
+function! s:switchMapFactory(data, start, outputSink) abort
+    if a:start != 0 | return | endif
+    let a:data['outputSink'] = a:outputSink
+    let a:data['sourceEnded'] = 0
+    call a:data['inputSource'](0, function('s:switchMapInputSourceCallback', [a:data]))
+endfunction
+
+function! s:switchMapInputSourceCallback(data, t, d) abort
+    if a:t == 0 | call a:data['outputSink'](a:t, a:d) | endif
+    if a:t == 1
+        if has_key(a:data, 'currSourceTalkback')
+            call a:data['currSourceTalkback'](2, lsp#callbag#undefined())
+            call remove(a:data, 'currSourceTalkback')
+        endif
+        let l:CurrSource = a:data['makeSource'](a:d)
+        call l:CurrSource(0, function('s:switchMapCurrSourceCallback', [a:data, a:t, a:d]))
+    endif
+    if a:t == 2
+        let a:data['sourceEnded'] = 1
+        if !has_key(a:data, 'currSourceTalkback') | call a:data['outputSink'](a:t, a:d) | endif
+    endif
+endfunction
+
+function! s:switchMapCurrSourceCallback(data, t, d, currT, currD) abort
+    if a:currT == 0 | let a:data['currSourceTalkback'] = a:currD | endif
+    if a:currT == 1 | call a:data['outputSink'](a:t, a:data['combineResults'](a:d, a:currD)) | endif
+    if (a:currT == 0 || a:currT == 1) && has_key(a:data, 'currSourceTalkback')
+        call a:data['currSourceTalkback'](1, lsp#callbag#undefined())
+    endif
+    if a:currT == 2
+        call remove(a:data, 'currSourceTalkback')
+        if a:data['sourceEnded'] | call a:data['outputSink'](a:currT, a:currD) | endif
     endif
 endfunction
 " }}}
@@ -1091,6 +1314,63 @@ function! s:shareSourceCallback(data, sink, t, d) abort
     if a:t == 2
         let a:data['sinks'] = []
     endif
+endfunction
+" }}}
+
+" materialize() {{{
+function! lsp#callbag#materialize() abort
+    let l:data = {}
+    return function('s:materializeF', [l:data])
+endfunction
+
+function! s:materializeF(data, source) abort
+    let a:data['source'] = a:source
+    return function('s:materializeFSource', [a:data])
+endfunction
+
+function! s:materializeFSource(data, start, sink) abort
+    if a:start != 0 | return | endif
+    let a:data['sink'] = a:sink
+    call a:data['source'](0, function('s:materializeFSourceCallback', [a:data]))
+endfunction
+
+function! s:materializeFSourceCallback(data, t, d) abort
+    if a:t == 1
+        call a:data['sink'](1, lsp#callbag#createNextNotification(a:d))
+    elseif a:t == 2
+        call a:data['sink'](1, lsp#callbag#isUndefined(a:d)
+                    \ ? lsp#callbag#createCompleteNotification()
+                    \ : lsp#callbag#createErrorNotification(a:d))
+        call a:data['sink'](2, lsp#callbag#undefined())
+    else
+        call a:data['sink'](a:t, a:d)
+    endif
+endfunction
+" }}}
+
+" Notifications {{{
+function! lsp#callbag#createNextNotification(d) abort
+    return { 'kind': 'N', 'value': a:d }
+endfunction
+
+function! lsp#callbag#createCompleteNotification() abort
+    return { 'kind': 'C' }
+endfunction
+
+function! lsp#callbag#createErrorNotification(d) abort
+    return { 'kind': 'E', 'error': a:d }
+endfunction
+
+function! lsp#callbag#isNextNotification(d) abort
+    return a:d['kind'] ==# 'N'
+endfunction
+
+function! lsp#callbag#isCompleteNotification(d) abort
+    return a:d['kind'] ==# 'C'
+endfunction
+
+function! lsp#callbag#isErrorNotification(d) abort
+    return a:d['kind'] ==# 'E'
 endfunction
 " }}}
 

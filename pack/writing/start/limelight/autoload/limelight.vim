@@ -46,7 +46,7 @@ function! s:getpos()
   let bop = get(g:, 'limelight_bop', '^\s*$\n\zs')
   let eop = get(g:, 'limelight_eop', '^\s*$')
   let span = max([0, get(g:, 'limelight_paragraph_span', 0) - s:empty(getline('.'))])
-  let pos = getpos('.')
+  let pos = exists('*getcurpos')? getcurpos() : getpos('.')
   for i in range(0, span)
     let start = searchpos(bop, i == 0 ? 'cbW' : 'bW')[0]
   endfor
@@ -254,8 +254,8 @@ function! s:cleanup()
   end
 endfunction
 
-function! limelight#execute(bang, visual, ...) range
-  let range = a:visual ? [a:firstline, a:lastline] : []
+function! limelight#execute(bang, visual, line1, line2, ...)
+  let range = a:visual ? [a:line1, a:line2] : []
   if a:bang
     if a:0 > 0 && a:1 =~ '^!' && !s:is_on()
       if len(a:1) > 1
@@ -274,7 +274,7 @@ function! limelight#execute(bang, visual, ...) range
 endfunction
 
 function! limelight#operator(...)
-  '[,']call limelight#execute(0, 1)
+  call limelight#execute(0, 1, line("'["), line("']"))
 endfunction
 
 let &cpo = s:cpo_save

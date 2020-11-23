@@ -3,7 +3,7 @@
 " Description: List the current file's tags in a sidebar, ordered by class etc
 " Author:      Jan Larres <jan@majutsushi.net>
 " Licence:     Vim licence
-" Website:     http://majutsushi.github.com/tagbar/
+" Website:     https://preservim.github.io/tagbar
 " Version:     2.7
 " Note:        This plugin was heavily inspired by the 'Taglist' plugin by
 "              Yegappan Lakshmanan and uses a small amount of code from it.
@@ -511,8 +511,10 @@ function! s:MapKeys() abort
             let keys = def
         endif
         for key in keys
-            execute 'nnoremap' . map_options . key .
-                        \ ' :call <SID>' . func . '<CR>'
+            if !empty(key)
+                execute 'nnoremap' . map_options . key .
+                            \ ' :call <SID>' . func . '<CR>'
+            endif
         endfor
         unlet def
     endfor
@@ -879,17 +881,15 @@ function! s:OpenWindow(flags) abort
     endif
 
     let s:window_opening = 1
-    if g:tagbar_vertical == 0
+    if g:tagbar_position =~# 'vertical'
+        let size = g:tagbar_width
         let mode = 'vertical '
-        let openpos = g:tagbar_left ? 'topleft ' : 'botright '
-        let width = g:tagbar_width
     else
+        let size = g:tagbar_height
         let mode = ''
-        let openpos = g:tagbar_left ? 'leftabove ' : 'rightbelow '
-        let width = g:tagbar_vertical
     endif
-    exe 'silent keepalt ' . openpos . mode . width . 'split ' . s:TagbarBufName()
-    exe 'silent ' . mode . 'resize ' . width
+    exe 'silent keepalt ' . g:tagbar_position . size . 'split ' . s:TagbarBufName()
+    exe 'silent ' . mode . 'resize ' . size
     unlet s:window_opening
 
     call s:InitWindow(autoclose)
@@ -947,6 +947,10 @@ function! s:InitWindow(autoclose) abort
     setlocal nomodifiable
     setlocal textwidth=0
 
+    if g:tagbar_scrolloff > 0
+        execute 'setlocal scrolloff=' . g:tagbar_scrolloff
+    endif
+
     if g:tagbar_show_balloon == 1 && has('balloon_eval')
         setlocal balloonexpr=TagbarBalloonExpr()
         set ballooneval
@@ -956,9 +960,18 @@ function! s:InitWindow(autoclose) abort
     " Window-local options
 
     setlocal nolist
-    setlocal nowrap
     setlocal winfixwidth
     setlocal nospell
+
+    if g:tagbar_wrap == 0
+        setlocal nowrap
+    else
+        setlocal wrap
+        if exists('+linebreak')
+            setlocal breakindent
+            setlocal breakindentopt=shift:4
+        endif
+    endif
 
     if g:tagbar_show_linenumbers == 0
         setlocal nonumber
@@ -984,6 +997,7 @@ function! s:InitWindow(autoclose) abort
     setlocal foldmethod&
     setlocal foldexpr&
 
+    silent! setlocal signcolumn=no
 
     let w:autoclose = a:autoclose
 
@@ -1027,6 +1041,7 @@ function! s:CloseWindow() abort
             " Other windows are open, only close the tagbar one
 
             let curfile = tagbar#state#get_current_file(0)
+            let s:is_maximized = 0
 
             close
 
@@ -1182,7 +1197,14 @@ function! s:ProcessFile(fname, ftype) abort
 
     call tagbar#debug#log('typeinfo for file to process: ' . string(typeinfo))
 
-    if g:tagbar_use_cache
+    if g:tagbar_file_size_limit > 0
+                \ && fileinfo.fsize > g:tagbar_file_size_limit
+                \ && !exists('b:tagbar_force_update')
+        call tagbar#debug#log('File size exceeds defined limit')
+        let fileinfo.fsize_exceeded = 1
+        call s:known_files.put(fileinfo)
+        return
+    elseif g:tagbar_use_cache
         " Use a temporary files for ctags processing instead of the original one.
         " This allows using Tagbar for files accessed with netrw, and also doesn't
         " slow down Tagbar for files that sit on slow network drives.
@@ -1201,6 +1223,7 @@ function! s:ProcessFile(fname, ftype) abort
             return
         endif
         let fileinfo.mtime = getftime(tempfile)
+        let fileinfo.fsize_exceeded = 0
 
         let ctags_output = s:ExecuteCtagsOnFile(tempfile, a:fname, typeinfo)
 
@@ -1209,6 +1232,7 @@ function! s:ProcessFile(fname, ftype) abort
         endif
     else
         call tagbar#debug#log('File caching disabled')
+        let fileinfo.fsize_exceeded = 0
         let ctags_output = s:ExecuteCtagsOnFile(a:fname, a:fname, typeinfo)
     endif
 
@@ -1308,9 +1332,9 @@ function! s:ExecuteCtagsOnFile(fname, realfname, typeinfo) abort
 
         " universal-ctags deprecated this argument name
         if s:ctags_is_uctags
-            let ctags_args += [ '--extras=' ]
+            let ctags_args += [ '--extras=+F' ]
         else
-            let ctags_args += [ '--extra=' ]
+            let ctags_args += [ '--extra=', '--file-scope=yes' ]
         endif
 
         let ctags_args  = ctags_args + [
@@ -1318,8 +1342,7 @@ function! s:ExecuteCtagsOnFile(fname, realfname, typeinfo) abort
                           \ '-',
                           \ '--format=2',
                           \ '--excmd=pattern',
-                          \ '--fields=nksSaf',
-                          \ '--file-scope=yes',
+                          \ '--fields=nksSafet',
                           \ '--sort=no',
                           \ '--append=no'
                           \ ]
@@ -1440,7 +1463,7 @@ function! s:ParseTagline(part1, part2, typeinfo, fileinfo) abort
             let fielddict[key] = 'yes'
         endif
         if len(val) > 0
-            if key ==# 'line' || key ==# 'column'
+            if key ==# 'line' || key ==# 'column' || key ==# 'end'
                 let fielddict[key] = str2nr(val)
             else
                 let fielddict[key] = val
@@ -1502,6 +1525,22 @@ function! s:ProcessTag(name, filename, pattern, fields, is_split, typeinfo, file
         let taginfo.fields.line = 0
     endif
 
+    " Make sure our 'end' is valid
+    if taginfo.fields.end < taginfo.fields.line
+        if a:typeinfo.getKind(taginfo.fields.kind).stl
+            " the config indicates this is a scoped kind due to 'stl', but we
+            " don't have scope vars, assume scope goes to end of file. This
+            " can also be the case for exhuberant ctags which doesn't support
+            " the --fields=e option.
+            " When we call the GetNearbyTag(), it will look up for the nearest
+            " tag, so if we have multiples that have scope to the end of the
+            " file it will still only grab the first one above the current line
+            let taginfo.fields.end = line('$')
+        else
+            let taginfo.fields.end = taginfo.fields.line
+        endif
+    endif
+
     if !has_key(taginfo.fields, 'kind')
         call tagbar#debug#log(
             \ "Warning: No 'kind' field found for tag " . a:name[0] . '!')
@@ -1517,6 +1556,17 @@ function! s:ProcessTag(name, filename, pattern, fields, is_split, typeinfo, file
     let taginfo.typeinfo = a:typeinfo
 
     let a:fileinfo.fline[taginfo.fields.line] = taginfo
+
+    if has_key(taginfo.fields, 'typeref')
+        let typeref = taginfo.fields.typeref
+        let delimit = stridx(typeref, ':')
+        let key = strpart(typeref, 0, delimit)
+        if key ==# 'typename'
+            let taginfo.data_type = substitute(strpart(typeref, delimit + 1), '\t', '', 'g')
+        else
+            let taginfo.data_type = key
+        endif
+    endif
 
     " If this filetype doesn't have any scope information then we can stop
     " here after adding the tag to the list
@@ -1748,9 +1798,7 @@ function! s:create_pseudotag(name, parent, kind, typeinfo, fileinfo) abort
                     \ pseudotag.path . a:typeinfo.sro . pseudotag.name
     endif
     let pseudotag.depth = len(split(pseudotag.path, '\V' . escape(a:typeinfo.sro, '\')))
-
     let pseudotag.parent = a:parent
-
     let pseudotag.fileinfo = a:fileinfo
     let pseudotag.typeinfo = a:typeinfo
 
@@ -1850,7 +1898,16 @@ function! s:RenderContent(...) abort
 
     let typeinfo = fileinfo.typeinfo
 
-    if !empty(fileinfo.getTags())
+    if fileinfo.fsize_exceeded == 1
+        if g:tagbar_compact
+            silent 0put ='\" File size [' . fileinfo.fsize . 'B] exceeds limit'
+        else
+            silent put ='\" File size exceeds defined limit'
+            silent put ='\"   File Size [' . fileinfo.fsize . ' bytes]'
+            silent put ='\"   Limit     [' . g:tagbar_file_size_limit . ' bytes]'
+            silent put ='\" Use TagbarForceUpdate override'
+        endif
+    elseif !empty(fileinfo.getTags())
         " Print tags
         call s:PrintKinds(typeinfo, fileinfo)
     else
@@ -1876,13 +1933,13 @@ function! s:RenderContent(...) abort
     if !empty(tagbar#state#get_current_file(0)) &&
      \ fileinfo.fpath ==# tagbar#state#get_current_file(0).fpath
         let scrolloff_save = &scrolloff
-        set scrolloff=0
+        setlocal scrolloff=0
 
         call cursor(topline, 1)
         normal! zt
         call cursor(saveline, savecol)
 
-        let &scrolloff = scrolloff_save
+        let &l:scrolloff = scrolloff_save
     else
         " Make sure as much of the Tagbar content as possible is shown in the
         " window by jumping to the top after drawing
@@ -1926,7 +1983,7 @@ function! s:PrintKinds(typeinfo, fileinfo) abort
             for tag in curtags
                 call s:PrintTag(tag, 0, output, a:fileinfo, a:typeinfo)
 
-                if !g:tagbar_compact
+                if g:tagbar_compact != 1
                     call add(output, '')
                 endif
             endfor
@@ -1941,7 +1998,12 @@ function! s:PrintKinds(typeinfo, fileinfo) abort
             endif
 
             let padding = g:tagbar_show_visibility ? ' ' : ''
-            call add(output, foldmarker . padding . kind.long)
+            if g:tagbar_show_tag_count
+                let tag_count = ' (' . len(curtags) . ')'
+                call add(output, foldmarker . padding . kind.long . tag_count)
+            else
+                call add(output, foldmarker . padding . kind.long)
+            endif
 
             let curline                   = len(output) + offset
             let kindtag.tline             = curline
@@ -1957,18 +2019,17 @@ function! s:PrintKinds(typeinfo, fileinfo) abort
                     let curline                   = len(output) + offset
                     let tag.tline                 = curline
                     let a:fileinfo.tline[curline] = tag
-                    let tag.depth                 = 1
                 endfor
             endif
 
-            if !g:tagbar_compact
+            if g:tagbar_compact != 1
                 call add(output, '')
             endif
         endif
     endfor
 
     let outstr = join(output, "\n")
-    if g:tagbar_compact && s:short_help
+    if g:tagbar_compact && !g:tagbar_help_visibility && s:short_help
         silent 0put =outstr
     else
         silent  put =outstr
@@ -2028,44 +2089,60 @@ endfunction
 
 " s:PrintHelp() {{{2
 function! s:PrintHelp() abort
-    if !g:tagbar_compact && s:short_help
+    if !g:tagbar_compact && !g:tagbar_help_visibility && s:short_help
         silent 0put ='\" Press ' . s:get_map_str('help') . ' for help'
         silent  put _
-    elseif !s:short_help
+    elseif g:tagbar_help_visibility || !s:short_help
+        let help_cmds = [
+                    \ ['jump',              'Jump to tag definition'],
+                    \ ['preview',           'As above, but stay in tagbar window'],
+                    \ ['previewwin',        'Show tag in preview window'],
+                    \ ['nexttag',           'Go to next top-level tag'],
+                    \ ['prevtag',           'Go to previous top-level tag'],
+                    \ ['showproto',         'Display tag prototype'],
+                    \ ['hidenonpublic',     'Hide non-public tags'],
+                \ ]
+        let fold_cmds = [
+                    \ ['openfold',          'Open fold'],
+                    \ ['closefold',         'Close fold'],
+                    \ ['togglefold',        'Toggle fold'],
+                    \ ['openallfolds',      'Open all folds'],
+                    \ ['closeallfolds',     'Close all folds'],
+                    \ ['incrementfolds',    'Increment fold level by 1'],
+                    \ ['decrementfolds',    'Decrement fold level by 1'],
+                    \ ['nextfold',          'Go to next fold'],
+                    \ ['prevfold',          'Go to previous fold'],
+                \ ]
+        let misc_cmds = [
+                    \ ['togglesort',        'Toggle sort'],
+                    \ ['togglecaseinsensitive', 'Toggle case insensitive sort option'],
+                    \ ['toggleautoclose',   'Toggle autoclose option'],
+                    \ ['togglepause',       'Toggle pause'],
+                    \ ['zoomwin',           'Zoom window in/out'],
+                    \ ['close',             'Close window'],
+                    \ ['help',              'Toggle help'],
+                \ ]
+
         silent 0put ='\" Tagbar keybindings'
         silent  put ='\"'
         silent  put ='\" --------- General ---------'
-        silent  put ='\" ' . s:get_map_str('jump') . ': Jump to tag definition'
-        silent  put ='\" ' . s:get_map_str('preview') . ': As above, but stay in'
-        silent  put ='\"    Tagbar window'
-        silent  put ='\" ' . s:get_map_str('previewwin') . ': Show tag in preview window'
-        silent  put ='\" ' . s:get_map_str('nexttag') . ': Go to next top-level tag'
-        silent  put ='\" ' . s:get_map_str('prevtag') . ': Go to previous top-level tag'
-        silent  put ='\" ' . s:get_map_str('showproto') . ': Display tag prototype'
-        silent  put ='\" ' . s:get_map_str('hidenonpublic') . ': Hide non-public tags'
+        for [cmd, desc] in help_cmds
+            if !empty(s:get_map_str(cmd)) | silent put ='\" ' . s:get_map_str(cmd) . ': ' . desc | endif
+        endfor
         silent  put ='\"'
         silent  put ='\" ---------- Folds ----------'
-        silent  put ='\" ' . s:get_map_str('openfold') . ': Open fold'
-        silent  put ='\" ' . s:get_map_str('closefold') . ': Close fold'
-        silent  put ='\" ' . s:get_map_str('togglefold') . ': Toggle fold'
-        silent  put ='\" ' . s:get_map_str('openallfolds') . ': Open all folds'
-        silent  put ='\" ' . s:get_map_str('closeallfolds') . ': Close all folds'
-        silent  put ='\" ' . s:get_map_str('incrementfolds') . ': Increment fold level by 1'
-        silent  put ='\" ' . s:get_map_str('decrementfolds') . ': Decrement fold level by 1'
-        silent  put ='\" ' . s:get_map_str('nextfold') . ': Go to next fold'
-        silent  put ='\" ' . s:get_map_str('prevfold') . ': Go to previous fold'
+        for [cmd, desc] in fold_cmds
+            if !empty(s:get_map_str(cmd)) | silent put ='\" ' . s:get_map_str(cmd) . ': ' . desc | endif
+        endfor
         silent  put ='\"'
         silent  put ='\" ---------- Misc -----------'
-        silent  put ='\" ' . s:get_map_str('togglesort') . ': Toggle sort'
-        silent  put ='\" ' . s:get_map_str('togglecaseinsensitive') . ': Toggle case insensitive sort option'
-        silent  put ='\" ' . s:get_map_str('toggleautoclose') . ': Toggle autoclose option'
-        silent  put ='\" ' . s:get_map_str('togglepause') . ': Toggle pause'
-        silent  put ='\" ' . s:get_map_str('zoomwin') . ': Zoom window in/out'
-        silent  put ='\" ' . s:get_map_str('close') . ': Close window'
-        silent  put ='\" ' . s:get_map_str('help') . ': Toggle help'
+        for [cmd, desc] in misc_cmds
+            if !empty(s:get_map_str(cmd)) | silent put ='\" ' . s:get_map_str(cmd) . ': ' . desc | endif
+        endfor
         silent  put _
     endif
 endfunction
+
 function! s:get_map_str(map) abort
     let def = get(g:, 'tagbar_map_' . a:map)
     if type(def) ==# type('')
@@ -2090,13 +2167,13 @@ function! s:RenderKeepView(...) abort
     call s:RenderContent()
 
     let scrolloff_save = &scrolloff
-    set scrolloff=0
+    setlocal scrolloff=0
 
     call cursor(topline, 1)
     normal! zt
     call cursor(line, curcol)
 
-    let &scrolloff = scrolloff_save
+    let &l:scrolloff = scrolloff_save
 
     redraw
 endfunction
@@ -2109,9 +2186,9 @@ function! s:HighlightTag(openfolds, ...) abort
     let force = a:0 > 0 ? a:1 : 0
 
     if a:0 > 1
-        let tag = s:GetNearbyTag(1, 0, a:2)
+        let tag = s:GetNearbyTag(g:tagbar_highlight_method, 0, a:2)
     else
-        let tag = s:GetNearbyTag(1, 0)
+        let tag = s:GetNearbyTag(g:tagbar_highlight_method, 0)
     endif
     if !empty(tag)
         let tagline = tag.tline
@@ -2169,7 +2246,14 @@ function! s:HighlightTag(openfolds, ...) abort
         call winline()
 
         let foldpat = '[' . g:tagbar#icon_open . g:tagbar#icon_closed . ' ]'
-        let pattern = '/^\%' . tagline . 'l\s*' . foldpat . '[-+# ]\?\zs[^( ]\+\ze/'
+
+        " If printing the line number of the tag to the left, and the tag is
+        " visible (I.E. parent isn't folded)
+        if g:tagbar_show_tag_linenumbers == 2 && tagline == tag.tline
+            let pattern = '/^\%' . tagline . 'l\s*' . foldpat . '[-+# ]\[[0-9]\+\] \?\zs[^( ]\+\ze/'
+        else
+            let pattern = '/^\%' . tagline . 'l\s*' . foldpat . '[-+# ]\?\zs[^( ]\+\ze/'
+        endif
         call tagbar#debug#log("Highlight pattern: '" . pattern . "'")
         if hlexists('TagbarHighlight') " Safeguard in case syntax highlighting is disabled
             execute 'match TagbarHighlight ' . pattern
@@ -2183,6 +2267,15 @@ function! s:HighlightTag(openfolds, ...) abort
         endif
         redraw
     endtry
+endfunction
+
+" Is the given line number already visible in the window without
+" any scrolling?
+function! s:IsLineVisible(line) abort
+    let topline = line('w0')
+    let bottomline = line('w$')
+    let alreadyvisible = (a:line >= topline) && (a:line <= bottomline)
+    return alreadyvisible
 endfunction
 
 " s:JumpToTag() {{{2
@@ -2201,6 +2294,13 @@ function! s:JumpToTag(stay_in_tagbar) abort
 
     " Mark current position so it can be jumped back to
     mark '
+
+    " Check if the tag is already visible in the window.  We must do this
+    " before jumping to the line.
+    let noscroll = 0
+    if g:tagbar_jump_lazy_scroll != 0
+        let noscroll = s:IsLineVisible(taginfo.fields.line)
+    endif
 
     " Jump to the line where the tag is defined. Don't use the search pattern
     " since it doesn't take the scope into account and thus can fail if tags
@@ -2236,14 +2336,33 @@ function! s:JumpToTag(stay_in_tagbar) abort
         let taginfo.fileinfo.fline[curline] = taginfo
     endif
 
-    " Center the tag in the window and jump to the correct column if
-    " available, otherwise try to find it in the line
-    normal! z.
+    if noscroll
+        " Do not scroll.
+    else
+        " Center the tag in the window and jump to the correct column if
+        " available, otherwise try to find it in the line
+        normal! z.
+
+        " If configured, adjust the jump_offset and center the window on that
+        " line. Then fall-through adjust the cursor() position below that
+        if g:tagbar_jump_offset != 0 && g:tagbar_jump_offset < curline
+            if g:tagbar_jump_offset > winheight(0) / 2
+                let jump_offset = winheight(0) / 2
+            elseif g:tagbar_jump_offset < -winheight(0) / 2
+                let jump_offset = -winheight(0) / 2
+            else
+                let jump_offset = g:tagbar_jump_offset
+            endif
+            execute curline+jump_offset
+            normal! z.
+        endif
+    endif
+
     if taginfo.fields.column > 0
         call cursor(taginfo.fields.line, taginfo.fields.column)
     else
         call cursor(taginfo.fields.line, 1)
-        call search(taginfo.name, 'c', line('.'))
+        call search('\V' . taginfo.name, 'c', line('.'))
     endif
 
     normal! zv
@@ -2287,7 +2406,7 @@ function! s:ShowInPreviewWin() abort
     " We want the preview window to be relative to the file window in normal
     " (horizontal) mode, and relative to the Tagbar window in vertical mode,
     " to make the best use of space.
-    if g:tagbar_vertical == 0
+    if g:tagbar_position =~# 'vertical'
         call s:GotoFileWindow(taginfo.fileinfo, 1)
         call s:mark_window()
     endif
@@ -2298,7 +2417,7 @@ function! s:ShowInPreviewWin() abort
         silent execute
             \ g:tagbar_previewwin_pos . ' pedit ' .
             \ fnameescape(taginfo.fileinfo.fpath)
-        if g:tagbar_vertical != 0
+        if g:tagbar_position !~# 'vertical'
             silent execute 'vertical resize ' . g:tagbar_width
         endif
         " Remember that the preview window was opened by Tagbar so we can
@@ -2306,7 +2425,7 @@ function! s:ShowInPreviewWin() abort
         let s:pwin_by_tagbar = 1
     endif
 
-    if g:tagbar_vertical != 0
+    if g:tagbar_position !~# 'vertical'
         call s:GotoFileWindow(taginfo.fileinfo, 1)
         call s:mark_window()
     endif
@@ -2549,7 +2668,7 @@ function! s:OpenParents(...) abort
     if a:0 == 1
         let tag = a:1
     else
-        let tag = s:GetNearbyTag(1, 0)
+        let tag = s:GetNearbyTag('nearest', 0)
     endif
 
     if !empty(tag)
@@ -2966,7 +3085,7 @@ endfunction
 
 " s:GetNearbyTag() {{{2
 " Get the tag info for a file near the cursor in the current file
-function! s:GetNearbyTag(all, forcecurrent, ...) abort
+function! s:GetNearbyTag(request, forcecurrent, ...) abort
     if s:nearby_disabled
         return {}
     endif
@@ -2992,7 +3111,16 @@ function! s:GetNearbyTag(all, forcecurrent, ...) abort
     for line in range(curline, 1, -1)
         if has_key(fileinfo.fline, line)
             let curtag = fileinfo.fline[line]
-            if a:all || typeinfo.getKind(curtag.fields.kind).stl
+            if a:request ==# 'nearest-stl' && typeinfo.getKind(curtag.fields.kind).stl
+                let tag = curtag
+                break
+            elseif a:request ==# 'scoped-stl'
+                        \ && typeinfo.getKind(curtag.fields.kind).stl
+                        \ && curtag.fields.line <= curline
+                        \ && curline <= curtag.fields.end
+                let tag = curtag
+                break
+            elseif a:request ==# 'nearest' || line == curline
                 let tag = curtag
                 break
             endif
@@ -3199,7 +3327,7 @@ endfunction
 " s:SetStatusLine() {{{2
 function! s:SetStatusLine() abort
     let tagbarwinnr = bufwinnr(s:TagbarBufName())
-    if tagbarwinnr == -1
+    if tagbarwinnr == -1 || exists('g:tagbar_no_status_line')
         return
     endif
 
@@ -3508,6 +3636,7 @@ endfunction
 " Autoload functions {{{1
 
 " Wrappers {{{2
+
 function! tagbar#ToggleWindow(...) abort
     let flags = a:0 > 0 ? a:1 : ''
     call s:ToggleWindow(flags)
@@ -3547,6 +3676,21 @@ function! tagbar#StopAutoUpdate() abort
 endfunction
 
 " }}}2
+
+" tagbar#Update() {{{2
+" Trigger an AutoUpdate() of the currently opened file
+function! tagbar#Update() abort
+    call s:AutoUpdate(fnamemodify(expand('%'), ':p'), 0)
+endfunction
+
+" tagbar#ForceUpdate() {{{2
+function! tagbar#ForceUpdate() abort
+    if !exists('b:tagbar_force_update')
+        let b:tagbar_force_update = 1
+        call s:AutoUpdate(fnamemodify(expand('%'), ':p'), 1)
+        unlet b:tagbar_force_update
+    endif
+endfunction
 
 " tagbar#toggle_pause() {{{2
 function! tagbar#toggle_pause() abort
@@ -3600,28 +3744,67 @@ function! tagbar#autoopen(...) abort
     call tagbar#debug#log('tagbar#autoopen finished without finding valid file')
 endfunction
 
+" tagbar#GetTagNearLine() {{{2
+function! tagbar#GetTagNearLine(lnum, ...) abort
+    if a:0 >= 2
+        let fmt = a:1
+        let longsig   = a:2 =~# 's'
+        let fullpath  = a:2 =~# 'f'
+        let prototype = a:2 =~# 'p'
+        if a:0 >= 3
+            let search_method = a:3
+        else
+            let search_method = 'nearest-stl'
+        endif
+    else
+        let fmt = '%s'
+        let longsig   = 0
+        let fullpath  = 0
+        let prototype = 0
+        let search_method = 'nearest-stl'
+    endif
+
+    let taginfo = s:GetNearbyTag(search_method, 1, a:lnum)
+
+    if empty(taginfo)
+        return ''
+    endif
+
+    if prototype
+        return taginfo.getPrototype(1)
+    else
+        return printf(fmt, taginfo.str(longsig, fullpath))
+    endif
+endfunction
+
 " tagbar#currenttag() {{{2
 function! tagbar#currenttag(fmt, default, ...) abort
     " Indicate that the statusline functionality is being used. This prevents
     " the CloseWindow() function from removing the autocommands.
     let s:statusline_in_use = 1
 
-    if a:0 > 0
+    if a:0 >= 1
         " also test for non-zero value for backwards compatibility
         let longsig   = a:1 =~# 's' || (type(a:1) == type(0) && a:1 != 0)
         let fullpath  = a:1 =~# 'f'
         let prototype = a:1 =~# 'p'
+        if a:0 >= 2
+            let search_method = a:2
+        else
+            let search_method = 'nearest-stl'
+        endif
     else
         let longsig   = 0
         let fullpath  = 0
         let prototype = 0
+        let search_method = 'nearest-stl'
     endif
 
     if !s:Init(1)
         return a:default
     endif
 
-    let tag = s:GetNearbyTag(0, 1)
+    let tag = s:GetNearbyTag(search_method, 1)
 
     if !empty(tag)
         if prototype
@@ -3693,7 +3876,7 @@ function! tagbar#currenttagtype(fmt, default) abort
     " the CloseWindow() function from removing the autocommands.
     let s:statusline_in_use = 1
     let kind = ''
-    let tag = s:GetNearbyTag(0, 1)
+    let tag = s:GetNearbyTag('scoped-stl', 1)
 
     if empty(tag)
         return a:default
@@ -3706,8 +3889,43 @@ function! tagbar#currenttagtype(fmt, default) abort
 
     let typeinfo = tag.fileinfo.typeinfo
     let plural = typeinfo.kinds[typeinfo.kinddict[kind]].long
-    let singular = s:singular_types[plural]
+    if has_key(s:singular_types, plural)
+        let singular = s:singular_types[plural]
+    else
+        let singular = plural
+    endif
     return printf(a:fmt, singular)
+endfunction
+
+" tagbar#printfileinfo() {{{2
+function! tagbar#printfileinfo() abort
+    if !tagbar#debug#enabled()
+        echo 'Tagbar debug is disabled - unable to print fileinfo to tagbar log'
+        return
+    endif
+
+    let fileinfo = tagbar#state#get_current_file(0)
+    if empty(fileinfo)
+        call tagbar#debug#log('File contains no tag entries')
+        return
+    endif
+    let typeinfo = fileinfo.typeinfo
+
+    call tagbar#debug#log('Printing fileinfo [' . fileinfo.fpath . ' lines:' . fileinfo.lnum)
+    for line in range(1, fileinfo.lnum)
+        if has_key(fileinfo.fline, line)
+            let tag = fileinfo.fline[line]
+            call tagbar#debug#log(' '
+                        \   . ' line:' . line
+                        \   . ' kind:' . tag.fields.kind
+                        \   . ' depth:' . tag.depth
+                        \   . ' [' . tag.strfmt() . ']'
+                        \ )
+        endif
+    endfor
+    call tagbar#debug#log('All tags printed')
+
+    echo 'Tagbar fileinfo printed to debug logfile'
 endfunction
 
 " Modeline {{{1

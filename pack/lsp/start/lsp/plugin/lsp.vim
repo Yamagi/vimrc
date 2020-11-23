@@ -21,7 +21,10 @@ let g:lsp_signs_information = get(g:, 'lsp_signs_information', {})
 let g:lsp_signs_hint = get(g:, 'lsp_signs_hint', {})
 let g:lsp_signs_priority = get(g:, 'lsp_signs_priority', 10)
 let g:lsp_signs_priority_map = get(g:, 'lsp_signs_priority_map', {})
+let g:lsp_documentation_debounce = get(g:, 'lsp_documentation_debounce', 80)
 let g:lsp_documentation_float = get(g:, 'lsp_documentation_float', 1)
+let g:lsp_documentation_float_docked = get(g:, 'lsp_documentation_float_docked', 0)
+let g:lsp_documentation_float_docked_maxheight = get(g:, ':lsp_documentation_float_docked_maxheight', &previewheight)
 let g:lsp_diagnostics_enabled = get(g:, 'lsp_diagnostics_enabled', 1)
 let g:lsp_diagnostics_echo_cursor = get(g:, 'lsp_diagnostics_echo_cursor', 0)
 let g:lsp_diagnostics_echo_delay = get(g:, 'lsp_diagnostics_echo_delay', 500)
@@ -32,7 +35,8 @@ let g:lsp_preview_keep_focus = get(g:, 'lsp_preview_keep_focus', 1)
 let g:lsp_use_event_queue = get(g:, 'lsp_use_event_queue', has('nvim') || has('patch-8.1.0889'))
 let g:lsp_insert_text_enabled= get(g:, 'lsp_insert_text_enabled', 1)
 let g:lsp_text_edit_enabled = get(g:, 'lsp_text_edit_enabled', has('patch-8.0.1493'))
-let g:lsp_highlight_references_enabled = get(g:, 'lsp_highlight_references_enabled', 0)
+let g:lsp_highlight_references_enabled = get(g:, 'lsp_highlight_references_enabled', 1)
+let g:lsp_highlight_references_delay = get(g:, 'lsp_highlight_references_delay', 350)
 let g:lsp_preview_float = get(g:, 'lsp_preview_float', 1)
 let g:lsp_preview_autoclose = get(g:, 'lsp_preview_autoclose', 1)
 let g:lsp_preview_doubletap = get(g:, 'lsp_preview_doubletap', [function('lsp#ui#vim#output#focuspreview')])
@@ -40,6 +44,7 @@ let g:lsp_peek_alignment = get(g:, 'lsp_peek_alignment', 'center')
 let g:lsp_preview_max_width = get(g:, 'lsp_preview_max_width', -1)
 let g:lsp_preview_max_height = get(g:, 'lsp_preview_max_height', -1)
 let g:lsp_signature_help_enabled = get(g:, 'lsp_signature_help_enabled', 1)
+let g:lsp_show_workspace_edits = get(g:, 'lsp_show_workspace_edits', 0)
 let g:lsp_fold_enabled = get(g:, 'lsp_fold_enabled', 1)
 let g:lsp_hover_conceal = get(g:, 'lsp_hover_conceal', 1)
 let g:lsp_ignorecase = get(g:, 'lsp_ignorecase', &ignorecase)
@@ -47,6 +52,7 @@ let g:lsp_semantic_enabled = get(g:, 'lsp_semantic_enabled', 0)
 let g:lsp_text_document_did_save_delay = get(g:, 'lsp_text_document_did_save_delay', -1)
 let g:lsp_completion_resolve_timeout = get(g:, 'lsp_completion_resolve_timeout', 200)
 let g:lsp_tagfunc_source_methods = get(g:, 'lsp_tagfunc_source_methods', ['definition', 'declaration', 'implementation', 'typeDefinition'])
+let g:lsp_show_message_request_enabled = get(g:, 'lsp_show_message_request_enabled', 1)
 
 let g:lsp_get_supported_capabilities = get(g:, 'lsp_get_supported_capabilities', [function('lsp#default_get_supported_capabilities')])
 
@@ -89,9 +95,9 @@ command! -nargs=* LspPreviousDiagnostic call lsp#ui#vim#diagnostics#previous_dia
 command! LspReferences call lsp#ui#vim#references()
 command! LspRename call lsp#ui#vim#rename()
 command! LspTypeDefinition call lsp#ui#vim#type_definition(0, <q-mods>)
-command! LspTypeHierarchy call lsp#ui#vim#type_hierarchy()
+command! LspTypeHierarchy call lsp#internal#type_hierarchy#show()
 command! LspPeekTypeDefinition call lsp#ui#vim#type_definition(1)
-command! LspWorkspaceSymbol call lsp#ui#vim#workspace_symbol()
+command! -nargs=? LspWorkspaceSymbol call lsp#ui#vim#workspace_symbol(<q-args>)
 command! -range LspDocumentFormat call lsp#ui#vim#document_format()
 command! -range LspDocumentFormatSync call lsp#ui#vim#document_format_sync()
 command! -range LspDocumentRangeFormat call lsp#ui#vim#document_range_format()
@@ -99,8 +105,8 @@ command! -range LspDocumentRangeFormatSync call lsp#ui#vim#document_range_format
 command! LspImplementation call lsp#ui#vim#implementation(0, <q-mods>)
 command! LspPeekImplementation call lsp#ui#vim#implementation(1)
 command! -nargs=0 LspStatus call lsp#print_server_status()
-command! LspNextReference call lsp#ui#vim#references#jump(+1)
-command! LspPreviousReference call lsp#ui#vim#references#jump(-1)
+command! LspNextReference call lsp#internal#highlight_references#jump(+1)
+command! LspPreviousReference call lsp#internal#highlight_references#jump(-1)
 command! -nargs=? -complete=customlist,lsp#server_complete LspStopServer call lsp#ui#vim#stop_server(<f-args>)
 command! -nargs=? -complete=customlist,lsp#utils#empty_complete LspSignatureHelp call lsp#ui#vim#signature_help#get_signature_help_under_cursor()
 command! LspDocumentFold call lsp#ui#vim#folding#fold(0)
@@ -133,9 +139,9 @@ nnoremap <plug>(lsp-previous-diagnostic-nowrap) :<c-u>call lsp#ui#vim#diagnostic
 nnoremap <plug>(lsp-references) :<c-u>call lsp#ui#vim#references()<cr>
 nnoremap <plug>(lsp-rename) :<c-u>call lsp#ui#vim#rename()<cr>
 nnoremap <plug>(lsp-type-definition) :<c-u>call lsp#ui#vim#type_definition(0)<cr>
-nnoremap <plug>(lsp-type-hierarchy) :<c-u>call lsp#ui#vim#type_hierarchy()<cr>
+nnoremap <plug>(lsp-type-hierarchy) :<c-u>call lsp#internal#type_hierarchy#show()<cr>
 nnoremap <plug>(lsp-peek-type-definition) :<c-u>call lsp#ui#vim#type_definition(1)<cr>
-nnoremap <plug>(lsp-workspace-symbol) :<c-u>call lsp#ui#vim#workspace_symbol()<cr>
+nnoremap <plug>(lsp-workspace-symbol) :<c-u>call lsp#ui#vim#workspace_symbol('')<cr>
 nnoremap <plug>(lsp-document-format) :<c-u>call lsp#ui#vim#document_format()<cr>
 vnoremap <plug>(lsp-document-format) :<Home>silent <End>call lsp#ui#vim#document_range_format()<cr>
 nnoremap <plug>(lsp-document-range-format) :<c-u>set opfunc=lsp#ui#vim#document_range_format_opfunc<cr>g@
@@ -143,6 +149,6 @@ xnoremap <plug>(lsp-document-range-format) :<Home>silent <End>call lsp#ui#vim#do
 nnoremap <plug>(lsp-implementation) :<c-u>call lsp#ui#vim#implementation(0)<cr>
 nnoremap <plug>(lsp-peek-implementation) :<c-u>call lsp#ui#vim#implementation(1)<cr>
 nnoremap <plug>(lsp-status) :<c-u>echo lsp#get_server_status()<cr>
-nnoremap <plug>(lsp-next-reference) :<c-u>call lsp#ui#vim#references#jump(+1)<cr>
-nnoremap <plug>(lsp-previous-reference) :<c-u>call lsp#ui#vim#references#jump(-1)<cr>
+nnoremap <plug>(lsp-next-reference) :<c-u>call lsp#internal#highlight_references#jump(+1)<cr>
+nnoremap <plug>(lsp-previous-reference) :<c-u>call lsp#internal#highlight_references#jump(-1)<cr>
 nnoremap <plug>(lsp-signature-help) :<c-u>call lsp#ui#vim#signature_help#get_signature_help_under_cursor()<cr>
