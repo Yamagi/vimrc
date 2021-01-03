@@ -6,21 +6,25 @@
 
 " ----
 
-" Navigation
+" General configuration
+
+" Enable lsp only if a supported filetype is opened.
+" See below for the corresponding autocommands.
+let g:lsp_auto_enable = 0
 
 " Hints at the left window side.
-let g:lsp_signs_enabled = 1
+let g:lsp_diagnostics_signs_enabled = 1
 
 if g:vimrc_utf8 == 1
-	let g:lsp_signs_error = {'text': '✗'}
-	let g:lsp_signs_warning = {'text': '‼'}
-	let g:lsp_signs_hint = {'text' : '✓'}
-	let g:lsp_signs_information = {'text' : 'ℹ'}
+	let g:lsp_diagnostics_signs_error = {'text': '✗'}
+	let g:lsp_diagnostics_signs_warning = {'text': '‼'}
+	let g:lsp_diagnostics_signs_hint = {'text' : '✓'}
+	let g:lsp_diagnostics_signs_information = {'text' : 'ℹ'}
 else
-	let g:lsp_signs_error = {'text': 'x'}
-	let g:lsp_signs_warning = {'text': '!'}
-	let g:lsp_signs_hint = {'text' : '*'}
-	let g:lsp_signs_information = {'text' : 'i'}
+	let g:lsp_diagnostics_signs_error = {'text': 'x'}
+	let g:lsp_diagnostics_signs_warning = {'text': '!'}
+	let g:lsp_diagnostics_signs_hint = {'text' : '*'}
+	let g:lsp_diagnostics_signs_information = {'text' : 'i'}
 endif
 
 " Show message when cursor is above a hint.
@@ -33,7 +37,7 @@ let g:asyncomplete_auto_popup = 0
 let g:asyncomplete_smart_completion = 0
 
 " No signature help popups.
-let  g:lsp_signature_help_enabled = 0
+let g:lsp_signature_help_enabled = 1
 
 " ----
 
@@ -77,11 +81,13 @@ endif
 function! g:LSP_Mappings()
 	" General mappings. The <Plug> mappings of
 	" some are buggy so we call the commands...
-	nmap <buffer><silent> <leader>ln :LspNextError<CR>
-	nmap <buffer><silent> <leader>lp :LspPreviousError<CR>
+	nmap <buffer><silent> <leader>ln <plug>(lsp-next-diagnostic)
+	nmap <buffer><silent> <leader>lp <plug>(lsp-previous-diagnostic)
 	nmap <buffer><silent> <leader>lr <plug>(lsp-rename)
 	nmap <buffer><silent> <leader>lq <plug>(lsp-code-action)
 	nmap <buffer><silent> <leader>lu <plug>(lsp-references)
+	nmap <buffer><silent> <leader>ld <plug>(lsp-peek-definition)
+	nmap <buffer><silent> <leader>ld <plug>(lsp-peek-declaration)
 
 	" Tagstack integration.
 	nnoremap <buffer><silent> C-] <plug>(lsp-definition)
@@ -95,10 +101,12 @@ function! g:LSP_Mappings()
 endfunction
 
 if g:lsp_registered_ccls == 1
+		autocmd FileType c,cpp call lsp#enable()
 		autocmd FileType c,cpp call g:LSP_Mappings()
 endif
 
 if g:lsp_registered_pyls == 1
+		autocmd FileType python call lsp#enable()
 		autocmd FileType python call g:LSP_Mappings()
 endif
 

@@ -28,6 +28,7 @@ let s:already_setup = 0
 let s:sources = {}
 let s:matches = {} " { server_name: { incomplete: 1, startcol: 0, items: [], refresh: 0, status: 'idle|pending|success|failure', ctx: ctx } }
 let s:has_complete_info = exists('*complete_info')
+let s:has_matchfuzzypos = exists('*matchfuzzypos')
 
 function! s:setup_if_required() abort
     if !s:already_setup
@@ -268,11 +269,15 @@ function! s:on_change() abort
 
     let l:ctx = asyncomplete#context()
     let l:last_char = l:ctx['typed'][l:ctx['col'] - 2] " col is 1-indexed, but str 0-indexed
-    let l:triggered_sources = get(b:asyncomplete_triggers, l:last_char, {})
+    if exists('b:asyncomplete_triggers')
+        let l:triggered_sources = get(b:asyncomplete_triggers, l:last_char, {})
+    else
+        let l:triggered_sources = {}
+    endif
     let l:refresh_pattern = get(b:, 'asyncomplete_refresh_pattern', '\(\k\+$\)')
     let [l:_, l:startidx, l:endidx] = asyncomplete#utils#matchstrpos(l:ctx['typed'], l:refresh_pattern)
 
-    for l:source_name in b:asyncomplete_active_sources
+    for l:source_name in get(b:, 'asyncomplete_active_sources', [])
         " match sources based on the last character if it is a trigger character
         " TODO: also check for multiple chars instead of just last chars for
         " languages such as cpp which uses -> and ::
@@ -372,7 +377,7 @@ function! asyncomplete#_force_refresh() abort
 
     let s:matches = {}
 
-    for l:source_name in b:asyncomplete_active_sources
+    for l:source_name in get(b:, 'asyncomplete_active_sources', [])
         let s:matches[l:source_name] = { 'startcol': l:startcol, 'status': 'idle', 'items': [], 'refresh': 0, 'ctx': l:ctx }
     endfor
 
@@ -409,6 +414,8 @@ function! s:recompute_pum(...) abort
     let l:matches_to_filter = {}
 
     for [l:source_name, l:match] in items(s:matches)
+        " ignore sources that have been unregistered
+        if !has_key(s:sources, l:source_name) | continue | endif
         let l:startcol = l:match['startcol']
         let l:startcols += [l:startcol]
         let l:curitems = l:match['items']
@@ -452,27 +459,44 @@ function! s:default_preprocessor(options, matches) abort
             let l:items += l:result[0]
             let l:startcols += l:result[1]
         else
-            for l:item in l:matches['items']
-                if stridx(l:item['word'], l:base) == 0
-                    " Strip pair characters. If pre-typed text is '"', candidates
-                    " should have '"' suffix.
-                    if has_key(s:pair, l:base[0])
-                        let [l:lhs, l:rhs, l:str] = [l:base[0], s:pair[l:base[0]], l:item['word']]
-                        if len(l:str) > 1 && l:str[0] ==# l:lhs && l:str[-1:] ==# l:rhs
-                            let l:before = l:item['word']
-                            let l:item['word'] = l:str[:-2]
-                        endif
-                    endif
+            if empty(l:base)
+                for l:item in l:matches['items']
+                    call add(l:items, s:strip_pair_characters(l:base, l:item))
                     let l:startcols += [l:startcol]
-                    call add(l:items, l:item)
-                endif
-            endfor
+                endfor
+            elseif s:has_matchfuzzypos && g:asyncomplete_matchfuzzy
+                for l:item in matchfuzzypos(l:matches['items'], l:base, {'key':'word'})[0]
+                    call add(l:items, s:strip_pair_characters(l:base, l:item))
+                    let l:startcols += [l:startcol]
+                endfor
+            else
+                for l:item in l:matches['items']
+                    if stridx(l:item['word'], l:base) == 0
+                        call add(l:items, s:strip_pair_characters(l:base, l:item))
+                        let l:startcols += [l:startcol]
+                    endif
+                endfor
+            endif
         endif
     endfor
 
     let a:options['startcol'] = min(l:startcols)
 
     call asyncomplete#preprocess_complete(a:options, l:items)
+endfunction
+
+function! s:strip_pair_characters(base, item) abort
+    " Strip pair characters. If pre-typed text is '"', candidates
+    " should have '"' suffix.
+    let l:item = a:item
+    if has_key(s:pair, a:base[0])
+        let [l:lhs, l:rhs, l:str] = [a:base[0], s:pair[a:base[0]], l:item['word']]
+        if len(l:str) > 1 && l:str[0] ==# l:lhs && l:str[-1:] ==# l:rhs
+            let l:item = copy({}, l:item)
+            let l:item['word'] = l:str[:-2]
+        endif
+    endif
+    return l:item
 endfunction
 
 function! asyncomplete#preprocess_complete(ctx, items) abort
