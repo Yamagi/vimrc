@@ -42,6 +42,7 @@ let g:lsp_signature_help_enabled = 1
 " ----
 
 let g:lsp_registered_ccls = 0
+let g:lsp_registered_gopls = 0
 let g:lsp_registered_pyls = 0
 
 " ccls for C/C++/ObjC
@@ -62,6 +63,18 @@ if executable('ccls')
 
 	let g:lsp_registered_ccls = 1
 endif
+
+" golpls for Go
+if executable('gopls')
+	au User lsp_setup call lsp#register_server({
+				\ 'name': 'gopls',
+				\ 'cmd': {server_info->['gopls']},
+				\ 'whitelist': ['go'],
+				\ })
+
+	let g:lsp_registered_gopls = 1
+endif
+
 
 " pyls for Python
 if executable('pyls')
@@ -105,10 +118,17 @@ if g:lsp_registered_ccls == 1
 		autocmd FileType c,cpp call g:LSP_Mappings()
 endif
 
+if g:lsp_registered_gopls == 1
+		autocmd FileType go call lsp#enable()
+		autocmd FileType go call g:LSP_Mappings()
+		autocmd BufWritePre *.go LspDocumentFormatSync
+endif
+
 if g:lsp_registered_pyls == 1
 		autocmd FileType python call lsp#enable()
 		autocmd FileType python call g:LSP_Mappings()
 endif
 
 unlet g:lsp_registered_ccls
+unlet g:lsp_registered_gopls
 unlet g:lsp_registered_pyls
