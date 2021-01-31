@@ -10,10 +10,9 @@ let g:lsp_log_file = get(g:, 'lsp_log_file', '')
 let g:lsp_log_verbose = get(g:, 'lsp_log_verbose', 1)
 let g:lsp_debug_servers = get(g:, 'lsp_debug_servers', [])
 let g:lsp_format_sync_timeout = get(g:, 'lsp_format_sync_timeout', -1)
-let g:lsp_documentation_debounce = get(g:, 'lsp_documentation_debounce', 80)
-let g:lsp_documentation_float = get(g:, 'lsp_documentation_float', 1)
-let g:lsp_documentation_float_docked = get(g:, 'lsp_documentation_float_docked', 0)
-let g:lsp_documentation_float_docked_maxheight = get(g:, ':lsp_documentation_float_docked_maxheight', &previewheight)
+
+let g:lsp_completion_documentation_enabled = get(g:, 'lsp_completion_documentation_enabled', 1)
+let g:lsp_completion_documentation_delay = get(g:, 'lsp_completion_documention_delay', 80)
 
 let g:lsp_diagnostics_enabled = get(g:, 'lsp_diagnostics_enabled', 1)
 let g:lsp_diagnostics_echo_cursor = get(g:, 'lsp_diagnostics_echo_cursor', 0)
@@ -70,6 +69,8 @@ if g:lsp_auto_enable
     augroup END
 endif
 
+command! LspCallHierarchyIncoming call lsp#ui#vim#call_hierarchy_incoming()
+command! LspCallHierarchyOutgoing call lsp#ui#vim#call_hierarchy_outgoing()
 command! -range -nargs=* -complete=customlist,lsp#ui#vim#code_action#complete LspCodeAction call lsp#ui#vim#code_action#do({
       \   'sync': v:false,
       \   'selection': <range> != 0,
@@ -86,6 +87,7 @@ command! LspPeekDeclaration call lsp#ui#vim#declaration(1)
 command! LspDefinition call lsp#ui#vim#definition(0, <q-mods>)
 command! LspPeekDefinition call lsp#ui#vim#definition(1)
 command! LspDocumentSymbol call lsp#ui#vim#document_symbol()
+command! LspDocumentSymbolSearch call lsp#internal#document_symbol#search#do({})
 command! -nargs=? LspDocumentDiagnostics call lsp#internal#diagnostics#document_diagnostics_command#do(
             \ extend({}, lsp#utils#args#_parse(<q-args>, {
             \   'buffers': {'type': type('')},
@@ -103,6 +105,7 @@ command! LspTypeDefinition call lsp#ui#vim#type_definition(0, <q-mods>)
 command! LspTypeHierarchy call lsp#internal#type_hierarchy#show()
 command! LspPeekTypeDefinition call lsp#ui#vim#type_definition(1)
 command! -nargs=? LspWorkspaceSymbol call lsp#ui#vim#workspace_symbol(<q-args>)
+command! -nargs=? LspWorkspaceSymbolSearch call lsp#internal#workspace_symbol#search#do({'query': <q-args>})
 command! -range LspDocumentFormat call lsp#internal#document_formatting#format({ 'bufnr': bufnr('%') })
 command! -range -nargs=? LspDocumentFormatSync call lsp#internal#document_formatting#format(
             \ extend({'bufnr': bufnr('%'), 'sync': 1 }, lsp#utils#args#_parse(<q-args>, {
@@ -126,6 +129,8 @@ command! LspDocumentFold call lsp#ui#vim#folding#fold(0)
 command! LspDocumentFoldSync call lsp#ui#vim#folding#fold(1)
 command! -nargs=? LspSemanticScopes call lsp#ui#vim#semantic#display_scope_tree(<args>)
 
+nnoremap <plug>(lsp-call-hierarchy-incoming) :<c-u>call lsp#ui#vim#call_hierarchy_incoming()<cr>
+nnoremap <plug>(lsp-call-hierarchy-outgoing) :<c-u>call lsp#ui#vim#call_hierarchy_outgoing()<cr>
 nnoremap <plug>(lsp-code-action) :<c-u>call lsp#ui#vim#code_action()<cr>
 nnoremap <plug>(lsp-code-lens) :<c-u>call lsp#ui#vim#code_lens()<cr>
 nnoremap <plug>(lsp-declaration) :<c-u>call lsp#ui#vim#declaration(0)<cr>
@@ -133,6 +138,7 @@ nnoremap <plug>(lsp-peek-declaration) :<c-u>call lsp#ui#vim#declaration(1)<cr>
 nnoremap <plug>(lsp-definition) :<c-u>call lsp#ui#vim#definition(0)<cr>
 nnoremap <plug>(lsp-peek-definition) :<c-u>call lsp#ui#vim#definition(1)<cr>
 nnoremap <plug>(lsp-document-symbol) :<c-u>call lsp#ui#vim#document_symbol()<cr>
+nnoremap <plug>(lsp-document-symbol-search) :<c-u>call lsp#internal#document_symbol#search#do({})<cr>
 nnoremap <plug>(lsp-document-diagnostics) :<c-u>call lsp#internal#diagnostics#document_diagnostics_command#do({})<cr>
 nnoremap <plug>(lsp-hover) :<c-u>call lsp#ui#vim#hover#get_hover_under_cursor()<cr>
 nnoremap <plug>(lsp-preview-close) :<c-u>call lsp#ui#vim#output#closepreview()<cr>
@@ -155,6 +161,7 @@ nnoremap <plug>(lsp-type-definition) :<c-u>call lsp#ui#vim#type_definition(0)<cr
 nnoremap <plug>(lsp-type-hierarchy) :<c-u>call lsp#internal#type_hierarchy#show()<cr>
 nnoremap <plug>(lsp-peek-type-definition) :<c-u>call lsp#ui#vim#type_definition(1)<cr>
 nnoremap <plug>(lsp-workspace-symbol) :<c-u>call lsp#ui#vim#workspace_symbol('')<cr>
+nnoremap <plug>(lsp-workspace-symbol-search) :<c-u>call lsp#internal#workspace_symbol#search#do({})<cr>
 nnoremap <plug>(lsp-document-format) :<c-u>call lsp#internal#document_formatting#format({ 'bufnr': bufnr('%') })<cr>
 vnoremap <plug>(lsp-document-format) :<Home>silent <End>call lsp#internal#document_range_formatting#format({ 'bufnr': bufnr('%') })<cr>
 nnoremap <plug>(lsp-document-range-format) :<c-u>set opfunc=lsp#internal#document_range_formatting#opfunc<cr>g@

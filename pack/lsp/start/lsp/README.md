@@ -30,6 +30,8 @@ function! s:on_lsp_buffer_enabled() abort
     setlocal signcolumn=yes
     if exists('+tagfunc') | setlocal tagfunc=lsp#tagfunc | endif
     nmap <buffer> gd <plug>(lsp-definition)
+    nmap <buffer> gs <plug>(lsp-document-symbol-search)
+    nmap <buffer> gS <plug>(lsp-workspace-symbol-search)
     nmap <buffer> gr <plug>(lsp-references)
     nmap <buffer> gi <plug>(lsp-implementation)
     nmap <buffer> gt <plug>(lsp-type-definition)
@@ -103,6 +105,8 @@ Refer to `:h vim-lsp-semantic` for more info.
 
 | Command | Description|
 |--|--|
+|`:LspCallHierarchyIncoming`| Find incoming call hierarchy for the symbol under cursor |
+|`:LspCallHierarchyOutgoing`| Find outgoing call hierarchy for the symbol under cursor |
 |`:LspCodeAction`| Gets a list of possible commands that can be applied to a file so it can be fixed (quick fix) |
 |`:LspCodeLens`| Gets a list of possible commands that can be executed on the current document |
 |`:LspDeclaration`| Go to the declaration of the word under the cursor, and open in the current window |

@@ -19,11 +19,10 @@ CONTENTS                                                  *vim-lsp-contents*
       g:lsp_preview_doubletap               |g:lsp_preview_doubletap|
       g:lsp_insert_text_enabled             |g:lsp_insert_text_enabled|
       g:lsp_text_edit_enabled               |g:lsp_text_edit_enabled|
-      g:lsp_documentation_debounce          |g:lsp_documentation_debounce|
-      g:lsp_documentation_float             |g:lsp_documentation_float|
-      g:lsp_documentation_float_docked      |g:lsp_documentation_float_docked|
-      g:lsp_documentation_float_docked_maxheight
-                              |g:lsp_documentation_float_docked_maxheight|
+      g:lsp_completion_documentation_enabled
+					|g:lsp_completion_documentation_enabled|
+      g:lsp_completion_documentation_delay
+					|g:lsp_completion_documentation_delay|
       g:lsp_diagnostics_enabled             |g:lsp_diagnostics_enabled|
       g:lsp_diagnostics_echo_cursor         |g:lsp_diagnostics_echo_cursor|
       g:lsp_diagnostics_echo_delay          |g:lsp_diagnostics_echo_delay|
@@ -85,6 +84,8 @@ CONTENTS                                                  *vim-lsp-contents*
       lsp#get_buffer_first_error_line()   |lsp#get_buffer_first_error_line()|
       lsp#get_progress()                  |lsp#get_progress()|
     Commands                              |vim-lsp-commands|
+      LspCallHierarchyIncoming              |:LspCallHierarchyIncoming|
+      LspCallHierarchyOutgoing              |:LspCallHierarchyOutgoing|
       LspCodeAction                         |:LspCodeAction|
       LspCodeActionSync                     |:LspCodeActionSync|
       LspCodeLens                           |:LspCodeLens|
@@ -98,6 +99,7 @@ CONTENTS                                                  *vim-lsp-contents*
       LspDocumentRangeFormat                |:LspDocumentRangeFormat|
       LspDocumentRangeFormatSync            |:LspDocumentRangeFormatSync|
       LspDocumentSymbol                     |:LspDocumentSymbol|
+      LspDocumentSymbolSearch               |:LspDocumentSymbolSearch|
       LspHover                              |:LspHover|
       LspNextDiagnostic                     |:LspNextDiagnostic|
       LspNextError                          |:LspNextError|
@@ -118,6 +120,7 @@ CONTENTS                                                  *vim-lsp-contents*
       LspTypeDefinition                     |:LspTypeDefinition|
       LspTypeHierarchy                      |:LspTypeHierarchy|
       LspWorkspaceSymbol                    |:LspWorkspaceSymbol|
+      LspWorkspaceSymbolSearch              |:LspWorkspaceSymbolSearch|
       LspStatus                             |:LspStatus|
       LspStopServer                         |:LspStopServer|
     Autocommands                          |vim-lsp-autocommands|
@@ -394,7 +397,17 @@ g:lsp_text_edit_enabled                           *g:lsp_text_edit_enabled*
 	let g:lsp_text_edit_enabled = 1
 	let g:lsp_text_edit_enabled = 0
 
-g:lsp_documentation_debounce                      *g:lsp_documentation_debounce*
+g:lsp_completion_documentation_enabled   *g:lsp_completion_documentation_enabled*
+    Type: |Number|
+    Default: `1`
+
+    Enables floating window documentation for complete items.
+
+    Example: >
+	let g:lsp_completion_documentation_enabled = 1
+	let g:lsp_completion_documentation_enabled = 0
+
+g:lsp_completion_documentation_delay       *g:lsp_completion_documentation_delay*
     Type: |Number|
     Default: `80`
 
@@ -402,39 +415,8 @@ g:lsp_documentation_debounce                      *g:lsp_documentation_debounce*
     help with performance. Set this to `0` to disable debouncing.
 
     Example: >
-	let g:lsp_documentation_debounce = 120
-	let g:lsp_documentation_debounce = 0
-
-g:lsp_documentation_float                      *g:lsp_documentation_float*
-    Type: |Number|
-    Default: `1`
-
-    Enables floating window documentation for complete items.
-
-    Example: >
-	let g:lsp_documentation_float = 1
-	let g:lsp_documentation_float = 0
-
-g:lsp_documentation_float_docked               *g:lsp_documentation_float_docked*
-    Type: |Number|
-    Default: `0`
-
-    Dock the floating documentation window for complete items if enabled.
-
-    Example: >
-	let g:lsp_documentation_float_docked = 1
-	let g:lsp_documentation_float_docked = 0
-
-g:lsp_documentation_float_docked_maxheight
-				    *g:lsp_documentation_float_docked_maxheight*
-    Type: |Number|
-    Default: `&previewheight`
-
-    The maximum height of the docked documentation window if enabled.
-
-    Example: >
-	let g:lsp_documentation_float_docked_maxheight = 1
-	let g:lsp_documentation_float_docked_maxheight = 0
+	let g:lsp_completion_documentation_delay = 120
+	let g:lsp_completion_documentation_delay = 0
 
 g:lsp_diagnostics_enabled                           *g:lsp_diagnostics_enabled*
     Type: |Number|
@@ -1330,6 +1312,14 @@ lsp#get_progress()                       *lsp#get_progress()*
 ==============================================================================
 Commands                                                  *vim-lsp-commands*
 
+LspCallHierarchyIncoming                         *:LspCallHierarchyIncoming*
+
+Find incoming call hierarchy for the symbol under cursor.
+
+LspCallHierarchyOutgoing                         *:LspCallHierarchyOutgoing*
+
+Find outgoing call hierarchy for the symbol under cursor.
+
 LspCodeAction [{CodeActionKind}]                            *:LspCodeAction*
 
 Gets a list of possible commands that can be applied to a file so it can be
@@ -1417,6 +1407,10 @@ Note that this may slow down vim.
 LspDocumentSymbol                                       *:LspDocumentSymbol*
 
 Gets the symbols for the current document.
+
+LspDocumentSymbolSearch                             *:LspDocumentSymbolSearch*
+
+Search the symbols for the current document and navigate.
 
 LspHover                                                         *:LspHover*
 
@@ -1532,7 +1526,13 @@ Also see |:LspPeekTypeDefinition|.
 
 LspWorkspaceSymbol                                     *:LspWorkspaceSymbol*
 
-Search and show workspace symbols.
+Search and show workspace symbols in quickfix.
+Servers may choose to return empty results if the search query is empty.
+
+LspWorkspaceSymbolSearch                            *:LspWorkspaceSymbolSearch*
+
+Search the workspace symbols for all servers and navigate using quickpick.
+Servers may choose to return empty results if the search query is empty.
 
 LspStatus                                                       *:LspStatus*
 
@@ -1621,6 +1621,8 @@ To map keys to the feature of vim-lsp, use <plug> mappings:
 <
 Available plug mappings are following:
 
+  nnoremap <plug>(lsp-call-hierarchy-incoming)
+  nnoremap <plug>(lsp-call-hierarchy-outgoing)
   nnoremap <plug>(lsp-code-action)
   nnoremap <plug>(lsp-code-lens)
   nnoremap <plug>(lsp-declaration)
@@ -1628,6 +1630,7 @@ Available plug mappings are following:
   nnoremap <plug>(lsp-definition)
   nnoremap <plug>(lsp-peek-definition)
   nnoremap <plug>(lsp-document-symbol)
+  nnoremap <plug>(lsp-document-symbol-search)
   nnoremap <plug>(lsp-document-diagnostics)
   nnoremap <plug>(lsp-hover)
   nnoremap <plug>(lsp-next-diagnostic)
@@ -1649,6 +1652,7 @@ Available plug mappings are following:
   nnoremap <plug>(lsp-references)
   nnoremap <plug>(lsp-rename)
   nnoremap <plug>(lsp-workspace-symbol)
+  nnoremap <plug>(lsp-workspace-symbol-search)
   nnoremap <plug>(lsp-document-format)
   vnoremap <plug>(lsp-document-format)
   nnoremap <plug>(lsp-document-range-format)
