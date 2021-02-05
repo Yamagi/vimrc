@@ -153,6 +153,9 @@ endif
 " behalten.
 set showmatch
 
+" Deutsch als initiale Sprache für den Spellchecker.
+set spelllang=de
+
 " Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
 " wird.
 set textwidth=72
@@ -394,7 +397,7 @@ filetype plugin indent on
 " ----------------
 
 " Alle von uns definierten Auto-Commands kommen in eine Gruppe,
-" damit wir sie bei bedarf später einfach wieder entfernen können.
+" damit wir sie bei Bedarf später einfach wieder entfernen können.
 augroup vimrcEx
 	" Springe beim Öffnen einer Datei zur letzten bekannten Cursor-
 	" Position. Dies wird vor allem ausgeführt, also auch bevor Vim
@@ -445,8 +448,9 @@ nmap <Leader>hc :nohls<CR>
 nmap <Leader>p :set paste!<CR>
 
 " Spellchecker umschalten.
-nmap <Leader>se :setlocal spell! spelllang=en_us<cr>
-nmap <Leader>sd :setlocal spell! spelllang=de<cr>
+nmap <Leader>ss :setlocal spell!<cr>
+nmap <Leader>se :setlocal spelllang=en_us<cr>
+nmap <Leader>sd :setlocal spelllang=de<cr>
 
 " ----
 
