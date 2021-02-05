@@ -4,5 +4,7 @@
 " ---- 
 
 " Enable when entering Goyo.
-autocmd User GoyoEnter call pencil#init({'wrap': 'on' })
-autocmd User GoyoLeave call pencil#init({'wrap': 'off' })
+augroup vimrcEx
+	autocmd User GoyoEnter call pencil#init({'wrap': 'on' })
+	autocmd User GoyoLeave call pencil#init({'wrap': 'off' })
+augroup END

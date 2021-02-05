@@ -11,5 +11,7 @@ let g:limelight_conceal_ctermfg = 243
 let g:limelight_paragraph_span = 0
 
 " Enable highlighting when entering Goyo.
-autocmd User GoyoEnter Limelight
-autocmd User GoyoLeave Limelight!
+augroup vimrcEx
+	autocmd User GoyoEnter Limelight
+	autocmd User GoyoLeave Limelight!
+augroup END

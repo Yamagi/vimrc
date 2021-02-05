@@ -114,19 +114,25 @@ function! g:LSP_Mappings()
 endfunction
 
 if g:lsp_registered_ccls == 1
+	augroup vimrcEx
 		autocmd FileType c,cpp call lsp#enable()
 		autocmd FileType c,cpp call g:LSP_Mappings()
+	augroup END
 endif
 
 if g:lsp_registered_gopls == 1
+	augroup vimrcEx
 		autocmd FileType go call lsp#enable()
 		autocmd FileType go call g:LSP_Mappings()
 		autocmd BufWritePre *.go LspDocumentFormatSync
+	augroup END
 endif
 
 if g:lsp_registered_pyls == 1
+	augroup vimrcEx
 		autocmd FileType python call lsp#enable()
 		autocmd FileType python call g:LSP_Mappings()
+	augroup END
 endif
 
 unlet g:lsp_registered_ccls
