@@ -17,8 +17,3 @@ else
 
 let g:ditto_dir=$HOME."/.vim/runtime/ditto"
 endif
-
-augroup vimrcEx
-	autocmd User GoyoEnter :DittoOn
-	autocmd User GoyoLeave :DittoOff
-augroup END
