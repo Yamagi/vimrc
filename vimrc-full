@@ -385,11 +385,6 @@ filetype plugin indent on
 " 3. File-Type spezifische Einstellungen
 " --------------------------------------
 
-" Das beiliegende Markdown-Plugin kann Foldings erstellen. Leider ist
-" das unendlich langsam, da es mit Regex arbeitet, die Worst Case ein
-" paar Millionen(!) Mal pro 'gqis' und ähnlichem ausgeführt werden.
-"let g:markdown_folding=1
-
 " =====================================================================
 
 " ----------------
@@ -421,6 +416,10 @@ augroup vimrcEx
 
 	" .md Files als Markdown erkennen und nicht als Modula Sourcecode.
 	autocmd BufNewFile,BufReadPost *.md set filetype=markdown
+
+	" Erkenne die in Markdown-Dateien verbreiteten YAML-Frontmatters
+	" als Kommentare.
+	autocmd FileType markdown syntax match Comment /\%^---\_.\{-}---$/
 augroup END
 
 " =====================================================================
