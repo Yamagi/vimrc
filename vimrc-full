@@ -419,7 +419,7 @@ augroup vimrcEx
 
 	" Erkenne die in Markdown-Dateien verbreiteten YAML-Frontmatters
 	" als Kommentare.
-	autocmd FileType markdown syntax match Comment /\%^---\_.\{-}---$/
+	autocmd FileType markdown syntax match Comment /\%^\s*---\_.\{-}---$/
 augroup END
 
 " =====================================================================
