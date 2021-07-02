@@ -1,4 +1,4 @@
-" https://github.com/prabirshrestha/quickpick.vim#37e29b28f65d3ae344ec8eaf7ce2d5f87e2f4b90
+" https://github.com/prabirshrestha/quickpick.vim#3d4d574d16d2a6629f32e11e9d33b0134aa1e2d9
 "    :QuickpickEmbed path=autoload/lsp/internal/ui/quickpick.vim namespace=lsp#internal#ui#quickpick prefix=lsp-quickpick
 
 let s:has_timer = exists('*timer_start') && exists('*timer_stop')
@@ -190,6 +190,14 @@ function! lsp#internal#ui#quickpick#busy(busy) abort
   endif
 endfunction
 
+function! lsp#internal#ui#quickpick#results_winid() abort
+  if exists('s:state')
+    return s:state['resultswinid']
+  else
+    return 0
+  endif
+endfunction
+
 function! s:busy_tick(...) abort
   let s:state['busyframe'] = s:state['busyframe'] + 1
   if s:state['busyframe'] >= len(s:state['busyframes'])
@@ -268,10 +276,11 @@ endfunction
 function! s:on_accept() abort
   if win_gotoid(s:state['resultswinid'])
     let l:index = line('.') - 1 " line is 1 index, list is 0 index
-    if l:index < 0
+    let l:fitems = s:state['fitems']
+    if l:index < 0 || len(l:fitems) <= l:index
       let l:items = []
     else
-      let l:items = [s:state['fitems'][l:index]]
+      let l:items = [l:fitems[l:index]]
     endif
     call win_gotoid(s:state['winid'])
     call s:notify('accept', { 'items': l:items })
@@ -399,7 +408,7 @@ if exists('*trim')
   endfunction
 else
   function! s:trim(str) abort
-    return substitute(a:string, '^\s*\|\s*$', '', 'g')
+    return substitute(a:str, '^\s*\|\s*$', '', 'g')
   endfunction
 endif
 

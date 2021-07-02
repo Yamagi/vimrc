@@ -49,7 +49,7 @@ function! lsp#internal#diagnostics#virtual_text#_enable() abort
     let s:enabled = 1
 
     if empty(s:namespace_id)
-        let s:namespace_id = nvim_create_namespace('vim_lsp_diagnotics_virtual_text')
+        let s:namespace_id = nvim_create_namespace('vim_lsp_diagnostic_virtual_text')
     endif
 
     let s:Dispose = lsp#callbag#pipe(
@@ -123,7 +123,7 @@ function! s:set_virtual_text(params) abort
 endfunction
 
 function! s:place_virtual_text(server, diagnostics_response, bufnr) abort
-    for l:item in a:diagnostics_response['params']['diagnostics']
+    for l:item in lsp#utils#iteratable(a:diagnostics_response['params']['diagnostics'])
         " need to do -1 for virtual text
         let l:line = lsp#utils#position#lsp_line_to_vim(a:bufnr, l:item['range']['start']) - 1
         let l:name = get(s:severity_sign_names_mapping, get(l:item, 'severity', 3), 'LspError')

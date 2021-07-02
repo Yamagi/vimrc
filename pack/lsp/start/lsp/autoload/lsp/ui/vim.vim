@@ -345,8 +345,13 @@ function! lsp#ui#vim#code_lens() abort
         \ })
 endfunction
 
-function! lsp#ui#vim#call_hierarchy_incoming() abort
-    let l:ctx = { 'method': 'incomingCalls', 'key': 'from' }
+function! lsp#ui#vim#add_tree_call_hierarchy_incoming() abort
+    let l:ctx = { 'add_tree': v:true }
+    call lsp#ui#vim#call_hierarchy_incoming(l:ctx)
+endfunction
+
+function! lsp#ui#vim#call_hierarchy_incoming(ctx) abort
+    let l:ctx = extend({ 'method': 'incomingCalls', 'key': 'from' }, a:ctx)
     call s:prepare_call_hierarchy(l:ctx)
 endfunction
 
@@ -413,9 +418,12 @@ function! s:handle_call_hierarchy(ctx, server, type, data) abort
 
     if lsp#client#is_error(a:data['response']) || !has_key(a:data['response'], 'result')
         call lsp#utils#error('Failed to retrieve '. a:type . ' for ' . a:server . ': ' . lsp#client#error_message(a:data['response']))
-    else
+    elseif a:data['response']['result'] isnot v:null
         for l:item in a:data['response']['result']
-            let a:ctx['list'] = a:ctx['list'] + lsp#utils#location#_lsp_to_vim_list(l:item[a:ctx['key']])
+            let l:loc = s:hierarchy_item_to_vim(l:item[a:ctx['key']], a:server)
+            if l:loc isnot v:null
+                let a:ctx['list'] += [l:loc]
+            endif
         endfor
     endif
 
@@ -424,10 +432,42 @@ function! s:handle_call_hierarchy(ctx, server, type, data) abort
             call lsp#utils#error('No ' . a:type .' found')
         else
             call lsp#utils#tagstack#_update()
+            if get(a:ctx, 'add_tree', v:false)
+                let l:qf = getqflist({'idx' : 0, 'items': []})
+                let l:pos = l:qf.idx
+                let l:parent = l:qf.items
+                let l:level = count(l:parent[l:pos-1].text, g:lsp_tree_incoming_prefix)
+                let a:ctx['list'] = extend(l:parent, map(a:ctx['list'], 'extend(v:val, {"text": repeat("' . g:lsp_tree_incoming_prefix . '", l:level+1) . v:val.text})'), l:pos)
+            endif
             call setqflist([])
             call setqflist(a:ctx['list'])
             echo 'Retrieved ' . a:type
             botright copen
+            if get(a:ctx, 'add_tree', v:false)
+                " move the cursor to the newly added item
+                execute l:pos + 1
+            endif
         endif
     endif
+endfunction
+
+function! s:hierarchy_item_to_vim(item, server) abort
+    let l:uri = a:item['uri']
+    if !lsp#utils#is_file_uri(l:uri)
+        return v:null
+    endif
+
+    let l:path = lsp#utils#uri_to_path(l:uri)
+    let [l:line, l:col] = lsp#utils#position#lsp_to_vim(l:path, a:item['range']['start'])
+    let l:text = '[' . lsp#ui#vim#utils#_get_symbol_text_from_kind(a:server, a:item['kind']) . '] ' . a:item['name']
+    if has_key(a:item, 'detail')
+        let l:text .= ": " . a:item['detail']
+    endif
+
+    return {
+        \ 'filename': l:path,
+        \ 'lnum': l:line,
+        \ 'col': l:col,
+        \ 'text': l:text,
+        \ }
 endfunction

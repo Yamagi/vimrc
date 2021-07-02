@@ -71,39 +71,77 @@ function! s:encode_uri(path, start_pos_encode, default_prefix) abort
     return l:prefix . l:result
 endfunction
 
-if has('win32') || has('win64')
+let s:path_to_uri_cache = {}
+if has('win32') || has('win64') || has('win32unix')
     function! lsp#utils#path_to_uri(path) abort
+        if has_key(s:path_to_uri_cache, a:path)
+            return s:path_to_uri_cache[a:path]
+        endif
+
         if empty(a:path) || lsp#utils#is_remote_uri(a:path)
-            return a:path
+            let s:path_to_uri_cache[a:path] = a:path
+            return s:path_to_uri_cache[a:path]
         else
+            " Transform cygwin paths to windows paths
+            let l:path = a:path
+            if has('win32unix')
+                let l:path = substitute(a:path, '\c^/\([a-z]\)/', '\U\1:/', '')
+            endif
+
             " You must not encode the volume information on the path if
             " present
-            let l:end_pos_volume = matchstrpos(a:path, '\c[A-Z]:')[2]
+            let l:end_pos_volume = matchstrpos(l:path, '\c[A-Z]:')[2]
 
             if l:end_pos_volume == -1
                 let l:end_pos_volume = 0
             endif
 
-            return s:encode_uri(substitute(a:path, '\', '/', 'g'), l:end_pos_volume, 'file:///')
+            let s:path_to_uri_cache[l:path] = s:encode_uri(substitute(l:path, '\', '/', 'g'), l:end_pos_volume, 'file:///')
+            return s:path_to_uri_cache[l:path]
         endif
     endfunction
 else
     function! lsp#utils#path_to_uri(path) abort
+        if has_key(s:path_to_uri_cache, a:path)
+            return s:path_to_uri_cache[a:path]
+        endif
+
         if empty(a:path) || lsp#utils#is_remote_uri(a:path)
-            return a:path
+            let s:path_to_uri_cache[a:path] = a:path
+            return s:path_to_uri_cache[a:path]
         else
-            return s:encode_uri(a:path, 0, 'file://')
+            let s:path_to_uri_cache[a:path] = s:encode_uri(a:path, 0, 'file://')
+            return s:path_to_uri_cache[a:path]
         endif
     endfunction
 endif
 
-if has('win32') || has('win64')
+let s:uri_to_path_cache = {}
+if has('win32') || has('win64') || has('win32unix')
     function! lsp#utils#uri_to_path(uri) abort
-        return substitute(s:decode_uri(a:uri[len('file:///'):]), '/', '\\', 'g')
+        if has_key(s:uri_to_path_cache, a:uri)
+            return s:uri_to_path_cache[a:uri]
+        endif
+
+        let l:path = substitute(s:decode_uri(a:uri[len('file:///'):]), '/', '\\', 'g')
+
+        " Transform windows paths to cygwin paths
+        if has('win32unix')
+            let l:path = substitute(l:path, '\c^\([A-Z]\):\\', '/\l\1/', '')
+            let l:path = substitute(l:path, '\\', '/', 'g')
+        endif
+
+        let s:uri_to_path_cache[a:uri] = l:path
+        return s:uri_to_path_cache[a:uri]
     endfunction
 else
     function! lsp#utils#uri_to_path(uri) abort
-        return s:decode_uri(a:uri[len('file://'):])
+        if has_key(s:uri_to_path_cache, a:uri)
+            return s:uri_to_path_cache[a:uri]
+        endif
+
+        let s:uri_to_path_cache[a:uri] = s:decode_uri(a:uri[len('file://'):])
+        return s:uri_to_path_cache[a:uri]
     endfunction
 endif
 
@@ -442,3 +480,7 @@ else
         endtry
     endfunction
 endif
+
+function! lsp#utils#iteratable(list) abort
+    return type(a:list) !=# v:t_list ? [] : a:list
+endfunction

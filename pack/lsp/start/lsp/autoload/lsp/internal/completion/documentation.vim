@@ -64,7 +64,7 @@ function! s:resolve_completion(event) abort
             \ }})
             \ )
     else
-        return lsp#callbag#of({})
+        return lsp#callbag#of(l:managed_user_data)
     endif
 endfunction
 
@@ -121,6 +121,7 @@ function! s:show_floating_window(event, managed_user_data) abort
     \     'col': l:pos[1] + 1,
     \     'width': l:size.width,
     \     'height': l:size.height,
+    \     'border': v:true,
     \     'topline': 1,
     \ })
     call s:Window.do(l:doc_win.get_winid(), { -> s:Markdown.apply() })
@@ -172,6 +173,7 @@ function! s:get_doc_win() abort
     call setbufvar(s:doc_win.get_bufnr(), '&buftype', 'nofile')
     call setbufvar(s:doc_win.get_bufnr(), '&bufhidden', 'hide')
     call setbufvar(s:doc_win.get_bufnr(), '&buflisted', 0)
+    call setbufvar(s:doc_win.get_bufnr(), '&swapfile', 0)
     return s:doc_win
 endfunction
 
