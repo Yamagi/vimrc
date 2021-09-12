@@ -441,18 +441,18 @@ map <space> <leader>
 nnoremap <Leader>c :echo "Anzahl Wörter: " . wordcount().words<CR>
 
 " Hebt alle Vorkommen des Wortes unter dem Cursor hervor.
-nmap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
+nnoremap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
 
 " Alle Hervorhebungen löschen.
-nmap <Leader>hc :nohls<CR>
+nnoremap <Leader>hc :nohls<CR>
 
 " Paste-Mode.
-nmap <Leader>p :set paste!<CR>
+nnoremap <Leader>p :set paste!<CR>
 
 " Spellchecker umschalten.
-nmap <Leader>ss :setlocal spell!<cr>
-nmap <Leader>se :setlocal spelllang=en_us<cr>
-nmap <Leader>sd :setlocal spelllang=de<cr>
+nnoremap <Leader>ss :setlocal spell!<cr>
+nnoremap <Leader>se :setlocal spelllang=en_us<cr>
+nnoremap <Leader>sd :setlocal spelllang=de<cr>
 
 " ----
 
@@ -465,7 +465,7 @@ function! g:ToggleColorColumn()
 	endif
 endfunction
 
-nmap <Leader>w :call g:ToggleColorColumn()<CR>
+nnoremap <Leader>w :call g:ToggleColorColumn()<CR>
 
 " =====================================================================
 

@@ -20,8 +20,8 @@ nmap <Leader>bwc <Plug>(wintabs_close_window)
 nmap <Leader>bwt <Plug>(wintabs_close_vimtab)
 
 " Make current window or tab the only one.
-map <Leader>bwo <Plug>(wintabs_only_window)
-map <Leader>bto <Plug>(wintabs_only_vimtab)
+nmap <Leader>bwo <Plug>(wintabs_only_window)
+nmap <Leader>bto <Plug>(wintabs_only_vimtab)
 
 " No seperator at the lists end.
 let g:wintabs_ui_sep_rightmost = ''

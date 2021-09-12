@@ -4,7 +4,7 @@
 " ----
 
 " Toggle.
-map <Leader>d :Goyo<CR>
+nnoremap <Leader>d :Goyo<CR>
 
 " Must be 2 characters more then 'textwidth'.
 " One for whitespaces and one for the cursor.

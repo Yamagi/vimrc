@@ -7,6 +7,6 @@
 let g:fontzoom_no_default_key_mappings = 1
 
 " Resize on <leader>+ / <leader>-
-map <Leader>+ <Plug>(fontzoom-larger)
-map <Leader>- <Plug>(fontzoom-smaller)
-map <Leader>0 :Fontzoom!<CR>
+nmap <Leader>+ <Plug>(fontzoom-larger)
+nmap <Leader>- <Plug>(fontzoom-smaller)
+nmap <Leader>0 :Fontzoom!<CR>
