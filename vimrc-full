@@ -301,11 +301,9 @@ endif
 
 " ----
 
-" Unser Farbschema laden...
-colorscheme lucius
-
-" ...und auf 'dunkel' zwingen.
-:LuciusBlack
+" Unser Farbschema laden.
+set background=dark
+colorscheme PaperColor
 
 " ----
 
