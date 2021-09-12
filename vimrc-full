@@ -465,7 +465,7 @@ function! g:ToggleColorColumn()
 	endif
 endfunction
 
-nnoremap <Leader>w :call g:ToggleColorColumn()<CR>
+nnoremap <silent> <Leader>w :call g:ToggleColorColumn()<CR>
 
 " =====================================================================
 
