@@ -1,0 +1,9 @@
+Before:
+  source test/utils.vim
+  syntax clear
+
+Execute(Test ccls#syntax#additional):
+  call ccls#syntax#additional()
+
+  AssertSyntax CclsAnonymousNamespace
+  AssertSyntax CclsLabel

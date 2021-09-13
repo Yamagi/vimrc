@@ -1,0 +1,7 @@
+.nvimlog
+test/vimtest
+profile_file*
+.coverage_covimerage
+coverage.xml
+codecov
+codecov_validation
