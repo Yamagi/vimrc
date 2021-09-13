@@ -97,6 +97,7 @@ fun! s:register_default_theme()
         \       'difftext_bg':   ['#ffffd7', '230'],
         \       'diffchange_fg': ['#444444', '238'],
         \       'diffchange_bg': ['#ffd787', '222'],
+        \       'tabline_fg':          ['#c6c6c6', '251'],
         \       'tabline_bg':          ['#005f87', '24'],
         \       'tabline_active_fg':   ['#444444', '238'],
         \       'tabline_active_bg':   ['#e4e4e4', '254'],
@@ -187,6 +188,7 @@ fun! s:register_default_theme()
         \       'difftext_bg':   ['#008787', '30'],
         \       'diffchange_fg': ['#d0d0d0', '252'],
         \       'diffchange_bg': ['#005f5f', '23'],
+        \       'tabline_fg':          ['#6c6c6c', '242'],
         \       'tabline_bg':          ['#262626', '235'],
         \       'tabline_active_fg':   ['#121212', '233'],
         \       'tabline_active_bg':   ['#00afaf', '37'],
@@ -1068,6 +1070,7 @@ fun! s:set_color_variables()
   call s:create_color_variables('diffchange_bg', get(s:palette, 'diffchange_bg', color14) , 'LightYellow')
 
   " Tabline: when having tabs, ex: :tabnew
+  call s:create_color_variables('tabline_fg',          get(s:palette, 'tabline_fg',          color07) , 'LightGray')
   call s:create_color_variables('tabline_bg',          get(s:palette, 'tabline_bg',          color00) , 'Black')
   call s:create_color_variables('tabline_active_fg',   get(s:palette, 'tabline_active_fg',   color07) , 'LightGray')
   call s:create_color_variables('tabline_active_bg',   get(s:palette, 'tabline_active_bg',   color00) , 'Black')
@@ -1187,7 +1190,7 @@ fun! s:apply_syntax_highlightings()
   end
 
   exec 'hi TabLine' . s:fg_tabline_inactive_fg . s:bg_tabline_inactive_bg . s:ft_none
-  exec 'hi TabLineFill' . s:fg_tabline_bg . s:bg_tabline_bg . s:ft_none
+  exec 'hi TabLineFill' . s:fg_tabline_fg . s:bg_tabline_bg . s:ft_none
   exec 'hi TabLineSel' . s:fg_tabline_active_fg . s:bg_tabline_active_bg . s:ft_none
 
   exec 'hi BufTabLineCurrent' . s:fg_buftabline_current_fg . s:bg_buftabline_current_bg . s:ft_none
