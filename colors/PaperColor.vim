@@ -85,10 +85,6 @@ fun! s:register_default_theme()
         \       'folded_bg' : ['#afd7ff', '153'],
         \       'wildmenu_fg': ['#444444', '238'],
         \       'wildmenu_bg': ['#ffff00', '226'],
-        \       'spellbad':   ['#ffafd7', '218'],
-        \       'spellcap':   ['#ffffaf', '229'],
-        \       'spellrare':  ['#afff87', '156'],
-        \       'spelllocal': ['#d7d7ff', '189'],
         \       'diffadd_fg':    ['#008700', '28'],
         \       'diffadd_bg':    ['#afffaf', '157'],
         \       'diffdelete_fg': ['#af0000', '124'],
@@ -176,10 +172,6 @@ fun! s:register_default_theme()
         \       'folded_bg' : ['#5f005f', '53'],
         \       'wildmenu_fg': ['#1c1c1c', '234'],
         \       'wildmenu_bg': ['#afd700', '148'],
-        \       'spellbad':   ['#5f0000', '52'],
-        \       'spellcap':   ['#5f005f', '53'],
-        \       'spellrare':  ['#005f00', '22'],
-        \       'spelllocal': ['#00005f', '17'],
         \       'diffadd_fg':    ['#87d700', '112'],
         \       'diffadd_bg':    ['#005f00', '22'],
         \       'diffdelete_fg': ['#af005f', '125'],
@@ -1049,12 +1041,6 @@ fun! s:set_color_variables()
   " WildMenu: Autocomplete command, ex: :color <tab><tab>
   call s:create_color_variables('wildmenu_fg', get(s:palette, 'wildmenu_fg', color00) , 'Black')
   call s:create_color_variables('wildmenu_bg', get(s:palette, 'wildmenu_bg', color06) , 'LightGray')
-
-  " Spelling: when spell on and there are spelling problems like this for example: papercolor. a vim color scheme
-  call s:create_color_variables('spellbad', get(s:palette, 'spellbad', color04) , 'DarkRed')
-  call s:create_color_variables('spellcap', get(s:palette, 'spellcap', color05) , 'DarkMagenta')
-  call s:create_color_variables('spellrare', get(s:palette, 'spellrare', color06) , 'DarkYellow')
-  call s:create_color_variables('spelllocal', get(s:palette, 'spelllocal', color01) , 'DarkBlue')
 
   " Diff:
   call s:create_color_variables('diffadd_fg', get(s:palette, 'diffadd_fg', color00) , 'Black')
@@ -2160,12 +2146,6 @@ fun! s:apply_syntax_highlightings()
   exec 'hi agitRef' . s:fg_blue . s:ft_bold
   exec 'hi agitRemote' . s:fg_purple . s:ft_bold
   exec 'hi agitTag' . s:fg_orange . s:ft_bold
-
-  " Plugin: Spell Checking
-  exec 'hi SpellBad' . s:fg_foreground . s:bg_spellbad
-  exec 'hi SpellCap' . s:fg_foreground . s:bg_spellcap
-  exec 'hi SpellRare' . s:fg_foreground . s:bg_spellrare
-  exec 'hi SpellLocal' . s:fg_foreground . s:bg_spelllocal
 
   " Plugin: Indent Guides
   exec 'hi IndentGuidesOdd'  . s:bg_background
