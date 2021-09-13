@@ -283,7 +283,7 @@ function! s:on_change() abort
         " languages such as cpp which uses -> and ::
         if has_key(l:triggered_sources, l:source_name)
             let l:startcol = l:ctx['col']
-        elseif l:startidx > -1 && l:endidx - l:startidx >= s:get_min_chars(l:source_name)
+        elseif l:startidx > -1
             let l:startcol = l:startidx + 1 " col is 1-indexed, but str 0-indexed
         endif
         " here we use the existence of `l:startcol` to determine whether to
@@ -292,7 +292,7 @@ function! s:on_change() abort
         " meaningful starting point for the current source, and this implies
         " that we cannot use this source for completion. Therefore, we remove
         " the matches from the source.
-        if exists('l:startcol')
+        if exists('l:startcol') && l:endidx - l:startidx >= s:get_min_chars(l:source_name)
             if !has_key(s:matches, l:source_name) || s:matches[l:source_name]['ctx']['lnum'] !=# l:ctx['lnum'] || s:matches[l:source_name]['startcol'] !=# l:startcol
                 let s:matches[l:source_name] = { 'startcol': l:startcol, 'status': 'idle', 'items': [], 'refresh': 0, 'ctx': l:ctx }
             endif
@@ -492,7 +492,7 @@ function! s:strip_pair_characters(base, item) abort
     if has_key(s:pair, a:base[0])
         let [l:lhs, l:rhs, l:str] = [a:base[0], s:pair[a:base[0]], l:item['word']]
         if len(l:str) > 1 && l:str[0] ==# l:lhs && l:str[-1:] ==# l:rhs
-            let l:item = copy({}, l:item)
+            let l:item = extend({}, l:item)
             let l:item['word'] = l:str[:-2]
         endif
     endif
@@ -514,8 +514,11 @@ function! asyncomplete#preprocess_complete(ctx, items) abort
         setl completeopt=menuone,noinsert,noselect
     endif
 
-    call asyncomplete#log('core', 'asyncomplete#preprocess_complete calling complete()', a:ctx['startcol'], a:items)
-    call complete(a:ctx['startcol'], a:items)
+    let l:startcol = a:ctx['startcol']
+    call asyncomplete#log('core', 'asyncomplete#preprocess_complete calling complete()', l:startcol, a:items)
+    if l:startcol > 0 " Prevent E578: Not allowed to change text here
+        call complete(l:startcol, a:items)
+    endif
 endfunction
 
 function! asyncomplete#menu_selected() abort
