@@ -4,6 +4,9 @@
 " Asyncomplete is a lsp based completion engine.
 " https://github.com/prabirshrestha/asyncomplete.vim
 
+" ccls-lsp is an extension for vim-lsp, implementing
+" some functionality specific to ccls.
+
 " ----
 
 " General configuration
