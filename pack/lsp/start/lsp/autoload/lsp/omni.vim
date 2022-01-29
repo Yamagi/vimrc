@@ -70,19 +70,22 @@ function! lsp#omni#complete(findstart, base) abort
         endfor
         let l:curpos = getcurpos()
         let l:left = strpart(getline(l:curpos[1]), 0, l:curpos[2]-1)
-        let s:completion['startcol'] = matchstrpos(l:left, l:refresh_pattern)[1]
-        if s:completion['startcol'] == -1
-            let s:completion['startcol'] = strlen(l:left)
+
+        " Initialize the default startcol. It will be updated if the completion items has textEdit.
+        let s:completion['startcol'] = 1 + matchstrpos(l:left, l:refresh_pattern)[1]
+        if s:completion['startcol'] == 0
+            let s:completion['startcol'] = strlen(l:left) + 1
         endif
 
+        " The `l:info` variable will be filled with completion results after request was finished.
         call s:send_completion_request(l:info)
 
         if g:lsp_async_completion
-            " automatically call `s:display_completions` at `s:handle_omnicompletion` when retrieved textDocument/completion response.
+            " If g:lsp_async_completion == v:true, the `s:display_completions` " will be called by `s:send_completion_request`.
             redraw
             return exists('v:none') ? v:none : []
         else
-            " wait for retrieve textDocument/completion response and then call `s:display_completions` explicitly.
+            " Wait for finished the textDocument/completion request and then call `s:display_completions` explicitly.
             call lsp#utils#_wait(-1, {-> s:completion['status'] isnot# s:completion_status_pending || complete_check()}, 10)
             call timer_start(0, { timer -> s:display_completions(timer, l:info) })
 
@@ -140,12 +143,12 @@ function! s:display_completions(timer, info) abort
     let l:server_info = lsp#get_server_info(l:server_name)
 
     let l:current_line = strpart(getline('.'), 0, col('.') - 1)
-    let l:filter = has_key(l:server_info, 'config') && has_key(l:server_info['config'], 'filter') ? l:server_info['config']['filter'] : { 'name': 'prefix' }
-    let l:last_typed_word = strpart(l:current_line, s:completion['startcol'])
+    let l:last_typed_word = strpart(l:current_line, s:completion['startcol'] - 1)
 
+    let l:filter = has_key(l:server_info, 'config') && has_key(l:server_info['config'], 'filter') ? l:server_info['config']['filter'] : { 'name': 'prefix' }
     if l:filter['name'] ==? 'prefix'
         let s:completion['matches'] = filter(s:completion['matches'], {_, item -> s:prefix_filter(item, l:last_typed_word)})
-	    if has_key(s:pair, l:last_typed_word[0])
+        if has_key(s:pair, l:last_typed_word[0])
             let [l:lhs, l:rhs] = [l:last_typed_word[0], s:pair[l:last_typed_word[0]]]
             for l:item in s:completion['matches']
                 let l:str = l:item['word']
@@ -161,7 +164,7 @@ function! s:display_completions(timer, info) abort
     let s:completion['status'] = ''
 
     if mode() is# 'i'
-        call complete(s:completion['startcol'] + 1, s:completion['matches'])
+        call complete(s:completion['startcol'], s:completion['matches'])
     endif
 endfunction
 
@@ -177,8 +180,8 @@ function! s:handle_omnicompletion(server_name, complete_counter, info, data) abo
     endif
 
     let l:result = s:get_completion_result(a:server_name, a:data)
-    let l:matches = l:result['matches']
-    let s:completion['matches'] = l:matches
+    let s:completion['matches'] = l:result['items']
+    let s:completion['startcol'] = min([l:result['startcol'], s:completion['startcol']])
     let s:completion['status'] = s:completion_status_success
 
     if g:lsp_async_completion
@@ -259,17 +262,37 @@ function! s:get_completion_result(server_name, data) abort
         \ 'response': a:data['response'],
         \ }
 
-    let l:completion_result = lsp#omni#get_vim_completion_items(l:options)
-
-    return {'matches': l:completion_result['items'], 'incomplete': l:completion_result['incomplete'] }
+    return lsp#omni#get_vim_completion_items(l:options)
 endfunction
 
+function! s:sort_by_sorttext(i1, i2) abort
+    let l:text1 = get(a:i1, 'sortText')
+    let l:text2 = get(a:i2, 'sortText')
+
+    " sortText is possibly empty string
+    let l:text1 = !empty(l:text1) ? l:text1 : a:i1['label']
+    let l:text2 = !empty(l:text2) ? l:text2 : a:i2['label']
+
+    if g:lsp_ignorecase
+        return l:text1 ==? l:text2 ? 0 : l:text1 >? l:text2 ? 1 : -1
+    else
+        return l:text1 ==# l:text2 ? 0 : l:text1 ># l:text2 ? 1 : -1
+    endif
+endfunction
+
+" Create vim's completed items from LSP response.
+"
 " options = {
 "   server: {}, " needs to be server_info and not server_name
 "   position: lsp#get_position(),
 "   response: {}, " needs to be the entire lsp response. errors need to be
 "   handled before calling the fuction
 " }
+"
+" * The returned` startcol` may be the same as the cursor position, in which case you need to decide which one to use.
+"
+" @return { 'items': v:completed_item[], 'incomplete': v:t_bool, 'startcol': number }
+"
 function! lsp#omni#get_vim_completion_items(options) abort
     let l:server = a:options['server']
     let l:server_name = l:server['name']
@@ -288,6 +311,14 @@ function! lsp#omni#get_vim_completion_items(options) abort
         let l:incomplete = 0
     endif
 
+    let l:sort = has_key(l:server, 'config') && has_key(l:server['config'], 'sort') ? l:server['config']['sort'] : v:null
+
+    if len(l:items) > 0 && type(l:sort) == s:t_dict && len(l:items) <= l:sort['max']
+      " If first item contains sortText, maybe we can use sortText
+      call sort(l:items, function('s:sort_by_sorttext'))
+    endif
+
+    let l:start_character = l:complete_position['character']
     let l:vim_complete_items = []
     for l:completion_item in l:items
         let l:expandable = get(l:completion_item, 'insertTextFormat', 1) == 2
@@ -297,8 +328,9 @@ function! lsp#omni#get_vim_completion_items(options) abort
             \ 'empty': 1,
             \ 'icase': 1,
             \ }
-        if has_key(l:completion_item, 'textEdit') && type(l:completion_item['textEdit']) == s:t_dict && has_key(l:completion_item['textEdit'], 'newText')
+        if has_key(l:completion_item, 'textEdit') && type(l:completion_item['textEdit']) == s:t_dict && has_key(l:completion_item['textEdit'], 'range') && has_key(l:completion_item['textEdit'], 'newText')
             let l:vim_complete_item['word'] = l:completion_item['textEdit']['newText']
+            let l:start_character = min([l:completion_item['textEdit']['range']['start']['character'], l:start_character])
         elseif has_key(l:completion_item, 'insertText') && !empty(l:completion_item['insertText'])
             let l:vim_complete_item['word'] = l:completion_item['insertText']
         else
@@ -319,7 +351,9 @@ function! lsp#omni#get_vim_completion_items(options) abort
         let l:vim_complete_items += [l:vim_complete_item]
     endfor
 
-    return { 'items': l:vim_complete_items, 'incomplete': l:incomplete }
+    let l:startcol = lsp#utils#position#lsp_character_to_vim('%', { 'line': l:complete_position['line'], 'character': l:start_character })
+
+    return { 'items': l:vim_complete_items, 'incomplete': l:incomplete, 'startcol': l:startcol }
 endfunction
 
 "
