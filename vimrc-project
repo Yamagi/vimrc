@@ -1,0 +1,67 @@
+" Per project vimrc. Can be copied into the project root folder and is
+" sourced by Vim after the main configuration. This is an example with
+" all per project configurations I've collected over the years. Not
+" every projects needs all configuration.
+
+" =====================================================================
+
+" A light theme is better when writing text.
+set background=light
+
+" Don't sort the entires in the tagbar. This can be usefull when working
+" with structured text documents like Markdown or LaTeX.
+let g:tagbar_sort = 0
+
+" Don't generate tags for the local .vimrc and spellchecker wordlists.
+let g:gutentags_ctags_exclude = [ '.vimrc', '.spell/*' ]
+
+" This generated tags from user defined tags given in markdown files. 
+" Each tag starts with +. An example, abusing YAML frontmatters:
+"
+" ----
+"  Title: A Novel
+"  Author: Donald Duck
+"  Tags: +prose +stormywinternight
+" ----
+let g:gutentags_ctags_extra_args = [
+			\ '--langdef=mdtags',
+			\ '--languages=mdtags',
+			\ '--langmap=mdtags:.md',
+			\ '--kinddef-mdtags=t,tag,tags',
+			\ '--_tabledef-mdtags=toplevel',
+			\ '--_mtable-regex-mdtags=toplevel/(^|[[:space:]])\+([a-zA-Z0-9][^[:space:]]*)/\2/t/{mgroup=1}{tenter=toplevel}',
+			\ '--_mtable-regex-mdtags=toplevel/.//'
+			\ ]
+
+" =====================================================================
+
+" A distinct spell checker dictionary for this project.
+function AddSpellfile()
+	let b:spellfile = expand('<sfile>:p:h'). '/.spell/dict.utf-8.add'
+	if filereadable(b:spellfile)
+		let &l:spellfile = b:spellfile
+	endif
+endfunction
+
+" The standard foldings for Markdown are rather slow, because they
+" support the alternative header syntax which needs back references
+" throughout the whole file. Define alternative foldings which are
+" limited to the normal header syntax but way faster.
+function MarkdownLevel()
+	let h = matchstr(getline(v:lnum), '^#\+')
+	if empty(h)
+		return "="
+	else
+		return ">" . len(h)
+	endif
+endfunction
+
+" Add the functions above as autocommands, triggered when necessary.
+augroup local
+	" The dictionary.
+	autocmd BufEnter * call AddSpellfile()
+
+	" Faster foldings for markdown.
+	autocmd FileType markdown setlocal foldexpr=MarkdownLevel()
+	autocmd FileType markdown setlocal foldmethod=expr
+augroup END 
