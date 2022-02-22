@@ -19,3 +19,6 @@ endif
 
 " Hide the tags files.
 let g:gutentags_ctags_tagfile = '.vimtags'
+
+" Support .vimrc as an additional root marker.
+let g:gutentags_project_root = ['.vimrc']

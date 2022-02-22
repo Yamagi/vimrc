@@ -23,3 +23,6 @@ endif
 if executable('git')
 	let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files -co --exclude-standard']
 endif
+
+" Use .vimrc files as project additional root marker.
+let g:ctrlp_root_markers = ['.vimrc']
