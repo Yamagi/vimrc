@@ -295,8 +295,8 @@ if !has("gui_running")
 	if &term =~ "rxvt-unicode"
 		" Für rxvt-unicode setzt Vim die Truecolor Escape
 		" Sequenzen nicht automatisch, also machen wir es.
-		let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
-		let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+		let &t_8f = "\e[38;2;%lu;%lu;%lum"
+		let &t_8b = "\e[48;2;%lu;%lu;%lum"
 
 		" Und Truecolor einschalten.
 		set termguicolors
@@ -311,6 +311,24 @@ if !has("gui_running")
 		" Pest oder Cholera. Nicht alle Terminals können
 		" sie, kaum ein Theme unterstützt sie, dennoch sind
 		" sie ganz nett zu haben.
+        "
+		" Achtung: Damit die Unterstreichungen farbig werden,
+		" braucht es der Escape Sequenzen unter t_8u. Vim
+		" setzt die korrekt auf \e[58;2;%lu;%lu;%lum. Aber
+		" leider ist es eine doppelt vergebene Sequenz, auf
+		" nicht unterstützen Terminals löscht sie z.b. auch
+		" gerne mal den Hintergrund... Um das zu umgehen,
+		" hat Vim in 8.2.906 Logik eingefügt, die versucht
+		" zu erkennen, ob das Terminal unterstützt ist und
+		" wenn nicht t_8u auf einen leeren String setzt. Das
+		" hat als Nebenwirkung, dass man auf Vim unbekannten
+		" Terminals oder Terminals, die das Feature gerade
+		" erst bekommen haben, t_8u nicht gesetzt hat und
+		" die farbigen Unterkringelungen nicht funktionieren.
+		" Man könnte darum herum würgen, indem man ein z.B.
+		" ein Autocmd nutzt, was t_8u wieder setzt. Das hat
+		" dann aber auf nicht unterstützten Terminals großes
+		" Potential für Ärger.
 		let &t_Cs = "\e[4:3m"
 		let &t_Ce = "\e[4:0m"
 	endif
