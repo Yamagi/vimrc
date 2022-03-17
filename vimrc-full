@@ -300,10 +300,15 @@ if !has("gui_running")
 
 		" Und Truecolor einschalten.
 		set termguicolors
-	elseif &term =~ "xterm"
+	elseif (&term =~ "xterm") || (&term =~ "alacritty")
 		" Die meisten Terminals sind zu xterm kompatibel,
 		" Vim setzt die Truecolor Escape Sequenzen dort
-		" automatisch. Wir können es einfach einschalten.
+		" an sich automatisch. Wir setzen sie trotzdem
+		" nochmal händisch, um sicher zu sein.
+		let &t_8f = "\e[38;2;%lu;%lu;%lum"
+		let &t_8b = "\e[48;2;%lu;%lu;%lum"
+
+		" Und Truecolor einschalten.
 		set termguicolors
 
 		" Gekringelte Unterstreichungen für unter anderem
@@ -311,10 +316,11 @@ if !has("gui_running")
 		" Pest oder Cholera. Nicht alle Terminals können
 		" sie, kaum ein Theme unterstützt sie, dennoch sind
 		" sie ganz nett zu haben.
-        "
+		let &t_Cs = "\e[4:3m"
+		let &t_Ce = "\e[4:0m"
+
 		" Achtung: Damit die Unterstreichungen farbig werden,
-		" braucht es der Escape Sequenzen unter t_8u. Vim
-		" setzt die korrekt auf \e[58;2;%lu;%lu;%lum. Aber
+		" braucht es der Escape Sequenzen unter t_8u. Aber
 		" leider ist es eine doppelt vergebene Sequenz, auf
 		" nicht unterstützen Terminals löscht sie z.b. auch
 		" gerne mal den Hintergrund... Um das zu umgehen,
@@ -329,8 +335,7 @@ if !has("gui_running")
 		" ein Autocmd nutzt, was t_8u wieder setzt. Das hat
 		" dann aber auf nicht unterstützten Terminals großes
 		" Potential für Ärger.
-		let &t_Cs = "\e[4:3m"
-		let &t_Ce = "\e[4:0m"
+		let &t_8u = "\e[58;2;%lu;%lu;%lum"
 	endif
 endif
 
