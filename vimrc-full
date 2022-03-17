@@ -292,11 +292,28 @@ endif
 
 " Dinge, die spezifisch für's Terminal sind.
 if !has("gui_running")
-	" Erzwinge 256 Farben. Theoretisch sollte Vim dies automatisch
-	" anhand der Terminfo / Termcap Einträge setzen. Praktisch hat
-	" es noch nie so wirklich funktioniert, insbesondere nicht unter
-	" FreeBSD.
-	set t_Co=256
+	if &term =~ "rxvt-unicode"
+		" Für rxvt-unicode setzt Vim die Truecolor Escape
+		" Sequenzen nicht automatisch, also machen wir es.
+		let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+		let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+
+		" Und Truecolor einschalten.
+		set termguicolors
+	elseif &term =~ "xterm"
+		" Die meisten Terminals sind zu xterm kompatibel,
+		" Vim setzt die Truecolor Escape Sequenzen dort
+		" automatisch. Wir können es einfach einschalten.
+		set termguicolors
+
+		" Gekringelte Unterstreichungen für unter anderem
+		" den Spellchecker sind ein klassicher Fall von
+		" Pest oder Cholera. Nicht alle Terminals können
+		" sie, kaum ein Theme unterstützt sie, dennoch sind
+		" sie ganz nett zu haben.
+		let &t_Cs = "\e[4:3m"
+		let &t_Ce = "\e[4:0m"
+	endif
 endif
 
 " ----
