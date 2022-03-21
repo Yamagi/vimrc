@@ -300,11 +300,16 @@ if !has("gui_running")
 
 		" Und Truecolor einschalten.
 		set termguicolors
-	elseif (&term =~ "xterm") || (&term =~ "alacritty")
+	elseif (&term =~ "xterm") || (&term =~ "tmux")
+		" Behandele tmux als xterm. Dies ist etwas gewagt,
+		" da man nie sicher sein kann, welches Terminal
+		" unter tmux läuft. Da wir aber Vim meist nur in
+		" modernen Terminals nutzen, sollte es okay sein.
+
 		" Die meisten Terminals sind zu xterm kompatibel,
 		" Vim setzt die Truecolor Escape Sequenzen dort
-		" an sich automatisch. Wir setzen sie trotzdem
-		" nochmal händisch, um sicher zu sein.
+		" an sich automatisch. Vor allem für tmux setzen
+		" wir sie nochmal direkt.
 		let &t_8f = "\e[38;2;%lu;%lu;%lum"
 		let &t_8b = "\e[48;2;%lu;%lu;%lum"
 
