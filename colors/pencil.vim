@@ -51,15 +51,11 @@ endif
 
 " not all terminals support italics properly.  If yours does, opt-in.
 if ! exists("g:pencil_terminal_italics")
-  let g:pencil_terminal_italics = 0
+  let g:pencil_terminal_italics = 1
 endif
 
 if ! exists("g:pencil_spell_undercurl")
   let g:pencil_spell_undercurl = 1
-endif
-
-if ! exists("g:pencil_gutter_color")
-  let g:pencil_gutter_color = 0
 endif
 
 " Colors
@@ -267,14 +263,11 @@ call s:h("ColorColumn",   {"bg": s:bg_subtle})
 call s:h("MatchParen",    {"bg": s:bg_subtle, "fg": s:norm})
 call s:h("qfLineNr",      {"fg": s:medium_gray})
 
-" hi helpHyperTextJump guifg=#5FAFD7 ctermfg=74
-
 " HTML syntax
 hi! link htmlTag          Special
 hi! link htmlEndTag       htmlTag
 
 hi! link htmlTagName      KeyWord
-" html5 tags show up as htmlTagN
 hi! link htmlTagN         Keyword
 
 " HTML content
@@ -288,7 +281,6 @@ call s:h("htmlLink",      {"fg": s:blue  , "gui": "underline"  , "cterm": "under
 call s:h("htmlItalic",    {                "gui": "italic"     , "cterm": "italic"   })
 call s:h("htmlBold",      {                "gui": "bold"       , "cterm": "bold"     })
 call s:h("htmlBoldItalic",{                "gui": "bold,italic", "cterm": "bold"     })
-" hi htmlString     guifg=#87875f guibg=NONE gui=NONE        ctermfg=101 ctermbg=NONE cterm=NONE
 
 " tpope/vim-markdown
 call s:h("markdownBlockquote",          {"fg": s:norm})
@@ -353,31 +345,7 @@ call s:h("mmdTableHeader",              {"fg": s:norm})
 call s:h("mmdTableCaptionDelimiter",    {"fg": s:norm})
 call s:h("mmdTableCaption",             {"fg": s:norm})
 
-" Textile content
-" https://github.com/timcharper/textile.vim/blob/master/syntax/textile.vim
-"call s:h("txtBold",                {"fg": s:norm  , "gui": "bold"       , "cterm": "bold"  })
-"call s:h("txtEmphasis",            {"fg": s:norm  , "gui": "italic"     , "cterm": "italic"})
-
 " XML content
 hi! link xmlTag                     htmlTag
 hi! link xmlEndTag                  xmlTag
 hi! link xmlTagName                 htmlTagName
-
-" Signify, git-gutter
-if g:pencil_gutter_color == 1
-  hi link SignifySignAdd              DiffAdd
-  hi link SignifySignDelete           DiffDelete
-  hi link SignifySignChange           DiffChange
-  hi link GitGutterAdd                DiffAdd
-  hi link GitGutterDelete             DiffDelete
-  hi link GitGutterChange             DiffChange
-  hi link GitGutterChangeDelete       DiffChange
-else
-  hi link SignifySignAdd              LineNr
-  hi link SignifySignDelete           LineNr
-  hi link SignifySignChange           LineNr
-  hi link GitGutterAdd                LineNr
-  hi link GitGutterDelete             LineNr
-  hi link GitGutterChange             LineNr
-  hi link GitGutterChangeDelete       LineNr
-endif
