@@ -243,10 +243,10 @@ call s:h("DiffChanged",   {"bg": s:bg_subtle, "fg": s:dark_yellow})
 call s:h("DiffText",      {"bg": s:bg_subtle, "fg": s:dark_blue})
 call s:h("SignColumn",    {"fg": s:light_green})
 
-call s:h("SpellBad",      {"gui": s:sp_un, "sp": s:red, "cterm": s:sp_un, "fg": s:red})
-call s:h("SpellCap",      {"gui": s:sp_un, "sp": s:light_green, "cterm": s:sp_un, "fg": s:light_green})
-call s:h("SpellRare",     {"gui": s:sp_un, "sp": s:pink, "cterm": s:sp_un, "fg": s:pink})
-call s:h("SpellLocal",    {"gui": s:sp_un, "sp": s:dark_green, "cterm": s:sp_un, "fg": s:dark_green})
+call s:h("SpellBad",      {"gui": s:sp_un, "sp": s:red, "cterm": s:sp_un})
+call s:h("SpellCap",      {"gui": s:sp_un, "sp": s:light_green, "cterm": s:sp_un})
+call s:h("SpellRare",     {"gui": s:sp_un, "sp": s:pink, "cterm": s:sp_un})
+call s:h("SpellLocal",    {"gui": s:sp_un, "sp": s:dark_green, "cterm": s:sp_un})
 
 call s:h("Pmenu",         {"fg": s:norm, "bg": s:bg_subtle})
 call s:h("PmenuSel",      {"fg": s:norm, "bg": s:blue})
@@ -265,7 +265,7 @@ call s:h("qfLineNr",      {"fg": s:medium_gray})
 
 " HTML syntax
 hi! link htmlTag          Special
-hi! link htmlEndTag       htmlTag
+hi! link htmlEndTag       Special
 
 hi! link htmlTagName      KeyWord
 hi! link htmlTagN         Keyword
