@@ -300,7 +300,11 @@ if !has("gui_running")
 
 		" Und Truecolor einschalten.
 		set termguicolors
-	elseif (&term =~ "xterm") || (&term =~ "tmux")
+	elseif (&term =~ "xterm") || (&term =~ "alacritty") || (&term =~ "tmux")
+		" Alacritty ist letztendlich xterm-kompatibel. Es
+		" nutzt lediglich ein eigenes termcap / terminfo,
+		" da es etwas mehr kann.
+
 		" Behandele tmux als xterm. Dies ist etwas gewagt,
 		" da man nie sicher sein kann, welches Terminal
 		" unter tmux läuft. Da wir aber Vim meist nur in
