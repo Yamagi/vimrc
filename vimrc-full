@@ -290,61 +290,115 @@ endif
 
 " ----
 
-" Dinge, die spezifisch für's Terminal sind.
+" Dinge, die spezifisch für's Terminal sind. Leider ist das
+" Unix-Terminal bekanntlich ein Clusterfuck. Das hier ist der
+" Versuch vier Terminals gut zu unterstützen:
+"
+"  * alacritty
+"  * rxvt-unicode
+"  * tmux
+"  * xterm
+"
+" Einige Anmerkungen zu gekringelten Unterstreichungen:
+"
+"  * Gekringelte Unterstreichungen für unter anderem den
+"    Spellchecker sind ein klassischer Fall von Pest oder
+"    Cholera. Nicht alle Terminals können sie, kaum ein
+"    Theme unterstützt sie, dennoch sind sie ganz nett zu
+"    haben.
+"  * Damit die Unterstreichungen farbig werden, braucht es
+"    die Escape Sequenzen unter t_8u. Aber leider ist es
+"    eine doppelt vergebene Sequenz, auf nicht unterstützen
+"    Terminals löscht sie z.b. auch gerne mal den Hintergrund.
+"    Um das zu umgehen, hat Vim in 8.2.906 Logik eingefügt,
+"    die versucht zu erkennen, ob das Terminal unterstützt
+"    ist und wenn nicht t_8u auf einen leeren String setzt.
+"    Das hat als Nebenwirkung, dass man auf Vim unbekannten
+"    Terminals oder Terminals, die das Feature gerade erst
+"    bekommen haben, t_8u nicht gesetzt hat und die farbigen
+"    Unterkringelungen nicht funktionieren. Man könnte darum
+"    herum würgen, indem man ein z.B. ein Autocmd nutzt, was
+"    t_8u wieder setzt. Das hat dann natürlich auf nicht
+"    unterstützten Terminals großes Potential für Ärger.
 if !has("gui_running")
-	if &term =~ "rxvt-unicode"
-		" Für rxvt-unicode setzt Vim die Truecolor Escape
-		" Sequenzen nicht automatisch, also machen wir es.
-		let &t_8f = "\e[38;2;%lu;%lu;%lum"
-		let &t_8b = "\e[48;2;%lu;%lu;%lum"
+	if &term =~ "alacritty"
+		" alacritty ist xterm-kompatibel. Es nutzt lediglich
+		" ein eigenes termcap / terminfo, da es mehr Dinge
+		" kann.
 
-		" Und Truecolor einschalten.
-		set termguicolors
-	elseif (&term =~ "xterm") || (&term =~ "alacritty") || (&term =~ "tmux")
-		" Alacritty ist letztendlich xterm-kompatibel. Es
-		" nutzt lediglich ein eigenes termcap / terminfo,
-		" da es etwas mehr kann.
-
-		" Behandele tmux als xterm. Dies ist etwas gewagt,
-		" da man nie sicher sein kann, welches Terminal
-		" unter tmux läuft. Da wir aber Vim meist nur in
-		" modernen Terminals nutzen, sollte es okay sein.
-
-		" Die meisten Terminals sind zu xterm kompatibel,
-		" Vim setzt die Truecolor Escape Sequenzen dort
-		" an sich automatisch. Vor allem für tmux setzen
-		" wir sie nochmal direkt.
-		let &t_8f = "\e[38;2;%lu;%lu;%lum"
-		let &t_8b = "\e[48;2;%lu;%lu;%lum"
-
-		" Und Truecolor einschalten.
+		" alacritty hat volle Unterstützung für Truecolor.
+		let &t_8f="\e[38;2;%lu;%lu;%lum"
+		let &t_8b="\e[48;2;%lu;%lu;%lum"
 		set termguicolors
 
-		" Gekringelte Unterstreichungen für unter anderem
-		" den Spellchecker sind ein klassicher Fall von
-		" Pest oder Cholera. Nicht alle Terminals können
-		" sie, kaum ein Theme unterstützt sie, dennoch sind
-		" sie ganz nett zu haben.
-		let &t_Cs = "\e[4:3m"
-		let &t_Ce = "\e[4:0m"
+		" Ebenso unterstützt es farbige Unterkringelungen.
+		let &t_Cs="\e[4:3m"
+		let &t_Ce="\e[4:0m"
+		let &t_8u="\e[58;2;%lu;%lu;%lum"
 
-		" Achtung: Damit die Unterstreichungen farbig werden,
-		" braucht es der Escape Sequenzen unter t_8u. Aber
-		" leider ist es eine doppelt vergebene Sequenz, auf
-		" nicht unterstützen Terminals löscht sie z.b. auch
-		" gerne mal den Hintergrund... Um das zu umgehen,
-		" hat Vim in 8.2.906 Logik eingefügt, die versucht
-		" zu erkennen, ob das Terminal unterstützt ist und
-		" wenn nicht t_8u auf einen leeren String setzt. Das
-		" hat als Nebenwirkung, dass man auf Vim unbekannten
-		" Terminals oder Terminals, die das Feature gerade
-		" erst bekommen haben, t_8u nicht gesetzt hat und
-		" die farbigen Unterkringelungen nicht funktionieren.
-		" Man könnte darum herum würgen, indem man ein z.B.
-		" ein Autocmd nutzt, was t_8u wieder setzt. Das hat
-		" dann aber auf nicht unterstützten Terminals großes
-		" Potential für Ärger.
-		let &t_8u = "\e[58;2;%lu;%lu;%lum"
+		" Die Mausunterstütztung nutzt das SGR-Protokoll.
+		set ttymouse=sgr
+	elseif (&term =~ "tmux") || (&term =~ "screen")
+		" tmux setzt auf älteren Installationen oft noch
+		" $TERM auf screen-256color, daher werden tmux
+		" und screen äquivalent behandelt.
+		"
+		" tmux hat das große Problem, dass man nicht sagen
+		" kann, welches Terminal unterhalb des Multiplexers
+		" läuft. Wir nehmen ein xterm mit allen Features an.
+		" Das ist etwas gewagt, sollte in der Praxis aber
+		" ausreichend gut funktionieren.
+
+		" Truecolor.
+		let &t_8f="\e[38;2;%lu;%lu;%lum"
+		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		set termguicolors
+
+		" Farbige Unterkringelungen.
+		let &t_Cs="\e[4:3m"
+		let &t_Ce="\e[4:0m"
+		let &t_8u="\e[58;2;%lu;%lu;%lum"
+	elseif &term =~ "rxvt-unicode"
+        " rxvt-unicode ist ein Arbeitstier. Ein gutes und
+		" schnelles Terminal, allerdings fehlen ihm neuere
+		" Features.
+
+		" Truecolor wird mit eingeschränktem Farbraum
+		" unterstützt. Vim erkennt es nicht automatisch.
+		let &t_8f="\e[38;2;%lu;%lu;%lum"
+		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		set termguicolors
+
+		" Viele ältere Systeme und FreeBSD generell gehen
+		" davon aus, dass rxvt-unicode keine Italics kann
+		" und setzen die termcap / terminfo EInträge auf
+		" Reverse.
+		let &t_ZH="\e[3m"
+		let &t_ZR="\e[23m"
+
+		" Vim erkennt die Mausunterstützung meist mit dem
+		" xterm2-Protokoll. Vim bietet allerdings eine
+		" spezielle Protokollvariante an, welche kein 223
+		" Spaltenlimit hat.
+		set ttymouse=urxvt
+	elseif (&term =~ "xterm")
+		" xterm ist der verbreitetste Terminal-Typ, aber
+		" sehr inkonsistent. Nicht einmal xterm selbst
+		" unterstützt garantiert alle Features. Vim nutzt
+		" intern einige Magie um xterms automagisch zu
+		" konfigurieren, leider hat das prinzipbedingt ein
+		" recht hohes Fehlerpotential. Wir konfigurieren
+		" daher die relevanten Dinge explizit.
+
+		" Truecolor.
+		let &t_8f="\e[38;2;%lu;%lu;%lum"
+		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		set termguicolors
+
+		" Farbige Unterkringelungen.
+		let &t_Cs="\e[4:3m"
+		let &t_Ce="\e[4:0m"
+		let &t_8u="\e[58;2;%lu;%lu;%lum"
 	endif
 endif
 
