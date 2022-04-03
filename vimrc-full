@@ -365,9 +365,17 @@ if !has("gui_running")
 
 		" Truecolor wird mit eingeschränktem Farbraum
 		" unterstützt. Vim erkennt es nicht automatisch.
+		" Erfahrungen im täglichen Einsatz haben leider
+		" gezeigt, dass es nicht so wirklich brauchbar
+		" ist. Aus zwei Gründen:
+		"  * Viele Distros bauen das Terminal ohne die
+		"    Unterstützung für den 24 Bit Farbraum.
+		"  * Der eingeschränkte Farbraum macht doch bei
+		"    einigen Colorthemes Probleme.
+		" Setze daher die Termcap-Optionen, schalte aber
+		" termguicolors nicht global ein.
 		let &t_8f="\e[38;2;%lu;%lu;%lum"
 		let &t_8b="\e[48;2;%lu;%lu;%lum"
-		set termguicolors
 
 		" Viele ältere Systeme und FreeBSD generell gehen
 		" davon aus, dass rxvt-unicode keine Italics kann
