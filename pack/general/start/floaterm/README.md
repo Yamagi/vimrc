@@ -43,6 +43,13 @@ Use (neo)vim terminal in the floating/popup window.
 
 ## Installation
 
+- packer.nvim
+
+```lua
+use 'voldikss/vim-floaterm'
+
+```
+
 - vim-plug
 
 ```vim
@@ -257,7 +264,7 @@ Default: `['.project', '.git', '.hg', '.svn', '.root']`
 
 Type `String`. Command used for opening a file in the outside nvim from within `:terminal`.
 
-Available: `'edit'`, `'split'`, `'vsplit'`, `'tabe'`, `'drop'` or 
+Available: `'edit'`, `'split'`, `'vsplit'`, `'tabe'`, `'drop'` or
 [user-defined commands](https://github.com/voldikss/vim-floaterm/issues/259)
 
 Default: `'split'`
@@ -271,7 +278,7 @@ Type `Number`. Whether to close floaterm window once the job gets finished.
   like `[Process exited 101]`
 - `2`: Always close floaterm window
 
-Default: `0`.
+Default: `1`.
 
 #### **`g:floaterm_autohide`**
 
@@ -393,7 +400,7 @@ would get another nvim/vim instance running in the subprocess.
 
 [Floaterm](https://github.com/voldikss/vim-floaterm/tree/master/bin), which is
 a builtin script in this plugin, allows you to open files from within `: terminal`
-without starting a nested nvim. To archive that, just literally replace
+without starting a nested nvim. To achieve that, just literally replace
 `vim/nvim` with `floaterm`, e.g. `floaterm somefile.txt`
 
 P.S.
@@ -497,7 +504,6 @@ command! NNN FloatermNew nnn
 <summary>Demo</summary>
 <img src="https://user-images.githubusercontent.com/20282795/91380278-322f9780-e857-11ea-8b1c-d40fc91bb07d.gif"/>
 </details>
-
 
 #### [xplr](https://github.com/sayanarijit/xplr)
 

@@ -57,7 +57,7 @@ function! s:on_floaterm_close(bufnr, callback, job, data, ...) abort
     " if the floaterm is created with --silent, delete the buffer explicitly
     silent! execute bufnr . 'bdelete!'
     " update lightline
-    doautocmd BufDelete
+    silent doautocmd BufDelete
   endif
   if a:callback isnot v:null
     call a:callback(a:job, a:data, 'exit', opener)
@@ -130,6 +130,10 @@ function! s:spawn_terminal(cmd, jobopts, config) abort
     endif
     let a:jobopts.hidden = 1
     try
+      " TODO: need refactor
+      let config = floaterm#config#parse(-1, a:config)
+      let a:jobopts['term_cols'] = config.width - 2
+      let a:jobopts['term_rows'] = config.height - 2
       let bufnr = term_start(a:cmd, a:jobopts)
     catch
       call floaterm#util#show_msg('Failed to execute: ' . a:cmd, 'error')
