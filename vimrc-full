@@ -316,15 +316,21 @@ endif
 "    Das hat als Nebenwirkung, dass man auf Vim unbekannten
 "    Terminals oder Terminals, die das Feature gerade erst
 "    bekommen haben, t_8u nicht gesetzt hat und die farbigen
-"    Unterkringelungen nicht funktionieren. Man könnte darum
-"    herum würgen, indem man ein z.B. ein Autocmd nutzt, was
-"    t_8u wieder setzt. Das hat dann natürlich auf nicht
-"    unterstützten Terminals großes Potential für Ärger.
+"    Unterkringelungen nicht funktionieren. Da sich das als
+"    nicht so klug erwies, änderte 8.2.4777 die Logik so,
+"    dass t_u8 immer gesetzt bleibt. Es wird allerdings nur
+"    genutzt, wenn die magie es als unterstützt erkennt.
+"    Damit die Magie funktioniert, muss t_RV gesetzt sein.
+"    Sollte aus der termcap / terminfo kommen, aber tut es
+"    nicht immer...
 if !has("gui_running")
 	if &term =~ "alacritty"
 		" alacritty ist xterm-kompatibel. Es nutzt lediglich
 		" ein eigenes termcap / terminfo, da es mehr Dinge
 		" kann.
+
+		" Automatische Featureerkennung.
+		let &t_RV = "\<Esc>[>c"
 
 		" alacritty hat volle Unterstützung für Truecolor.
 		let &t_8f="\e[38;2;%lu;%lu;%lum"
@@ -348,6 +354,9 @@ if !has("gui_running")
 		" läuft. Wir nehmen ein xterm mit allen Features an.
 		" Das ist etwas gewagt, sollte in der Praxis aber
 		" ausreichend gut funktionieren.
+
+		" Automatische Featureerkennung.
+		let &t_RV = "\<Esc>[>c"
 
 		" Truecolor.
 		let &t_8f="\e[38;2;%lu;%lu;%lum"
