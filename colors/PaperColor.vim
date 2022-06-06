@@ -86,6 +86,10 @@ fun! s:register_default_theme()
         \       'folded_bg' : ['#afd7ff', '153'],
         \       'wildmenu_fg': ['#444444', '238'],
         \       'wildmenu_bg': ['#ffff00', '226'],
+        \       'spellbad':   ['#af0000', '225'],
+        \       'spellcap':   ['#af5f00', '229'],
+        \       'spelllocal': ['#d75f00', '189'],
+        \       'spellrare':  ['#d70000', '156'],
         \       'diffadd_fg':    ['#008700', '28'],
         \       'diffadd_bg':    ['#afffaf', '157'],
         \       'diffdelete_fg': ['#af0000', '124'],
@@ -173,6 +177,10 @@ fun! s:register_default_theme()
         \       'folded_bg' : ['#5f005f', '53'],
         \       'wildmenu_fg': ['#1c1c1c', '234'],
         \       'wildmenu_bg': ['#afd700', '148'],
+        \       'spellbad':   ['#e60000', '52'],
+        \       'spellcap':   ['#ffff00', '53'],
+        \       'spelllocal': ['#ff5faf', '17'],
+        \       'spellrare':  ['#5faf5f', '22'],
         \       'diffadd_fg':    ['#87d700', '112'],
         \       'diffadd_bg':    ['#005f00', '22'],
         \       'diffdelete_fg': ['#af005f', '125'],
@@ -2188,6 +2196,19 @@ fun! s:apply_syntax_highlightings()
   exec 'hi diffLine' . s:fg_orange
   exec 'hi diffBDiffer' . s:fg_orange
   exec 'hi diffNewFile' . s:fg_comment
+
+  " Spell Checker
+  " Hacked in, because the property generation above
+  " hasn't got support for undercurls and refactoring
+  " it is too much hassle.
+  "
+  " Colors taken from https://github.com/pappasam/papercolor-theme-slim
+  if (len(&t_8u) != 0) || has("gui_running")
+	  exec 'hi SpellBad cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spellbad')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spellbad')[0]
+	  exec 'hi SpellCap cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spellcap')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spellcap')[0]
+	  exec 'hi SpellRare cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spellrare')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spellrare')[0]
+	  exec 'hi SpellLocal cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spelllocal')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spelllocal')[0]
+  endif
 
 endfun
 " }}}
