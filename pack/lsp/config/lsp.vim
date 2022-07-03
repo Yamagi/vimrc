@@ -103,7 +103,7 @@ function! g:LSP_Mappings()
 	nmap <buffer><silent> <leader>lq <plug>(lsp-code-action)
 	nmap <buffer><silent> <leader>lu <plug>(lsp-references)
 	nmap <buffer><silent> <leader>ld <plug>(lsp-peek-definition)
-	nmap <buffer><silent> <leader>ld <plug>(lsp-peek-declaration)
+	nmap <buffer><silent> <leader>lD <plug>(lsp-peek-declaration)
 
 	" Tagstack integration.
 	nnoremap <buffer><silent> C-] <plug>(lsp-definition)
