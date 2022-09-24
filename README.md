@@ -35,10 +35,12 @@ provide several tools / binaries in your PATH:
 * *Universal ctags* (http://ctags.io/) as `ctags` or `vimtags`.
 * *ccls* (https://github.com/MaskRay/ccls) as language server for
   C / C++ / ObjC. The binary is named `ccls`.
+* *gopls* (https://pkg.go.dev/golang.org/x/tools/gopls) as language
+  server for Go. The binary is named `gopls`.
 * *pyls* (http://github.com/palantir/python-language-server) as
   language server for Python. The binary is named `pyls`.
 
-Other language server can be configured in `pack/lsp/config/lsp.vim`.
+Other language servers can be configured in `pack/lsp/config/lsp.vim`.
 
 
 ## Plugins
@@ -50,13 +52,14 @@ important, I want to have full control over my plugins.
 
 I stick to Plugins written in plain Vimscript. Python, Lua and the like
 are cool but they need a Vim binary build with support for the language.
-And the language runtime must fulfil the plugins requirements. Both is
+And the language runtime must fulfill the plugins requirements. Both is
 hard to accomplish if the system isn't fully under my control.
 
 The plugins are combined into 4 bundles:
 
-* `base`: Basic stuff.
-* `develop`: Stuff for writing software.
+* `colorschemes`: Colorschemes.
+* `dictionaries`: Spell checker and thesaurus.
+* `general`: Basic stuff.
 * `lsp`: Language server protocol.
 * `writing`: Stuff for writing text.
 
