@@ -26,8 +26,7 @@ fun! s:register_default_theme()
         \   'source' : 'http://github.com/NLKNguyen/papercolor-theme',
         \   'description' : 'The original PaperColor Theme, inspired by Google Material Design',
         \   'options' : {
-        \       'allow_bold': 1,
-        \       'allow_italic': 1
+        \       'allow_bold': 1
         \    }
         \ }
 
@@ -86,10 +85,10 @@ fun! s:register_default_theme()
         \       'folded_bg' : ['#afd7ff', '153'],
         \       'wildmenu_fg': ['#444444', '238'],
         \       'wildmenu_bg': ['#ffff00', '226'],
-        \       'spellbad':   ['#af0000', '225'],
-        \       'spellcap':   ['#af5f00', '229'],
-        \       'spelllocal': ['#d75f00', '189'],
-        \       'spellrare':  ['#d70000', '156'],
+        \       'spellbad':   ['#ffafd7', '218'],
+        \       'spellcap':   ['#ffffaf', '229'],
+        \       'spellrare':  ['#afff87', '156'],
+        \       'spelllocal': ['#d7d7ff', '189'],
         \       'diffadd_fg':    ['#008700', '28'],
         \       'diffadd_bg':    ['#afffaf', '157'],
         \       'diffdelete_fg': ['#af0000', '124'],
@@ -98,7 +97,6 @@ fun! s:register_default_theme()
         \       'difftext_bg':   ['#ffffd7', '230'],
         \       'diffchange_fg': ['#444444', '238'],
         \       'diffchange_bg': ['#ffd787', '222'],
-        \       'tabline_fg':          ['#c6c6c6', '251'],
         \       'tabline_bg':          ['#005f87', '24'],
         \       'tabline_active_fg':   ['#444444', '238'],
         \       'tabline_active_bg':   ['#e4e4e4', '254'],
@@ -177,10 +175,10 @@ fun! s:register_default_theme()
         \       'folded_bg' : ['#5f005f', '53'],
         \       'wildmenu_fg': ['#1c1c1c', '234'],
         \       'wildmenu_bg': ['#afd700', '148'],
-        \       'spellbad':   ['#e60000', '52'],
-        \       'spellcap':   ['#ffff00', '53'],
-        \       'spelllocal': ['#ff5faf', '17'],
-        \       'spellrare':  ['#5faf5f', '22'],
+        \       'spellbad':   ['#5f0000', '52'],
+        \       'spellcap':   ['#5f005f', '53'],
+        \       'spellrare':  ['#005f00', '22'],
+        \       'spelllocal': ['#00005f', '17'],
         \       'diffadd_fg':    ['#87d700', '112'],
         \       'diffadd_bg':    ['#005f00', '22'],
         \       'diffdelete_fg': ['#af005f', '125'],
@@ -189,7 +187,6 @@ fun! s:register_default_theme()
         \       'difftext_bg':   ['#008787', '30'],
         \       'diffchange_fg': ['#d0d0d0', '252'],
         \       'diffchange_bg': ['#005f5f', '23'],
-        \       'tabline_fg':          ['#6c6c6c', '242'],
         \       'tabline_bg':          ['#262626', '235'],
         \       'tabline_active_fg':   ['#121212', '233'],
         \       'tabline_active_bg':   ['#00afaf', '37'],
@@ -910,16 +907,19 @@ fun! s:set_color_variables()
     fun! s:create_color_variables(color_name, rich_color, term_color)
       let {'s:fg_' . a:color_name} = ' guifg=' . a:rich_color[0] . ' '
       let {'s:bg_' . a:color_name} = ' guibg=' . a:rich_color[0] . ' '
+      let {'s:sp_' . a:color_name} = ' guisp=' . a:rich_color[0] . ' '
     endfun
   elseif s:mode == s:MODE_256_COLOR
     fun! s:create_color_variables(color_name, rich_color, term_color)
       let {'s:fg_' . a:color_name} = ' ctermfg=' . a:rich_color[1] . ' '
       let {'s:bg_' . a:color_name} = ' ctermbg=' . a:rich_color[1] . ' '
+      let {'s:sp_' . a:color_name} = ''
     endfun
   else
     fun! s:create_color_variables(color_name, rich_color, term_color)
       let {'s:fg_' . a:color_name} = ' ctermfg=' . a:term_color . ' '
       let {'s:bg_' . a:color_name} = ' ctermbg=' . a:term_color . ' '
+      let {'s:sp_' . a:color_name} = ''
     endfun
   endif
   " }}}
@@ -1051,6 +1051,12 @@ fun! s:set_color_variables()
   call s:create_color_variables('wildmenu_fg', get(s:palette, 'wildmenu_fg', color00) , 'Black')
   call s:create_color_variables('wildmenu_bg', get(s:palette, 'wildmenu_bg', color06) , 'LightGray')
 
+  " Spelling: when spell on and there are spelling problems like this for example: papercolor. a vim color scheme
+  call s:create_color_variables('spellbad', get(s:palette, 'spellbad', color04) , 'DarkRed')
+  call s:create_color_variables('spellcap', get(s:palette, 'spellcap', color05) , 'DarkMagenta')
+  call s:create_color_variables('spellrare', get(s:palette, 'spellrare', color06) , 'DarkYellow')
+  call s:create_color_variables('spelllocal', get(s:palette, 'spelllocal', color01) , 'DarkBlue')
+
   " Diff:
   call s:create_color_variables('diffadd_fg', get(s:palette, 'diffadd_fg', color00) , 'Black')
   call s:create_color_variables('diffadd_bg', get(s:palette, 'diffadd_bg', color02) , 'DarkGreen')
@@ -1065,7 +1071,6 @@ fun! s:set_color_variables()
   call s:create_color_variables('diffchange_bg', get(s:palette, 'diffchange_bg', color14) , 'LightYellow')
 
   " Tabline: when having tabs, ex: :tabnew
-  call s:create_color_variables('tabline_fg',          get(s:palette, 'tabline_fg',          color07) , 'LightGray')
   call s:create_color_variables('tabline_bg',          get(s:palette, 'tabline_bg',          color00) , 'Black')
   call s:create_color_variables('tabline_active_fg',   get(s:palette, 'tabline_active_fg',   color07) , 'LightGray')
   call s:create_color_variables('tabline_active_bg',   get(s:palette, 'tabline_active_bg',   color00) , 'Black')
@@ -1185,7 +1190,7 @@ fun! s:apply_syntax_highlightings()
   end
 
   exec 'hi TabLine' . s:fg_tabline_inactive_fg . s:bg_tabline_inactive_bg . s:ft_none
-  exec 'hi TabLineFill' . s:fg_tabline_fg . s:bg_tabline_bg . s:ft_none
+  exec 'hi TabLineFill' . s:fg_tabline_bg . s:bg_tabline_bg . s:ft_none
   exec 'hi TabLineSel' . s:fg_tabline_active_fg . s:bg_tabline_active_bg . s:ft_none
 
   exec 'hi BufTabLineCurrent' . s:fg_buftabline_current_fg . s:bg_buftabline_current_bg . s:ft_none
@@ -1238,6 +1243,29 @@ fun! s:apply_syntax_highlightings()
   exec 'hi Title' . s:fg_comment
   exec 'hi Global' . s:fg_blue
 
+  " Neovim (LSP) diagnostics
+  if has('nvim')
+    exec 'hi LspDiagnosticsDefaultError' . s:fg_error_fg . s:bg_error_bg
+    exec 'hi LspDiagnosticsDefaultWarning' . s:fg_todo_fg . s:bg_todo_bg . s:ft_bold
+    exec 'hi LspDiagnosticsDefaultInformation' . s:fg_todo_fg . s:bg_todo_bg . s:ft_bold
+    exec 'hi LspDiagnosticsDefaultHint' . s:fg_todo_fg . s:bg_todo_bg . s:ft_bold
+
+    exec 'hi LspDiagnosticsUnderlineError cterm=undercurl gui=undercurl' . s:sp_error_fg
+    exec 'hi LspDiagnosticsUnderlineWarning cterm=undercurl gui=undercurl' . s:sp_todo_fg
+    exec 'hi LspDiagnosticsUnderlineInformation cterm=undercurl gui=undercurl' . s:sp_todo_fg
+    exec 'hi LspDiagnosticsUnderlineHint cterm=undercurl gui=undercurl' . s:sp_todo_fg
+
+    hi! link DiagnosticError LspDiagnosticsDefaultError
+    hi! link DiagnosticWarn LspDiagnosticsDefaultWarning
+    hi! link DiagnosticInfo LspDiagnosticsDefaultInformation
+    hi! link DiagnosticHint LspDiagnosticsDefaultHint
+
+    hi! link DiagnosticUnderlineError LspDiagnosticsUnderlineError
+    hi! link DiagnosticUnderlineWarn LspDiagnosticsUnderlineWarning
+    hi! link DiagnosticUnderlineInfo LspDiagnosticsUnderlineInformation
+    hi! link DiagnosticUnderlineHint LspDiagnosticsUnderlineHint
+
+  endif
 
   " Extension {{{
   " VimL Highlighting
@@ -1942,7 +1970,7 @@ fun! s:apply_syntax_highlightings()
   exec 'hi xmlEndTag' . s:fg_blue
   exec 'hi xmlNamespace' . s:fg_orange
 
-  " Exlixir Highlighting
+  " Elixir Highlighting
   " @target https://github.com/elixir-lang/vim-elixir
   exec 'hi elixirAlias' . s:fg_blue . s:ft_bold
   exec 'hi elixirAtom' . s:fg_navy
@@ -2135,6 +2163,14 @@ fun! s:apply_syntax_highlightings()
   exec 'hi DiffDelete' . s:fg_diffdelete_fg . s:bg_diffdelete_bg . s:ft_none
   exec 'hi DiffText' . s:fg_difftext_fg . s:bg_difftext_bg . s:ft_none
 
+  " Plugin: vim-gitgutter
+  exec 'hi GitGutterAdd' . s:fg_diffadd_fg
+  exec 'hi GitGutterChange' . s:fg_diffchange_fg
+  exec 'hi GitGutterDelete' . s:fg_diffdelete_fg
+  exec 'hi GitGutterAddLine' . s:fg_diffadd_fg . s:bg_diffadd_bg . s:ft_none
+  exec 'hi GitGutterChangeLine' . s:fg_diffchange_fg . s:bg_diffchange_bg . s:ft_none
+  exec 'hi GitGutterDeleteLine' . s:fg_diffdelete_fg . s:bg_diffdelete_bg . s:ft_none
+
   " Plugin: AGit
   exec 'hi agitHead' . s:fg_green . s:ft_bold
   exec 'hi agitHeader' . s:fg_olive
@@ -2155,6 +2191,12 @@ fun! s:apply_syntax_highlightings()
   exec 'hi agitRef' . s:fg_blue . s:ft_bold
   exec 'hi agitRemote' . s:fg_purple . s:ft_bold
   exec 'hi agitTag' . s:fg_orange . s:ft_bold
+
+  " Plugin: Spell Checking
+  exec 'hi SpellBad' . s:fg_foreground . s:bg_spellbad
+  exec 'hi SpellCap' . s:fg_foreground . s:bg_spellcap
+  exec 'hi SpellRare' . s:fg_foreground . s:bg_spellrare
+  exec 'hi SpellLocal' . s:fg_foreground . s:bg_spelllocal
 
   " Plugin: Indent Guides
   exec 'hi IndentGuidesOdd'  . s:bg_background
@@ -2197,17 +2239,69 @@ fun! s:apply_syntax_highlightings()
   exec 'hi diffBDiffer' . s:fg_orange
   exec 'hi diffNewFile' . s:fg_comment
 
-  " Spell Checker
-  " Hacked in, because the property generation above
-  " hasn't got support for undercurls and refactoring
-  " it is too much hassle.
-  "
-  " Colors taken from https://github.com/pappasam/papercolor-theme-slim
-  if (len(&t_8u) != 0) || has("gui_running")
-	  exec 'hi SpellBad cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spellbad')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spellbad')[0]
-	  exec 'hi SpellCap cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spellcap')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spellcap')[0]
-	  exec 'hi SpellRare cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spellrare')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spellrare')[0]
-	  exec 'hi SpellLocal cterm=undercurl ctermbg=NONE ctermfg=NONE ctermul=' .  get(s:palette, 'spelllocal')[1] . ' gui=undercurl guibg=NONE guifg=NONE guisp=' . get(s:palette, 'spelllocal')[0]
+  " Pluging: CoC
+  exec 'hi CocFloating' . s:fg_popupmenu_fg . s:bg_popupmenu_bg . s:ft_none
+  exec 'hi CocErrorFloat' . s:fg_popupmenu_fg . s:bg_popupmenu_bg . s:ft_none
+  exec 'hi CocWarningFloat' . s:fg_popupmenu_fg . s:bg_popupmenu_bg . s:ft_none
+  exec 'hi CocInfoFloat' . s:fg_popupmenu_fg . s:bg_popupmenu_bg . s:ft_none
+  exec 'hi CocHintFloat' . s:fg_popupmenu_fg . s:bg_popupmenu_bg . s:ft_none
+
+  exec 'hi CocErrorHighlight' . s:fg_foreground . s:bg_spellbad
+  exec 'hi CocWarningHighlight' . s:fg_foreground . s:bg_spellcap
+  exec 'hi CocInfoHighlight' . s:fg_foreground . s:bg_spellcap
+  exec 'hi CocHintHighlight' . s:fg_foreground . s:bg_spellcap
+
+  exec 'hi CocErrorSign' . s:fg_error_fg . s:bg_error_bg
+  exec 'hi CocWarningSign' . s:fg_todo_fg . s:bg_todo_bg . s:ft_bold
+  exec 'hi CocInfoSign' . s:fg_todo_fg . s:bg_todo_bg . s:ft_bold
+  exec 'hi CocHintSign' . s:fg_todo_fg . s:bg_todo_bg . s:ft_bold
+
+  " Debug Adapter Protocol (DAP) - Plugin: rcarriga/nvim-dap-ui
+  if has('nvim')
+    exec 'hi DapUIDecoration' . s:fg_blue
+    " DAP Scopes window
+    hi! link DapUIType Type
+    hi! link DapUIVariable Identifier
+    exec 'hi DapUIScope' . s:fg_red . s:ft_bold
+    hi! link DapUIValue Number
+    exec 'hi DapUIModifiedValue' . s:fg_orange . s:ft_bold . s:bg_error_bg
+    " DAP Breakpoints window
+    hi! link DapUILineNumber LineNr
+    hi! link DapUIBreakpointsDisabledLine LineNr
+    exec 'hi DapUIBreakpointsCurrentLine' . s:fg_linenumber_fg . s:ft_bold . s:bg_error_bg
+    exec 'hi DapUIBreakpointsInfo' . s:fg_green
+    exec 'hi DapUIBreakpointsPath' . s:fg_olive . s:ft_bold
+    " DAP Stacks window
+    exec 'hi DapUIFrameName' . s:fg_blue
+    exec 'hi DapUIThread' . s:fg_pink . s:ft_bold
+    exec 'hi DapUIStoppedThread' . s:fg_pink
+    " DAP Watches window
+    exec 'hi DapUIWatchesEmpty' . s:fg_pink . s:ft_bold
+    hi! link DapUIWatchesError DapUIWatchesEmpty
+    hi! link DapUIWatchesValue Number
+    " DAP Breakpoints window
+    exec 'hi DapUISource' . s:fg_olive
+    " DAP Floating window
+    exec 'hi DapUIFloatBorder' . s:fg_blue
+  endif
+
+  " Plugin: hrsh7th/nvim-cmp
+  if has('nvim')
+    hi! link CmpItemKindValue Number
+    hi! link CmpItemKindVariable Identifier
+    hi! link CmpItemKindKeyword Keyword
+    hi! link CmpItemKindField CmpItemKindVariable
+    exec 'hi CmpItemKindFunction' . s:fg_blue
+    hi! link CmpItemKindMethod CmpItemKindFunction
+    hi! link CmpItemKindConstructor CmpItemKindFunction
+    hi! link CmpItemKindClass Structure
+    hi! link CmpItemKindInterface Structure
+    exec 'hi CmpItemKindSnippet' . s:fg_orange
+    exec 'hi CmpItemKindFile' . s:fg_orange
+    hi! link CmpItemKindFolder CmpItemKindFile
+    exec 'hi CmpItemAbbrMatch' . s:fg_blue . s:ft_bold
+    exec 'hi CmpItemAbbrMatchFuzzy' . s:fg_blue . s:ft_bold
+    exec 'hi CmpItemAbbrDeprecated' . s:fg_foreground . ' gui=strikethrough'
   endif
 
 endfun
