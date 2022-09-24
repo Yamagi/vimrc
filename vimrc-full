@@ -229,11 +229,11 @@ endif
 " ihren Wörtern kaum überschneiden, setzen wir einfach beide Sprachen
 " zugleich. Vim fragt dann beide Dateien ab und zeigt alle Treffer an.
 if has("win64") || has("win32")
-	set thesaurus=$HOME/vimfiles/spell/thesaurus-de.txt
-	set thesaurus+=$HOME/vimfiles/spell/thesaurus-en.txt
+	set thesaurus=$HOME/vimfiles/pack/dictionaries/start/thesaurus/thesaurus-de.txt
+	set thesaurus+=$HOME/vimfiles/pack/dictionaries/start/thesaurus/thesaurus-en.txt
 else
-	set thesaurus=$HOME/.vim/spell/thesaurus-de.txt
-	set thesaurus+=$HOME/.vim/spell/thesaurus-en.txt
+	set thesaurus=$HOME/.vim/pack/dictionaries/start/thesaurus/thesaurus-de.txt
+	set thesaurus+=$HOME/.vim/pack/dictionaries/start/thesaurus/thesaurus-en.txt
 endif
 
 " ----
