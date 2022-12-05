@@ -46,7 +46,7 @@ let g:lsp_signature_help_enabled = 1
 
 let g:lsp_registered_ccls = 0
 let g:lsp_registered_gopls = 0
-let g:lsp_registered_pyls = 0
+let g:lsp_registered_pylsp = 0
 
 " ccls for C/C++/ObjC
 if executable('ccls')
@@ -79,15 +79,15 @@ if executable('gopls')
 endif
 
 
-" pyls for Python
-if executable('pyls')
+" pylsp for Python
+if executable('pylsp')
 	au User lsp_setup call lsp#register_server({
-				\ 'name': 'pyls',
-				\ 'cmd': {server_info->['pyls']},
+				\ 'name': 'pylsp',
+				\ 'cmd': {server_info->['pylsp']},
 				\ 'whitelist': ['python'],
 				\ })
 
-	let g:lsp_registered_pyls = 1
+	let g:lsp_registered_pylsp = 1
 endif
 
 " ----
@@ -131,7 +131,7 @@ if g:lsp_registered_gopls == 1
 	augroup END
 endif
 
-if g:lsp_registered_pyls == 1
+if g:lsp_registered_pylsp == 1
 	augroup vimrcEx
 		autocmd FileType python call lsp#enable()
 		autocmd FileType python call g:LSP_Mappings()
@@ -140,4 +140,4 @@ endif
 
 unlet g:lsp_registered_ccls
 unlet g:lsp_registered_gopls
-unlet g:lsp_registered_pyls
+unlet g:lsp_registered_pylsp
