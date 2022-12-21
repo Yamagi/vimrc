@@ -15,6 +15,10 @@
 " See below for the corresponding autocommands.
 let g:lsp_auto_enable = 0
 
+" Use the native (vim integrated) client.
+" It's way faster and more reliable.
+let g:lsp_use_native_client = 1
+
 " Hints at the left window side.
 let g:lsp_diagnostics_signs_enabled = 1
 
@@ -33,13 +37,25 @@ endif
 " Show message when cursor is above a hint.
 let g:lsp_diagnostics_echo_cursor = 1
 
+" Display diagnostics inline as virtual text.
+let g:lsp_diagnostics_virtual_text_enabled = 1
+
+if g:vimrc_utf8 == 1
+	let g:lsp_diagnostics_virtual_text_prefix = '<- '
+else
+	let g:lsp_diagnostics_virtual_text_prefix = '← '
+endif
+
+" Display inline hints if the server supports them,
+let g:lsp_inlay_hints_enabled = 1
+
 " No automatic completions.
 let g:asyncomplete_auto_popup = 0
 
 " No smart completions.
 let g:asyncomplete_smart_completion = 0
 
-" No signature help popups.
+" Signature help popups.
 let g:lsp_signature_help_enabled = 1
 
 " ----
