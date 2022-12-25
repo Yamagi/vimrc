@@ -32,7 +32,11 @@ function! s:request(filetype, bufnr, method, params, handler) abort
         if l:is_yggdrasil
             let l:temp_file_name = tempname()
             silent set buftype=
-            silent execute 'set filetype=' . a:filetype
+
+            if &filetype != 'yggdrasil'
+                silent execute 'set filetype=' . a:filetype
+            endif
+
             silent execute 'file ' . l:temp_file_name
         endif
 
