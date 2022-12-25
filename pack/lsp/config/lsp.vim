@@ -6,6 +6,7 @@
 
 " ccls-lsp is an extension for vim-lsp, implementing
 " some functionality specific to ccls.
+" https://github.com/m-pilia/vim-ccls
 
 " ----
 
@@ -77,7 +78,7 @@ if executable('ccls')
 				\ 'cmd': {server_info->['ccls']},
 				\ 'root_uri': {server_info->lsp#utils#path_to_uri(lsp#utils#find_nearest_parent_file_directory(lsp#utils#get_buffer_path(), 'compile_commands.json'))},
 				\ 'initialization_options': { 'cache': {'directory': g:ccls_cache_dir }},
-				\ 'whitelist': ['c', 'cpp', 'objc', 'objcpp', 'cc'],
+				\ 'allowlist': ['c', 'cpp', 'objc', 'objcpp', 'cc'],
 				\ })
 
 	let g:lsp_registered_ccls = 1
@@ -88,7 +89,7 @@ if executable('gopls')
 	au User lsp_setup call lsp#register_server({
 				\ 'name': 'gopls',
 				\ 'cmd': {server_info->['gopls']},
-				\ 'whitelist': ['go'],
+				\ 'allowlist': ['go'],
 				\ })
 
 	let g:lsp_registered_gopls = 1
@@ -100,7 +101,7 @@ if executable('pylsp')
 	au User lsp_setup call lsp#register_server({
 				\ 'name': 'pylsp',
 				\ 'cmd': {server_info->['pylsp']},
-				\ 'whitelist': ['python'],
+				\ 'allowlist': ['python'],
 				\ })
 
 	let g:lsp_registered_pylsp = 1
