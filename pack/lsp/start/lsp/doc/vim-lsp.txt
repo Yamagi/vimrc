@@ -30,6 +30,8 @@ CONTENTS                                                  *vim-lsp-contents*
       g:lsp_diagnostics_echo_delay          |g:lsp_diagnostics_echo_delay|
       g:lsp_diagnostics_float_cursor        |g:lsp_diagnostics_float_cursor|
       g:lsp_diagnostics_float_delay         |g:lsp_diagnostics_float_delay|
+      g:lsp_diagnostics_float_insert_mode_enabled
+                                  |g:lsp_diagnostics_float_insert_mode_enabled|
       g:lsp_diagnostics_highlights_enabled
 			     |g:lsp_diagnostics_highlights_enabled|
       g:lsp_diagnostics_highlights_insert_mode_enabled
@@ -49,8 +51,12 @@ CONTENTS                                                  *vim-lsp-contents*
 			     |g:lsp_diagnostics_virtual_text_insert_mode_enabled|
       g:lsp_diagnostics_virtual_text_delay
 			     |g:lsp_diagnostics_virtual_text_delay|
-      g:lsp_diagnostics_virtual_text_prefix
-			     |g:lsp_diagnostics_virtual_text_prefix|
+      g:lsp_diagnostics_virtual_text_align
+			     |g:lsp_diagnostics_virtual_text_align|
+      g:lsp_diagnostics_virtual_text_padding_left
+			     |g:lsp_diagnostics_virtual_text_padding_left|
+      g:lsp_diagnostics_virtual_text_wrap
+			     |g:lsp_diagnostics_virtual_text_wrap|
       g:lsp_document_code_action_signs_enabled
 			     |g:lsp_document_code_actions_signs_enabled|
       g:lsp_document_code_action_signs_delay
@@ -527,6 +533,18 @@ g:lsp_diagnostics_float_delay                *g:lsp_diagnostics_float_delay*
 	let g:lsp_diagnostics_float_delay = 200
 	let g:lsp_diagnostics_float_delay = 1000
 
+g:lsp_diagnostics_float_insert_mode_enabled
+                                 *g:lsp_diagnostics_float_insert_mode_enabled*
+    Type: |Boolean|
+    Default: `1`
+
+    Indicates whether to enable float of diagnostic error for the current line
+    to status when in |insertmode|. Requires |g:lsp_diagnostics_enabled| and
+    |g:lsp_diagnostics_float_cursor| set to 1.
+
+    Example: >
+	let g:lsp_diagnostics_float_insert_mode_enabled = 0
+
 g:lsp_format_sync_timeout                           *g:lsp_format_sync_timeout*
     Type: |Number|
     Default: `-1`
@@ -720,6 +738,51 @@ g:lsp_diagnostics_virtual_text_prefix   *g:lsp_diagnostics_virtual_text_prefix*
 	let g:lsp_diagnostics_virtual_text_prefix = "> "
 	let g:lsp_diagnostics_virtual_text_prefix = " ‣ "
 
+g:lsp_diagnostics_virtual_text_align    *g:lsp_diagnostics_virtual_text_align*
+    Type: |String|
+    Default: `"below"`
+
+    Determines the align of the diagnostics virtual text. Requires
+    |g:lsp_diagnostics_virtual_text_enabled|.
+
+    Possible values are:
+
+       after   after the end of the line
+       right   right aligned in the window (unless the text wraps to the next
+               screen line)
+       below   in the next screen line
+       above   just above the line
+
+    Only one "right" property can fit in each line, if there are two or more
+    these will go in a separate line (still right aligned).
+
+    This value is passed as the "text_align" property in a |prop_add()| call.
+
+    Example: >
+	let g:lsp_diagnostics_virtual_text_align = "right"
+
+g:lsp_diagnostics_virtual_text_padding_left
+                                  *g:lsp_diagnostics_virtual_text_padding_left*
+    Type: |Number|
+    Default: `1`
+
+    Determines the left padding of the diagnostics virtual text. Requires
+    |g:lsp_diagnostics_virtual_text_enabled|.
+
+    Example: >
+	let g:lsp_diagnostics_virtual_text_padding_left = 2
+
+g:lsp_diagnostics_virtual_text_wrap       *g:lsp_diagnostics_virtual_text_wrap*
+    Type: |String|
+    Default: `"wrap"`
+
+    Determines whether or not to wrap the diagnostics virtual text. Possible
+    values are one of `'wrap'`, `'truncate'`. Requires
+    |g:lsp_diagnostics_virtual_text_enabled|.
+
+    Example: >
+	let g:lsp_diagnostics_virtual_text_wrap = "truncate"
+
 g:lsp_document_code_action_signs_enabled
 				      *g:lsp_document_code_action_signs_enabled*
     Type: |Number|
@@ -885,7 +948,7 @@ g:lsp_get_supported_capabilities         *g:lsp_get_supported_capabilities*
     capabilities vim-lsp sends to a language server.
 
     Note: You can obtain the default supported capabilities of vim-lsp by
-    calling `lsp#omni#default_get_supported_capabilities` from within your
+    calling `lsp#default_get_supported_capabilities` from within your
     function.
 
 g:lsp_peek_alignment                                 *g:lsp_peek_alignment*
@@ -1231,7 +1294,8 @@ The vim |dict| containing information about the server.
 	'blocklist': ['javascript', 'typescript']
 <
   * workspace_config:
-    optional vim |dict|
+    optional
+    vim |dict| or a function returning a vim |dict|
     Used to pass workspace configuration to the server after
     initialization. Configuration settings are language-server specific.
 
@@ -1730,7 +1794,7 @@ LspNextReference                                         *:LspNextReference*
 
 Jump to the next reference of the symbol under cursor.
 
-LspNextWarning [-wrap=0]                              :LspNextWarning*
+LspNextWarning [-wrap=0]                              *:LspNextWarning*
 
 Jump to Next warning diagnostics
 With '-wrap=0', stop wrapping around the end of file.
@@ -2077,7 +2141,7 @@ To use semantic highlighting, you need Neovim highlights, or Vim with the
 To enable semantic highlighting, |g:lsp_semantic_enabled| should be set to `1`
 (it is `0` by default). You can check if semantic highlighting is enabled
 by running: >
-    echo lsp#ui#vim#semantic#is_enabled()
+    echo lsp#internal#semantic#is_enabled()
 
 vim-lsp provides |highlight| groups for each of the token types supported by
 the current LSP server. This includes highlight groups for each of the
