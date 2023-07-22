@@ -29,7 +29,7 @@ Usage
     - Turn Goyo off
 
 The window can be resized with the usual `[count]<CTRL-W>` + `>`, `<`, `+`,
-`-` keys.
+`-` keys, and `<CTRL-W>` + `=` will resize it back to the initial size.
 
 ### Dimension expression
 
@@ -77,8 +77,10 @@ to be triggered on `GoyoEnter` and `GoyoLeave` events.
 
 ```vim
 function! s:goyo_enter()
-  silent !tmux set status off
-  silent !tmux list-panes -F '\#F' | grep -q Z || tmux resize-pane -Z
+  if executable('tmux') && strlen($TMUX)
+    silent !tmux set status off
+    silent !tmux list-panes -F '\#F' | grep -q Z || tmux resize-pane -Z
+  endif
   set noshowmode
   set noshowcmd
   set scrolloff=999
@@ -87,8 +89,10 @@ function! s:goyo_enter()
 endfunction
 
 function! s:goyo_leave()
-  silent !tmux set status on
-  silent !tmux list-panes -F '\#F' | grep -q Z && tmux resize-pane -Z
+  if executable('tmux') && strlen($TMUX)
+    silent !tmux set status on
+    silent !tmux list-panes -F '\#F' | grep -q Z && tmux resize-pane -Z
+  endif
   set showmode
   set showcmd
   set scrolloff=5
@@ -102,6 +106,56 @@ autocmd! User GoyoLeave nested call <SID>goyo_leave()
 
 More examples can be found here:
 [Customization](https://github.com/junegunn/goyo.vim/wiki/Customization)
+
+FAQ
+---
+
+> _"My custom colors are lost when I exit Goyo!"_
+
+That's because Goyo restores the base color scheme using `:colorscheme
+CURRENT_COLOR_SCHEME` command on exit, and it resets your tweaks. Goyo can try
+to remember all your customizations and restore them on exit, but it doesn't,
+because there is a better, more robust way to address the issue.
+
+The real problem here is that you will lose all your changes when you switch
+between color schemes, even when you're not using Goyo.
+
+```vim
+" In your Vim configuration file
+" - Base color scheme
+colorscheme molokai
+
+" - Your color customizations
+hi LineNr ctermfg=red guifg=red
+```
+
+It works, only when you stick to a single color scheme. When you switch
+between color schemes,
+
+```vim
+" Switch to another color scheme
+colorscheme Tomorrow-Night
+
+" Switch back to the original one
+colorscheme molokai
+```
+
+And all the customizations you have made are lost.
+
+What you should to do is to customize the colors on `autocmd ColorScheme`,
+which is automatically triggered whenever you change color schemes.
+
+```vim
+function! s:tweak_molokai_colors()
+  " Your molokai customizations
+  hi LineNr ...
+  hi FoldColumn ...
+endfunction
+
+autocmd! ColorScheme molokai call s:tweak_molokai_colors()
+
+colorscheme molokai
+```
 
 Inspiration
 -----------
