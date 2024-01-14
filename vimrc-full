@@ -421,6 +421,35 @@ endif
 
 " ----
 
+" Inzwischen unterstützen viele Themes im GUI Undercurls für
+" den Spellchecker, allerdings nichts im TUI. Grund dafür ist,
+" dass viele Terminals entweder gar keine Undercurls oder nur
+" Undercurls in der Vordergrundfarbe der Zelle unterstützen.
+" Weiter oben konfigurieren wir Undercurls explizit für einige
+" Terminals. Auf diesen Terminals schalten auch Truecolor ein
+" und setzen termguicolors.
+"
+" Daher: Wenn wir ein GUI haben oder termguicolors gesetzt ist,
+" überschreibe die Highlightgruppen für den Spellchecker, sodass
+" Undercurls genutzt werden. Damit das auch bei später geladenen
+" Themes funktioniert, per autocmd und Funktion.
+function OverrideSpellHighlights()
+	if has("gui_running") || &termguicolors
+		hi SpellBad guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
+					\ ctermbg=NONE cterm=undercurl
+		hi SpellCap guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
+					\ ctermbg=NONE cterm=undercurl
+		hi SpellLocal guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
+					\ ctermbg=NONE cterm=undercurl
+		hi SpellRare guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
+					\ ctermbg=NONE cterm=undercurl
+	endif
+endfunction
+
+augroup vimrcEx
+	autocmd ColorScheme * call OverrideSpellHighlights()
+augroup END
+
 " Unser Farbschema laden.
 set background=dark
 colorscheme PaperColor
