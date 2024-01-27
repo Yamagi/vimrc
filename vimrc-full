@@ -344,6 +344,11 @@ if !has("gui_running")
 
 		" Die Mausunterstütztung nutzt das SGR-Protokoll.
 		set ttymouse=sgr
+
+		" Alacritty unterstützt das Kitty Keyboard Protocol,
+		" was einige Vorteile wie die Unterstützung von mehr
+		" Funktionstasten / Modifier bringt.
+		set keyprotocol=alacritty:kitty
 	elseif (&term =~ "tmux") || (&term =~ "screen")
 		" tmux setzt auf älteren Installationen oft noch
 		" $TERM auf screen-256color, daher werden tmux
