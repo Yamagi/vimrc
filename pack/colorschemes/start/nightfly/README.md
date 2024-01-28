@@ -1,9 +1,12 @@
 ![nightfly](https://raw.githubusercontent.com/bluz71/misc-binaries/master/headings/nightfly.png)
 ==========
 
-_nightfly_ is a dark GUI colorscheme for Vim & Neovim.
+_nightfly_ is a dark midnight theme for modern Neovim and classic Vim.
 
-:point_right: I maintain another dark Vim theme named
+Note, all _nightfly_ highlights in Neovim are implemented in Lua, whilst
+highlights in Vim are implemented in legacy Vimscript.
+
+:point_right: I maintain another dark theme named
 [moonfly](https://github.com/bluz71/vim-moonfly-colors) which may be of
 interest.
 
@@ -15,73 +18,78 @@ Screenshot
 Styled Features & Plugins
 -------------------------
 
-Vim & Neovim compatible:
+Neovim-only:
 
-- [ALE](https://github.com/dense-analysis/ale)
+- [Neovim Tree-sitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [Neovim Diagnostic](https://neovim.io/doc/user/diagnostic.html)
+- [Neovim LSP Semantic Highlights](https://neovim.io/doc/user/lsp.html#lsp-semantic-highlight)
+- [Barbar](https://github.com/romgrk/barbar.nvim)
+- [Dashboard](https://github.com/glepnir/dashboard-nvim)
+- [Gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- [Hop](https://github.com/phaazon/hop.nvim)
+- [Indent BlankLine](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [Lazy](https://github.com/folke/lazy.nvim)
+- [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
+- [mason.nvim](https://github.com/williamboman/mason.nvim)
+- [Mini](https://github.com/echasnovski/mini.nvim)
+- [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
+- [Neogit](https://github.com/NeogitOrg/neogit)
+- [Noice](https://github.com/folke/noice.nvim)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+- [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
+- [nvim-navic](https://github.com/SmiteshP/nvim-navic)
+- [nvim-notify](https://github.com/rcarriga/nvim-notify)
+- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
+- [Rainbow Delimiters](https://github.com/HiPhish/rainbow-delimiters.nvim)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+
+Neovim & Vim compatible:
+
 - [BufExplorer](https://github.com/jlanzarotta/bufexplorer)
 - [clever-f](https://github.com/rhysd/clever-f.vim)
 - [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
 - [Fern](https://github.com/lambdalisue/fern.vim)
 - [fzf.vim](https://github.com/junegunn/fzf.vim) (works best with matching [fly16](https://github.com/bluz71/fly16-bat) [bat](https://github.com/sharkdp/bat) theme)
-- [GitGutter](https://github.com/airblade/vim-gitgutter)
-- [indentLine](https://github.com/Yggdroot/indentLine)
 - [lightline](https://github.com/itchyny/lightline.vim)
-- [NERDTree](https://github.com/scrooloose/nerdtree)
-- [Signify](https://github.com/mhinz/vim-signify)
 - [Tagbar](https://github.com/majutsushi/tagbar)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 
-Neovim-only:
+Vim-only:
 
-- [Neovim Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-- [Neovim Diagnostic](https://neovim.io/doc/user/diagnostic.html)
-- [Barbar](https://github.com/romgrk/barbar.nvim)
-- [Bufferline](https://github.com/akinsho/bufferline.nvim)
-- [Dashboard](https://github.com/glepnir/dashboard-nvim)
-- [Gitsigns](https://github.com/lewis6991/gitsigns.nvim)
-- [Hop](https://github.com/phaazon/hop.nvim)
-- [Indent BlankLine](https://github.com/lukas-reineke/indent-blankline.nvim)
-- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
-- [Mini](https://github.com/echasnovski/mini.nvim)
-- [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
-- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
-- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [ALE](https://github.com/dense-analysis/ale)
+- [GitGutter](https://github.com/airblade/vim-gitgutter)
+- [indentLine](https://github.com/Yggdroot/indentLine)
+- [NERDTree](https://github.com/preservim/nerdtree)
+- [Signify](https://github.com/mhinz/vim-signify)
 
 :zap: Requirements
 ------------------
 
 _nightfly_ is a **GUI-only** colorscheme.
 
-A GUI client, such as Gvim, or a modern terminal version of Vim or Neovim with
-`termguicolors` enabled in a true-color terminal, is required. Details about
-true-color terminals are listed below.
+A GUI client or a modern terminal version of Vim or Neovim in a true-color
+terminal is required. Details about true-color terminals are [listed
+here](https://github.com/bluz71/vim-nightfly-colors#true-color-terminals).
 
-_nightfly_ explicitly does **not** support the 256 color `cterm` version of Vim
-due to the number of custom colors required. 256 color terminals only allow 16
-custom colors. I encourage terminal users to use a true-color terminal, such as:
-[iTerm2](https://iterm2.com),
-[Alacritty](https://github.com/alacritty/alacritty),
-[Windows Terminal](https://github.com/microsoft/terminal), or
-[kitty](https://sw.kovidgoyal.net/kitty/index.html) and enable the
-`termguicolors` option.
+_nightfly_ explicitly does **not** support the 256 color `cterm` version of Vim.
 
 Installation
 ------------
 
-Install the **bluz71/vim-nightfly-guicolors** colorscheme with your preferred
+Install the **bluz71/vim-nightfly-colors** colorscheme with your preferred
 plugin manager.
+
+[lazy.nvim](https://github.com/folke/lazy.nvim):
+
+```lua
+{ "bluz71/vim-nightfly-colors", name = "nightfly", lazy = false, priority = 1000 },
+```
 
 [vim-plug](https://github.com/junegunn/vim-plug):
 
-```viml
-Plug 'bluz71/vim-nightfly-guicolors'
-```
-
-[packer.nvim](https://github.com/wbthomason/packer.nvim):
-
-```lua
-use 'bluz71/vim-nightfly-guicolors'
+```vim
+Plug 'bluz71/vim-nightfly-colors', { 'as': 'nightfly' }
 ```
 
 Usage
@@ -89,7 +97,7 @@ Usage
 
 Enable the colorscheme after the plugin declaration.
 
-```viml
+```vim
 " Vimscript initialization file
 colorscheme nightfly
 ```
@@ -102,40 +110,44 @@ vim.cmd [[colorscheme nightfly]]
 Statusline
 ----------
 
-- The _nightfly_ colorscheme supports
+- The _nightfly_ theme supports
   [lightline](https://github.com/itchyny/lightline.vim). To enable the
-  _nightfly_ lightline colorscheme please add the following to your
+  _nightfly_ lightline theme please add the following to your
   initialization file:
 
-```viml
+```vim
 let g:lightline = { 'colorscheme': 'nightfly' }
 ```
 
-- The _nightfly_ colorscheme supports
+- The _nightfly_ theme supports
   [vim-airline](https://github.com/vim-airline/vim-airline). The _nightfly_
   theme will load once vim-airline starts.
 
-- The _nightfly_ colorscheme supports
+- The _nightfly_ theme supports
   [Lualine](https://github.com/nvim-lualine/lualine.nvim). The
   _nightfly_ theme will automatically load once Lualine starts.
 
-- Lastly, my own
-  [mistfly-statusline](https://github.com/bluz71/vim-mistfly-statusline) is
-  available for those that want a simple, fast and informative status line.
+- My [linefly](https://github.com/bluz71/nvim-linefly) `statusline` plugin
+  supports the _nightfly_ theme.
+
+- Lastly, my legacy
+  [mistfly-statusline](https://github.com/bluz71/vim-mistfly-statusline) plugin
+  also supports the _nightfly_ theme.
 
 :wrench: Options
 ----------------
 
 | Option | Default State
 |--------|--------------
-| [nightflyCursorColor](https://github.com/bluz71/vim-nightfly-guicolors#nightflycursorcolor)                 | Disabled
-| [nightflyItalics](https://github.com/bluz71/vim-nightfly-guicolors#nightflyitalics)                         | Enabled
-| [nightflyNormalFloat](https://github.com/bluz71/vim-nightfly-guicolors#nightflynormalfloat)                 | Disabled
-| [nightflyTerminalColors](https://github.com/bluz71/vim-nightfly-guicolors#nightflyterminalcolors)           | Enabled
-| [nightflyTransparent](https://github.com/bluz71/vim-nightfly-guicolors#nightflytransparent)                 | Disabled
-| [nightflyUndercurls](https://github.com/bluz71/vim-nightfly-guicolors#nightflyundercurls)                   | Enabled
-| [nightflyUnderlineMatchParen](https://github.com/bluz71/vim-nightfly-guicolors#nightflyunderlinematchparen) | Disabled
-| [nightflyWinSeparator](https://github.com/bluz71/vim-nightfly-guicolors#nightflywinseparator)               | `1`
+| [nightflyCursorColor](https://github.com/bluz71/vim-nightfly-colors#nightflycursorcolor)                 | Disabled
+| [nightflyItalics](https://github.com/bluz71/vim-nightfly-colors#nightflyitalics)                         | Enabled
+| [nightflyNormalFloat](https://github.com/bluz71/vim-nightfly-colors#nightflynormalfloat)                 | Disabled
+| [nightflyTerminalColors](https://github.com/bluz71/vim-nightfly-colors#nightflyterminalcolors)           | Enabled
+| [nightflyTransparent](https://github.com/bluz71/vim-nightfly-colors#nightflytransparent)                 | Disabled
+| [nightflyUndercurls](https://github.com/bluz71/vim-nightfly-colors#nightflyundercurls)                   | Enabled
+| [nightflyUnderlineMatchParen](https://github.com/bluz71/vim-nightfly-colors#nightflyunderlinematchparen) | Disabled
+| [nightflyVirtualTextColor](https://github.com/bluz71/vim-nightfly-colors#nightflyvirtualtextcolor)       | Disabled
+| [nightflyWinSeparator](https://github.com/bluz71/vim-nightfly-colors#nightflywinseparator)               | `1`
 
 ---
 
@@ -145,7 +157,7 @@ The `nightflyCursorColor` option specifies whether to color the cursor or not.
 By default the cursor will **NOT** be colored. If you prefer a colored cursor
 then add the following to your initialization file:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyCursorColor = v:true
 ```
@@ -164,7 +176,7 @@ certain HTML elements in GUI versions of Vim. By default this option is
 **enabled**. If you do not like the appearance of italics then add the following
 to your initialization file:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyItalics = v:false
 ```
@@ -184,7 +196,7 @@ and foreground colors in Neovim floating windows. By default this option is
 menu colors. If you would like to use nightfly colors instead then add the
 following to your configuration:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyNormalFloat = v:true
 ```
@@ -236,7 +248,7 @@ palette in `:terminal` windows when `termguicolors` is set. By default this
 option is **enabled**. If you prefer not to use the nightfly color palette for
 the first 16 terminal colors then add the following to your initialization file:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyTerminalColors = v:false
 ```
@@ -255,7 +267,7 @@ transparent background in GUI versions of Vim. By default this option is
 **disabled**. If you would like a transparent background then add the following
 to your initialization file:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyTransparent = v:true
 ```
@@ -274,7 +286,7 @@ spelling and linting errors in GUI versions of Vim, including terminal Vim with
 `termguicolors` set. By default this option is **enabled**. If you do not like
 the appearance of undercurls then add the following to your initialization file:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyUndercurls = v:false
 ```
@@ -293,7 +305,7 @@ matching parentheses. By default this option is **disabled**. If you want to
 underline matching parentheses then add the following to your initialization
 file:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyUnderlineMatchParen = v:true
 ```
@@ -301,6 +313,25 @@ let g:nightflyUnderlineMatchParen = v:true
 ```lua
 -- Lua initialization file
 vim.g.nightflyUnderlineMatchParen = true
+```
+
+---
+
+### nightflyVirtualTextColor
+
+The `nightflyVirtualTextColor` option specifies whether to display diagnostic
+virtual text in color. By default this option is **disabled**. If you want to
+display diagnostic virtual text in color then add the following to your
+initialization file:
+
+```vim
+" Vimscript initialization file
+let g:nightflyVirtualTextColor = v:true
+```
+
+```lua
+-- Lua initialization file
+vim.g.nightflyVirtualTextColor = true
 ```
 
 ---
@@ -318,7 +349,7 @@ The `nightflyWinSeparator` option specifies the style of window separators:
 For example, if line separators are desired then add the following to your
 configuration:
 
-```viml
+```vim
 " Vimscript initialization file
 let g:nightflyWinSeparator = 2
 ```
@@ -332,7 +363,7 @@ vim.g.nightflyWinSeparator = 2
 the look of line separators (if option `2` has been chosen) by selecting thicker
 characters for the separators:
 
-```viml
+```vim
 " Vimscript initialization file
 set fillchars=horiz:━,horizup:┻,horizdown:┳,vert:┃,vertleft:┨,vertright:┣,verthoriz:╋
 ```
@@ -340,6 +371,35 @@ set fillchars=horiz:━,horizup:┻,horizdown:┳,vert:┃,vertleft:┨,vertrigh
 ```lua
 -- Lua initialization file
 vim.opt.fillchars = { horiz = '━', horizup = '┻', horizdown = '┳', vert = '┃', vertleft = '┫', vertright = '┣', verthoriz = '╋', }
+```
+
+Overriding Highlights
+---------------------
+
+If a certain highlight of this theme does not suit then it is recommended to use
+an `autocmd` to override that desired highlight.
+
+For example, if one wishes to highlight functions in bold then simply add the
+following to your initialization file prior to setting the colorscheme:
+
+```vim
+" Vimscript initialization file
+augroup CustomHighlight
+    autocmd!
+    autocmd ColorScheme nightfly highlight Function guifg=#82aaff gui=bold
+augroup END
+```
+
+```lua
+-- Lua initialization file
+local custom_highlight = vim.api.nvim_create_augroup("CustomHighlight", {})
+vim.api.nvim_create_autocmd("ColorScheme", {
+  pattern = "nightfly",
+  callback = function()
+    vim.api.nvim_set_hl(0, "Function", { fg = "#82aaff", bold = true })
+  end,
+  group = custom_highlight,
+})
 ```
 
 True Color Terminals
@@ -353,7 +413,6 @@ enabled.
 A list of popular terminals that support true colors:
 
 - [iTerm2](http://www.iterm2.com)
-- [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal)
 - [Windows Terminal](https://github.com/Microsoft/Terminal)
 - [Alacritty](https://github.com/alacritty/alacritty)
 - [kitty](https://sw.kovidgoyal.net/kitty/index.html)
@@ -374,44 +433,38 @@ set -ga terminal-overrides ',xterm-256color:Tc'
 Vim, as against Neovim, inside _tmux_, will also require the following settings
 be added to the `~/.vimrc` file:
 
-```viml
+```vim
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 ```
 
-Terminal Themes
----------------
+Extra Themes
+------------
 
-A collection of _nightfly_-flavoured terminal themes are provided:
-
-- _iTerm2_ users on macOS can import
-  [this](terminal_themes/nightfly.itermcolors) colorscheme
+A collection of _nightfly_-flavoured themes are provided:
 
 - [Alacritty](https://github.com/alacritty/alacritty) users can copy
-  [this](terminal_themes/alacritty.yml) theme into their `alacritty.yml`
-  configuration.
-
-- [Windows Terminal](https://github.com/microsoft/terminal) users can copy
-  [this](terminal_themes/windows-terminal-settings.json) theme into their `settings.json`
-  configuration.
+  [this](extras/nightfly-alacritty.toml) theme into their `alacritty.toml`
+  configuration
 
 - [kitty](https://sw.kovidgoyal.net/kitty) users can use
-  [this](terminal_themes/kitty-theme.conf) theme
+  [this](extras/kitty-theme.conf) theme
 
-- _GNOME Terminal_ users can run
-  [this](terminal_themes/gnome-terminal-nightfly.sh) script to create a
-  _Nightfly_ profile. Before executing the script, please install the
-  `dconf-cli` command line utility for modern versions of Gnome (3.28 and
-  later), for example `sudo apt install dconf-cli`. After executing the script,
-  please set the _cursor_ and _selection_ colors by hand, with the appropriate
-  color values listed below, in `Preferences` / `Nightfly` / `Colors`.
+- [fish](https://fishshell.com) users can use [this](extras/nightfly.fish) theme
+
+- _iTerm2_ users on macOS can import
+  [this](extras/nightfly.itermcolors) colorscheme
+
+- [Windows Terminal](https://github.com/microsoft/terminal) users can copy
+  [this](extras/windows-terminal-settings.json) theme into their `settings.json`
+  configuration
 
 For other terminals please configure appropriately with the following colors:
 
 | Type           | Category        | Value     | Color
 |----------------|-----------------|-----------|------------------------------------------------------
 | Background     | Background      | `#011627` | ![background](https://place-hold.it/32/011627?text=+)
-| Foreground     | Foreground      | `#acb4c2` | ![background](https://place-hold.it/32/acb4c2?text=+)
+| Foreground     | Foreground      | `#bdc1c6` | ![background](https://place-hold.it/32/bdc1c6?text=+)
 | Bold           | Bold            | `#eeeeee` | ![background](https://place-hold.it/32/eeeeee?text=+)
 | Cursor         | Cursor          | `#9ca1aa` | ![background](https://place-hold.it/32/9ca1aa?text=+)
 | Cursor Text    | Cursor Text     | `#080808` | ![background](https://place-hold.it/32/080808?text=+)

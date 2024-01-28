@@ -1,8 +1,71 @@
-![logo](https://raw.githubusercontent.com/srcery-colors/srcery-assets/master/title.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srcery-colors/srcery-assets/master/src/logo_border.svg">
+</p>
 
-[![Check Them Vim Files](https://github.com/srcery-colors/srcery-vim/workflows/Check%20Them%20Vim%20Files/badge.svg)](https://github.com/srcery-colors/srcery-vim/actions)
+<p align="center">
+  <a href="https://srcery.sh">
+    <img src="https://img.shields.io/static/v1?label=&message=website&style=flat&color=5B5B5B&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7MAAAOzAGxoQZ+AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAdJJREFUOI1jDAgIYMAFTp8+EcrIyMRqYmK2DJcaJlwS548fV2RjYJnNxsg87fzx44okGbBhwwaWvyyMSzM4dfgrlGz5/7IwLt2wYQML0QZIS0s2mLFIWIZxqDKkyJowuAirWkpLSzYQZcDZsyfthJnYK2p4TBkYGRgYGBkYGXo0PBjE2XgqT58+7oTXgHPnzgky/GNYXMFlwizEyAEXF2bjYujX9GJiYmBedPr0aWGcBvz793teOIeanBWrJIZT7YQUGFJkTaQZGf4v3LBhAyOGAWdPn8hUZxYIyODUweZVBgYGBoYqZXsGQz5Jb1lpiQycYUAqgBtgbGox/ebfDxtmfL+CU3Hb3YMM5z893/r46YsZWF3AxMSatPLHrUfHfj/H0Hzo3QOGOY/PPP3PwBgfEBDwH6sBRkZG7xmYGGI7vp35++7/D7j421/fGAqvb/v3j+FvnKmp6VusXoB7xdj80Nt/Pztavpxm+M/AwPCf4T9DyY0dDC9/fWk3NbXchzMMkMHTp88bTv15cXzVj9sMcx6fYdjz9vbxp0+fN2BTy4grN54/flyRiYX1PCMTI8PfX78MDS0t72NThzMaDS0t7//5/y/z99+/mbg0MzAwMAAAVbWgDHTwVjUAAAAASUVORK5CYII=">
+  </a>
+  <a href="https://discord.gg/G6vBMmZ">
+    <img src="https://img.shields.io/discord/714101903377694741?color=%232C78BF&label=discord&logo=discord">
+  </a>
+  <a href="https://github.com/orgs/srcery-colors/repositories">
+    <img src="https://img.shields.io/github/actions/workflow/status/srcery-colors/srcery-vim/lint.yaml?color=%2398BC37&logo=github">
+  </a>
 
-Color scheme with clearly defined contrasting colors and a slightly earthy tone.
+  <a href="https://www.npmjs.com/package/@srcery-colors/srcery-palette">
+    <img src="https://img.shields.io/npm/v/@srcery-colors/srcery-palette?color=%23FBB829&label=Palette%20version&logo=npm">
+  </a>
+</p>
+
+<p align="center">
+Srcery is a color scheme with clearly defined contrasting colors and a
+slightly earthy tone.
+</p>
+
+<details>
+<summary><strong>Table of content</strong></summary>
+
+- [Requirements](#requirements)
+    - [GUI](#gui)
+    - [TUI](#tui)
+- [Installation](#installation)
+    - [Manually](#manually)
+    - [Vim 8](#vim-8)
+    - [dein.vim](#deinvim)
+    - [vim-pathogen](#vim-pathogen)
+    - [vim-plug](#vim-plug)
+    - [packer](#packer)
+- [Usage](#usage)
+- [Configuration](#configuration)
+    - [Colors](#colors)
+    - [Options](#options)
+        - [g:srcery\_bold](#gsrcery_bold)
+        - [g:srcery\_italic](#gsrcery_italic)
+        - [g:srcery\_underline](#gsrcery_underline)
+        - [g:srcery\_undercurl](#gsrcery_undercurl)
+        - [g:srcery\_inverse](#gsrcery_inverse)
+        - [g:srcery\_inverse\_matches](#gsrcery_inverse_matches)
+        - [g:srcery\_inverse\_match\_paren](#gsrcery_inverse_match_paren)
+        - [g:srcery\_dim\_lisp\_paren](#gsrcery_dim_lisp_paren)
+        - [g:srcery\_guisp\_fallback](#gsrcery_guisp_fallback)
+        - [g:srcery\_italic\_types](#gsrcery_italic_types)
+        - [g:srcery\_bg](#gsrcery_bg)
+        - [g:srcery\_hard\_black\_terminal\_bg](#gsrcery_hard_black_terminal_bg)
+- [Screenshots](#screenshots)
+- [Plugin support](#plugin-support)
+    - [Lightline](#lightline)
+    - [Airline](#airline)
+    - [Other](#other)
+- [Attribution](#attribution)
+- [Troubleshooting](#troubleshooting)
+    - [Colors don't look right](#colors-dont-look-right)
+    - [24-bit color, tmux and Neovim](#24-bit-color-tmux-and-neovim)
+- [Extra](#extra)
+    - [Emacs](#emacs)
+
+
+</details>
 
 ## Requirements
 
@@ -17,58 +80,74 @@ so-called “ASCII” colors to the ones in the table below. There's a list of
 terminal configurations in the
 [srcery-terminal](https://github.com/srcery-colors/srcery-terminal) repository.
 
-| TERMCOL       | NR | VAR                       | HEX     | RGB           | IMG                                                            |
-|---------------|----|---------------------------|---------|---------------|----------------------------------------------------------------|
-| black         | 0  | `g:srcery_black`          | #1C1B19 | 28,  27,  25  | ![black](https://place-hold.it/100x24/1C1B19?text=+)           |
-| red           | 1  | `g:srcery_red`            | #EF2F27 | 239, 47, 39   | ![red](https://place-hold.it/100x24/EF2F27?text=+)             |
-| green         | 2  | `g:srcery_green`          | #519F50 | 81,  159, 80  | ![green](https://place-hold.it/100x24/519F50?text=+)           |
-| yellow        | 3  | `g:srcery_yellow`         | #FBB829 | 251, 184, 41  | ![yellow](https://place-hold.it/100x24/FBB829?text=+)          |
-| blue          | 4  | `g:srcery_blue`           | #2C78BF | 44, 120, 191  | ![blue](https://place-hold.it/100x24/2C78BF?text=+)            |
-| magenta       | 5  | `g:srcery_magenta`        | #E02C6D | 224, 44,  109 | ![magenta](https://place-hold.it/100x24/E02C6D?text=+)         |
-| cyan          | 6  | `g:srcery_cyan`           | #0AAEB3 | 10, 174, 179  | ![cyan](https://place-hold.it/100x24/0AAEB3?text=+)            |
-| white         | 7  | `g:srcery_white`          | #BAA67F | 186, 166, 127 | ![white](https://place-hold.it/100x24/BAA67F?text=+)           |
-| brightblack   | 8  | `g:srcery_bright_black`   | #918175 | 145, 129, 117 | ![bright\_black](https://place-hold.it/100x24/918175?text=+)   |
-| brightred     | 9  | `g:srcery_bright_red`     | #F75341 | 247, 83, 65   | ![bright\_red](https://place-hold.it/100x24/F75341?text=+)     |
-| brightgreen   | 10 | `g:srcery_bright_green`   | #98BC37 | 152, 188, 55  | ![bright\_green](https://place-hold.it/100x24/98BC37?text=+)   |
-| brightyellow  | 11 | `g:srcery_bright_yellow`  | #FED06E | 254, 208, 110 | ![bright\_yellow](https://place-hold.it/100x24/FED06E?text=+)  |
-| brightblue    | 12 | `g:srcery_bright_blue`    | #68A8E4 | 104, 168, 228 | ![bright\_blue](https://place-hold.it/100x24/68A8E4?text=+)    |
-| brightmagenta | 13 | `g:srcery_bright_magenta` | #FF5C8F | 255, 92, 143  | ![bright\_magenta](https://place-hold.it/100x24/FF5C8F?text=+) |
-| brightcyan    | 14 | `g:srcery_bright_cyan`    | #2BE4D0 | 43, 228, 208  | ![bright\_cyan](https://place-hold.it/100x24/2BE4D0?text=+)    |
-| brightwhite   | 15 | `g:srcery_bright_white`   | #FCE8C3 | 252, 232, 195 | ![bright\_white](https://place-hold.it/100x24/FCE8C3?text=+)   |
+| IMG  | TERMCOL | NR | VAR | HEX | RGB  | HSL |
+|------|---------|----|-----|-----|------|-----|
+| ![black](https://place-hold.it/24x24/1c1b19?text=+) | black | 0 | `g:srcery_black` | #1C1B19 | 28, 27, 25 | 40, 6%, 10% |
+| ![red](https://place-hold.it/24x24/ef2f27?text=+) | red | 1 | `g:srcery_red` | #EF2F27 | 239, 47, 39 | 2, 86%, 55% |
+| ![green](https://place-hold.it/24x24/519f50?text=+) | green | 2 | `g:srcery_green` | #519F50 | 81, 159, 80 | 119, 33%, 47% |
+| ![yellow](https://place-hold.it/24x24/fbb829?text=+) | yellow | 3 | `g:srcery_yellow` | #FBB829 | 251, 184, 41 | 41, 96%, 57% |
+| ![blue](https://place-hold.it/24x24/2c78bf?text=+) | blue | 4 | `g:srcery_blue` | #2C78BF | 44, 120, 191 | 209, 63%, 46% |
+| ![magenta](https://place-hold.it/24x24/e02c6d?text=+) | magenta | 5 | `g:srcery_magenta` | #E02C6D | 224, 44, 109 | 338, 74%, 53% |
+| ![cyan](https://place-hold.it/24x24/0aaeb3?text=+) | cyan | 6 | `g:srcery_cyan` | #0AAEB3 | 10, 174, 179 | 182, 89%, 37% |
+| ![white](https://place-hold.it/24x24/baa67f?text=+) | white | 7 | `g:srcery_white` | #BAA67F | 186, 166, 127 | 40, 30%, 61% |
+| ![brightblack](https://place-hold.it/24x24/918175?text=+) | brightblack | 8 | `g:srcery_bright_black` | #918175 | 145, 129, 117 | 26, 11%, 51% |
+| ![brightred](https://place-hold.it/24x24/f75341?text=+) | brightred | 9 | `g:srcery_bright_red` | #F75341 | 247, 83, 65 | 6, 92%, 61% |
+| ![brightgreen](https://place-hold.it/24x24/98bc37?text=+) | brightgreen | 10 | `g:srcery_bright_green` | #98BC37 | 152, 188, 55 | 76, 55%, 48% |
+| ![brightyellow](https://place-hold.it/24x24/fed06e?text=+) | brightyellow | 11 | `g:srcery_bright_yellow` | #FED06E | 254, 208, 110 | 41, 99%, 71% |
+| ![brightblue](https://place-hold.it/24x24/68a8e4?text=+) | brightblue | 12 | `g:srcery_bright_blue` | #68A8E4 | 104, 168, 228 | 209, 70%, 65% |
+| ![brightmagenta](https://place-hold.it/24x24/ff5c8f?text=+) | brightmagenta | 13 | `g:srcery_bright_magenta` | #FF5C8F | 255, 92, 143 | 341, 100%, 68% |
+| ![brightcyan](https://place-hold.it/24x24/2be4d0?text=+) | brightcyan | 14 | `g:srcery_bright_cyan` | #2BE4D0 | 43, 228, 208 | 174, 77%, 53% |
+| ![brightwhite](https://place-hold.it/24x24/fce8c3?text=+) | brightwhite | 15 | `g:srcery_bright_white` | #FCE8C3 | 252, 232, 195 | 39, 90%, 88% |
 
 Additionally Srcery uses some [xterm 256
 colors](https://en.wikipedia.org/wiki/Xterm#/media/File:Xterm_256color_chart.svg)
 to pad out the color selection, no extra configuration needed.
 
-| NAME           | NR  | VAR                      | HEX     | RGB         | IMG                                                           |
-|----------------|-----|--------------------------|---------|-------------|---------------------------------------------------------------|
-| orange         | 202 | `g:srcery_orange`        | #FF5F00 | 255, 95, 0  | ![orange](https://place-hold.it/100x24/FF5F00?text=+)         |
-| bright\_orange | 208 | `g:srcery_bright_orange` | #FF8700 | 255, 135, 0 | ![bright\_orange](https://place-hold.it/100x24/FF8700?text=+) |
-| hard\_black    | 233 | `g:srcery_hard_black`    | #121212 | 18, 18, 18  | ![hard\_black](https://place-hold.it/100x24/121212?text=+)    |
-| xgray1         | 235 | `g:srcery_xgray1`        | #262626 | 38, 38, 38  | ![xgray1](https://place-hold.it/100x24/262626?text=+)         |
-| xgray2         | 236 | `g:srcery_xgray2`        | #303030 | 48, 48, 48  | ![xgray2](https://place-hold.it/100x24/303030?text=+)         |
-| xgray3         | 237 | `g:srcery_xgray3`        | #3A3A3A | 58, 58, 58  | ![xgray3](https://place-hold.it/100x24/3A3A3A?text=+)         |
-| xgray4         | 238 | `g:srcery_xgray4`        | #444444 | 68, 68, 68  | ![xgray4](https://place-hold.it/100x24/444444?text=+)         |
-| xgray5         | 239 | `g:srcery_xgray5`        | #4E4E4E | 78, 78, 78  | ![xgray5](https://place-hold.it/100x24/4E4E4E?text=+)         |
-| xgray6         | 240 | `g:srcery_xgray6`        | #585858 | 88, 88, 88  | ![xgray6](https://place-hold.it/100x24/585858?text=+)         |
+| IMG  | NAME | NR | VAR | HEX | RGB  | HSL |
+|------|------|----|-----|-----|------|-----|
+| ![orange](https://place-hold.it/24x24/ff5f00?text=+) | orange | 202 | `g:srcery_orange`, `g:srcery_orange_cterm` | #FF5F00 | 255, 95, 0 | 22, 100%, 50% |
+| ![bright_orange](https://place-hold.it/24x24/ff8700?text=+) | bright_orange | 208 | `g:srcery_bright_orange`, `g:srcery_bright_orange_cterm` | #FF8700 | 255, 135, 0 | 32, 100%, 50% |
+| ![hard_black](https://place-hold.it/24x24/121212?text=+) | hard_black | 233 | `g:srcery_hard_black`, `g:srcery_hard_black_cterm`| #121212 | 18, 18, 18 | 0, 0%, 7% |
+| ![xgray1](https://place-hold.it/24x24/262626?text=+) | xgray1 | 235 | `g:srcery_xgray1`, `g:srcery_xgray1_cterm` | #262626 | 38, 38, 38 | 0, 0%, 15% |
+| ![xgray2](https://place-hold.it/24x24/303030?text=+) | xgray2 | 236 | `g:srcery_xgray2`, `g:srcery_xgray2_cterm` | #303030 | 48, 48, 48 | 0, 0%, 19% |
+| ![xgray3](https://place-hold.it/24x24/3a3a3a?text=+) | xgray3 | 237 | `g:srcery_xgray3`, `g:srcery_xgray3_cterm` | #3A3A3A | 58, 58, 58 | 0, 0%, 23% |
+| ![xgray4](https://place-hold.it/24x24/444444?text=+) | xgray4 | 238 | `g:srcery_xgray4`, `g:srcery_xgray4_cterm` |#444444 | 68, 68, 68 | 0, 0%, 27% |
+| ![xgray5](https://place-hold.it/24x24/4e4e4e?text=+) | xgray5 | 239 | `g:srcery_xgray5`, `g:srcery_xgray5_cterm` | #4E4E4E | 78, 78, 78 | 0, 0%, 31% |
+| ![xgray6](https://place-hold.it/24x24/585858?text=+) | xgray6 | 240 | `g:srcery_xgray6`, `g:srcery_xgray6_cterm` | #585858 | 88, 88, 88 | 0, 0%, 35% |
+<!-- | ![teal](https://place-hold.it/24x24/008080?text=+) | teal | 30 | N/A* | #008080 | 0, 128, 128 | 180, 100%, 25% | -->
+<!-- | ![xgray7](https://place-hold.it/24x24/626262?text=+) | xgray7 | 241 | N/A* | #626262 | 98, 98, 98 | 0, 0%, 38% | -->
+<!-- | ![xgray8](https://place-hold.it/24x24/6c6c6c?text=+) | xgray8 | 242 | N/A* | #6C6C6C | 108, 108, 108 | 0, 0%, 42% | -->
+<!-- | ![xgray9](https://place-hold.it/24x24/767676?text=+) | xgray9 | 243 | N/A* | #767676 | 118, 118, 118 | 0, 0%, 46% | -->
+<!-- | ![xgray10](https://place-hold.it/24x24/808080?text=+) | xgray10 | 244 | N/A* | #808080 | 128, 128, 128 | 0, 0%, 50% | -->
+<!-- | ![xgray11](https://place-hold.it/24x24/8a8a8a?text=+) | xgray11 | 245 | N/A* | #8A8A8A | 138, 138, 138 | 0, 0%, 54% | -->
+<!-- | ![xgray12](https://place-hold.it/24x24/949494?text=+) | xgray12 | 246 | N/A* | #949494 | 148, 148, 148 | 0, 0%, 58% | -->
+<!-- > \* N/A on variables means the color isn't used in the vim theme, but are used in other Srcery derivatives. If there is a need for more colors these can easily be included. -->
 
 ## Installation
 
 ### Manually
 
-Put `srcery.vim` in `~/.vim/colors/` (on unix-like systems) or `%userprofile%\vimfiles\colors\` (on Windows).
+Download or clone srcery's repository to a location of your choosing and set your `runtimepath` correctly, otherwise srcery will not work as it relies on the `autoload` functionality.
+
+You can also install with your favourite plugin manager.
 
 ### Vim 8
 
-Vim 8 has native support for loading plugins. All you need to do to is to clone
-this repository into `~/.vim/pack/default/opt`.
+Vim 8 has native support for loading plugins by using `packages`. All you need to do to, is to clone this repository into `~/.vim/pack/themes/opt`.
 
-    git clone https://github.com/srcery-colors/srcery-vim ~/.vim/pack/default/opt/srcery-vim
+    git clone https://github.com/srcery-colors/srcery-vim ~/.vim/pack/themes/opt/srcery-vim
+
+And then set your `.vimrc` accordingly.
+
+```vim
+packadd! srcery-vim
+colorscheme srcery
+```
 
 The same works for Neovim, but you have to clone it into a path where Neovim can
 find it.
 
-    git clone https://github.com/srcery-colors/srcery-vim ~/.config/nvim/plug/default/opt/srcery-vim
+    git clone https://github.com/srcery-colors/srcery-vim $XDG_CONFIG_HOME/nvim/pack/themes/opt
 
 ### [dein.vim](https://github.com/Shougo/dein.vim)
 
@@ -122,6 +201,13 @@ You can customize each of Srcery's colors, to customize say the red color:
 
 ```vim
 let g:srcery_red = '#FF0000'
+```
+
+Inside a 256-color terminal emulator, additional colors are configurable
+via setting the corresponding variable with the \_cterm suffix, e.g.
+
+```vim
+let g:srcery_hard_black_cterm = 232
 ```
 
 Refer to the [table](#TUI) for a full list of color variables, hexes and more.
@@ -188,18 +274,6 @@ Dims lisp dialects delimiters to a fairly dark gray (xgray5 specifically).
 
 Default: 0
 
-#### g:srcery\_bg\_passthrough
-
-Lets the terminal control the background color in Vim by setting the background to `NONE`.
-
-A possible use case for this could be you want to manipulate the background
-color in the terminal, and let the results bubble up to Vim, like [this](https://github.com/roosta/tmux-pop).
-
-This is a bit of an experimental option, and can cause issues in certain
-terminals.
-
-Default: 0
-
 #### g:srcery\_guisp\_fallback
 
 Sets up alternate highlighting for colored underline/undercurl. Some
@@ -218,6 +292,22 @@ Possible Values: 'fg', 'bg'
 Italicize types if italic is enabled.
 
 Default: 0
+
+#### g:srcery\_bg
+
+Let's you customize the background color. This var takes a list with two
+values, with a quoted HEX in the first position, and a terminal color index for
+the second position. This lets you set both a 24-bit color, and a 8bit terminal
+color index.
+
+You can specify `'NONE'` as one of the values to make it transparent, as such
+`['NONE', 'NONE']` would be the same as the previous option
+`g:srcery_bg_passthrough = 1`.
+
+You can specify `'DEFAULT'` as one of the values in order to use that
+position's default value.
+
+Default: `[g:srcery_black, 0]`
 
 #### g:srcery\_hard\_black\_terminal\_bg
 
@@ -259,6 +349,18 @@ let g:lightline = {
       \ 'colorscheme': 'srcery',
       \ }
 ```
+### Lualine
+
+[Lualine](https://github.com/nvim-lualine/lualine.nvim) colorscheme.
+It's the same as Lightline's. Enable it in your configuration:
+
+```
+require('lualine').setup {
+  options = {
+    theme = 'srcery',
+  },
+}
+```
 
 ### Airline
 
@@ -274,6 +376,10 @@ These don't require any additional configuration.
 * [coc.nvim](https://github.com/neoclide/coc.nvim)
 * [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim)
 * [fzf.vim](https://github.com/junegunn/fzf.vim)
+* [nerdtree](https://github.com/preservim/nerdtree)
+* [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+* [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+* [telescope-nvim](https://github.com/nvim-telescope/telescope.nvim)
 * [vim-clap](https://github.com/liuchengxu/vim-clap)
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 * [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides)
