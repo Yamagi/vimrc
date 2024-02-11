@@ -1,0 +1,574 @@
+vimcomplete.txt*		Autocompletion Plugin for Vim
+
+Author: Girish Palya (girishji AT gmail DOT com)
+For Vim version 9.0 and above
+
+==============================================================================
+CONTENTS                                            *vimcomplete-contents*
+
+     1. Overview ................................. |vimcomplete-overview|
+     2. Features ................................. |vimcomplete-features|
+     3. Requirements ............................. |vimcomplete-requirements|
+     4. Installation ............................. |vimcomplete-installation|
+     5. Configuration ............................ |vimcomplete-configuration|
+     6. Enable and Disable ....................... |vimcomplete-enable|
+     7. List Completion Sources .................. |vimcomplete-list|
+     8. Extensions ............................... |vimcomplete-extensions|
+     9. Custom Completion Kinds .................. |vimcomplete-customze|
+
+==============================================================================
+1. Overview					*vimcomplete-overview*
+
+Async autocompletion plugin written entirely in Vim9script.
+
+==============================================================================
+2. Features					*vimcomplete-features*
+
+Words can be completed from various sources:
+
+- Buffer words
+- Dictionary files
+- LSP (https://github.com/yegappan/lsp) client
+- Snippets (vim-vsnip (https://github.com/hrsh7th/vim-vsnip) client)
+- Ngrams (https://norvig.com/ngrams/) database
+- Vim's omnifunc
+- Path search
+- Vim's abbreviations
+- Vim9script language (similar to LSP)
+
+Each completion source above can be enabled and customized per 'file type'
+(`:h filetype`).
+
+Completion items are sorted according to the following criteria:
+
+- Recency (using a LRU cache)
+- Length of item
+- Priority
+- Proximity of item (for buffer completion)
+- Case match
+
+==============================================================================
+3. Requirements					*vimcomplete-requirements*
+
+- Vim >= 9.0
+
+==============================================================================
+4. Installation					*vimcomplete-installation*
+
+Install using vim-plug (https://github.com/junegunn/vim-plug).
+>
+	vim9script
+	plug#begin()
+	Plug 'girishji/vimcomplete.vim'
+	plug#end()
+
+Alternately,
+>
+	call plug#begin()
+	Plug 'girishji/vimcomplete.vim'
+	call plug#end()
+
+Or use Vim's builtin package manager.
+>
+	$ mkdir -p $HOME/.vim/pack/downloads/opt
+	$ cd $HOME/.vim/pack/downloads/opt
+	$ git clone https://github.com/girishji/vimcomplete.git
+
+If using builtin package manager, add the following line to your $HOME/.vimrc
+file:
+>
+	packadd vimcomplete
+
+==============================================================================
+5. Configuration				*vimcomplete-configuration*
+
+
+The completion sources mentioned above, aside from buffer words and path
+completion, are not enabled by default. This section provides instructions on
+configuring both the completion sources and the completion engine itself.
+
+Completion Engine Options~
+
+This entity retrieves completion items from the enabled completion sources and
+then displays the popup menu.
+
+						    *vimcomplete-sortByLength*
+sortByLength 		|Boolean| option. Sort completion items based on
+ 			length of autocompletion text. Default is |false|.
+
+							 *vimcomplete-recency*
+recency 		||Boolean| option. Show most recently chosen items at
+			the top. Default is |true|.
+
+						 *vimcomplete-recentItemCount*
+recentItemCount 	|Number| option. Number of recent items to show at the
+			top. Default is |5|.
+
+						       *vimcomplete-matchCase*
+matchCase 		|Boolean| option. Some provider modules return items
+			that may not match the case of prefix being completed.
+			Show items that match case with prefix at the top
+			followed by other items. Default is |true|.
+
+					    *vimcomplete-shuffleEqualPriority*
+shuffleEqualPriority 	|Boolean| option. Items of equal priority modules are
+			arranged such that the first item of all modules
+			appear at the top. Default is set to |false|.
+
+					   *vimcomplete-noNewlineInCompletion*
+noNewlineInCompletion 	|Boolean| option. If false, <Enter> key in insert mode
+			always inserts a newline whether it accepts selected item
+			or if no item is selected. Otherwise, <CR> has default
+			behavior (accept selected item and dismiss popup
+			without inserting newline). Default is set to |false|.
+
+							*vimcomplete-alwaysOn*
+alwaysOn 		|Boolean| option. If |false| use `<c-space>`
+			(control-space) to trigger completion. Default is
+			|true|.
+
+							*vimcomplete-showSource*
+showSource 		|Boolean| option. Show the source where the completion
+			item came from. Default is |true|.
+
+							*vimcomplete-showKind*
+showKind 		|Boolean| option. Show the type ('kind') of completion
+			item returned by LSP server. Default is true.
+
+						*vimcomplete-kindDisplayType*
+kindDisplayType		String option. The 'kind' field of completion item
+			can be displayed in a number of ways: as a single
+			letter symbol (`symbol`), a single letter with descriptive
+			text (`symboltext`), only text (`text`), an icon (`icon`),
+			or icon with text (`icontext`). For showing icons you need
+			a (patched font)[https://www.nerdfonts.com/].
+			Default: `symboltext`.
+
+						*vimcomplete-customCompletionKinds*
+customCompletionKinds	Boolean option. Set this option to customize the 'kind'
+			attribute (explained below). Default: `false`.
+
+						*vimcomplete-completionKinds*
+completionKinds		Dictionary option. Custom text to use when above option is
+			set. Default: `{}`.
+
+Completion Provider General Options~
+
+Following options are common to all completion provider modules.
+
+						   *vimcomplete-module-enable*
+enable 			|Boolean| option. |true| to enable the module. Default
+			is |false| for all builtin modules except 'buffer'
+			and 'path' completion.
+
+						 *vimcomplete-module-maxCount*
+maxCount 		|Number| option. Number of completion items made
+			available from the module. Default is `10`.
+
+						 *vimcomplete-module-priority*
+priority 		|Number| option. Higher priority items are shown at
+			the top. Default is `10`.
+
+						*vimcomplete-module-filetypes*
+filetypes 		|List|  List of file-types to enable a particular
+			provider module. Default is `['*']` (all file-types),
+			except for 'dictionary' module which is set to
+			['text', 'markdown'].
+
+Buffer Completion~
+
+The current buffer, as well as other open buffers, are searched for completion
+candidates using an asynchronous mechanism with a timeout. This approach
+ensures that the completion engine is not slowed down by large buffers.
+
+						  *vimcomplete-buffer-timeout*
+timeout 		|Number| option. Maximum time spent searching for
+			completion candidates in current buffer. Default is
+			`100` milliseconds. If searching in multiple buffers
+			additional 100 milliseconds is allocated. Search
+			is aborted if any key is pressed.
+
+				       *vimcomplete-buffer-searchOtherBuffers*
+searchOtherBuffers 	|Boolean| option. Search other listed buffers. Default
+			is |true|
+
+					*vimcomplete-buffer-otherBuffersCount*
+otherBuffersCount 	|Number| option. Maximum number of other listed
+			buffers to search. Default is `3`.
+
+						    *vimcomplete-buffer-icase*
+icase 			|Boolean| option. Ignore case when searching for
+			completion candidates. Default is |true|.
+
+					      *vimcomplete-buffer-urlComplete*
+urlComplete 		|Boolean| option. Complete http links in entirety.
+			Useful when typing same url multiple times. Default is
+			|false|.
+
+					      *vimcomplete-buffer-envComplete*
+envComplete 		|Boolean| option. Complete environment variables after
+			letter `$`. Default is |false|.
+
+Dictionary Completion~
+
+The dictionary provider is capable of searching an arbitrary list of words
+placed one per line in a text file. These words can encompass any non-space
+characters, and the file doesn't necessarily need to be sorted. This feature
+presents various opportunities. For instance, you can create a dictionary akin
+to [Pydiction](https://github.com/vim-scripts/Pydiction), enabling the
+completion of keywords, functions, and method names for any programming
+language. Moreover, it can efficiently search a sorted dictionary using binary
+search.
+
+Unsorted dictionaries are searched in linear time `O(n)`, but they tend to
+perform acceptably well for file sizes below 3MB (performance might vary
+depending on your system).
+
+Additionally, the dictionary files can include comments.
+
+					*vimcomplete-dictionary-sortedDict*
+sortedDict 	|Boolean| option. `true` if the dictionary file is sorted,
+		`false` otherwise. This option affects both performance and
+		correctness. Take care to set it correctly. Searching is case
+		sensitive. Default: `true`.
+
+					*vimcomplete-dictionary-commentStr*
+commentStr 	|String| option. Any lines beginning with this string is
+		ignored. Default: `---`.
+
+					*vimcomplete-dictionary-onlyWords*
+onlyWords 	Boolean option. Set this to `true` if both the prefix you are
+		trying to complete and the dictionary contain alphanumeric
+		characters only (text files). For programming language
+		dictionaries it should be set to `false`, since they can contain
+		characters like `@`, `.`, `(`, etc. Default: `false`.
+
+					*vimcomplete-dictionary-matcher*
+matcher 	String option. This option is active only when `onlyWords` is
+		`true` (text files) and `sortedDict` is false. Accepted values are
+		'case' (case sensitive) and 'ignorecase'. Default: `case`.
+
+Further information about setting up configurations will be available later.
+Nonetheless, here is a sample configuration specifically targeting the
+dictionary source.
+
+Dictionary files can be configured individually for each 'filetype' (`:h
+filetype`). In the provided sample, the dictionary module is enabled for
+filetypes 'python' and 'text'. The Vim option `dictionaries` is appropriately
+set. Moreover, specific dictionary options are defined for each respective
+filetype.
+
+>
+	vim9script
+	var dictproperties = {
+	    python: { sortedDict: false },
+	    text: { sortedDict: true }
+	}
+	var vcoptions = {
+	    dictionary: {
+	        enable: true,
+	        priority: 11,
+	        filetypes: ['python', 'text'],
+	        properties: dictproperties
+	    },
+	}
+	autocmd VimEnter * g:VimCompleteOptionsSet(vcoptions)
+	autocmd FileType text set dictionary+=/usr/share/dict/words
+	autocmd FileType python set dictionary=$HOME/.vim/data/pythondict
+```
+
+> [TIP]
+> For completing English words, you can utilize
+> [ngram](https://en.wikipedia.org/wiki/N-gram) completion as outlined below,
+> or opt for a custom dictionary containing frequently used words. The default
+> dictionary that comes pre-installed with Linux or MacOS encompasses numerous
+> infrequently used words.
+
+LSP Completion~
+
+This source obtains autocompletion items from the
+LSP client (https://github.com/yegappan/lsp).
+
+> [IMPORTANT]
+> Please install the [LSP client](https://github.com/yegappan/lsp) separately.
+
+					*vimcomplete-lsp-keywordOnly*
+keywordOnly 	Boolean option. If `true` completion will be triggered after any
+		keyword character as defined by the file type (`:h 'iskeyword'`).
+		`false` will trigger completion after non-keywords like `.` (for
+		instance). Default: `false`.
+
+					*vimcomplete-lsp-filetypes*
+filetypes 	List option. This option need not be specified. If this option
+		is not specified or is empty, completion items are sourced
+		for any file type for which LSP is configured. Otherwise, items
+		are sourced only for listed file types. Default: Not specified.
+
+Vsnip Completion~
+
+This source provides snippet completion from
+[vim-vsnip](https://github.com/hrsh7th/vim-vsnip).
+
+> [IMPORTANT]
+> Please install the following separately.
+> - [vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+> - [vim-vsnip-integ](https://github.com/hrsh7th/vim-vsnip-integ)
+> Optional:
+> - [friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
+
+
+					*vimcomplete-vsnip-adaptNonKeyword*
+adaptNonKeyword 	Boolean option. (Experimental) When completing snippets
+			starting with non-keywords, say '#i' for instance,
+			adjust completion such that they are compatible with
+			items starting with keywords like 'i' (returned by LSP,
+			for instance). Default is `false`.
+
+> [NOTE]
+> The `<Tab>` key facilitates movement within a snippet. When a snippet is
+> active, the popup completion menu won't open. However, the popup window will
+> activate upon reaching the final stop within the snippet. If you wish to
+> navigate backward within the snippet using `<S-Tab>`, you can dismiss the
+> popup by using `CTRL-E`.
+
+
+Ngrams Completion~
+
+This source is kept as a separate plugin since it includes large database
+files. Please see
+**[ngram-complete](https://github.com/girishji/ngram-complete.vim)** for
+installation and usage instructions.
+
+Omnifunc Completion~
+
+This source completes items emitted by the function set in `omnifunc` (`:h
+'omnifunc'`).
+
+Vim provides language based autocompletion through Omni completion for many
+languages (see `$VIMRUNTIME/autoload`). This is a lightweight alternative to
+using LSP.
+
+ccomplete.vim 		C
+csscomplete.vim 	HTML / CSS
+htmlcomplete.vim 	HTML
+javascriptcomplete.vim 	Javascript
+phpcomplete.vim 	PHP
+pythoncomplete.vim 	Python
+rubycomplete.vim 	Ruby
+syntaxcomplete.vim 	from syntax highlighting
+xmlcomplete.vim 	XML (uses files in the xml directory)
+
+Vim sets the `omnifunc` option automatically when file type is detected.
+
+Also, any user defined `omnifunc` can also be used for autocompletion.
+
+> [CAUTION]
+> Disable the [LSP Completion]() when using omnifunc.
+
+Path Completion~
+
+Both relative and absolute path names are completed.
+
+bufferRelativePath 	|Boolean| option. Interpret relative paths as being
+			relative to the directory of the current buffer. By
+			default, paths are interpreted as relative to the
+			current working directory (see |:pwd|). Default is
+			|true|.
+
+> [NOTE]
+> Path completion activates when there is a `/` (`\` for Windows) or `.` in
+> the word before the cursor. To autocomplete deeper in a directory type `/`
+> at the end.
+
+Abbreviations Completion~
+
+Abbreviations (`:h abbreviations`) are completed based on the `id`.
+
+Vim9script Language Completion~
+
+This source completes Vim9 script function names, arguments, variables,
+reserved words and the like. Enable this if you are developing a Vim plugin or
+configuring a non-trivial .vimrc.
+
+Configure Options~
+
+Options are configured using global function `g:VimCompleteOptionsSet()`. Here
+is an example of how you can enable and configure completion modules. Not all
+options are shown here, please see tables above for all available options.
+>
+	vim9script
+	var options = {
+	    completor: { shuffleEqualPriority: true },
+	    buffer: { enable: true, priority: 10, urlComplete: true, envComplete: true },
+	    abbrev: { enable: true, priority: 10 },
+	    lsp: { enable: true, priority: 10, maxCount: 5 },
+	    omnifunc: { enable: false, priority: 8, filetypes: ['python', 'javascript'] },
+	    vsnip: { enable: true, priority: 9 },
+	    vimscript: { enable: true, priority: 11 },
+	    ngram: {
+	        enable: true,
+	        priority: 10,
+	        bigram: false,
+	        filetypes: ['text', 'help', 'markdown'],
+	        filetypesComments: ['c', 'cpp', 'python'],
+	    },
+	}
+	autocmd VimEnter * g:VimCompleteOptionsSet(options)
+
+Tab Completion~
+
+`<Tab>` and `<S-Tab>` keys can be mapped to select autocompletion items. By
+default `<C-N>` and `<C-P>` select the menu items.
+>
+	g:vimcomplete_tab_enable = 1
+
+Highlight Groups ~
+
+You can use `Pmenu`, `PmenuThumb`, `PmenuSbar`, `PmenuSel`, `PmenuKind`,
+`PmenuKindSel`, `PmenuExtra` and `PmenuExtraSel` highlight groups to alter the
+appearance of the popup menu.
+
+==============================================================================
+6. Enable and Disable 		*vimcomplete_disable* *vimcomplete-enable*
+
+Autocompletion is enabled by default. You can enable or disable the plugin
+anytime using commands.
+>
+	:VimCompleteEnable
+	:VimCompleteDisable
+
+You can selectively enable autocompletion for specified file types. For
+example, enable autocompletion for `c`, `cpp`, `python`, `vim`, `text`, and
+`markdown` files.
+
+>
+	:VimCompleteEnable c cpp python vim text markdown
+
+`VimCompleteEnable` takes space separated list of file types as an argument. If
+no argument is specified, then autocompletion is enabled for all file types. 
+
+If you are using a plugin manager like |vim-plug| use the following in
+$HOME/.vimrc.
+
+```
+autocmd VimEnter * VimCompleteEnable c cpp python vim text markdown
+```
+
+When Vim is started without any arguments it opens an unnamed buffer. This
+buffer is not associated with any _file type_. To enable/disable
+autocompletion on this buffer use the following variable. It is set by default.
+
+```
+g:vimcomplete_noname_buf_enable = true
+```
+
+==============================================================================
+7. List Completion Sources 				*vimcomplete-list*
+
+Following command shows which completion modules are active for a current
+buffer,
+>
+	:VimCompleteCompletors
+
+==============================================================================
+8. Extensions					*vimcomplete-extensions*
+
+A good place to start is by looking at the implementation of external
+plugins, like
+- ngrams (https://github.com/girishji/ngram-complete.vim)
+- ngrams-viewer (https://github.com/girishji/ngramview-complete.vim)
+
+The Completion engine uses similar interface as Vim's |complete-functions|
+except that the function is called in three different ways (instead of two):
+
+- First the function is called to find the start of the text to be completed.
+- Next the function is called to check if completion candidates are available.
+- Later the function is called to actually find the matches.
+
+The first and last invocation are identical to Vim's |complete-functions|. On
+the second invocation the arguments are:
+
+- findstart: 2
+- base:	empty
+
+The function must return |true| or |false| indicating whether completion
+candidates are ready. Only when this return value is |true| will the function
+invoked for the third time to get the actual matches. This step is necessary
+for asynchronous completion.
+
+It does not matter what the name of the completion function is but it
+should take two arguments `findstart: Number` and `base: String` and return
+`<any>`. This function should be registered with completion engine by calling
+`vimcompletor.Register()` function. The `User` event of type
+`VimCompleteLoaded` can be used to time the registration.
+
+When the user sets options through Vim configuration file a `User` event with
+type `VimCompleteOptionsChanged` is issued. The plugin should register for
+this event and update its internal state appropriately.
+
+==============================================================================
+9. Custom Completion Kinds			*vimcomplete-customize*
+
+Each item returned by the LSP server has a type associated with it, which can
+be displayed on the popup menu. To customize , you need to use the option
+`customCompletionKinds` and set all custom kinds in the `completionKinds`.
+This table has all default LSP kinds:
+
+Kind|Description
+----|-----------
+ t  | Text
+ m  | Method
+ f  | Function
+ C  | Constructor
+ F  | Field
+ v  | Variable
+ c  | Class
+ i  | Interface
+ M  | Module
+ p  | Property
+ u  | Unit
+ V  | Value
+ e  | Enum
+ k  | Keyword
+ S  | Snippet
+ C  | Color
+ f  | File
+ r  | Reference
+ F  | Folder
+ E  | EnumMember
+ d  | Constant
+ s  | Struct
+ E  | Event
+ o  | Operator
+ T  | TypeParameter
+ B  | Buffer
+ O  | Option
+ a  | Abbreviation
+ e  | EnvVariable
+ U  | URL
+ c  | Command
+
+Last four kinds are not associated with LSP.
+
+For example, if you want to change the "Method" kind to the kind "method()":
+>
+    vim9script
+    g:VimCompleteOptionsSet({ Completor: {
+        customCompletionKinds: true,
+        completionKinds: {
+            "Method": "method()"
+        }
+    })
+
+    In the completion popup, will show something like this: >
+
+        var file = new File()
+
+        file.cre
+            | create                method() |
+            | createIfNotExists     method() |
+            | ...                 |
+
+==============================================================================
+
+vim:tw=78:ts=8:noet:ft=help:norl:
