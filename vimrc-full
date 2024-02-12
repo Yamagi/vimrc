@@ -286,6 +286,9 @@ if has("gui_running")
 
 	" Selektieren mit der Maus schaltet in den Visual Mode.
 	set mouse=a
+
+	" Ballon-Meldungen erlauben.
+	set ballooneval
 endif
 
 " ----
@@ -422,6 +425,9 @@ if !has("gui_running")
 		let &t_Ce="\e[4:0m"
 		let &t_8u="\e[58;2;%lu;%lu;%lum"
 	endif
+
+	" Ballon-Meldungen erlauben.
+	set balloonevalterm
 endif
 
 " ----
