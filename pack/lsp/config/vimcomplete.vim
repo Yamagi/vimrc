@@ -5,10 +5,18 @@ vim9script
 
 # ----
 
+# Don't configure any autocompletions by defaults. We
+# take care of this by ourself down below.
+g:vimcomplete_enable_by_default = false
+
+# Don't configure any autocompletions for unnamed
+# buffers.
+g:vimcomplete_noname_buf_enable = false
+
 # Trigger completions on Tab, integrates with Supertab.
 # (Not necessary, completions are autotriggered. But it
 # doesn't hurt either and may help in some situations.)
-g:vimcomplete_tab_enable = 1
+g:vimcomplete_tab_enable = true
 
 # ----
 
@@ -17,35 +25,36 @@ g:vimcomplete_tab_enable = 1
 # For filetypes where all completion types are supported
 # the priorities are in increasing order:
 #  1. buffer
-#  2. path
-#  3. dictionary
-#  4. vimscript
-#  5. lsp
+#  2. apprev
+#  3. path
+#  4. dictionary
+#  5. vimscript
+#  6. lsp
 var options = {
-	# Don't complete abbreviations. It's annoying, unnecessary
-	# and somewhat buggy.
-	abbrev: { enable: false },
+	# Abbreviations for text and markdown.
+	abbrev: { enable: true, filetypes: ['markdown', 'text'],
+		priority: 20 },
 
 	# Buffer completions are of low quality and nothing
 	# which Vim can't do by itself without a plugin. We
 	# use it only where a better method is unavailable.
 	buffer: { enable: true, filetypes: ['cmake', 'conf', 'dosini',
-		'make', 'sh', 'bash'], priority: 10},
+		'make', 'sh', 'bash'], priority: 10 },
 
 	# Dictionary completion for plain text and markdown. A
 	# dictionary or spellfile must be configured.
-	dictionary: { enable: true, filetypes: ['text', 'markdown'],
-		priority: 30 },
+	dictionary: { enable: true, filetypes: ['markdown', 'text'],
+		priority: 40 },
 
 	# LSP completion. Automatically when a LSP server is
 	# available and attached to the buffer.
-	lsp: { enable: true, priority: 50},
+	lsp: { enable: true, priority: 60 },
 
 	# Path completion.
-	path: { enable: true, priority: 10 },
+	path: { enable: true, priority: 30 },
 
 	# Vimscript completion.
-	vimscript: { enable: true, filetypes: ['vim'], priority: 40}
+	vimscript: { enable: true, filetypes: ['vim'], priority: 50 }
 }
 
 augroup vimrcEx
