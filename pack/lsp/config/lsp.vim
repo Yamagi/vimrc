@@ -15,6 +15,10 @@ extend(lspOptions, {
 	'autoComplete': false,
 	'omniComplete': false,
 
+	# Case insensitive completions were available.
+	# This is needed for vimcomplete.
+	'completionMatcher': 'icase',
+
 	# Show diagnoses below the error.
 	'diagVirtualTextAlign': 'below',
 

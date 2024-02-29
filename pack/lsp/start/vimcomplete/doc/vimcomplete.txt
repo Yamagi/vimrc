@@ -152,6 +152,10 @@ customCompletionKinds	Boolean option. Set this option to customize the 'kind'
 completionKinds		Dictionary option. Custom text to use when above option is
 			set. Default: `{}`.
 
+						*vimcomplete-customInfoWindow*
+customInfoWindow	Change the look of default info popup window
+			(explained below). Default: `true`.
+
 Completion Provider General Options~
 
 Following options are common to all completion provider modules.
@@ -196,9 +200,12 @@ searchOtherBuffers 	|Boolean| option. Search other listed buffers. Default
 otherBuffersCount 	|Number| option. Maximum number of other listed
 			buffers to search. Default is `3`.
 
-						    *vimcomplete-buffer-icase*
-icase 			|Boolean| option. Ignore case when searching for
-			completion candidates. Default is |true|.
+				    *vimcomplete-buffer-completionMatcher*
+completionMatcher 	|String| option. Enable fuzzy or case insensitive
+			completion. Accepts one of the following values: `case`
+			for case sensitive matching, `icase` for ignoring case
+			while matching, and `fuzzy` for fuzzy match.
+			Default is `icase`.
 
 					      *vimcomplete-buffer-urlComplete*
 urlComplete 		|Boolean| option. Complete http links in entirety.
@@ -375,6 +382,12 @@ bufferRelativePath 	|Boolean| option. Interpret relative paths as being
 			current working directory (see |:pwd|). Default is
 			|true|.
 
+groupDirectoriesFirst	Group directories before files (like linux's 'ls
+			--group-directories-first'). Default is |false|.
+
+showPathSeparatorAtEnd	Show path separator (`/` in unix) at the end of
+			directory entry. Default: |false|.
+
 > [NOTE]
 > Path completion activates when there is a `/` (`\` for Windows) or `.` in
 > the word before the cursor. To autocomplete deeper in a directory type `/`
@@ -428,6 +441,15 @@ You can use `Pmenu`, `PmenuThumb`, `PmenuSbar`, `PmenuSel`, `PmenuKind`,
 `PmenuKindSel`, `PmenuExtra` and `PmenuExtraSel` highlight groups to alter the
 appearance of the popup menu.
 
+Info Popup Window ~
+
+Vim's completion system opens an additional popup window next to the selected
+item if the item has additional info that needs to be displayed. If you prefer
+to keep the default look of this window set `customInfoWindow` to `false`. Set
+it to `true` to see a more refined border. If you prefer to customize this
+window further use `g:VimCompleteInfoPopupOptionsSet()`. It takes a dictionary
+of popup window options. See |popup_create-arguments|.
+
 ==============================================================================
 6. Enable and Disable 		*vimcomplete_disable* *vimcomplete-enable*
 
@@ -437,7 +459,7 @@ anytime using commands.
 	:VimCompleteEnable
 	:VimCompleteDisable
 
-To start Vm with autocompletion disabled, set the following variable.
+To start Vim with autocompletion disabled, set the following variable.
 
 ```
 g:vimcomplete_enable_by_default = true

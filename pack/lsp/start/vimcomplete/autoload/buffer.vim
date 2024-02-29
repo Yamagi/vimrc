@@ -12,49 +12,63 @@ export var options: dict<any> = {
     timeout: 100,
     maxCount: 10,
     searchOtherBuffers: true,   # search other listed buffers
-    otherBuffersCount: 3,	# Max count of other listed buffers to search
-    icase: true,
+    otherBuffersCount: 3,       # Max count of other listed buffers to search
+    completionMatcher: 'icase', # 'case', 'fuzzy', 'icase'
     urlComplete: false,
     envComplete: false,
     dup: true,
 }
 
 # Return a list of keywords from a buffer
-def BufWords(bufnr: number, prefix: string): list<dict<any>>
-    var pattern = options.icase ? $'\c^{prefix}' : $'\C^{prefix}'
-    var bufname = $'#{bufnr}'->expand()->fnamemodify(':t')
+def BufWords(bufnr: number, prefix: string, curbuf: bool = false): list<any>
     var found = {}
     var start = reltime()
     var timeout = options.timeout
     var linenr = 1
     var items = []
     var kind = util.GetItemKindValue('Keyword')
-    for line in getbufline(bufnr, 1, '$')
+    var bufname = ''
+    def GetLines(): list<any>
+        if curbuf
+            return getline(1, '$')
+        else
+            bufname = $'#{bufnr}'->expand()->fnamemodify(':t')
+            return getbufline(bufnr, 1, '$')
+        endif
+    enddef
+    for line in GetLines()
         for word in line->split('\W\+')
             if !found->has_key(word) && word->len() > 1
                 found[word] = 1
-                try
-                    if  word =~ pattern
-                        items->add({
-                            word: word,
-                            abbr: word,
-                            kind: kind,
-                            menu: bufname,
-                        })
-                    endif
-                catch # E33 is caught if prefix has a "~"
-                endtry
+                if curbuf
+                    items->add({word: word, kind: kind})
+                else
+                    items->add({word: word, kind: kind, menu: bufname})
+                endif
             endif
         endfor
         # Check every 200 lines if timeout is exceeded
         if (timeout > 0 && linenr % 200 == 0 &&
-                start->reltime()->reltimefloat() * 1000 > timeout) ||
-                items->len() > options.maxCount
+                start->reltime()->reltimefloat() * 1000 > timeout)
             break
         endif
         linenr += 1
     endfor
-    return items
+    if options.completionMatcher == 'fuzzy'
+        return items->matchfuzzy(prefix, {limit: 100, key: 'word'})
+    else
+        var pattern = (options.completionMatcher == 'icase') ? $'\c^{prefix}' : $'\C^{prefix}'
+        var citems = []
+        for item in items
+            try
+                if item.word =~ pattern
+                    citems->add(item)
+                endif
+            catch # E33 is caught if prefix has a "~"
+            endtry
+        endfor
+        return citems
+    endif
 enddef
 
 def ExtendUnique(dest: list<dict<any>>, src: list<dict<any>>): list<dict<any>>
@@ -232,7 +246,7 @@ def CurBufMatches(prefix: string): list<dict<any>>
         if candidates->len() >= options.maxCount
             return candidates->slice(0, options.maxCount)
         endif
-        if options.icase
+        if options.completionMatcher == 'icase'
             try
                 candidates += citems->copy()->filter((_, v) => v.word !~# pattern)
             catch
@@ -245,6 +259,8 @@ def CurBufMatches(prefix: string): list<dict<any>>
     return candidates
 enddef
 
+var previous = {prefix: '', completed: true}
+
 export def Completor(findstart: number, base: string): any
     if findstart == 2
         return 1
@@ -254,7 +270,7 @@ export def Completor(findstart: number, base: string): any
         if options.urlComplete
             prefix = line->matchstr('\c\vhttp(s)?(:)?(/){0,2}\S+$')
         endif
-        if prefix->empty() && options.envComplete
+        if prefix == '' && options.envComplete
             prefix = line->matchstr('$\zs\k\+$')
         endif
         if prefix == ''
@@ -263,9 +279,21 @@ export def Completor(findstart: number, base: string): any
                 return -2
             endif
         endif
+        if previous.prefix != '' && !previous.completed
+            var plen = (previous.prefix)->len()
+            if prefix->slice(0, plen) == previous.prefix
+                # if previous attempt was unsuccessful for the same prefix, do not try again
+                previous.prefix = prefix
+                return -2
+            endif
+        endif
+        previous.prefix = prefix
         return line->len() - prefix->len() + 1
     endif
 
+    if options->has_key('icase')  # legacy option
+        options.completionMatcher = options.icase ? 'icase' : 'case'
+    endif
     var candidates: list<dict<any>> = []
     if options.urlComplete && base =~? '^http'
         candidates += UrlMatches(base)
@@ -279,7 +307,11 @@ export def Completor(findstart: number, base: string): any
         endif
     endif
     if base =~ '^\k\+$' # not url or env complete
-        candidates += CurBufMatches(base)
+        if options.completionMatcher == 'fuzzy'
+            candidates += BufWords(0, base, true)
+        else
+            candidates += CurBufMatches(base)
+        endif
         if candidates->len() < options.maxCount
             candidates = OtherBufMatches(candidates, base)
         endif
@@ -295,5 +327,7 @@ export def Completor(findstart: number, base: string): any
     if options.dup
         candidates->map((_, v) => v->extend({ dup: 1 }))
     endif
+
+    previous.completed = !candidates->empty()
     return candidates->slice(0, options.maxCount)
 enddef
