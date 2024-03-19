@@ -27,9 +27,6 @@ extend(lspOptions, {
 	'outlineOnRight': true,
 	'outlineWinSize': 40,
 
-	# Use the LSP server to determine highlights.
-	'semanticHighlight': true,
-
 	# Show disgnostics inline.
 	'showDiagWithVirtualText': true,
 
