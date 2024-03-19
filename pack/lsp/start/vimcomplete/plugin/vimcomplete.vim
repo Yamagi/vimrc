@@ -9,7 +9,7 @@ vim9script
 
 g:loaded_vimcomplete = true
 
-import autoload '../autoload/completor.vim'
+import autoload '../autoload/vimcomplete/completor.vim'
 
 def VimCompEnable(filetypes: string)
     var ftypes = filetypes->split()
@@ -61,6 +61,9 @@ augroup END
 if exists('#User#VimCompleteLoaded')
     :au VimEnter * doau <nomodeline> User VimCompleteLoaded
 endif
+
+inoremap <silent> <Plug>(vimcomplete-do-complete) <c-r>=<SID>completor.DoComplete()<cr>
+inoremap <silent><expr> <Plug>(vimcomplete-skip) completor.SkipCompleteSet()
 
 # filetype detection is needed for this plugin to work
 filetype plugin on

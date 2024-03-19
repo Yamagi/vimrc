@@ -5,16 +5,16 @@ endif
 
 vim9script
 
-import autoload '../autoload/abbrev.vim'
-import autoload '../autoload/buffer.vim'
-import autoload '../autoload/path.vim'
-import autoload '../autoload/dictionary.vim'
-import autoload '../autoload/lsp.vim'
-import autoload '../autoload/omnifunc.vim'
-import autoload '../autoload/vimscript.vim'
-import autoload '../autoload/vsnip.vim'
-import autoload '../autoload/util.vim'
-import '../autoload/completor.vim'
+import autoload '../autoload/vimcomplete/abbrev.vim'
+import autoload '../autoload/vimcomplete/buffer.vim'
+import autoload '../autoload/vimcomplete/path.vim'
+import autoload '../autoload/vimcomplete/dictionary.vim'
+import autoload '../autoload/vimcomplete/lsp.vim'
+import autoload '../autoload/vimcomplete/omnifunc.vim'
+import autoload '../autoload/vimcomplete/vimscript.vim'
+import autoload '../autoload/vimcomplete/vsnip.vim'
+import autoload '../autoload/vimcomplete/util.vim'
+import autoload '../autoload/vimcomplete/completor.vim'
 
 def RegisterPlugins()
     def Register(provider: string, ftypes: list<string>, priority: number)
@@ -56,16 +56,11 @@ autocmd User VimCompleteLoaded ++once call RegisterPlugins()
 autocmd User LspAttached call RegisterLsp()
 autocmd VimEnter * lsp.Setup()
 
-
 # Set vimcomplete plugin options from 'opts'.
 def! g:VimCompleteOptionsSet(opts: dict<any>)
-    completor.alloptions = opts->copy()
-    for key in opts->keys()
-        var newopts = completor.alloptions[$'{key}']
-        if newopts->has_key('maxCount')
-            newopts.maxCount = abs(newopts.maxCount)
-        endif
-        if !getscriptinfo({ name: $'vimcomplete/autoload/{key}' })->empty()
+    completor.SetOptions(opts)
+    for [key, newopts] in opts->items()
+        if !getscriptinfo({ name: $'vimcomplete/autoload/vimcomplete/{key}' })->empty()
             var o = eval($'{key}.options')
             o->extend(newopts)
         endif
@@ -80,7 +75,7 @@ def! g:VimCompleteOptionsSet(opts: dict<any>)
 enddef
 
 def! g:VimCompleteInfoPopupOptionsSet(opts: dict<any>)
-    completor.info_popup_options->extend(opts)
+    util.info_popup_options->extend(opts)
 enddef
 
 def! g:VimCompleteOptionsGet(): dict<any>

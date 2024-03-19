@@ -2,6 +2,8 @@ vim9script
 
 # Main autocompletion engine
 
+import autoload './util.vim'
+
 export var options: dict<any> = {
     noNewlineInCompletion: false,
     matchCase: true,
@@ -16,9 +18,19 @@ export var options: dict<any> = {
     completionKinds: {},
     kindDisplayType: 'symboltext', # 'icon', 'icontext', 'text', 'symboltext', 'symbol', 'text'
     customInfoWindow: true,
+    postfixClobber: false,
+    postfixHighlight: false,
 }
 
-export var alloptions: dict<any> = {}
+var saved_options: dict<any> = {}
+
+export def GetOptions(provider: string): dict<any>
+    return saved_options->get(provider, {})
+enddef
+
+export def SetOptions(opts: dict<any>)
+    saved_options = opts
+enddef
 
 var registered: dict<any> = { any: [] }
 var completors: list<any>
@@ -216,22 +228,36 @@ def AsyncGetItems(curline: string, pendingcompletors: list<any>, partialitems: l
     endif
 enddef
 
-var prevCompletionInput: string = ''
+# Text does not change after <c-e> or <c-y> but TextChanged will get
+# called anyway. To avoid <c-e> and <c-y> from closing popup and reopening
+# again, set a flag.
+# https://github.com/girishji/vimcomplete/issues/37
+var skip_complete: bool = false
 
-def VimComplete()
-    var line = GetCurLine()
+export def SkipCompleteSet(): string
+    if pumvisible()
+        skip_complete = true
+    endif
+    return ''
+enddef
+
+def SkipComplete(): bool
+    if skip_complete
+        skip_complete = false
+        return true
+    endif
     # if exists('*vsnip#jumpable') && (vsnip#jumpable(1) || vsnip#jumpable(-1))
     if exists('*vsnip#jumpable') && vsnip#jumpable(1)
+        return true
+    endif
+    return false
+enddef
+
+def VimComplete()
+    if SkipComplete()
         return
     endif
-    all
-    if line == prevCompletionInput
-        # Text does not change after <c-e> or <c-y> but TextChanged will get
-        # called anyway. To avoid <c-e> from closing popup and reopening
-        # again check if text is really different.
-        return
-    endif
-    prevCompletionInput = line
+    var line = GetCurLine()
     if line->empty()
         return
     endif
@@ -275,42 +301,20 @@ def VimCompletePopupVisible()
     endif
 enddef
 
+export def DoComplete(): string
+    pumvisible() ? VimCompletePopupVisible() : VimComplete()
+    return ''
+enddef
+
 def LRU_Cache()
-    if !options.recency || v:completed_item->type() != v:t_dict
+    if v:completed_item->empty()
+        # CompleteDone is triggered very frequently with empty dict
         return
     endif
-    recent.CacheAdd(v:completed_item)
-enddef
-
-command VimCompleteCmd pumvisible() ? VimCompletePopupVisible() : VimComplete()
-
-export var info_popup_options = {
-    borderchars: ['─', '│', '─', '│', '┌', '┐', '┘', '└'],
-    drag: false,
-    close: 'none',
-}
-
-def InfoPopupWindow()
-    # the only way to change the look of info window is to set popuphidden,
-    # subscribe to CompleteChanged, and set the text.
-    var id = popup_findinfo()
-    if id > 0
-        # it is possible to set options only once since info popup window is
-        # persistent for a buffer, but it'd require caching a buffer local
-        # variable (setbufvar()). not worth it.
-        id->popup_setoptions(info_popup_options)
-        var item = v:event.completed_item
-        if item->has_key('info') && item.info != ''
-            id->popup_settext(item.info)
-            id->popup_show()
-        endif
-        # setting completeopt back to 'menuone' causes a flicker, so comment out.
-        # setbufvar(bufnr(), '&completeopt', 'menuone,popup,noinsert,noselect')
-        # autocmd! VimCompBufAutocmds CompleteChanged <buffer>
+    if options.recency
+        recent.CacheAdd(v:completed_item)
     endif
 enddef
-
-import autoload './util.vim'
 
 export def Enable()
     var bnr = bufnr()
@@ -321,19 +325,35 @@ export def Enable()
     endif
     setbufvar(bnr, '&completepopup', 'width:80,highlight:Pmenu,align:item')
 
-    # if false, <Enter> in insert mode accepts completion choice and inserts a newline
-    # if true, <cr> has default behavior (accept choice or dismiss popup
-    # without newline).
-    if options.noNewlineInCompletion
-        :silent! iunmap <buffer> <CR>
-    else
-        :inoremap <expr> <buffer> <CR> pumvisible() ? "\<C-Y>\<CR>" : "\<CR>"
+    if maparg('<cr>', 'i')->empty()
+        # if noNewlineInCompletion is false, <Enter> in insert mode accepts
+        # completion choice and inserts a newline
+        # if true, <cr> has default behavior (accept choice and insert newline,
+        # or dismiss popup without inserting newline).
+        if options.noNewlineInCompletion
+            :inoremap <buffer> <cr> <Plug>(vimcomplete-skip)<cr>
+        else
+            :inoremap <expr> <buffer> <cr> pumvisible() ? "\<c-y>\<cr>" : "\<cr>"
+        endif
     endif
 
-    if !options.alwaysOn
+    if options.alwaysOn
+        :inoremap <buffer> <c-y> <Plug>(vimcomplete-skip)<c-y>
+        :inoremap <buffer> <c-e> <Plug>(vimcomplete-skip)<c-e>
+    else
         :silent! iunmap <buffer> <c-space>
-        :inoremap <buffer> <c-space> <cmd>VimCompleteCmd<cr>
+        :inoremap <buffer> <c-space> <Plug>(vimcomplete-do-complete)
         :imap <buffer> <C-@> <C-Space>
+    endif
+
+    if options.postfixClobber
+        :inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction(true)
+        :inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
+    elseif options.postfixHighlight
+        :inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction()
+        :inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
+        :highlight default link VimCompletePostfix DiffChange
+        :inoremap <expr> <c-l> util.TextActionWrapper()
     endif
 
     augroup VimCompBufAutocmds | autocmd! * <buffer>
@@ -343,8 +363,16 @@ export def Enable()
         endif
         autocmd BufEnter,BufReadPost <buffer> SetupCompletors()
         autocmd CompleteDone <buffer> LRU_Cache()
+        if options.postfixClobber
+            autocmd CompleteDone <buffer> util.TextAction(true)
+            autocmd CompleteChanged <buffer> util.TextActionPre(true)
+            autocmd InsertLeave <buffer> util.UndoTextAction(true)
+        elseif options.postfixHighlight
+            autocmd CompleteChanged <buffer> util.TextActionPre()
+            autocmd CompleteDone,InsertLeave <buffer> util.UndoTextAction()
+        endif
         if options.customInfoWindow
-            autocmd CompleteChanged <buffer> InfoPopupWindow()
+            autocmd CompleteChanged <buffer> util.InfoPopupWindow()
         endif
     augroup END
 

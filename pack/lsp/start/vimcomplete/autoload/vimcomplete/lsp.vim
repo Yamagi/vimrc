@@ -3,7 +3,7 @@ vim9script
 # Interface to https://github.com/yegappan/lsp through omnifunc
 
 export var options: dict<any> = {
-    enable: false,
+    enable: true,
     maxCount: 10,
     keywordOnly: false, # 'false' will complete after '.' in 'builtins.'
     dup: true,
@@ -15,7 +15,7 @@ export def Setup()
     if exists('*g:LspOptionsSet')
         var lspOpts = {
             useBufferCompletion: false,
-            completionTextEdit: false,
+            # completionTextEdit: false,  # https://github.com/girishji/vimcomplete/issues/37
             snippetSupport: true, # snippets from lsp server
             vsnipSupport: false,
             autoComplete: false,

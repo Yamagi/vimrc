@@ -1,6 +1,6 @@
-vimcomplete.txt*		Autocompletion Plugin for Vim
+*vimcomplete.txt*		Autocompletion Plugin for Vim
 
-Author: Girish Palya (girishji AT gmail DOT com)
+Author: Girish (girishji AT gmail DOT com)
 For Vim version 9.0 and above
 
 ==============================================================================
@@ -83,7 +83,7 @@ file:
 5. Configuration				*vimcomplete-configuration*
 
 
-The completion sources mentioned above, aside from buffer words and path
+The completion sources mentioned above, aside from buffer words, path and lsp
 completion, are not enabled by default. This section provides instructions on
 configuring both the completion sources and the completion engine itself.
 
@@ -124,8 +124,9 @@ noNewlineInCompletion 	|Boolean| option. If false, <Enter> key in insert mode
 
 							*vimcomplete-alwaysOn*
 alwaysOn 		|Boolean| option. If |false| use `<c-space>`
-			(control-space) to trigger completion. Default is
-			|true|.
+			(control-space) to trigger completion. If you choose
+			to map some other key instead, map your favorite key
+			to `<Plug>(vimcomplete-do-complete)`. Default is |true|.
 
 							*vimcomplete-showSource*
 showSource 		|Boolean| option. Show the source where the completion
@@ -155,6 +156,19 @@ completionKinds		Dictionary option. Custom text to use when above option is
 						*vimcomplete-customInfoWindow*
 customInfoWindow	Change the look of default info popup window
 			(explained below). Default: `true`.
+
+						*vimcomplete-postfixClobber*
+postfixClobber 		Boolean option. When completing 'foo\<cursor\>bar' and
+			the candidate is 'foosome', enabling this option
+			(`true`) will complete 'foosome' instead of
+			'foosomebar'. Default: `false`.
+
+						*vimcomplete-postfixHighlight*
+postfixHighlight 	Boolean option. This option functions similarly to
+			`postfixClobber`, but instead of deleting adjoining
+			text to the right of the completed text, it highlights
+			it using the 'VimCompletePostfix' highlight group. Use
+			`<C-l>` to delete the adjoining text. Default: `false`.
 
 Completion Provider General Options~
 
@@ -440,6 +454,10 @@ Highlight Groups ~
 You can use `Pmenu`, `PmenuThumb`, `PmenuSbar`, `PmenuSel`, `PmenuKind`,
 `PmenuKindSel`, `PmenuExtra` and `PmenuExtraSel` highlight groups to alter the
 appearance of the popup menu.
+
+If `postfixHighlight` option is enabled, you can utilize the
+`VimCompletePostfix` highlight group to adjust the appearance of text adjacent
+to the completion. By default, it is linked to `DiffChange`.
 
 Info Popup Window ~
 

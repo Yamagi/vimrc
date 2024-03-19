@@ -1,6 +1,6 @@
 vim9script
 
-import autoload 'util.vim'
+import autoload './util.vim'
 
 # /usr/share/dict/words is ~2M. Reading in the file took 33ms, and <c-x><c-k>
 # for string 'za' took 62ms. Parsing each line into a list took 1.2 sec. Three
@@ -20,6 +20,8 @@ export var options: dict<any> = {
     commentStr: '---',
     timeout: 0, # not implemented yet
     dup: false, # suppress duplicates
+    matchStr: '\k\+$',
+    matchAny: false,
 }
 
 def GetProperty(s: string): any
@@ -28,6 +30,10 @@ def GetProperty(s: string): any
         return options.properties->get(&filetype)->get(s)
     endif
     return options->get(s)
+enddef
+
+def MatchStr(): string
+    return GetProperty('matchStr')
 enddef
 
 def CommentStr(): string
@@ -100,14 +106,14 @@ def GetWords(prefix: string, bufnr: number): dict<any>
             var prefixlen = prefix->len()
             items = dictwords[bufnr]->copy()->filter((_, v) => v->slice(0, prefixlen) == prefix)
             # check if we should return xxx from yyy.xxx
-            var second_part = prefix->matchstr('\k\+$')
+            var second_part = prefix->matchstr(MatchStr())
             if !second_part->empty() && second_part->len() < prefix->len()
                 var first_part_len = prefix->len() - second_part->len()
                 items->map((_, v) => v->slice(first_part_len))
                 startcol = col('.') - second_part->strlen()
             else
                 if items->empty()
-                    var kwPrefix = prefix->matchstr('\k\+$')
+                    var kwPrefix = prefix->matchstr(MatchStr())
                     items->extend(dictwords[bufnr]->copy()->filter((_, v) => v =~ $'\C^{kwPrefix}'))
                     startcol = col('.') - kwPrefix->strlen()
                 endif
@@ -216,7 +222,15 @@ export def Completor(findstart: number, base: string): any
         return 1
     elseif findstart == 1
         var line = getline('.')->strpart(0, col('.') - 1)
-        var prefix = OnlyWords() ? line->matchstr('\w\+$') : line->matchstr('\S\+$')
+        var prefix: string
+        if OnlyWords()
+            prefix = line->matchstr('\w\+$')
+        else
+            prefix = line->matchstr(MatchStr())
+            if prefix == null_string && options.matchAny
+                prefix = line->matchstr('\S\+$')
+            endif
+        endif
         if prefix == ''
             return -2
         endif
