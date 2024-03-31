@@ -578,6 +578,9 @@ augroup vimrcEx
 	" Erkenne die in Markdown-Dateien verbreiteten YAML-Frontmatters
 	" als Kommentare.
 	autocmd FileType markdown syntax match Comment /\%^\s*---\_.\{-}---$/
+
+	" Saltstack .sls als YAML erkennen.
+	autocmd BufNewFile,BufReadPost *.sls set filetype=yaml
 augroup END
 
 " =====================================================================
