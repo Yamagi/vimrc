@@ -74,7 +74,7 @@ if executable('clangd')
 		name: 'clangd',
 		filetype: ['c', 'cpp', 'objc', 'objcpp', 'cc'],
 		path: 'clangd',
-		args: ['--background-index', '--clang-tidy']
+		args: ['--background-index', '--clang-tidy', '--header-insertion=never']
 	})
 endif
 
