@@ -54,7 +54,17 @@ var options = {
 	path: { enable: true, priority: 30 },
 
 	# Vimscript completion.
-	vimscript: { enable: true, filetypes: ['vim'], priority: 50 }
+	vimscript: { enable: true, filetypes: ['vim'], priority: 50 },
+
+	# ---- ---- ----
+
+	# Don't add a newline when pressing enter during
+	# match selection. This falls back to vims default
+	# behaviour, only enter a newline if a item is
+	# selected and closing the popup otherwise.
+	completor: {
+		noNewlineInCompletion: true,
+	},
 }
 
 augroup vimrcEx
