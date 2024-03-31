@@ -6,6 +6,7 @@ import autoload './util.vim'
 
 export var options: dict<any> = {
     noNewlineInCompletion: false,
+    noNewlineInCompletionEver: false,
     matchCase: true,
     sortByLength: false,
     recency: true,
@@ -20,6 +21,7 @@ export var options: dict<any> = {
     customInfoWindow: true,
     postfixClobber: false,
     postfixHighlight: false,
+    # debug: false,
 }
 
 var saved_options: dict<any> = {}
@@ -98,7 +100,7 @@ def DisplayPopup(citems: list<any>, line: string)
     citems->sort((v1, v2) => v1.priority > v2.priority ? -1 : 1)
 
     var items: list<dict<any>> = []
-    var prefix = line->slice(startcol - 1)
+    var prefix = line->strpart(startcol - 1)
     var prefixlen = prefix->len()
     if options.shuffleEqualPriority
         for priority in citems->copy()->map((_, v) => v.priority)->uniq()
@@ -115,11 +117,11 @@ def DisplayPopup(citems: list<any>, line: string)
                             repl = it.items[idx].word
                         endif
                         if exactMatch
-                            if repl->slice(0, prefixlen) ==# prefix
+                            if repl->strpart(0, prefixlen) ==# prefix
                                 items->add(it.items[idx])
                             endif
                         else
-                            if repl->slice(0, prefixlen) !=# prefix
+                            if repl->strpart(0, prefixlen) !=# prefix
                                 items->add(it.items[idx])
                             endif
                         endif
@@ -140,16 +142,19 @@ def DisplayPopup(citems: list<any>, line: string)
     endif
 
     if options.matchCase
-        items = items->copy()->filter((_, v) => v.word->slice(0, prefixlen) ==# prefix) +
-            items->copy()->filter((_, v) => v.word->slice(0, prefixlen) !=# prefix)
-        # Note: Comparing strings (above) is more robust than regex match
-        # since items can include non-keyword characters like ')' that need to
-        # be escaped.
+        items = items->copy()->filter((_, v) => v.word->strpart(0, prefixlen) ==# prefix) +
+            items->copy()->filter((_, v) => v.word->strpart(0, prefixlen) !=# prefix)
+        # Note: Comparing strings (above) is more robust than regex match, since
+        # items can include non-keyword characters like ')' which otherwise
+        # needs escaping.
     endif
 
     if options.recency
         items = recent.Recent(items, prefix, options.recentItemCount)
     endif
+    # if options.debug
+    #     echom items
+    # endif
     items->complete(startcol)
 enddef
 
@@ -168,14 +173,20 @@ enddef
 
 def GetItems(cmp: dict<any>, line: string): list<any>
     # Non ascii chars like ’ occupy >1 columns since they have composing
-    # characters. slice(), strpart(), col('.'), len() use byte index, while
-    # strcharpart(), strcharlen() use char index.
+    # characters. strpart(), col('.'), len() use byte index, while
+    # strcharpart(), slice(), strcharlen() use char index.
     var base = line->strpart(cmp.startcol - 1)
     # Note: when triggerCharacter is used in LSP (like '.') base is empty.
     var items = cmp.completor(0, base)
     if options.showSource
         items->map((_, v) => {
-            v.menu = v->has_key('menu') ? $'[{cmp.name}] {v.menu}' : $'[{cmp.name}]'
+            if v->has_key('menu')
+                if v.menu !~? $'^\[{cmp.name}]'
+                    v.menu = $'[{cmp.name}] {v.menu}'
+                endif
+            else
+                v.menu = $'[{cmp.name}]'
+            endif
             return v
         })
     endif
@@ -319,9 +330,9 @@ enddef
 export def Enable()
     var bnr = bufnr()
     if options.customInfoWindow
-        setbufvar(bnr, '&completeopt', 'menuone,popuphidden,noinsert,noselect')
+        setbufvar(bnr, '&completeopt', $'menuone,popuphidden,noselect,noinsert')
     else
-        setbufvar(bnr, '&completeopt', 'menuone,popup,noinsert,noselect')
+        setbufvar(bnr, '&completeopt', $'menuone,popup,noselect,noinsert')
     endif
     setbufvar(bnr, '&completepopup', 'width:80,highlight:Pmenu,align:item')
 
@@ -330,7 +341,11 @@ export def Enable()
         # completion choice and inserts a newline
         # if true, <cr> has default behavior (accept choice and insert newline,
         # or dismiss popup without inserting newline).
-        if options.noNewlineInCompletion
+        # if noNewlineInCompletionEver is 'true' newline will not be inserted even if item is selected.
+        if options.noNewlineInCompletionEver
+            :inoremap <expr> <buffer> <cr> complete_info().selected > -1 ?
+                        \ "\<Plug>(vimcomplete-skip)\<c-y>" : "\<Plug>(vimcomplete-skip)\<cr>"
+        elseif options.noNewlineInCompletion
             :inoremap <buffer> <cr> <Plug>(vimcomplete-skip)<cr>
         else
             :inoremap <expr> <buffer> <cr> pumvisible() ? "\<c-y>\<cr>" : "\<cr>"

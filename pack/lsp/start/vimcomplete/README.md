@@ -111,7 +111,8 @@ Option|Type|Description
 `customInfoWindow`|`Boolean`|Change the look of default info popup window (explained below). Default: `true`.
 `kindDisplayType`|`String`|The 'kind' field of completion item can be displayed in a number of ways: as a single letter symbol (`symbol`), a single letter with descriptive text (`symboltext`), only text (`text`), an icon (`icon`), or icon with text (`icontext`). For showing VSCode like icons you need [a patched font](https://www.nerdfonts.com/). Default: `symboltext`.
 `matchCase`|`Boolean`|Prioritize the items that match the case of the prefix being completed. Default: `true`.
-`noNewlineInCompletion`|`Boolean`|If false, `<Enter>` ('<CR>') key in insert mode always inserts a newline. Otherwise, `<CR>` has default behavior (accept selected item and insert newline when an item is selected, or dismiss popup without inserting newline when no item is selected). Default: `false`.
+`noNewlineInCompletion`|`Boolean`|If `false`, `<Enter>` ('\<CR>') key in insert mode always inserts a newline. Otherwise, `<CR>` has default Vim behavior (accept selected item and insert newline when an item is selected, or dismiss popup without inserting newline when no item is selected). See next option. Default: `false`.
+`noNewlineInCompletionEver`|`Boolean`|Unlike `noNewlineInCompletion`, newline will not be inserted even if item is selected, when `true`. This is probably what you are looking for. Default: `false`.
 `postfixClobber` | `Boolean` | When completing 'foo\<cursor\>bar' and the candidate is 'foosome', enabling this option (`true`) will complete 'foosome' instead of 'foosomebar'. Default: `false`.
 `postfixHighlight` | `Boolean` | This option functions similarly to `postfixClobber`, but instead of deleting adjoining text to the right of the completed text, it highlights it using the 'VimCompletePostfix' highlight group. Use `<C-l>` to delete the adjoining text. Default: `false`.
 `recency`|`Boolean`|Display recently chosen items from the LRU cache. Items are shown at the top of the list. Default: `true`.
@@ -133,9 +134,8 @@ Option|Type|Description
 `envComplete`      | `Boolean` | Complete environment variables after typing the `$` character. Default: `false`.
 `filetypes`|`List`|List of file types for which this source is enabled. Default: `['*']` (all file types).
 `maxCount`|`Number`|Total number of completion candidates emitted by this source. Default: `10`.
-`otherBuffersCount`| `Number`  | Maximum number of other listed buffers to search. Default: `3`.
+`otherBuffersCount`| `Number`  | Maximum number of other listed buffers to search. Set it to `0` to only search current buffer. Default: `3`.
 `priority`|`Number`|Priority of this source relative to others. Items from higher priority sources are displayed at the top. Default: `10`.
-`searchOtherBuffers`| `Boolean` | Determines whether to search other listed buffers. Default: `true`.
 `timeout`          | `Number`  | Maximum time allocated for searching completion candidates in the current buffer. Default: `100` milliseconds. If searching in multiple buffers, an additional 100 milliseconds is allocated. The search is aborted if any key is pressed.
 `urlComplete`      | `Boolean` | Enable completion of http links in entirety. This is useful when typing the same URL multiple times. Default: `false`.
 
@@ -212,6 +212,7 @@ This source provides snippet completion from [vim-vsnip](https://github.com/hrsh
 > Please install the following separately.
 > - [vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 > - [vim-vsnip-integ](https://github.com/hrsh7th/vim-vsnip-integ)
+>
 > Optional:
 > - [friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
 
@@ -260,7 +261,7 @@ Vim sets the `omnifunc` option automatically when file type is detected.
 Also, any user defined `omnifunc` can also be used for autocompletion.
 
 > [!CAUTION]
-> Disable the [LSP Completion]() when using omnifunc.
+> Disable the <a href="#lsp-completion">LSP Completion</a> when using omnifunc.
 
 Option|Type|Description
 ------|----|-----------

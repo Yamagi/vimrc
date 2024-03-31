@@ -11,7 +11,6 @@ import autoload './util.vim'
 export var options: dict<any> = {
     timeout: 100,
     maxCount: 10,
-    searchOtherBuffers: true,   # search other listed buffers
     otherBuffersCount: 3,       # Max count of other listed buffers to search
     completionMatcher: 'icase', # 'case', 'fuzzy', 'icase'
     urlComplete: false,
@@ -94,7 +93,7 @@ def GetLength(items: list<dict<any>>, prefix: string): number
 enddef
 
 def OtherBufMatches(items: list<dict<any>>, prefix: string): list<dict<any>>
-    if GetLength(items, prefix) > options.maxCount
+    if GetLength(items, prefix) > options.maxCount || options.otherBuffersCount < 1
         return items
     endif
     var buffers = getbufinfo({ bufloaded: 1 })
@@ -124,7 +123,7 @@ def UrlMatches(base: string): list<dict<any>>
         var url = line->matchstr('\chttp\S\+')
         # url can have non-word characters like ~)( etc., (RFC3986) that need to be
         # escaped in a regex. Error prone. More robust way is to compare strings.
-        if !url->empty() && url->slice(0, baselen) ==? base
+        if !url->empty() && url->strpart(0, baselen) ==? base
             items->add(url)
         endif
         # Check every 200 lines if timeout is exceeded
@@ -163,7 +162,9 @@ def CurBufMatches(prefix: string): list<dict<any>>
         endtry
         while [lnum, cnum] != [0, 0]
             var [endl, endc] = icasepat->searchpos('ceW') # end of matching string
-            var mstr = getline(lnum)->strpart(cnum - 1, endc - cnum + 1)
+            const line = getline(lnum)
+            const beginidx = line->charidx(cnum - 1)
+            var mstr = line->strcharpart(beginidx, line->charidx(endc - 1) - beginidx + 1)
             if mstr != prefix && !found->has_key(mstr)
                 found[mstr] = 1
                 words->add([mstr, abs(lnum - startl)])
@@ -281,7 +282,7 @@ export def Completor(findstart: number, base: string): any
         endif
         if previous.prefix != '' && !previous.completed
             var plen = (previous.prefix)->len()
-            if prefix->slice(0, plen) == previous.prefix
+            if prefix->strpart(0, plen) == previous.prefix
                 # if previous attempt was unsuccessful for the same prefix, do not try again
                 previous.prefix = prefix
                 return -2
