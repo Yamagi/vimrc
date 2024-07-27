@@ -173,11 +173,6 @@ set textwidth=72
 " Den Terminal-Titel auf den Namen der aktuellen Datei setzen.
 set title
 
-" Die Swapfile bereits nach 2 Sekunden Inaktivität schreiben. Es
-" benötigt geringfügig mehr IO als der Standardwert von 4 Sekunden,
-" aber man kann nie genug Wiederherstellungsinformationen haben.
-set updatetime=2000
-
 " Erlaube in allen Modi freie Cursorpositionierung, unabhängig der
 " bereits eingegeben Zeichen.
 set virtualedit=all
