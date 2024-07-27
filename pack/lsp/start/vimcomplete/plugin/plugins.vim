@@ -1,5 +1,5 @@
-if !has('vim9script') ||  v:version < 900
-    " Needs Vim version 9.0 and above
+if !has('vim9script') ||  v:versionlong < 9000196
+    " Needs Vim version 9.0.0196 and above
     finish
 endif
 
@@ -13,6 +13,8 @@ import autoload '../autoload/vimcomplete/lsp.vim'
 import autoload '../autoload/vimcomplete/omnifunc.vim'
 import autoload '../autoload/vimcomplete/vimscript.vim'
 import autoload '../autoload/vimcomplete/vsnip.vim'
+import autoload '../autoload/vimcomplete/tmux.vim'
+import autoload '../autoload/vimcomplete/tag.vim'
 import autoload '../autoload/vimcomplete/util.vim'
 import autoload '../autoload/vimcomplete/completor.vim'
 
@@ -30,9 +32,11 @@ def RegisterPlugins()
     Register('buffer', ['*'], 12)
     Register('path', ['*'], 13) # higher priority than buffer, so /xx/yy work
     Register('dictionary', ['text', 'markdown'], 8)
-    Register('omnifunc', ['python', 'javascript'], 8)
+    Register('omnifunc', ['*'], 8)
     Register('vimscript', ['vim'], 10)
     Register('vsnip', ['*'], 11)
+    Register('tmux', ['*'], 8)
+    Register('tag', ['*'], 8)
     util.LspCompletionKindsSetDefault()
 enddef
 

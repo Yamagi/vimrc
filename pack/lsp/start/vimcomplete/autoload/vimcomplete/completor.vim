@@ -3,6 +3,7 @@ vim9script
 # Main autocompletion engine
 
 import autoload './util.vim'
+import autoload './lsp.vim'
 
 export var options: dict<any> = {
     noNewlineInCompletion: false,
@@ -19,9 +20,10 @@ export var options: dict<any> = {
     completionKinds: {},
     kindDisplayType: 'symboltext', # 'icon', 'icontext', 'text', 'symboltext', 'symbol', 'text'
     customInfoWindow: true,
-    postfixClobber: false,
-    postfixHighlight: false,
-    # debug: false,
+    postfixClobber: false,  # remove yyy in xxx<cursor>yyy
+    postfixHighlight: false, # highlight yyy in xxx<cursor>yyy
+    triggerWordLen: 0,
+    debug: false,
 }
 
 var saved_options: dict<any> = {}
@@ -50,6 +52,10 @@ export def ShowCompletors()
     for completor in completors
         echom completor
     endfor
+enddef
+
+export def IsCompletor(source: string): bool
+    return  completors->indexof((_, v) => v.name == source) != -1
 enddef
 
 export def ClearRegistered()
@@ -152,9 +158,9 @@ def DisplayPopup(citems: list<any>, line: string)
     if options.recency
         items = recent.Recent(items, prefix, options.recentItemCount)
     endif
-    # if options.debug
-    #     echom items
-    # endif
+    if options.debug
+        echom items
+    endif
     items->complete(startcol)
 enddef
 
@@ -220,19 +226,24 @@ def AsyncGetItems(curline: string, pendingcompletors: list<any>, partialitems: l
 
     var citems = partialitems->copy()
     var asyncompletors: list<any> = []
+    var partial_items_returned = false
     for cmp in pendingcompletors
-        if cmp.completor(2, '')
+        if cmp.completor(2, '') > 0
             var items = GetItems(cmp, line)
             if !items->empty()
                 citems->add({ priority: cmp.priority, startcol: cmp.startcol,
                     items: items })
+            endif
+            if cmp.completor(2, '') == 2  # more items expected
+                asyncompletors->add(cmp)
+                partial_items_returned = true
             endif
         else
             asyncompletors->add(cmp)
         endif
     endfor
 
-    if asyncompletors->empty()
+    if asyncompletors->empty() || partial_items_returned
         DisplayPopup(citems, line)
     else
         timer_start(5, function(AsyncGetItems, [line, asyncompletors, citems, count - 1]))
@@ -271,6 +282,12 @@ def VimComplete()
     var line = GetCurLine()
     if line->empty()
         return
+    endif
+    if options.triggerWordLen > 0
+        var keyword = line->matchstr('\k\+$')
+        if keyword->len() < options.triggerWordLen && lsp.GetTriggerKind() != 2
+            return
+        endif
     endif
     var syncompletors: list<any> = []
     for cmp in completors
@@ -376,7 +393,7 @@ export def Enable()
             autocmd TextChangedI <buffer> VimComplete()
             autocmd TextChangedP <buffer> VimCompletePopupVisible()
         endif
-        autocmd BufEnter,BufReadPost <buffer> SetupCompletors()
+        autocmd BufEnter,BufReadPost,FileType <buffer> SetupCompletors()  # FileType, for 'ft' set in 'modeline'
         autocmd CompleteDone <buffer> LRU_Cache()
         if options.postfixClobber
             autocmd CompleteDone <buffer> util.TextAction(true)
