@@ -53,6 +53,7 @@ You can install this plugin directly from github using the following steps:
     $ mkdir -p $HOME/.vim/pack/downloads/opt
     $ cd $HOME/.vim/pack/downloads/opt
     $ git clone https://github.com/yegappan/lsp
+    $ vim -u NONE -c "helptags $HOME/.vim/pack/downloads/opt/lsp/doc" -c q
 
 or you can use any one of the Vim plugin managers (dein.vim, pathogen, vam,
 vim-plug, volt, Vundle, etc.) to install and manage this plugin.
@@ -88,8 +89,16 @@ The following commands are provided:
 			buffer.
 :LspDiag next		Jump to the next diagnostic message for the current
 			buffer after the current cursor position.
+:LspDiag nextWrap	Jump to the next diagnostic message for the current
+			buffer after the current cursor position.
+			Wrap back to the first message when no more messages
+			are found.
 :LspDiag prev		Jump to the previous diagnostic message for the
 			current buffer before the current current position.
+:LspDiag prevWrap	Jump to the previous diagnostic message for the
+			current buffer before the current current position.
+			Wrap back to the last message when no previous
+			messages are found.
 :LspDiag show		Display the diagnostics messages from the language
 			server for the current buffer in a location list.
 :LspDocumentSymbol	Display the symbols in the current file in a popup
