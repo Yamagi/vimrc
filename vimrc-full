@@ -58,18 +58,8 @@ endif
 
 " =====================================================================
 
-" --------------------
-" 2. Optionale Plugins
-" --------------------
-
-" Such-Hervorhebungen nach 'updatetime' oder beim Wechsel in den Insert
-" Mode automatisch entfernen.
-packadd nohlsearch
-
-" =====================================================================
-
 " ---------------------------
-" 3. Allgemeine Einstellungen
+" 2. Allgemeine Einstellungen
 " ---------------------------
 
 " Normalerweise ist Vim 'compatible', emuliert also den klassischen vi.
@@ -545,13 +535,13 @@ filetype plugin indent on
 " =====================================================================
 
 " --------------------------------------
-" 4. File-Type spezifische Einstellungen
+" 3. File-Type spezifische Einstellungen
 " --------------------------------------
 
 " =====================================================================
 
 " ----------------
-" 5. Auto-Commands
+" 4. Auto-Commands
 " ----------------
 
 " Alle von uns definierten Auto-Commands kommen in eine Gruppe,
@@ -591,7 +581,7 @@ augroup END
 " =====================================================================
 
 " ---------------
-" 6. Key mappings
+" 5. Key mappings
 " ---------------
 
 " Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
@@ -607,7 +597,10 @@ map <space> <leader>
 nnoremap <Leader>c :echo "Anzahl Wörter: " . wordcount().words<CR>
 
 " Hebt alle Vorkommen des Wortes unter dem Cursor hervor.
-nnoremap <Leader>h :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
+nnoremap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
+
+" Alle Hervorhebungen löschen.
+nnoremap <Leader>hc :nohls<CR>
 
 " Paste-Mode.
 nnoremap <Leader>p :set paste!<CR>
@@ -633,7 +626,7 @@ nnoremap <silent> <Leader>w :call g:ToggleColorColumn()<CR>
 " =====================================================================
 
 " --------------
-" 7. Secure mode
+" 6. Secure mode
 " --------------
 
 " Da wir oben 'exrc' setzen, ist es eine sehr gute Idee hier den Secure
