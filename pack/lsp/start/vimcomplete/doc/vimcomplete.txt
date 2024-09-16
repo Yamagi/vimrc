@@ -481,7 +481,16 @@ default `<C-N>` and `<C-P>` select the menu items.
 >
 	g:vimcomplete_tab_enable = 1
 
-Highlight Groups ~
+Enter Handling~
+
+`<CR>` (`<Enter>`) key is rebound to insert the selected item and/or insert a
+literal `<CR>`, according to |vimcomplete-noNewlineInCompletion| and
+|vimcomplete-noNewlineInCompletionEver|. In case of conflicts with other
+plugins, this mapping can be entirely disabled:
+>
+	g:vimcomplete_cr_enable = 0
+
+Highlight Groups~
 
 You can use `Pmenu`, `PmenuThumb`, `PmenuSbar`, `PmenuSel`, `PmenuKind`,
 `PmenuKindSel`, `PmenuExtra` and `PmenuExtraSel` highlight groups to alter the
@@ -621,13 +630,17 @@ Kind|Description
  o  | Operator
  T  | TypeParameter
  B  | Buffer
+ D  | Dictionary
+ w  | Word
  O  | Option
  a  | Abbreviation
  e  | EnvVariable
  U  | URL
  c  | Command
+ X  | Tmux
+ G  | Tag
 
-Last four kinds are not associated with LSP.
+Items after 'TypeParameter' are not associated with LSP.
 
 For example, if you want to change the "Method" kind to the kind "method()":
 >

@@ -2,6 +2,8 @@ vim9script
 
 # Interface to https://github.com/yegappan/lsp through omnifunc
 
+import autoload './util.vim'
+
 export var options: dict<any> = {
     enable: true,
     maxCount: 10,
@@ -15,7 +17,6 @@ export def Setup()
     if exists('*g:LspOptionsSet')
         var lspOpts = {
             useBufferCompletion: false,
-            completionTextEdit: true,  # https://github.com/girishji/vimcomplete/issues/37
             snippetSupport: true, # snippets from lsp server
             vsnipSupport: false,
             autoComplete: false,
@@ -54,10 +55,19 @@ export def Completor(findstart: number, base: string): any
     if !options.dup
         items->map((_, v) => v->extend({ dup: 0 }))
     endif
+    items = items->mapnew((_, v) => {
+        if v.user_data->type() == v:t_dict
+            if !v->has_key('kind_hlgroup')
+                v.kind_hlgroup = util.GetKindHighlightGroup(v.user_data.kind)
+            endif
+            v.kind = util.GetItemKindValue(v.user_data.kind)
+        endif
+        return v
+    })
     return items
 enddef
 
-if get(g:, 'loaded_lsp', false) && v:version >= 901
+if get(g:, 'loaded_lsp', false) && v:versionlong >= 9010650
     import autoload 'lsp/buffer.vim' as buf
     # Return trigger kind and trigger char. If completion trigger is not a keyword
     # and not one of the triggerCharacters, return -1.

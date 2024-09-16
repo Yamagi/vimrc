@@ -111,10 +111,10 @@ Option|Type|Description
 `completionKinds`|`Dictionary`|Custom text to use when `customCompletionKinds` is set (explained below). Default: `{}`.
 `customCompletionKinds`|`Boolean`|Set this option to customize the 'kind' attribute (explained below). Default: `false`.
 `customInfoWindow`|`Boolean`|Change the look of default info popup window (explained below). Default: `true`.
-`kindDisplayType`|`String`|The 'kind' field of completion item can be displayed in a number of ways: as a single letter symbol (`symbol`), a single letter with descriptive text (`symboltext`), only text (`text`), an icon (`icon`), or icon with text (`icontext`). For showing VSCode like icons you need [a patched font](https://www.nerdfonts.com/). Default: `symboltext`.
+`kindDisplayType`|`String`|The 'kind' field of completion item can be displayed in a number of ways: as a single letter symbol (`symbol`), a single letter with descriptive text (`symboltext`), only text (`text`), an icon (`icon`), or icon with text (`icontext`). For showing VSCode like icons you need [a patched font](https://www.nerdfonts.com/). Default: `symbol`.
 `matchCase`|`Boolean`|Prioritize the items that match the case of the prefix being completed. Default: `true`.
-`noNewlineInCompletion`|`Boolean`|If `false`, `<Enter>` ('\<CR>') key in insert mode always inserts a newline. Otherwise, `<CR>` has default Vim behavior (accept selected item and insert newline when an item is selected, or dismiss popup without inserting newline when no item is selected). See next option. Default: `false`.
-`noNewlineInCompletionEver`|`Boolean`|Unlike `noNewlineInCompletion`, newline will not be inserted even if item is selected, when `true`. This is probably what you are looking for. Default: `false`.
+`noNewlineInCompletion` | `Boolean` | When `true`, pressing `<Enter>` (`<CR>`) in insert mode will insert a newline only if an item in the popup menu is selected. If an item is not selected, the popup is dismissed without inserting a newline. Default: `false`.
+`noNewlineInCompletionEver` | `Boolean` | When `true`, pressing `<Enter>` (`<CR>`) will never insert a newline, regardless of whether an item in the popup menu is selected. This option overrides `noNewlineInCompletion`. If both options are `false`, `<CR>` behaves as per the default Vim behavior, inserting a newline whether an item is selected or not. Default: `false`.
 `postfixClobber` | `Boolean` | When completing 'foo\<cursor\>bar' and the candidate is 'foosome', enabling this option (`true`) will complete 'foosome' instead of 'foosomebar'. Default: `false`.
 `postfixHighlight` | `Boolean` | This option functions similarly to `postfixClobber`, but instead of deleting adjoining text to the right of the completed text, it highlights it using the 'VimCompletePostfix' highlight group. Use `<C-l>` to delete the adjoining text. Default: `false`.
 `recency`|`Boolean`|Display recently chosen items from the LRU cache. Items are shown at the top of the list. Default: `true`.
@@ -389,6 +389,17 @@ vim9script
 g:vimcomplete_tab_enable = 1
 ```
 
+Additionally, `<Enter>` is mapped by default to insert the currently selected item and/or insert a literal `<CR>`, depending on configuration (see `noNewlineInCompletion` and `noNewlineInCompletionEver` options).
+
+In case of conflicts with other plugins, this mapping can be disabled entirely:
+
+```vim
+vim9script
+g:vimcomplete_cr_enable = 0
+```
+
+In this case, the user must define an appropriate `<CR>` mapping to resolve conflicts between plugins. When creating your mapping, if `alwaysOn` is enabled, consider emitting `<Plug>(vimcomplete-skip)` to prevent the next keystroke from automatically reactivating the completion popup.
+
 > [!NOTE]
 > For help with other keybindings see `:h popupmenu-keys`. This help section includes keybindings for `<BS>`, `CTRL-H`, `CTRL-L`, `CTRL-Y`, `CTRL-E`, `<PageUp>`, `<PageDown>`, `<Up>`, and `<Down>` keys when popup menu is open.
 
@@ -397,6 +408,8 @@ g:vimcomplete_tab_enable = 1
 You can use `Pmenu`, `PmenuThumb`, `PmenuSbar`, `PmenuSel`, `PmenuKind`,
 `PmenuKindSel`, `PmenuExtra` and `PmenuExtraSel` Vim highlight groups to alter the
 appearance of the popup menu.
+
+You can also customize the appearance of the column containing the 'kind' attribute in the menu. For example, to modify the appearance of the 'Keyword' kind, configure the `PmenuKindKeyword` highlight group. Refer to the [list](#Custom-Completion-Kinds) for all available 'kind' items.
 
 If `postfixHighlight` option is enabled, you can utilize the `VimCompletePostfix` highlight group to adjust the appearance of text adjacent to the completion. By default, it is linked to `DiffChange`.
 
@@ -489,11 +502,15 @@ E | Event
 o | Operator
 T | TypeParameter
 B | Buffer[^2]
+D | Dictionary[^2]
+w | Word[^2]
 O | Option[^2]
 a | Abbreviation[^2]
 e | EnvVariable[^2]
 U | URL[^2]
 c | Command[^2]
+X | Tmux[^2]
+G | Tag[^2]
 
 [^2]: This is not returned by LSP.
 
