@@ -59,7 +59,7 @@ augroup VimcompleteAutoCmds | autocmd!
 augroup END
 
 if exists('#User#VimCompleteLoaded')
-    :au VimEnter * doau <nomodeline> User VimCompleteLoaded
+    autocmd VimEnter * doau <nomodeline> User VimCompleteLoaded
 endif
 
 inoremap <silent> <Plug>(vimcomplete-do-complete) <c-r>=<SID>completor.DoComplete()<cr>
@@ -67,3 +67,14 @@ inoremap <silent> <Plug>(vimcomplete-skip) <c-r>=<SID>completor.SkipCompleteSet(
 
 # filetype detection is needed for this plugin to work
 filetype plugin on
+
+def! g:VimCompleteTab(): string
+    return pumvisible() ? "\<c-n>" : (exists('*vsnip#jumpable') && vsnip#jumpable(1)) ?
+        "\<Plug>(vsnip-jump-next)" : ""
+enddef
+def! g:VimCompleteSTab(): string
+    return pumvisible() ? "\<c-p>" : (exists('*vsnip#jumpable') && vsnip#jumpable(-1)) ?
+        "\<Plug>(vsnip-jump-prev)" : ""
+enddef
+inoremap <silent><expr> <Plug>(vimcomplete-tab) g:VimCompleteTab() ?? "\<Tab>"
+inoremap <silent><expr> <Plug>(vimcomplete-s-tab) g:VimCompleteSTab() ?? "\<S-Tab>"

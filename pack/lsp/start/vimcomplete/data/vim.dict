@@ -418,6 +418,7 @@ exists
 exit
 exp
 expand
+expandcmd
 expandtab
 export
 expr
@@ -473,6 +474,7 @@ foldopen
 foldtext
 foldtextresult
 for
+foreach
 foreground
 formatexpr
 formatlistpat
@@ -741,6 +743,7 @@ matchend
 matchgroup
 matchlist
 matchpairs
+matchseq
 matchstr
 matchstrpos
 matchtime

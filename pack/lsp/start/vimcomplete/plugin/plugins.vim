@@ -63,14 +63,14 @@ autocmd VimEnter * lsp.Setup()
 def! g:VimCompleteOptionsSet(opts: dict<any>)
     completor.SetOptions(opts)
     for [key, newopts] in opts->items()
-        if !getscriptinfo({ name: $'vimcomplete/autoload/vimcomplete/{key}' })->empty()
+        if exists($'{key}.options') == 1
             var o = eval($'{key}.options')
             o->extend(newopts)
         endif
     endfor
     # Notify external completion providers that options have changed
     if exists('#User#VimCompleteOptionsChanged')
-        :doau <nomodeline> User VimCompleteOptionsChanged
+        doautocmd <nomodeline> User VimCompleteOptionsChanged
     endif
     # Re-register providers since priority could have changed
     RegisterPlugins()

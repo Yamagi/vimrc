@@ -56,18 +56,26 @@ export def Completor(findstart: number, base: string): any
         items->map((_, v) => v->extend({ dup: 0 }))
     endif
     items = items->mapnew((_, v) => {
-        if v.user_data->type() == v:t_dict
+        var ud = v.user_data
+        if ud->type() == v:t_dict
             if !v->has_key('kind_hlgroup')
-                v.kind_hlgroup = util.GetKindHighlightGroup(v.user_data.kind)
+                v.kind_hlgroup = util.GetKindHighlightGroup(ud->get('kind', ''))
             endif
-            v.kind = util.GetItemKindValue(v.user_data.kind)
+            v.kind = ud->has_key('kind') ? util.GetItemKindValue(ud.kind) : ''
         endif
         return v
     })
     return items
 enddef
 
-if get(g:, 'loaded_lsp', false) && v:versionlong >= 9010650
+if v:versionlong < 9010650
+    export def GetTriggerKind(): number
+        return -1
+    enddef
+    finish
+endif
+
+if get(g:, 'loaded_lsp', false)
     import autoload 'lsp/buffer.vim' as buf
     # Return trigger kind and trigger char. If completion trigger is not a keyword
     # and not one of the triggerCharacters, return -1.

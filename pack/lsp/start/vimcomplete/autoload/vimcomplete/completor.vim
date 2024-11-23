@@ -75,8 +75,10 @@ export def Register(name: string, Completor: func, ftype: list<string>, priority
         return
     endif
     # clear prior registrations
-    for providers in registered->values()
-        providers->filter((_, v) => v.name != name)
+    for ft in ftype
+        if registered->has_key(ft)
+            registered[ft]->filter((_, v) => v.name != name)
+        endif
     endfor
     if ftype[0] == '*'
         AddCompletor('any')
@@ -268,7 +270,6 @@ def SkipComplete(): bool
         skip_complete = false
         return true
     endif
-    # if exists('*vsnip#jumpable') && (vsnip#jumpable(1) || vsnip#jumpable(-1))
     if exists('*vsnip#jumpable') && vsnip#jumpable(1)
         return true
     endif
@@ -285,7 +286,8 @@ def VimComplete()
     endif
     if options.triggerWordLen > 0
         var keyword = line->matchstr('\k\+$')
-        if keyword->len() < options.triggerWordLen && lsp.GetTriggerKind() != 2
+        if keyword->len() < options.triggerWordLen &&
+                (!IsCompletor('lsp') || lsp.GetTriggerKind() != 2)
             return
         endif
     endif
@@ -356,22 +358,22 @@ export def Enable()
     util.CREnable()
 
     if options.alwaysOn
-        :inoremap <buffer> <c-y> <Plug>(vimcomplete-skip)<c-y>
-        :inoremap <buffer> <c-e> <Plug>(vimcomplete-skip)<c-e>
+        inoremap <buffer> <c-y> <Plug>(vimcomplete-skip)<c-y>
+        inoremap <buffer> <c-e> <Plug>(vimcomplete-skip)<c-e>
     else
-        :silent! iunmap <buffer> <c-space>
-        :inoremap <buffer> <c-space> <Plug>(vimcomplete-do-complete)
-        :imap <buffer> <C-@> <C-Space>
+        silent! iunmap <buffer> <c-space>
+        inoremap <buffer> <c-space> <Plug>(vimcomplete-do-complete)
+        imap <buffer> <C-@> <C-Space>
     endif
 
     if options.postfixClobber
-        :inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction(true)
-        :inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
+        inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction(true)
+        inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
     elseif options.postfixHighlight
-        :inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction()
-        :inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
-        :highlight default link VimCompletePostfix DiffChange
-        :inoremap <expr> <c-l> util.TextActionWrapper()
+        inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction()
+        inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
+        highlight default link VimCompletePostfix DiffChange
+        inoremap <expr> <c-l> util.TextActionWrapper()
     endif
 
     augroup VimCompBufAutocmds | autocmd! * <buffer>
