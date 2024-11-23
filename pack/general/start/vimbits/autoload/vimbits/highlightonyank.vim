@@ -5,8 +5,7 @@ vim9script
 # in_visual: Whether to highlight the region if selected from visual mode.
 export def HighlightOnYank(hlgroup = 'IncSearch', duration = 300, in_visual = true)
     if v:event.operator ==? 'y'
-        if !in_visual && visualmode() != null_string
-            visualmode(1)
+        if !in_visual && v:event.visual
             return
         endif
         var [beg, end] = [getpos("'["), getpos("']")]
@@ -30,9 +29,8 @@ export def HighlightOnYank(hlgroup = 'IncSearch', duration = 300, in_visual = tr
 enddef
 
 export def HighlightOnYankLegacy(hlgroup = 'IncSearch', duration = 300, in_visual = true)
-    if v:event.operator ==? 'y'
-        if !in_visual && visualmode() != null_string
-            visualmode(1)
+    if v:event.operator ==? 'y' && !v:event.visual
+        if !in_visual && v:event.visual
             return
         endif
         var [lnum_beg, col_beg, off_beg] = getpos("'[")[1 : 3]
