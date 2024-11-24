@@ -207,10 +207,11 @@ endfunction
 "  %Y Filetype
 "  %{SpellState()} Spell Checker Sprache
 "  $= Teiler für links und rechts Ausrichtung
-"  %l Aktuelle Zeilennummer
-"  %L Gesamtzahl Zeilen der Datei
+"  %{wordcount().words} Anzahl Wörter im Buffer
 "  %c Aktuelle Spalte
 "  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
+"  %l Aktuelle Zeilennummer
+"  %L Gesamtzahl Zeilen der Datei
 "  %P Aktuelle Position in Prozent
 if g:vimrc_utf8 == 1
 	set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
