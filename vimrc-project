@@ -10,6 +10,10 @@ vim9script
 # A light theme is better when writing text.
 set background=light
 
+# The ability to freely position the cursor is sometimes nice.
+# It breaks assumptions around virtual text and conceal, though.
+set virtualedit=all
+
 # Don't sort the entires in the tagbar. This can be usefull when working
 # with structured text documents like Markdown or LaTeX.
 g:tagbar_sort = 0

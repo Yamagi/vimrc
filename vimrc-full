@@ -163,10 +163,6 @@ set textwidth=72
 " Den Terminal-Titel auf den Namen der aktuellen Datei setzen.
 set title
 
-" Erlaube in allen Modi freie Cursorpositionierung, unabhängig der
-" bereits eingegeben Zeichen.
-set virtualedit=all
-
 " Visuelle Benachrichtigung anstatt piepen.
 set visualbell
 
