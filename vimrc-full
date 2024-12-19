@@ -170,6 +170,11 @@ set virtualedit=all
 " Visuelle Benachrichtigung anstatt piepen.
 set visualbell
 
+" Optionen für Command Line Completions.
+"  fuzzy: Fuzzy Suche.
+"  pum: Nutze ein Popup Menü.
+set wildoptions=fuzzy,pum
+
 " Überlange Zeilen zur Darstellung umbrechen.
 set wrap
 
