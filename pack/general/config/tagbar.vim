@@ -4,7 +4,7 @@
 " ----
 
 " Toggle
-nnoremap <Leader>T :TagbarToggle<CR>
+nnoremap <Leader>o :TagbarToggle<CR>
 
 " If there's a custom ctags binary, use it.
 " See gutentags.vim for details.

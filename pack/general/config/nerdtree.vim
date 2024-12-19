@@ -4,7 +4,7 @@
 " ----
 
 " Toggle.
-nnoremap <Leader>f :NERDTreeToggle<CR>
+nnoremap <Leader>t :NERDTreeToggle<CR>
 
 " Save bookmarks into the runtime dir.
 if has ("win64") || has("win32")

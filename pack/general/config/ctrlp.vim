@@ -4,13 +4,13 @@
 " ----
 
 " Toggle (file mode).
-let g:ctrlp_map = '<leader>o'
+let g:ctrlp_map = '<leader>ff'
 
 " Toggle (buffer mode).
-nnoremap <Leader>bf :CtrlPBuffer<CR>
+nnoremap <Leader>fb :CtrlPBuffer<CR>
 
 " Toggle (tags mode)
-nnoremap <Leader>t :CtrlPTag<CR>
+nnoremap <Leader>ft :CtrlPTag<CR>
 
 " Save the cache dir into the runtime dir.
 if has ("win64") || has("win32")
