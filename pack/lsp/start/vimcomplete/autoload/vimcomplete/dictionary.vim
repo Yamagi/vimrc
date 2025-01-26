@@ -13,15 +13,17 @@ import autoload './util.vim'
 
 export var options: dict<any> = {
     enable: false,
-    matcher: 'case', # 'case', 'ignorecase', 'smartcase', 'casematch'. not active when onlyWords is false.
+    matcher: 'case', # 'case', 'ignorecase'. active for sortedDict or onlyWords is true,
     maxCount: 10,
     sortedDict: true,
-    onlyWords: true, # [0-9z-zA-Z] if true, else any non-space char is allowed
+    onlyWords: true, # [0-9z-zA-Z] if true, else any non-space char is allowed (sorted=false assumed)
     commentStr: '---',
+    triggerWordLen: 0,
     timeout: 0, # not implemented yet
     dup: false, # suppress duplicates
     matchStr: '\k\+$',
     matchAny: false,
+    info: false,  # Whether 'info' popup needs to be populated
 }
 
 def GetProperty(s: string): any
@@ -48,6 +50,14 @@ def SortedDict(): bool
     return GetProperty('sortedDict')
 enddef
 
+def TriggerWordLen(): number
+    return GetProperty('triggerWordLen')
+enddef
+
+def Info(): bool
+    return GetProperty('info')
+enddef
+
 var dictbufs = {}
 
 # Create a readonly, unlisted buffer for each dictionary file so we don't have
@@ -66,7 +76,9 @@ def GetDict(): list<any>
     var dictbuf = []
     for d in &dictionary->split(',')
         var bnr = bufadd(d)
-        bnr->bufload()
+        # Note: Use 'noautocmd' below. Otherwise BufEnter gets called with empty
+        # &ft, which triggers SetCompletors(), which removes dict completion.
+        noautocmd bnr->bufload()
         setbufvar(bnr, "&buftype", 'nowrite')
         setbufvar(bnr, "&swapfile", 0)
         setbufvar(bnr, "&buflisted", 0)
@@ -74,8 +86,9 @@ def GetDict(): list<any>
     endfor
     if !dictbuf->empty()
         dictbufs[ftype] = dictbuf
+        return dictbufs[ftype]
     endif
-    return dictbufs[ftype]
+    return []
 enddef
 
 var dictwords: dict<any> = {} # dictionary file -> words
@@ -86,38 +99,62 @@ def GetWords(prefix: string, bufnr: number): dict<any>
         # read the whole dict buffer at once and cache it
         if !dictwords->has_key(bufnr)
             dictwords[bufnr] = []
+            var word = null_string
+            var info = []
+            var has_info = Info()
             for line in bufnr->getbufline(1, '$')
-                if line->empty()
-                    continue
-                endif
-                if line !~ $'^\s*{CommentStr()}'
-                    # ignore comments (like in https://github.com/vim-scripts/Pydiction)
-                    dictwords[bufnr]->add(line)
+                if line !~ $'^\s*{CommentStr()}' # ignore comments (https://github.com/vim-scripts/Pydiction)
+                    if has_info
+                        if line =~ '^\%(\s\+\|$\)'  # Info document
+                            # Strip only 4 spaces at the start of line to keep the formatting.
+                            info->add(line->substitute('^    ', '', ''))
+                        else
+                            if word != null_string
+                                var idx = dictwords[bufnr]->indexof((_, v) => v.word == word)
+                                if idx != -1
+                                    dictwords[bufnr]->remove(idx)
+                                endif
+                                dictwords[bufnr]->add({word: word}->extend(info != [] ? {info: info->join("\n")} : {}))
+                            endif
+                            word = line
+                            info = []
+                        endif
+                    elseif !line->empty()
+                        dictwords[bufnr]->add({word: line})
+                    endif
                 endif
             endfor
+            if has_info && word != null_string
+                dictwords[bufnr]->add({word: word}->extend(info != [] ? {info: info->join("\n")} : {}))
+            endif
         endif
 
         var items = []
         if OnlyWords()
-            var pattern = (options.matcher == 'case') ? $'\C^{prefix}' : $'\c^{prefix}'
-            items = dictwords[bufnr]->copy()->filter((_, v) => v =~ pattern)
+            var pat = (options.matcher == 'case') ? $'\C^{prefix}' : $'\c^{prefix}'
+            items = dictwords[bufnr]->copy()->filter((_, v) => v.word =~ pat)
             startcol = col('.') - prefix->strlen()
         else
-            var prefixlen = prefix->len()
-            items = dictwords[bufnr]->copy()->filter((_, v) => v->strpart(0, prefixlen) == prefix)
-            # check if we should return xxx from yyy.xxx
-            var second_part = prefix->matchstr(MatchStr())
-            if !second_part->empty() && second_part->len() < prefix->len()
-                var first_part_len = prefix->len() - second_part->len()
+            var prefix_kw = prefix->matchstr(MatchStr())
+            if prefix_kw->len() < prefix->len()
+                # Do not pattern match, but compare (equality) instead.
+                var prefixlen = prefix->len()
+                items = dictwords[bufnr]->copy()->filter((_, v) => v.word->strpart(0, prefixlen) == prefix)
+                # We should return xxx from yyy.xxx.
+                var first_part_len = prefix->len() - prefix_kw->len()
                 items->map((_, v) => v->strpart(first_part_len))
-                startcol = col('.') - second_part->strlen()
-            else
-                if items->empty()
-                    var kwPrefix = prefix->matchstr(MatchStr())
-                    items->extend(dictwords[bufnr]->copy()->filter((_, v) => v =~ $'\C^{kwPrefix}'))
-                    startcol = col('.') - kwPrefix->strlen()
-                endif
-                startcol = col('.') - prefix->strlen()
+                startcol = col('.') - prefix_kw->strlen()
+            elseif !prefix_kw->empty()
+                try
+                    # XXX in C++, typing 'ranges:' will cause the word to jump
+                    # through indentation to the first column. This is caused by
+                    # indentation program, not Vimcomplete.
+                    items = dictwords[bufnr]->copy()->filter((_, v) => v.word =~# $'^{prefix_kw}')
+                    # Match 'foo' in 'barfoobaz'.
+                    # items += dictwords[bufnr]->copy()->filter((_, v) => v.word =~# $'^.\{{-}}{prefix}')
+                    startcol = col('.') - prefix_kw->strlen()
+                catch
+                endtry
             endif
         endif
         return { startcol: startcol, items: items }
@@ -187,30 +224,29 @@ def GetCompletionItems(prefix: string): dict<any>
             dwords = GetWords(prefix, dicts[0])
         endif
     endif
-    if dwords->empty()
+    var items = dwords->get('items', {})
+    if items->empty()
         return { startcol: 0, items: [] }
     endif
-    var items = dwords.items
     startcol = dwords.startcol
-
     var candidates = []
     # remove duplicates
     var found = {}
     for item in items
-        if !found->has_key(item)
-            found[item] = 1
+        if !found->has_key(item.word)
+            found[item.word] = 1
             candidates->add(item)
         endif
     endfor
     candidates = candidates->slice(0, options.maxCount)
     var citems = []
-    for candidate in candidates
+    for cand in candidates
         citems->add({
-            word: candidate,
+            word: cand.word,
             kind: util.GetItemKindValue('Dictionary'),
             kind_hlgroup: util.GetKindHighlightGroup('Dictionary'),
             dup: options.dup ? 1 : 0,
-        })
+        }->extend(cand->has_key('info') ? {info: cand.info} : {}))
     endfor
     return { startcol: startcol, items: citems }
 enddef
@@ -230,8 +266,13 @@ export def Completor(findstart: number, base: string): any
             if prefix == null_string && options.matchAny
                 prefix = line->matchstr('\S\+$')
             endif
+            completionItems = GetCompletionItems(prefix)
+            if completionItems.items->empty()
+                prefix = line->matchstr('\k\+$')
+            endif
         endif
-        if prefix == ''
+        if prefix == '' ||
+                (TriggerWordLen() > 0 && prefix->len() < TriggerWordLen())
             return -2
         endif
         completionItems = GetCompletionItems(prefix)

@@ -4,28 +4,10 @@ vim9script
 
 import autoload './util.vim'
 import autoload './lsp.vim'
+import autoload './options.vim' as copts
 
-export var options: dict<any> = {
-    noNewlineInCompletion: false,
-    noNewlineInCompletionEver: false,
-    matchCase: true,
-    sortByLength: false,
-    recency: true,
-    recentItemCount: 5,
-    shuffleEqualPriority: false,
-    alwaysOn: true,
-    showSource: true,
-    showKind: true,
-    customCompletionKinds: false,
-    completionKinds: {},
-    kindDisplayType: 'symbol', # 'icon', 'icontext', 'text', 'symboltext', 'symbol', 'text'
-    customInfoWindow: true,
-    postfixClobber: false,  # remove yyy in xxx<cursor>yyy
-    postfixHighlight: false, # highlight yyy in xxx<cursor>yyy
-    triggerWordLen: 0,
-    debug: false,
-}
-
+export var options: dict<any>
+options = copts.options
 var saved_options: dict<any> = {}
 
 export def GetOptions(provider: string): dict<any>
@@ -39,8 +21,8 @@ enddef
 var registered: dict<any> = { any: [] }
 var completors: list<any>
 
-export def SetupCompletors()
-    if &filetype == '' || !registered->has_key(&filetype)
+def SetupCompletors()
+    if &ft == '' || !registered->has_key(&ft)
         completors = registered.any
     else
         completors = registered[&ft] + registered.any
@@ -103,7 +85,10 @@ def DisplayPopup(citems: list<any>, line: string)
     if citems->empty()
         return
     endif
-    var startcol = citems[0].startcol # Only one value for startcol is allowed.
+    # Only one value for startcol is allowed. Pick the longest completion.
+    var startcol = citems->mapnew((_, v) => {
+        return v.startcol
+    })->min()
     citems->filter((_, v) => v.startcol == startcol)
     citems->sort((v1, v2) => v1.priority > v2.priority ? -1 : 1)
 
@@ -186,14 +171,16 @@ def GetItems(cmp: dict<any>, line: string): list<any>
     var base = line->strpart(cmp.startcol - 1)
     # Note: when triggerCharacter is used in LSP (like '.') base is empty.
     var items = cmp.completor(0, base)
-    if options.showSource
+    if options.showCmpSource
+        var cmp_name = options.cmpSourceWidth > 0 ?
+            cmp.name->slice(0, options.cmpSourceWidth) : cmp.name
         items->map((_, v) => {
             if v->has_key('menu')
                 if v.menu !~? $'^\[{cmp.name}]'
-                    v.menu = $'[{cmp.name}] {v.menu}'
+                    v.menu = $'[{cmp_name}] {v.menu}'
                 endif
             else
-                v.menu = $'[{cmp.name}]'
+                v.menu = $'[{cmp_name}]'
             endif
             return v
         })
@@ -276,7 +263,7 @@ def SkipComplete(): bool
     return false
 enddef
 
-def VimComplete()
+def VimComplete(saved_curline = null_string, timer = 0)
     if SkipComplete()
         return
     endif
@@ -284,6 +271,17 @@ def VimComplete()
     if line->empty()
         return
     endif
+    # Throttle auto-completion if user types too fast (make typing responsive)
+    # Vim bug: If pum is visible, and when characters are typed really fast, Vim
+    # freezes. After a while it sends all the typed characters in one
+    # TextChangedI (Not TextChangedP) event.
+    if saved_curline == null_string
+        timer_start(options.throttleTimeout, function(VimComplete, [line]))
+        return
+    elseif saved_curline != line
+        return
+    endif
+
     if options.triggerWordLen > 0
         var keyword = line->matchstr('\k\+$')
         if keyword->len() < options.triggerWordLen &&
@@ -326,7 +324,7 @@ def VimCompletePopupVisible()
     if !compl.pum_visible  # should not happen
         return
     endif
-    if compl.selected == -1 # no items is selected in the menu
+    if compl.selected == -1 # no item is selected in the menu
         VimComplete()
     endif
 enddef
@@ -348,12 +346,47 @@ enddef
 
 export def Enable()
     var bnr = bufnr()
-    if options.customInfoWindow
+    if options.infoPopup
+        # Hide the popup -- for customizing "info" popup window
         setbufvar(bnr, '&completeopt', $'menuone,popuphidden,noselect,noinsert')
     else
-        setbufvar(bnr, '&completeopt', $'menuone,popup,noselect,noinsert')
+        setbufvar(bnr, '&completeopt', $'menuone,noselect,noinsert')
     endif
-    setbufvar(bnr, '&completepopup', 'width:80,highlight:Pmenu,align:item')
+
+    augroup VimCompBufAutocmds | autocmd! * <buffer>
+        if options.alwaysOn
+            autocmd TextChangedI <buffer> VimComplete()
+            autocmd TextChangedP <buffer> VimCompletePopupVisible()
+        endif
+        # Note: When &ft is set in modeline, BufEnter will not have &ft set and
+        # thus SetupCompletors() will not set completors appropriately. However,
+        # if 'FileType' event is used to trigger SetupCompletors() and if :make
+        # is used, it causes a FileType event for 'qf' (quickfix) file even when
+        # :make does not have errors. This causes completors to be reset. There
+        # will be no BufEnter to undo the damage. Thus, do not use FileType
+        # event below.
+        autocmd BufEnter,BufReadPost <buffer> SetupCompletors()
+        autocmd CompleteDone <buffer> LRU_Cache()
+        if options.postfixClobber
+            autocmd CompleteDone <buffer> util.TextAction(true)
+            autocmd CompleteChanged <buffer> util.TextActionPre(true)
+            autocmd InsertLeave <buffer> util.UndoTextAction(true)
+        elseif options.postfixHighlight
+            autocmd CompleteChanged <buffer> util.TextActionPre()
+            autocmd CompleteDone,InsertLeave <buffer> util.UndoTextAction()
+        endif
+        if options.infoPopup
+            autocmd CompleteChanged <buffer> util.InfoPopupWindowSetOptions()
+        endif
+    augroup END
+
+    if options.postfixHighlight
+        highlight default link VimCompletePostfix DiffChange
+    endif
+
+    if !get(g:, 'vimcomplete_do_mapping', 1)
+        return
+    endif
 
     util.CREnable()
 
@@ -372,29 +405,8 @@ export def Enable()
     elseif options.postfixHighlight
         inoremap <silent><expr> <Plug>(vimcomplete-undo-text-action) util.UndoTextAction()
         inoremap <buffer> <c-c> <Plug>(vimcomplete-undo-text-action)<c-c>
-        highlight default link VimCompletePostfix DiffChange
         inoremap <expr> <c-l> util.TextActionWrapper()
     endif
-
-    augroup VimCompBufAutocmds | autocmd! * <buffer>
-        if options.alwaysOn
-            autocmd TextChangedI <buffer> VimComplete()
-            autocmd TextChangedP <buffer> VimCompletePopupVisible()
-        endif
-        autocmd BufEnter,BufReadPost,FileType <buffer> SetupCompletors()  # FileType, for 'ft' set in 'modeline'
-        autocmd CompleteDone <buffer> LRU_Cache()
-        if options.postfixClobber
-            autocmd CompleteDone <buffer> util.TextAction(true)
-            autocmd CompleteChanged <buffer> util.TextActionPre(true)
-            autocmd InsertLeave <buffer> util.UndoTextAction(true)
-        elseif options.postfixHighlight
-            autocmd CompleteChanged <buffer> util.TextActionPre()
-            autocmd CompleteDone,InsertLeave <buffer> util.UndoTextAction()
-        endif
-        if options.customInfoWindow
-            autocmd CompleteChanged <buffer> util.InfoPopupWindow()
-        endif
-    augroup END
 
     util.TabEnable()
 enddef

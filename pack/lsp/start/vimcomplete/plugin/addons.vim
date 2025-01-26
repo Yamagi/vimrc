@@ -18,7 +18,7 @@ import autoload '../autoload/vimcomplete/tag.vim'
 import autoload '../autoload/vimcomplete/util.vim'
 import autoload '../autoload/vimcomplete/completor.vim'
 
-def RegisterPlugins()
+def RegisterAddons()
     def Register(provider: string, ftypes: list<string>, priority: number)
         var o = eval($'{provider}.options')
         if !o->has_key('enable') || o.enable
@@ -55,7 +55,7 @@ def RegisterLsp()
     endif
 enddef
 
-autocmd User VimCompleteLoaded ++once RegisterPlugins() | util.InitKindHighlightGroups()
+autocmd User VimCompleteLoaded ++once RegisterAddons() | util.InitKindHighlightGroups()
 autocmd User LspAttached RegisterLsp()
 autocmd VimEnter * lsp.Setup()
 
@@ -70,13 +70,18 @@ def! g:VimCompleteOptionsSet(opts: dict<any>)
     endfor
     # Notify external completion providers that options have changed
     if exists('#User#VimCompleteOptionsChanged')
-        doautocmd <nomodeline> User VimCompleteOptionsChanged
+        silent! doautocmd <nomodeline> User VimCompleteOptionsChanged
     endif
     # Re-register providers since priority could have changed
-    RegisterPlugins()
+    RegisterAddons()
     RegisterLsp()
 enddef
 
+def! g:VimCompleteInfoWindowOptionsSet(opts: dict<any>)
+    util.info_popup_options->extend(opts)
+enddef
+
+# Legacy -- remove this function eventually
 def! g:VimCompleteInfoPopupOptionsSet(opts: dict<any>)
     util.info_popup_options->extend(opts)
 enddef

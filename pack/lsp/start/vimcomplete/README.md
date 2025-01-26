@@ -110,7 +110,6 @@ Option|Type|Description
 `alwaysOn`|`Boolean`| If set to `true`, the completion menu is automatically triggered by any change in the buffer. If set to `false`, use `<C-Space>` (control-space) to manually trigger auto-completion. If you choose to map some other key instead, map your favorite key to `<Plug>(vimcomplete-do-complete)`. Default: true.
 `completionKinds`|`Dictionary`|Custom text to use when `customCompletionKinds` is set (explained below). Default: `{}`.
 `customCompletionKinds`|`Boolean`|Set this option to customize the 'kind' attribute (explained below). Default: `false`.
-`customInfoWindow`|`Boolean`|Change the look of default info popup window (explained below). Default: `true`.
 `kindDisplayType`|`String`|The 'kind' field of completion item can be displayed in a number of ways: as a single letter symbol (`symbol`), a single letter with descriptive text (`symboltext`), only text (`text`), an icon (`icon`), or icon with text (`icontext`). For showing VSCode like icons you need [a patched font](https://www.nerdfonts.com/). Default: `symbol`.
 `matchCase`|`Boolean`|Prioritize the items that match the case of the prefix being completed. Default: `true`.
 `noNewlineInCompletion` | `Boolean` | When `true`, pressing `<Enter>` (`<CR>`) in insert mode will insert a newline only if an item in the popup menu is selected. If an item is not selected, the popup is dismissed without inserting a newline. Default: `false`.
@@ -120,10 +119,12 @@ Option|Type|Description
 `recency`|`Boolean`|Display recently chosen items from the LRU cache. Items are shown at the top of the list. Default: `true`.
 `recentItemCount`|`Number`|Count of recent items to show from LRU cache. Default: `5`.
 `showKind`|`Boolean`|Show the type ('kind') of completion item returned by LSP server. Default: `true`.
-`showSource`|`Boolean`|Show the source of the completion item in the menu. Default: `true`.
+`showCmpSource`|`Boolean`|Show the source of the completion item in the menu. Default: `true`.
+`cmpSourceWidth`|`Number`|Number of characters displayed for completion source. Default: `4`.
 `shuffleEqualPriority`|`Boolean`|Arrange items from sources with equal priority such that the first item of all sources appear before the second item of any source. Default: `false`.
 `sortByLength`|`Boolean`|Sort completion items by length. Default: `false`.
 `triggerWordLen`|`Number`|Minimum number of characters needed to trigger completion menu. Not applicable to completion triggered by LSP trigger characters (this exemption applies only to Vim version 9.1.650 or higher). Default: `1`.
+`infoPopup`|`Boolean`|Show an info popup (`:h completepopup`) for extra information. Default: `true`.
 
 ## Buffer Completion
 
@@ -162,12 +163,12 @@ Option|Type|Description
 `onlyWords`| `Boolean` | Set this to `true` if both the prefix you are trying to complete and the dictionary contain alphanumeric characters only (text files). For programming language dictionaries it should be set to `false`, since they can contain characters like `@`, `.`, `(`, etc. Default: `false`.
 `priority`|`Number`|Priority of this source relative to others. Items from higher priority sources are displayed at the top. Default: `10`.
 `sortedDict`       | `Boolean` | `true` if the dictionary file is sorted, `false` otherwise. This option affects both performance and correctness. Take care to set it correctly. Searching is case sensitive. Default: `true`.
+`triggerWordLen`|`Number`|Minimum number of characters needed to trigger completion menu. Default: `1`.
 
 ### Sample Configuration
 
 Further information about setting up configurations will be available later. Nonetheless, here is a sample configuration specifically targeting the dictionary source.
-
-Dictionary files can be configured individually for each 'filetype' (`:h filetype`). In the provided sample, the dictionary module is enabled for filetypes 'python' and 'text'. Vim `dictionary` option is appropriately set. Specific dictionary options are defined for each respective filetype.
+Dictionary files can be configured individually for each 'filetype' (`:h filetype`). 
 
 ```
 vim9script
@@ -180,7 +181,19 @@ var vcoptions = {
 }
 autocmd VimEnter * g:VimCompleteOptionsSet(vcoptions)
 autocmd FileType text set dictionary+=/usr/share/dict/words
-autocmd FileType python set dictionary=$HOME/.vim/data/pythondict
+```
+
+By adding the following snippet to your `vimrc`, you can add custom completions for each filetype, say `python`, by adding a text  file `dicts/python` into the `vimrc` folder:
+
+```vim
+vim9script
+g:vimfiles_dir = &runtimepath->split(',')[0]
+autocmd FileType * {
+    var dict = $'{g:vimfiles_dir}/dicts/{expand("<amatch>")}'->resolve()->fnamemodify(':p')
+    if dict->filereadable()
+        exe $'setlocal dictionary={dict}'
+    endif
+}
 ```
 
 > [!TIP]
@@ -420,6 +433,17 @@ In this case, the user must define an appropriate `<CR>` mapping to resolve conf
 > [!NOTE]
 > For help with other keybindings see `:h popupmenu-keys`. This help section includes keybindings for `<BS>`, `CTRL-H`, `CTRL-L`, `CTRL-Y`, `CTRL-E`, `<PageUp>`, `<PageDown>`, `<Up>`, and `<Down>` keys when popup menu is open.
 
+## Disable mappings
+
+Disable all mappings set by vimcomplete.
+Please set your preferred mappings.
+Both `g:vimcomplete_tab_enable` and `g:vimcomplete_cr_enable` are ignored.
+
+```vim
+vim9script
+let g:vimcomplete_do_mapping = 0
+```
+
 ## Highlight Groups
 
 You can use `Pmenu`, `PmenuThumb`, `PmenuSbar`, `PmenuSel`, `PmenuKind`,
@@ -432,13 +456,34 @@ If `postfixHighlight` option is enabled, you can utilize the `VimCompletePostfix
 
 ## Info Popup Window
 
-Vim's completion system opens an additional popup window next to the selected
-item if the item has additional info that needs to be displayed. If you prefer to keep the
-default look of this window set `customInfoWindow` to `false`. Set it to `true` to see a more
-refined border. If you prefer to customize this window further use
-`g:VimCompleteInfoPopupOptionsSet()`. It takes a dictionary of popup window
-options. See `:h popup_create-arguments`. You can set `borderchars`,
-`borderhighlight` and `popuphighlight` for instance.
+Vim's completion system can display an additional popup window (referred to as the "info" window) next to the selected menu item when supplementary information is available. 
+
+To apply basic customizations, you can use the `completepopup` option. For example:
+
+```vim
+autocmd VimEnter * set completepopup+=border:off,highlight:Normal
+```
+
+This provides limited customization. For advanced control over the appearance and behavior of the "info" window, use the `g:VimCompleteInfoWindowOptionsSet()` function. This function accepts a dictionary of popup window options. Refer to `:h popup_create-arguments` for detailed descriptions. Here’s an example:
+
+```vim
+g:VimCompleteInfoWindowOptionsSet({
+    drag: false,    # Disable dragging
+    close: 'none',  # Disable close button
+    resize: false,  # Disable resizing
+})
+```
+
+Info window can be scrolled using the following keys:
+`<Plug>(vimcomplete-info-window-pageup)`,
+`<Plug>(vimcomplete-info-window-pagedown)`,
+`<Plug>(vimcomplete-info-window-home)`, and
+`<Plug>(vimcomplete-info-window-end)`. Here's an example mapping:
+
+```vim
+inoremap <C-b> <Plug>(vimcomplete-info-window-pageup)
+inoremap <C-f> <Plug>(vimcomplete-info-window-pagedown)
+```
 
 # Commands
 
