@@ -25,22 +25,14 @@ g:tmux_navigator_no_mappings = 1
 # To be on the secure side we set two mappings:
 #  * Alt as represented by vim.
 #  * <Esc> followed by the character.
-nnoremap <silent> <Esc>h :<C-U>TmuxNavigateLeft<cr>
 nnoremap <silent> <A-h>  :<C-U>TmuxNavigateLeft<cr>
-nnoremap <silent> <Esc>j :<C-U>TmuxNavigateDown<cr>
 nnoremap <silent> <A-j>  :<C-U>TmuxNavigateDown<cr>
-nnoremap <silent> <Esc>k :<C-U>TmuxNavigateUp<cr>
 nnoremap <silent> <A-k>  :<C-U>TmuxNavigateUp<cr>
-nnoremap <silent> <Esc>l :<C-U>TmuxNavigateRight<cr>
 nnoremap <silent> <A-l>  :<C-U>TmuxNavigateRight<cr>
 
-nnoremap <silent> <Esc><Left> :<C-U>TmuxNavigateLeft<cr>
 nnoremap <silent> <A-Left> :<C-U>TmuxNavigateLeft<cr>
-nnoremap <silent> <Esc><Down> :<C-U>TmuxNavigateDown<cr>
 nnoremap <silent> <A-Down> :<C-U>TmuxNavigateDown<cr>
-nnoremap <silent> <Esc><Up> :<C-U>TmuxNavigateUp<cr>
 nnoremap <silent> <A-Up> :<C-U>TmuxNavigateUp<cr>
-nnoremap <silent> <Esc><Right> :<C-U>TmuxNavigateRight<cr>
 nnoremap <silent> <A-Right> :<C-U>TmuxNavigateRight<cr>
 
 # Disable tmux navigator when zooming the Vim pane.

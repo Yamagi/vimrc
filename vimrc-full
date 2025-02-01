@@ -363,6 +363,14 @@ if !has("gui_running")
 		" Automatische Featureerkennung.
 		let &t_RV = "\<Esc>[>c"
 
+		" Seit Version 3.5 unterstützt tmux modifyOtherKeys
+		" Mode 2. Erzwinge ihn hier, denn es erlaubt die
+		" Alt Taste ohne Escape Sequenz abzubilden. Das
+		" ermöglicht wiederum Mappings alt Alt, ohne mit
+		" dem Key Timeout von einer Sekunde zu kollidieren.
+		let &t_TI = "\<Esc>[>4;2m"
+		let &t_TE = "\<Esc>[>4;m"
+
 		" Truecolor.
 		let &t_8f="\e[38;2;%lu;%lu;%lum"
 		let &t_8b="\e[48;2;%lu;%lu;%lum"
