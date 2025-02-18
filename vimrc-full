@@ -80,7 +80,8 @@ set autoindent
 set backspace=indent,eol,start
 
 " Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
-set completeopt=menu,menuone,longest
+" Auch wenn es nur eine Option gibt. Wenn möglich fuzzy matching nutzen.
+set completeopt=fuzzy,menu,menuone,longest
 
 " Neue und sicherere Blowfish-Implementerung zur Verschlüsselung.
 set cryptmethod=blowfish2
