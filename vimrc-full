@@ -543,6 +543,12 @@ filetype indent on
 " den aktuellen Dateityp gibt, wollen wir dies daher nutzen.
 filetype plugin indent on
 
+" ----
+
+" netrw abschalten, wir haben bessere Plugins.
+let g:loaded_netrw       = 1
+let g:loaded_netrwPlugin = 1
+
 " =====================================================================
 
 " --------------------------------------
