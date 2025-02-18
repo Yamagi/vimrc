@@ -22,3 +22,6 @@ let g:gutentags_ctags_tagfile = '.vimtags'
 
 " Support .vimrc as an additional root marker.
 let g:gutentags_project_root = ['.vimrc']
+
+" List of files which are never tagged.
+let g:gutentags_ctags_exclude = ['compile_commands.json']
