@@ -15,6 +15,9 @@ extend(lspOptions, {
 	'autoComplete': false,
 	'omniComplete': false,
 
+	# Highlight the word under the cursor.
+	'autoHighlight': true,
+
 	# Case insensitive completions were available.
 	# This is needed for vimcomplete.
 	'completionMatcher': 'icase',
@@ -23,31 +26,41 @@ extend(lspOptions, {
 	'diagVirtualTextAlign': 'below',
 
 	# Outline to the right and with sensible size.
-	# (If we ever use it, Tagbar is a better option.)
 	'outlineOnRight': true,
 	'outlineWinSize': 40,
 
-	# Show disgnostics inline.
+	# Use semantic highlighting if provided by the
+	# language server. It generally does a better
+	# job than Vims regex based highlighting.
+	'semanticHighlight': true,
+
+	# Show diagnostics inline.
 	'showDiagWithVirtualText': true,
 
 	# Show type inlays.
-	'showInlayHints': true
+	'showInlayHints': true,
+
+	# Show available code actions in an popup
+	# before applying them.
+	'usePopupInCodeAction': true
 })
 
 # Diagnostic signs, in ASCII and UTF-8 flavor.
+# Use the same sign for all diagnostics, the
+# highlighting makes the category clear.
 if g:vimrc_utf8 == 1
 	extend(lspOptions, {
-		'diagSignErrorText': '✗',
-		'diagSignHintText': '‼',
-		'diagSignInfoText': '✓',
-		'diagSignWarningText': 'ℹ'
+		'diagSignErrorText': '■',
+		'diagSignHintText': '■',
+		'diagSignInfoText': '■',
+		'diagSignWarningText': '■'
 	})
 else
 	extend(lspOptions, {
 		'diagSignErrorText': 'x',
-		'diagSignHintText': '!',
-		'diagSignInfoText': '*',
-		'diagSignWarningText': 'i'
+		'diagSignHintText': 'x',
+		'diagSignInfoText': 'x',
+		'diagSignWarningText': 'x'
 	})
 endif
 
@@ -120,31 +133,29 @@ def g:ToggleInlayHints()
 	endif
 enddef
 
-# Bindings are configured an a per buffer base by an
+# Bindings are configured on a per buffer base by an
 # autocmd defined below. These bindings are a little
-# bit ugly, but they are better than nothing.
+# bit ugly since they define another layer behind
+# <Leader>l, but they are better than nothing.
 def LspMappings()
+	# LSP Actions.
+	nmap <buffer><silent> <leader>lc :LspIncomingCalls<cr>
+	nmap <buffer><silent> <leader>ld :LspDocumentSymbol<cr>
+	nmap <buffer><silent> <leader>lf :LspCodeAction<cr>
 	nmap <buffer><silent> <leader>lh :LspHover<cr>
-
-	nmap <buffer><silent> <leader>ldd :LspDiag next<cr>
-	nmap <buffer><silent> <leader>ldD :LspDiag prev<cr>
-
-	nmap <buffer><silent> <leader>li :call g:ToggleInlayHints()<cr>
-
-	nmap <buffer><silent> <leader>lpd :LspPeekDeclaration<cr>
-	nmap <buffer><silent> <leader>lpD :LspPeekDefinition<cr>
-	nmap <buffer><silent> <leader>lpi :LspPeekImpl<cr>
-	nmap <buffer><silent> <leader>lpr :LspPeekReferences<cr>
-	nmap <buffer><silent> <leader>lpt :LspPeekTypeDef<cr>
-
+	nmap <buffer><silent> <leader>li :LspPeekDeclaration<cr>
+	nmap <buffer><silent> <leader>ln :LspDiag nextWrap<cr>
+	nmap <buffer><silent> <leader>lp :LspDiag prevWrap<cr>
 	nmap <buffer><silent> <leader>lr :LspRename<cr>
+	nmap <buffer><silent> <leader>ls :LspShowReferences<cr>
+	nmap <buffer><silent> <leader>lt :call g:ToggleInlayHints()<cr>
 
-	nmap <buffer><silent> <leader>lsr :LspShowReferences<cr>
-	nmap <buffer><silent> <leader>lss :LspShowSignature<cr>
+	# Replace some global functionality by LSP functions.
+	nmap <buffer><silent> <leader>o :LspOutline<cr>
 enddef
 
 augroup vimrcEx
-	# Apply the mappings when the LSP attaches to
-	# the current buffer.
+	# Apply the mappings when the language server
+	# attaches to the current buffer.
 	autocmd User LspAttached call LspMappings()
 augroup END
