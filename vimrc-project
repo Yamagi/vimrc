@@ -14,6 +14,10 @@ set background=light
 # It breaks assumptions around virtual text and conceal, though.
 set virtualedit=all
 
+# Visualizing tabs, spaces and other invisible characters is a
+# good thing for code. It might be annoying for plain text.
+set nolist
+
 # Don't sort the entires in the tagbar. This can be usefull when working
 # with structured text documents like Markdown or LaTeX.
 g:tagbar_sort = 0

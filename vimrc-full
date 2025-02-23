@@ -119,6 +119,14 @@ set incsearch
 " Breche nur in Leerzeichen um, nicht innerhalb eines Wortes.
 set linebreak
 
+" Visualisiere Tabs, sowie Leerzeichen am Anfang und Ende der Zeile.
+set list
+if g:vimrc_utf8 == 1
+	set listchars=lead:·,tab:\|\ \,trail:·
+else
+	set listchars=lead:.,tab:\|\ \,trail:.
+endif
+
 " Modelines sind in vielen Installationen aus Sicherheitsgründen
 " abgeschaltet. Wir wollen sie aber grundsätzlich parsen.
 set modeline
