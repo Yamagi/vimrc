@@ -7,8 +7,8 @@ vim9script
 
 # =====================================================================
 
-# A light theme is better when writing text.
-set background=light
+# A low contrast is better when writing text.
+color habamax
 
 # The ability to freely position the cursor is sometimes nice.
 # It breaks assumptions around virtual text and conceal, though.
