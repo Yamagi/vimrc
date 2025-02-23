@@ -205,7 +205,7 @@ set showmode
 " eingeschaltet ist, wird die Sprache zurückgegeben, sonst ein leerer
 " String.
 function! SpellState()
-  return &spell ? ',' . &spelllang : ''
+	return &spell ? ',' . &spelllang : ''
 endfunction
 
 " Statuszeilenlayout.
@@ -390,7 +390,7 @@ if !has("gui_running")
 		let &t_Ce="\e[4:0m"
 		let &t_8u="\e[58;2;%lu;%lu;%lum"
 	elseif &term =~ "rxvt-unicode"
-        " rxvt-unicode ist ein Arbeitstier. Ein gutes und
+		" rxvt-unicode ist ein Arbeitstier. Ein gutes und
 		" schnelles Terminal, allerdings fehlen ihm neuere
 		" Features.
 
@@ -584,8 +584,8 @@ augroup vimrcEx
 	" Git-Commit editieren. Es ist ein wenig unschön, aber da beim
 	" Ausführen des ersten AutoCmd der Filetype noch nicht gesetzt
 	" ist, alternativlos.
-	 autocmd FileType gitcommit autocmd! BufEnter COMMIT_EDITMSG
-				 \ call setpos('.', [0, 1, 1, 0])
+	autocmd FileType gitcommit autocmd! BufEnter COMMIT_EDITMSG
+				\ call setpos('.', [0, 1, 1, 0])
 
 	" Im Falle von C und C++ sollen //-Kommentare nicht fortgesetzt
 	" werden, wenn die Zeile umgebrochen wird. Es sind halt einzeilige
