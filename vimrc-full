@@ -625,6 +625,9 @@ nnoremap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
 " Alle Hervorhebungen löschen.
 nnoremap <Leader>hc :nohls<CR>
 
+" List Mode.
+nnoremap <Leader>l :set list!<CR>
+
 " Paste-Mode.
 nnoremap <Leader>p :set paste!<CR>
 
