@@ -4,12 +4,9 @@ import autoload './utils/selector.vim'
 import autoload './utils/popup.vim'
 import autoload './utils/devicons.vim'
 
-var matched_hl_offset = 0
-var devicon_char_width = devicons.GetDeviconCharWidth()
+var enable_devicons = devicons.Enabled()
 
 # Options
-var enable_devicons = exists('g:fuzzyy_devicons') && exists('g:WebDevIconsGetFileTypeSymbol') ?
-    g:fuzzyy_devicons : exists('g:WebDevIconsGetFileTypeSymbol')
 var respect_gitignore = exists('g:fuzzyy_grep_respect_gitignore') ?
     g:fuzzyy_grep_respect_gitignore : g:fuzzyy_respect_gitignore
 var file_exclude = exists('g:fuzzyy_grep_exclude_file')
@@ -25,10 +22,6 @@ var follow_symlinks = exists('g:fuzzyy_grep_follow_symlinks') ?
 var ripgrep_options = exists('g:fuzzyy_grep_ripgrep_options')
     && type(g:fuzzyy_grep_ripgrep_options) == v:t_list ?
     g:fuzzyy_grep_ripgrep_options : g:fuzzyy_ripgrep_options
-
-if enable_devicons
-    matched_hl_offset = devicons.GetDeviconWidth() + 1
-endif
 
 var loading = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
 
@@ -159,6 +152,7 @@ var last_result_len = -1
 var last_result = []
 var cur_dict = {}
 var jid: job
+var pid: number
 var preview_wid = -1
 
 # return:
@@ -243,11 +237,14 @@ def JobStart(pattern: string)
         exit_cb: function('JobExitCb'),
         err_cb: function('JobErrCb'),
     })
+    pid = job_info(jid).process
 enddef
 
 def JobOutCb(channel: channel, msg: string)
-    var lists = selector.Split(msg)
-    cur_result += lists
+    if job_info(ch_getjob(channel)).process == pid
+        var lists = selector.Split(msg)
+        cur_result += lists
+    endif
 enddef
 
 def JobErrCb(channel: channel, msg: string)
@@ -297,7 +294,7 @@ enddef
 def Preview(wid: number, opts: dict<any>)
     var result = opts.cursor_item
     if enable_devicons
-        result = strcharpart(result, devicon_char_width + 1)
+        result = devicons.RemoveDevicon(result)
     endif
     var last_item = opts.last_cursor_item
     var [relative_path, linenr, colnr] = ParseResult(result)
@@ -328,10 +325,10 @@ def Preview(wid: number, opts: dict<any>)
     if path != last_path
         var preview_bufnr = winbufnr(preview_wid)
         var content = readfile(path)
-        noautocmd popup_settext(preview_wid, content)
+        popup_settext(preview_wid, content)
         setwinvar(preview_wid, '&filetype', '')
         win_execute(preview_wid, 'silent! doautocmd filetypedetect BufNewFile ' .. path)
-        noautocmd win_execute(preview_wid, 'silent! setlocal nospell nolist')
+        win_execute(preview_wid, 'silent! setlocal nospell nolist')
         if empty(getwinvar(preview_wid, '&filetype')) || getwinvar(preview_wid, '&filetype') == 'conf'
             var modelineft = selector.FTDetectModelines(content)
             if !empty(modelineft)
@@ -352,7 +349,7 @@ def Select(wid: number, result: list<any>)
         return
     endif
     if enable_devicons
-        relative_path = strcharpart(relative_path, devicon_char_width + 1)
+        relative_path = devicons.RemoveDevicon(relative_path)
     endif
     var path = cwd .. '/' .. relative_path
     selector.MoveToUsableWindow()
@@ -371,7 +368,7 @@ def UpdateMenu(...li: list<any>)
         selector.UpdateMenu([], [])
         last_pattern = cur_pattern
         last_result_len = cur_result_len
-        popup_setoptions(menu_wid, {title: 0})
+        popup_setoptions(menu_wid, {title: ''})
         return
     endif
 
@@ -407,11 +404,10 @@ def UpdateMenu(...li: list<any>)
     endif
 
     if enable_devicons
-        map(strs, (_, val) => {
-            return g:WebDevIconsGetFileTypeSymbol(split(val, ':')[0]) .. ' ' .. val
-        })
+        devicons.AddDevicons(strs)
+        var hl_offset = devicons.GetDeviconOffset()
         hl_list = reduce(hl_list, (a, v) => {
-            v[1] += matched_hl_offset
+            v[1] += hl_offset
             return add(a, v)
         }, [])
     endif

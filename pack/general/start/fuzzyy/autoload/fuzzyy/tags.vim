@@ -7,6 +7,7 @@ var tag_files = []
 var tag_dirs = []
 var cwd: string
 var fs = has('win32') || has('win64') ? '\' : '/'
+var menu_wid: number
 
 def ParseResult(result: string): list<any>
     # Tags file format, see https://docs.ctags.io/en/latest/man/tags.5.html
@@ -132,10 +133,10 @@ def Preview(wid: number, opts: dict<any>)
     endif
     var preview_bufnr = winbufnr(preview_wid)
     var content = readfile(path)
-    noautocmd popup_settext(preview_wid, content)
+    popup_settext(preview_wid, content)
     setwinvar(preview_wid, '&filetype', '')
     win_execute(preview_wid, 'silent! doautocmd filetypedetect BufNewFile ' .. path)
-    noautocmd win_execute(preview_wid, 'silent! setlocal nospell nolist')
+    win_execute(preview_wid, 'silent! setlocal nospell nolist')
     if empty(getwinvar(preview_wid, '&filetype')) || getwinvar(preview_wid, '&filetype') == 'conf'
         var modelineft = selector.FTDetectModelines(content)
         if !empty(modelineft)
@@ -168,11 +169,19 @@ def AsyncCb(result: list<any>)
         idx += 1
     endfor
     selector.UpdateMenu(strs, hl_list)
+    popup_setoptions(menu_wid, {title: selector.total_results})
 enddef
 
+var async_tid: number
 def Input(wid: number, args: dict<any>, ...li: list<any>)
     var pattern = args.str
-    selector.FuzzySearchAsync(tag_list, pattern, 200, function('AsyncCb'))
+    if pattern != ''
+        async_tid = selector.FuzzySearchAsync(tag_list, pattern, 200, function('AsyncCb'))
+    else
+        timer_stop(async_tid)
+        selector.UpdateMenu(tag_list, [])
+        popup_setoptions(menu_wid, {title: len(tag_list)})
+    endif
 enddef
 
 export def Start(opts: dict<any> = {})
@@ -236,4 +245,6 @@ export def Start(opts: dict<any> = {})
         input_cb: function('Input'),
         key_callbacks: split_edit_callbacks,
     }))
+    menu_wid = wids.menu
+    popup_setoptions(menu_wid, {title: string(len(tag_list))})
 enddef

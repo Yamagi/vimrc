@@ -161,6 +161,12 @@ Enable dropdown theme (prompt at top rather than bottom). Default 0
 let g:fuzzyy_dropdown = 0
 ```
 
+### g:fuzzyy_borderchars
+Set the borderchars of popup windows. Must be a list of 8 characters.
+```vim
+let g:fuzzyy_borderchars = ['─', '│', '─', '│', '╭', '╮', '╯', '╰']
+```
+
 ### g:fuzzyy_reuse_windows
 Fuzzyy avoids opening files in windows containing special buffers, like buffers
 created by file explorer plugins or help and quickfix buffers. Use this to add
@@ -254,6 +260,47 @@ let g:fuzzyy_ripgrep_options = [
 ```
 This option can also be set specifically for FuzzyFiles and/or FuzzyGrep using
 `g:fuzzyy_files_ripgrep_options` and `g:fuzzyy_grep_ripgrep_options`
+
+### g:fuzzyy_devicons_color_table
+Add custom mappings for colorizing devicon glyphs. A dictionary of filename
+patterns and colors. Colors must be either color names in Vim's `v:colornames`
+dict or hex colors in `#rrggbb` format. Default {}
+```vim
+let g:fuzzyy_devicons_color_table = {}
+```
+Example usage
+```vim
+let g:fuzzyy_devicons_color_table = { '*.vala': 'mediumpurple', '*.jl': '#9558B2' }
+```
+
+### g:fuzzyy_devicons_glyph_func
+Specify a custom function for obtaining devicon glyphs from file names or paths.
+By default Fuzzyy integrates with vim-devicons to obtain glyphs and measure byte
+widths. You can use this option to obtain devicon glyphs from another nerdfont
+compatible plugin, or your own custom function. Default ''
+```vim
+let g:fuzzyy_devicons_glyph_func = ''
+```
+Example usage
+```vim
+let g:fuzzyy_devicons_glyph_func = 'nerdfont#find'
+```
+The function should take a single string argument and return a single glyph.
+
+### g:fuzzyy_devicons_color_func
+Specify a custom function for colorizing devicon glyphs. By default Fuzzyy does
+this with an internal function using a small set of common file name patterns
+and colors, but you may want more extensive support for file name patterns not
+recognised by Fuzzyy and to apply the same colors to Fuzzyy as other plugins.
+Default ''
+```vim
+let g: fuzzyy_devicons_color_func = ''
+```
+Example usage
+```vim
+let g: fuzzyy_devicons_color_func = 'glyph_palette#apply'
+```
+The function should take no arguments and use matchadd() to add highlighting.
 
 ### g:fuzzyy_keymaps
 Change navigation keymaps. The following are the defaults

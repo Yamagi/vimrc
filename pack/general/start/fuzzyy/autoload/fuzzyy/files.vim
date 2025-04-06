@@ -14,15 +14,7 @@ var jid: job
 var menu_wid: number
 var update_tid: number
 var cache: dict<any>
-var matched_hl_offset = 0
-var devicon_char_width = devicons.GetDeviconCharWidth()
-
-var enable_devicons = exists('g:fuzzyy_devicons') && exists('g:WebDevIconsGetFileTypeSymbol') ?
-    g:fuzzyy_devicons : exists('g:WebDevIconsGetFileTypeSymbol')
-if enable_devicons
-    # devicons take 3/4(macvim) chars position plus 1 space
-    matched_hl_offset = devicons.GetDeviconWidth() + 1
-endif
+var enable_devicons = devicons.Enabled()
 
 def ProcessResult(list_raw: list<string>, ...args: list<any>): list<string>
     var limit = -1
@@ -33,7 +25,7 @@ def ProcessResult(list_raw: list<string>, ...args: list<any>): list<string>
         li = list_raw
     endif
     if enable_devicons
-         map(li, 'g:WebDevIconsGetFileTypeSymbol(v:val) .. " " .. v:val')
+        devicons.AddDevicons(li)
     endif
     # Hack for Git-Bash / Mingw-w64, Cygwin, and possibly other friends
     # External commands like rg may return paths with Windows file separator,
@@ -45,7 +37,7 @@ enddef
 def Select(wid: number, result: list<any>)
     var relative_path = result[0]
     if enable_devicons
-        relative_path = strcharpart(relative_path, devicon_char_width + 1)
+        relative_path = devicons.RemoveDevicon(relative_path)
     endif
     var path = cwd .. '/' .. relative_path
     selector.MoveToUsableWindow()
@@ -55,18 +47,20 @@ enddef
 def AsyncCb(result: list<any>)
     var strs = []
     var hl_list = []
+    var hl_offset = enable_devicons ? devicons.GetDeviconOffset() : 0
     var idx = 1
     for item in result
         add(strs, item[0])
         hl_list += reduce(item[1], (acc, val) => {
             var pos = copy(val)
-            pos[0] += matched_hl_offset
+            pos[0] += hl_offset
             add(acc, [idx] + pos)
             return acc
         }, [])
         idx += 1
     endfor
     selector.UpdateMenu(ProcessResult(strs), hl_list)
+    popup_setoptions(menu_wid, {title: selector.total_results})
 enddef
 
 def Input(wid: number, val: dict<any>, ...li: list<any>)
@@ -91,7 +85,7 @@ enddef
 def Preview(wid: number, opts: dict<any>)
     var result = opts.cursor_item
     if enable_devicons
-        result = strcharpart(result, devicon_char_width + 1)
+        result = devicons.RemoveDevicon(result)
     endif
     if !has_key(opts.win_opts.partids, 'preview')
         return
@@ -109,13 +103,13 @@ def Preview(wid: number, opts: dict<any>)
     endif
     var preview_bufnr = winbufnr(preview_wid)
     if selector.IsBinary(path)
-        noautocmd popup_settext(preview_wid, 'Cannot preview binary file')
+        popup_settext(preview_wid, 'Cannot preview binary file')
     else
         var content = readfile(path, '', 1000)
-        noautocmd popup_settext(preview_wid, content)
+        popup_settext(preview_wid, content)
         setwinvar(preview_wid, '&filetype', '')
         win_execute(preview_wid, 'silent! doautocmd filetypedetect BufNewFile ' .. path)
-        noautocmd win_execute(preview_wid, 'silent! setlocal nospell nolist')
+        win_execute(preview_wid, 'silent! setlocal nospell nolist')
         if empty(getwinvar(preview_wid, '&filetype')) || getwinvar(preview_wid, '&filetype') == 'conf'
             var modelineft = selector.FTDetectModelines(content)
             if !empty(modelineft)
@@ -132,12 +126,6 @@ def JobStart(path: string, cmd: string)
     endif
     cur_result = []
     if path == ''
-        return
-    endif
-    if cmd == ''
-        in_loading = 0
-        cur_result += glob(cwd .. '/**', 1, 1, 1)
-        selector.UpdateMenu(ProcessResult(cur_result), [])
         return
     endif
     jid = job_start(cmd, {
