@@ -1,7 +1,7 @@
 *vimcomplete.txt*		Autocompletion Plugin for Vim
 
 Author: Girish (girishji AT gmail DOT com)
-For Vim version 9.0 and above
+For Vim version 9.1 and above
 
 ==============================================================================
 CONTENTS                                            *vimcomplete-contents*
@@ -136,19 +136,21 @@ noNewlineInCompletionEver   Boolean option. Unlike 'noNewlineInCompletion',
 alwaysOn 		|Boolean| option. If |false| use `<c-space>`
 			(control-space) to trigger completion. If you choose
 			to map some other key instead, map your favorite key
-			to `<Plug>(vimcomplete-do-complete)`. Default is |true|.
+			to `<Plug>(vimcomplete-do-complete)`. If set to
+			`false`, `completeopt` Vim option determins popup
+			behavior. Default: `true`.
 
 						*vimcomplete-showCmpSource*
 showCmpSource 		|Boolean| option. Show the source where the completion
-			item came from. Default is |true|.
+			item came from. Default is `true`.
 
 						*vimcomplete-cmpSourceWidth*
 cmpSourceWidth		Number of characters displayed for completion source.
-			Default: 4.
+			Default: `4`.
 
 							*vimcomplete-showKind*
 showKind 		|Boolean| option. Show the type ('kind') of completion
-			item returned by LSP server. Default is true.
+			item returned by LSP server. Default is `true`.
 
 						*vimcomplete-kindDisplayType*
 kindDisplayType		String option. The 'kind' field of completion item
@@ -185,10 +187,22 @@ triggerWordLen		Number option. Minimum number of characters needed to
 			trigger completion menu. Not applicable to completion
 			triggered by LSP trigger characters. Default: `1`.
 
-						*vimcomplete-infopopup*
+						*vimcomplete-infoPopup*
 infoPopup		Boolean option. Show an info popup for extra
 			information. This popup window can be customized with
-			|g:VimCompleteInfoWindowOptionsSet|. Default: `true`.
+			|g:VimCompleteInfoWindowOptionsSet|. If you prefer the
+			preview window, set this option to `false` and
+			'set completeopt+=preview'. If you prefer to not have
+			any info window, set this option to `false` and
+			'set completeopt-=preview'. Default: `true`.
+
+						*vimcomplete-setCompleteOpt*
+setCompleteOpt          Boolean option. If `false`, `completeopt` is not set
+			automatically. To have the first item selected when
+			`alwaysOn` is enabled, you can manually add `set
+			completeopt=menuone,noinsert` to your `vimrc` and type
+			`<C-y>` to insert the selected item. If `true`, the first
+			item is not automatically selected. Default: `true`.
 
 Completion Provider General Options~
 
@@ -262,7 +276,9 @@ Unsorted dictionaries are searched in linear time `O(n)`, but they tend to
 perform acceptably well for file sizes below 3MB (performance might vary
 depending on your system).
 
-Additionally, the dictionary files can include comments.
+Dictionary files can include comments.
+
+Additional information can be included for each item which can be displayed in a preview or popup window. Any line starting with 4 spaces is displayed in the 'info' popup (or preview) window as part of the item above.
 
 					*vimcomplete-dictionary-sortedDict*
 sortedDict 	|Boolean| option. `true` if the dictionary file is sorted,

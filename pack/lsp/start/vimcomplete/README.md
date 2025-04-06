@@ -50,7 +50,7 @@ Completion items are _sorted_ according to the following criteria:
 
 # Requirements
 
-- Vim version 9.0 or higher
+- Vim version 9.1 or higher
 
 # Installation
 
@@ -107,7 +107,7 @@ This entity retrieves completion items from the enabled completion sources and t
 
 Option|Type|Description
 ------|----|-----------
-`alwaysOn`|`Boolean`| If set to `true`, the completion menu is automatically triggered by any change in the buffer. If set to `false`, use `<C-Space>` (control-space) to manually trigger auto-completion. If you choose to map some other key instead, map your favorite key to `<Plug>(vimcomplete-do-complete)`. Default: true.
+`alwaysOn`|`Boolean`| If set to `true`, the completion menu is automatically triggered by any change in the buffer. If set to `false`, use `<C-Space>` (control-space) to manually trigger auto-completion. If you choose to map some other key instead, map your favorite key to `<Plug>(vimcomplete-do-complete)`. If set to `false`, `completeopt` Vim option determins popup behavior. Default: true.
 `completionKinds`|`Dictionary`|Custom text to use when `customCompletionKinds` is set (explained below). Default: `{}`.
 `customCompletionKinds`|`Boolean`|Set this option to customize the 'kind' attribute (explained below). Default: `false`.
 `kindDisplayType`|`String`|The 'kind' field of completion item can be displayed in a number of ways: as a single letter symbol (`symbol`), a single letter with descriptive text (`symboltext`), only text (`text`), an icon (`icon`), or icon with text (`icontext`). For showing VSCode like icons you need [a patched font](https://www.nerdfonts.com/). Default: `symbol`.
@@ -124,7 +124,8 @@ Option|Type|Description
 `shuffleEqualPriority`|`Boolean`|Arrange items from sources with equal priority such that the first item of all sources appear before the second item of any source. Default: `false`.
 `sortByLength`|`Boolean`|Sort completion items by length. Default: `false`.
 `triggerWordLen`|`Number`|Minimum number of characters needed to trigger completion menu. Not applicable to completion triggered by LSP trigger characters (this exemption applies only to Vim version 9.1.650 or higher). Default: `1`.
-`infoPopup`|`Boolean`|Show an info popup (`:h completepopup`) for extra information. Default: `true`.
+`infoPopup`|`Boolean`|Show an info popup (`:h completepopup`) for extra information. If you prefer the preview window, set this option to `false` and `set completeopt+=preview`. If you prefer to not have any info window, set this option to `false` and `set completeopt-=preview`. Default: `true`.
+`setCompleteOpt` | `Boolean` | If `false`, `completeopt` is not set automatically. To have the first item selected when `alwaysOn` is enabled, you can manually add `set completeopt=menuone,noinsert` to your `vimrc` and type `<C-y>` to insert the selected item. If `true`, the first item is not automatically selected. Default: `true`.
 
 ## Buffer Completion
 
@@ -149,8 +150,17 @@ The dictionary provider is capable of searching an arbitrary list of words place
 
 Unsorted dictionaries are searched in linear time `O(n)`, but they tend to perform acceptably well for file sizes below 3MB (performance might vary depending on your system). Only one unsorted dictionary is used for completion, while any number of sorted dictionaries can be used simultaneously.
 
-Additionally, the dictionary files can include comments.
+Dictionary can also include comments. Any line starting with `---` is considered as a comment and ignored.
 
+Additional information can be included for each item which can be displayed in a preview or popup window. Any line starting with 4 spaces is displayed in the 'info' popup (or preview) window as part of the item above. Here is an example of dictionary file:
+
+```
+--- This is a comment
+item_1
+    Additional information for 'info' window related to item_1. Can be multi-line.
+item_2
+    Additional information for 'info' window related to item_2.
+```
 
 Option|Type|Description
 ------|----|-----------
