@@ -13,10 +13,11 @@ function! terminus#private#wrap(string) abort
     return ''
   end
 
-  let l:tmux_begin="\<Esc>Ptmux;"
-  let l:tmux_end="\<Esc>\\"
+  "let l:tmux_begin="\<Esc>Ptmux;"
+  "let l:tmux_end="\<Esc>\\"
 
-  return l:tmux_begin . s:escape(a:string) . l:tmux_end
+  "return l:tmux_begin . s:escape(a:string) . l:tmux_end
+  return s:escape(a:string)
 endfunction
 
 function! terminus#private#focus_lost() abort
