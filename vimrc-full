@@ -2,30 +2,6 @@
 " 1. Startup
 " ----------
 
-" Schutz gegen versehentliches Laden.
-if g:vimrc_load != 1
-	finish
-endif
-
-" ----
-
-" Alle Optionen auf Standard
-set all&
-
-" Systemweite highlights löschen
-highlight clear
-
-" Systemweite autocmd löschen. Hoffentlich hält sich der Admin an die
-" Konventionen und setzt sie in der Gruppe 'vimrcEx'. Sonst haben wir
-" leider schlechte Karten. Wir müssen innerhalb einer Gruppe löschen,
-" da das explizite Löschen einer Gruppe zu Fehlern führt, wenn diese
-" Gruppe leer ist. Für Vim also nicht existiert. Alles klar? ;)
-augroup vimrcEx
-	autocmd!
-augroup END
-
-" ----
-
 " Arbeitsverzeichnisse anlegen. Sie werden weiter unten genutzt. Wir
 " machen uns es einfach und prüfen nur, ob sie bereits als Verzeichnis
 " existieren. Wenn was anderes unter gleichem Namen vorhanden sein
@@ -61,13 +37,6 @@ endif
 " ---------------------------
 " 2. Allgemeine Einstellungen
 " ---------------------------
-
-" Normalerweise ist Vim 'compatible', emuliert also den klassischen vi.
-" Wir wollen dies natürlich nicht, schließlich nutzen wir Vim statt vi.
-" Schaltet die meisten folgenden Optionen erst frei.
-set nocompatible
-
-" ----
 
 " Kopiere die Einrückung der aktuellen Zeile, wenn eine neue Zeile
 " begonnen wird. Dies ist für normale Eingabe nur an wenigen Stellen
@@ -648,16 +617,5 @@ function! g:ToggleColorColumn()
 endfunction
 
 nnoremap <silent> <Leader>w :call g:ToggleColorColumn()<CR>
-
-" =====================================================================
-
-" --------------
-" 6. Secure mode
-" --------------
-
-" Da wir oben 'exrc' setzen, ist es eine sehr gute Idee hier den Secure
-" Mode einzuschalten, sodass nachfolgende vimrc nicht im Dateisystem
-" herumrandalieren und ungewollte Mappings setzen können.
-set secure
 
 " =====================================================================
