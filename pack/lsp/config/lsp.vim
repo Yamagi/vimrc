@@ -55,7 +55,7 @@ extend(lspOptions, {
 	'diagSignWarningText': '■'
 })
 
-augroup vimrcEx
+augroup vimrc
 	# We need an autocmd, because Vim parses the vimrc
 	# (and with it this file) first and loads the plugins
 	# afterwards. LspOptionsSet() doesn't become available
@@ -102,7 +102,7 @@ if executable('pylsp')
 	})
 endif
 
-augroup vimrcEx
+augroup vimrc
 	# We need an autocmd, because Vim parses the vimrc
 	# (and with it this file) first and loads the plugins
 	# afterwards. LspAddServer() doesn't become available
@@ -145,7 +145,7 @@ def LspMappings()
 	nmap <buffer><silent> <leader>o :LspOutline<cr>
 enddef
 
-augroup vimrcEx
+augroup vimrc
 	# Apply the mappings when the language server
 	# attaches to the current buffer.
 	autocmd User LspAttached call LspMappings()

@@ -27,6 +27,12 @@ set all&
 # Reset highlights.
 highlight clear
 
+# Reset all autocommands defined by the configuration files. This
+# prevents errors when the configuration is sourced a second time.
+augroup vimrc
+	autocmd!
+augroup END
+
 # --------
 
 # Do not load the plugins if either the loading of the main

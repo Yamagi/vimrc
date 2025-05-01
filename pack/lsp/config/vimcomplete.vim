@@ -67,7 +67,7 @@ var options = {
 	},
 }
 
-augroup vimrcEx
+augroup vimrc
 	# We need an autocmd, because Vim parses the vimrc
 	# (and with it this file) first and loads the plugins
 	# afterwards. VimCompleteOptionsSet() doesn't become
@@ -77,7 +77,7 @@ augroup END
 
 # ----
 
-augroup vimrcEx
+augroup vimrc
 	# Enable only for some filetypes by default.
 	autocmd VimEnter * VimCompleteEnable bash c cmake conf cpp cc dosini
 				\ go make objc objcpp python sh vim

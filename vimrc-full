@@ -433,7 +433,7 @@ function OverrideSpellHighlights()
 	endif
 endfunction
 
-augroup vimrcEx
+augroup vimrc
 	autocmd ColorScheme * call OverrideSpellHighlights()
 augroup END
 
@@ -533,7 +533,7 @@ let g:loaded_netrwPlugin = 1
 
 " Alle von uns definierten Auto-Commands kommen in eine Gruppe,
 " damit wir sie bei Bedarf später einfach wieder entfernen können.
-augroup vimrcEx
+augroup vimrc
 	" Springe beim Öffnen einer Datei zur letzten bekannten Cursor-
 	" Position. Dies wird vor allem ausgeführt, also auch bevor Vim
 	" den Dateityp ermittelt hat.

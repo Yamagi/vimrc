@@ -14,6 +14,6 @@ function! s:VimOSCYankPostCallback(event)
 	endif
 endfunction
 
-augroup vimrcEx
+augroup vimrc
 	autocmd TextYankPost * call s:VimOSCYankPostCallback(v:event)
 augroup END
