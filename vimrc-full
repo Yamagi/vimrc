@@ -46,7 +46,7 @@ set autoindent
 
 " Backspace soll über Einrückungen, Zeilenanfänge und Zeilenende hinweg
 " laufen. Damit verhält es sich wie in einem normalen Editor.
-set backspace=indent,eol,start
+set backspace=eol,indent,start
 
 " Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
 " Auch wenn es nur eine Option gibt. Wenn möglich fuzzy matching nutzen.
@@ -57,9 +57,6 @@ set cryptmethod=blowfish2
 
 " Führe lokale, in Vim Arbeitsverzeichnis gefundene .vimrc aus.
 set exrc
-
-" Foldings manuell erstellen.
-set foldmethod=manual
 
 " Defintion, wie Text automatisch formatiert werden soll:
 "  r Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
@@ -85,7 +82,8 @@ set hlsearch
 " Bereits suchen, während wir noch tippen.
 set incsearch
 
-" Breche nur in Leerzeichen um, nicht innerhalb eines Wortes.
+" Breche bei softwarp an Zeichen in breakat um, nicht innerhalb eines
+" Wortes.
 set linebreak
 
 " Visualisiere Tabs, Leerzeichen am Anfang und Ende der Zeile,
@@ -94,7 +92,8 @@ set list
 set listchars=lead:·,multispace:·,tab:\|\ \,trail:·
 
 " Modelines sind in vielen Installationen aus Sicherheitsgründen
-" abgeschaltet. Wir wollen sie aber grundsätzlich parsen.
+" abgeschaltet. Vim schaltete sie in Standareinstellung für root
+" ab. Wir wollen sie aber grundsätzlich parsen.
 set modeline
 
 " Einige Filetype-Plugins setzen die 'foldmethod' auf einen Wert
@@ -102,7 +101,9 @@ set modeline
 " Foldings geschlossenwerden.
 set nofoldenable
 
-" Setzt den Cursor auf den Zeilenbeginn, nicht das erste Zeichen.
+" Several commands move the cursor to the first non-blank character of
+" a line. Unsetting this options tries to keep the cursor in the same
+" column if possible.
 set nostartofline
 
 " Zeige Zeilennummern am linken Rand...
@@ -113,15 +114,6 @@ set relativenumber
 
 " Bereits 5 Zeilen vor dem Fensterende zu scrollen beginnen.
 set scrolloff=5
-
-" Die Shell für Kommando-Aufrufe. Da wir die zsh nicht überall haben
-" brauchen wir hier ein Fallback. Sonst passieren seltsame Dinge, wenn
-" wir die Shell für etwas brauchen.
-if executable('zsh')
-	set shell=zsh
-else
-	set shell=sh
-endif
 
 " Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
 " auf. Sehr sinnvoll, um auch in komplexeren Strukturen den Überblick zu
@@ -135,9 +127,6 @@ set spelllang=de
 " wird.
 set textwidth=72
 
-" Den Terminal-Titel auf den Namen der aktuellen Datei setzen.
-set title
-
 " Visuelle Benachrichtigung anstatt piepen.
 set visualbell
 
@@ -145,9 +134,6 @@ set visualbell
 "  fuzzy: Fuzzy Suche.
 "  pum: Nutze ein Popup Menü.
 set wildoptions=fuzzy,pum
-
-" Überlange Zeilen zur Darstellung umbrechen.
-set wrap
 
 " ----
 
@@ -163,9 +149,6 @@ set ruler
 " Zeigt das letzte Kommando in der Statuszeile an, bis dies durch eine
 " andere Ausgabe dort überschrieben wird.
 set showcmd
-
-" Zeigt in der Kommandozeile an, in welchem Mode wir sind.
-set showmode
 
 " Hilfsfunktion für die Spell Checker Sprache. Wenn der Spell Checker
 " eingeschaltet ist, wird die Sprache zurückgegeben, sonst ein leerer
@@ -232,13 +215,9 @@ if has("gui_running")
 		" https://www.reddit.com/r/vim/comments/2ex6kh/set_renderoptions_windows/
 		set renderoptions=type:directx,gamma:1.5,contrast:0.5:,
 					\geom:1,renmode:5,taamode:1,level:0.5
-
-		" Der DirectX-Renderer braucht UTF-8. Was wir eh setzen
-		" müssten, da wir sonst noch latin1 bekommen würde...
-		set encoding=utf-8
 	else
 		" Die von gvim genutzte Schriftart.
-		set guifont=iA\ Writer\ Mono\ S\ 11
+		set guifont=Kiwi\ Mono\ 11
 	endif
 
 	" Keine nervende Symbol- und Menüleiste.
@@ -249,14 +228,11 @@ if has("gui_running")
 	:set guioptions-=L
 	:set guioptions-=r
 
-	" Maus beim Tippen automatisch ausblenden.
-	set mousehide
-
-	" Selektieren mit der Maus schaltet in den Visual Mode.
-	set mouse=a
-
 	" Ballon-Meldungen erlauben.
 	set ballooneval
+
+	" Disable blinking cursor.
+	set guicursor+=a:blinkon0
 endif
 
 " ----
@@ -464,13 +440,8 @@ endif
 " ----
 
 " Die Undo-Datei merkt sich Undo-Daten für einzelne Dateien über mehrere
-" Sessions hinweg. Maximal 1.000 Änderungen können rückgängig gemacht
-" werden, bis zu 10.000 Zeilen werden beim erneuten laden einer (extern
-" geänderten) Datei im RAM gehalten. Dies erlaubt es, die externen
-" Änderungen per Undo rückgängig zu machen.
+" Sessions hinweg.
 set undofile
-set undolevels=1000
-set undoreload=10000
 
 " Das Verzeichnis ist vom Betriebssystem abhängig.
 if has("win64") || has("win32")
@@ -503,9 +474,6 @@ syntax on
 
 " Erkenne Dateitypen.
 filetype on
-
-" Wähle den Einrückungsstil anhand des erkannten Dateityps.
-filetype indent on
 
 " Vim hat zwar mehrere eingebaute Indent-Styles und kann den Stil wenn
 " nötig automagisch ermitteln, aber oft reicht es nicht aus, da der
