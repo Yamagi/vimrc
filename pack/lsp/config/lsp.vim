@@ -48,21 +48,12 @@ extend(lspOptions, {
 # Diagnostic signs, in ASCII and UTF-8 flavor.
 # Use the same sign for all diagnostics, the
 # highlighting makes the category clear.
-if g:vimrc_utf8 == 1
-	extend(lspOptions, {
-		'diagSignErrorText': '■',
-		'diagSignHintText': '■',
-		'diagSignInfoText': '■',
-		'diagSignWarningText': '■'
-	})
-else
-	extend(lspOptions, {
-		'diagSignErrorText': 'x',
-		'diagSignHintText': 'x',
-		'diagSignInfoText': 'x',
-		'diagSignWarningText': 'x'
-	})
-endif
+extend(lspOptions, {
+	'diagSignErrorText': '■',
+	'diagSignHintText': '■',
+	'diagSignInfoText': '■',
+	'diagSignWarningText': '■'
+})
 
 augroup vimrcEx
 	# We need an autocmd, because Vim parses the vimrc

@@ -19,9 +19,6 @@ var load_vimrc = true
 # files are loaded.
 var load_plugins = true
 
-# Use UTF-8 chars?
-g:vimrc_utf8 = 1
-
 # --------
 
 # Reset options.
@@ -64,5 +61,3 @@ endif
 
 # Enforce secure mode.
 set secure
-
-unlet g:vimrc_utf8

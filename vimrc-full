@@ -91,11 +91,7 @@ set linebreak
 " Visualisiere Tabs, Leerzeichen am Anfang und Ende der Zeile,
 " sowie mehrere aufeinander folgende Leerzeichen in Strings.
 set list
-if g:vimrc_utf8 == 1
-	set listchars=lead:·,multispace:·,tab:\|\ \,trail:·
-else
-	set listchars=lead:.,multispace:.,tab:\|\ \,trail:.
-endif
+set listchars=lead:·,multispace:·,tab:\|\ \,trail:·
 
 " Modelines sind in vielen Installationen aus Sicherheitsgründen
 " abgeschaltet. Wir wollen sie aber grundsätzlich parsen.
@@ -193,11 +189,7 @@ endfunction
 "  %l Aktuelle Zeilennummer
 "  %L Gesamtzahl Zeilen der Datei
 "  %P Aktuelle Position in Prozent
-if g:vimrc_utf8 == 1
-	set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
-else
-	set statusline=%<\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
-endif
+set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
 
 " ----
 
