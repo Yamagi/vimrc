@@ -1,412 +1,414 @@
-" Options.
+vim9script
 
-" Kopiere die Einrückung der aktuellen Zeile, wenn eine neue Zeile
-" begonnen wird. Dies ist für normale Eingabe nur an wenigen Stellen
-" wie z.B. Markdown-Listen sinnvoll, hilft aber den 'formatoptions'
-" 'n' und '2'.
+# Options.
+
+# Kopiere die Einrückung der aktuellen Zeile, wenn eine neue Zeile
+# begonnen wird. Dies ist für normale Eingabe nur an wenigen Stellen
+# wie z.B. Markdown-Listen sinnvoll, hilft aber den 'formatoptions'
+# 'n' und '2'.
 set autoindent
 
-" Backspace soll über Einrückungen, Zeilenanfänge und Zeilenende hinweg
-" laufen. Damit verhält es sich wie in einem normalen Editor.
+# Backspace soll über Einrückungen, Zeilenanfänge und Zeilenende hinweg
+# laufen. Damit verhält es sich wie in einem normalen Editor.
 set backspace=eol,indent,start
 
-" Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
-" Auch wenn es nur eine Option gibt. Wenn möglich fuzzy matching nutzen.
+# Kein Scratchwindow, alle Informationen stattdessen inline anzeigen.
+# Auch wenn es nur eine Option gibt. Wenn möglich fuzzy matching nutzen.
 set completeopt=fuzzy,menu,menuone
 
-" Neue und sicherere Blowfish-Implementerung zur Verschlüsselung.
+# Neue und sicherere Blowfish-Implementerung zur Verschlüsselung.
 set cryptmethod=blowfish2
 
-" Führe lokale, in Vim Arbeitsverzeichnis gefundene .vimrc aus.
+# Führe lokale, in Vim Arbeitsverzeichnis gefundene .vimrc aus.
 set exrc
 
-" Defintion, wie Text automatisch formatiert werden soll:
-"  r Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
-"    anfügen.
-"  o Kommentarzeichen einfügen, wenn man mit o oder O in den Insert
-"    Mode wechselt.
-"  c Kommentare automatisch auf 'textwidth' umbrechen, die Kommentare
-"    automatisch einfügen.
-"  t Automatischer Zeilenumbruch auf 'textwidth'.
-"  q Auch Kommentare können mit 'gq' neu formatiert werden.
-"  n Erkenne Listen als solche und formatiere sie entsprechend.
-"  j Entferne das Kommentarzeichen beim Zusammenfassen von Zeilen.
+# Defintion, wie Text automatisch formatiert werden soll:
+#  r Das Kommentarzeichen in einer neuen Kommentarzeile automatisch
+#    anfügen.
+#  o Kommentarzeichen einfügen, wenn man mit o oder O in den Insert
+#    Mode wechselt.
+#  c Kommentare automatisch auf 'textwidth' umbrechen, die Kommentare
+#    automatisch einfügen.
+#  t Automatischer Zeilenumbruch auf 'textwidth'.
+#  q Auch Kommentare können mit 'gq' neu formatiert werden.
+#  n Erkenne Listen als solche und formatiere sie entsprechend.
+#  j Entferne das Kommentarzeichen beim Zusammenfassen von Zeilen.
 set formatoptions=roctqnj
 
-" Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
-" einem Window zugeordnet sein. Damit verhält Vim sich wie die meisten
-" Multi-File-Editors.
+# Buffer können sich im Hintergrund befinden, müssen also nicht zwingend
+# einem Window zugeordnet sein. Damit verhält Vim sich wie die meisten
+# Multi-File-Editors.
 set hidden
 
-" Alle gefundenen Suchbegriffe hervorheben, nicht nur die Fundstelle.
+# Alle gefundenen Suchbegriffe hervorheben, nicht nur die Fundstelle.
 set hlsearch
 
-" Bereits suchen, während wir noch tippen.
+# Bereits suchen, während wir noch tippen.
 set incsearch
 
-" Breche bei softwarp an Zeichen in breakat um, nicht innerhalb eines
-" Wortes.
+# Breche bei softwarp an Zeichen in breakat um, nicht innerhalb eines
+# Wortes.
 set linebreak
 
-" Visualisiere Tabs, Leerzeichen am Anfang und Ende der Zeile,
-" sowie mehrere aufeinander folgende Leerzeichen in Strings.
+# Visualisiere Tabs, Leerzeichen am Anfang und Ende der Zeile,
+# sowie mehrere aufeinander folgende Leerzeichen in Strings.
 set list
 set listchars=lead:·,multispace:·,tab:\|\ \,trail:·
 
-" Modelines sind in vielen Installationen aus Sicherheitsgründen
-" abgeschaltet. Vim schaltete sie in Standareinstellung für root
-" ab. Wir wollen sie aber grundsätzlich parsen.
+# Modelines sind in vielen Installationen aus Sicherheitsgründen
+# abgeschaltet. Vim schaltete sie in Standareinstellung für root
+# ab. Wir wollen sie aber grundsätzlich parsen.
 set modeline
 
-" Einige Filetype-Plugins setzen die 'foldmethod' auf einen Wert
-" als 'manual'. Verhindere daher, dass in dem Fall beim Start alle
-" Foldings geschlossenwerden.
+# Einige Filetype-Plugins setzen die 'foldmethod' auf einen Wert
+# als 'manual'. Verhindere daher, dass in dem Fall beim Start alle
+# Foldings geschlossenwerden.
 set nofoldenable
 
-" Several commands move the cursor to the first non-blank character of
-" a line. Unsetting this options tries to keep the cursor in the same
-" column if possible.
+# Several commands move the cursor to the first non-blank character of
+# a line. Unsetting this options tries to keep the cursor in the same
+# column if possible.
 set nostartofline
 
-" Zeige Zeilennummern am linken Rand...
+# Zeige Zeilennummern am linken Rand...
 set number
 
-" ...und zwar relative Nummern.
+# ...und zwar relative Nummern.
 set relativenumber
 
-" Bereits 5 Zeilen vor dem Fensterende zu scrollen beginnen.
+# Bereits 5 Zeilen vor dem Fensterende zu scrollen beginnen.
 set scrolloff=5
 
-" What save into session scripts.
+# What save into session scripts.
 set sessionoptions=blank,buffers,curdir,folds,localoptions,options
 set sessionoptions+=resize,tabpages,unix,winsize,winpos,globals
 
-" Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
-" auf. Sehr sinnvoll, um auch in komplexeren Strukturen den Überblick zu
-" behalten.
+# Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
+# auf. Sehr sinnvoll, um auch in komplexeren Strukturen den Überblick zu
+# behalten.
 set showmatch
 
-" Smart tabs. One tab accounts for 4 whitespaces. Prefer tabs.
+# Smart tabs. One tab accounts for 4 whitespaces. Prefer tabs.
 set shiftwidth=4
 set softtabstop=-1
 set tabstop=4
 
-" Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
-" wird.
+# Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
+# wird.
 set textwidth=72
 
-" Thesaurus for English and German.
+# Thesaurus for English and German.
 set thesaurus=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-de.txt
 set thesaurus+=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-en.txt
 
-" Visuelle Benachrichtigung anstatt piepen.
+# Visuelle Benachrichtigung anstatt piepen.
 set visualbell
 
-" Optionen für Command Line Completions.
-"  fuzzy: Fuzzy Suche.
-"  pum: Nutze ein Popup Menü.
+# Optionen für Command Line Completions.
+#  fuzzy: Fuzzy Suche.
+#  pum: Nutze ein Popup Menü.
 set wildoptions=fuzzy,pum
 
-" --------
+# --------
 
-" Session persistence.
+# Session persistence.
 
-" Save the undo history to a file.
+# Save the undo history to a file.
 set undofile
 
-" Das Verzeichnis ist vom Betriebssystem abhängig.
-if !isdirectory($MYVIMDIR."/runtime/undo")
-	call mkdir($MYVIMDIR."/runtime/undo", "p")
+# Das Verzeichnis ist vom Betriebssystem abhängig.
+if !isdirectory($MYVIMDIR .. "/runtime/undo")
+	call mkdir($MYVIMDIR .. "/runtime/undo", "p")
 endif
 set undodir=$MYVIMDIR/runtime/undo
 
-" ----
+# ----
 
-"  Mit Hilfe der viminfo Datei merkt sich Vim Dinge über mehrere
-"  Sessions hinweg. Wir speichern in ihr:
-"   %     Wir merken uns die Bufferliste, öffnen sie beim Start
-"         wieder, sofern keine Datei an Vim übergeben wurde.
-"   '128  Marken der letzten 128 Dateien speichern.
-"   /128  Die letzten 128 Suchbegriffe.
-"   :128  Die letzten 128 History-Befehle.
-"   @128  Die letzten 128 eingegebenen Zeilen.
-"   h     Disable the effect of hlsearch.
-"   s1024 Alle Register bis 1 Megabyte Größe speichern.
+#  Mit Hilfe der viminfo Datei merkt sich Vim Dinge über mehrere
+#  Sessions hinweg. Wir speichern in ihr:
+#   %     Wir merken uns die Bufferliste, öffnen sie beim Start
+#         wieder, sofern keine Datei an Vim übergeben wurde.
+#   '128  Marken der letzten 128 Dateien speichern.
+#   /128  Die letzten 128 Suchbegriffe.
+#   :128  Die letzten 128 History-Befehle.
+#   @128  Die letzten 128 eingegebenen Zeilen.
+#   h     Disable the effect of hlsearch.
+#   s1024 Alle Register bis 1 Megabyte Größe speichern.
 set viminfo='128,/128,:128,@128,h,s1024
 
-" Where the viminfo is stored.
+# Where the viminfo is stored.
 set viminfofile=$MYVIMDIR/runtime/viminfo
 
-" --------
+# --------
 
-" Spellchecker.
+# Spellchecker.
 
-" German dictionary as default.
+# German dictionary as default.
 set spelllang=de
 
-" Dictionary file for added words.
-if !isdirectory($MYVIMDIR."/runtime/spell")
-	call mkdir($MYVIMDIR."/runtime/spell", "p")
+# Dictionary file for added words.
+if !isdirectory($MYVIMDIR .. "/runtime/spell")
+	call mkdir($MYVIMDIR .. "/runtime/spell", "p")
 endif
 set spellfile=$MYVIMDIR/runtime/spell/custom.utf-8.add
 
-" Mappings to toggle the spellchecker and it's language.
+# Mappings to toggle the spellchecker and it's language.
 nnoremap <Leader>ss :setlocal spell!<cr>
 nnoremap <Leader>se :setlocal spelllang=en_us<cr>
 nnoremap <Leader>sd :setlocal spelllang=de<cr>
 
-" --------
+# --------
 
-" Statusline.
+# Statusline.
 
-" Zeigt die Statuszeile immer am unteren Rand des Fensters. Ohne diese
-" Option wird sie nur in einigen Situationen gezeigt.
+# Zeigt die Statuszeile immer am unteren Rand des Fensters. Ohne diese
+# Option wird sie nur in einigen Situationen gezeigt.
 set laststatus=2
 
-" Zeige die aktuelle Cursorposition in der Statuszeile. Ich glaube es
-" muss gesetzt sein, damit wir in der angepassten Statuszeile auf die
-" Position zugreifen können. Siehe auch weiter unten.
+# Zeige die aktuelle Cursorposition in der Statuszeile. Ich glaube es
+# muss gesetzt sein, damit wir in der angepassten Statuszeile auf die
+# Position zugreifen können. Siehe auch weiter unten.
 set ruler
 
-" Zeigt das letzte Kommando in der Statuszeile an, bis dies durch eine
-" andere Ausgabe dort überschrieben wird.
+# Zeigt das letzte Kommando in der Statuszeile an, bis dies durch eine
+# andere Ausgabe dort überschrieben wird.
 set showcmd
 
-" Hilfsfunktion für die Spell Checker Sprache. Wenn der Spell Checker
-" eingeschaltet ist, wird die Sprache zurückgegeben, sonst ein leerer
-" String.
-function! SpellState()
-	return &spell ? ',' . &spelllang : ''
+# Hilfsfunktion für die Spell Checker Sprache. Wenn der Spell Checker
+# eingeschaltet ist, wird die Sprache zurückgegeben, sonst ein leerer
+# String.
+function g:SpellState()
+	return &spell ? ',' .. &spelllang : ''
 endfunction
 
-" Statuszeilenlayout.
-"  %< Stelle an der bei zu langer Zeile gekürzt wird
-"  %n Buffer-Nummer
-"  %f Relativer Pfad zur Datei
-"  %R Read-Only Flag
-"  %M Änderungsflag
-"  %Y Filetype
-"  %{SpellState()} Spell Checker Sprache
-"  $= Teiler für links und rechts Ausrichtung
-"  %{wordcount().words} Anzahl Wörter im Buffer
-"  %c Aktuelle Spalte
-"  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
-"  %l Aktuelle Zeilennummer
-"  %L Gesamtzahl Zeilen der Datei
-"  %P Aktuelle Position in Prozent
+# Statuszeilenlayout.
+#  %< Stelle an der bei zu langer Zeile gekürzt wird
+#  %n Buffer-Nummer
+#  %f Relativer Pfad zur Datei
+#  %R Read-Only Flag
+#  %M Änderungsflag
+#  %Y Filetype
+#  %{SpellState()} Spell Checker Sprache
+#  $= Teiler für links und rechts Ausrichtung
+#  %{wordcount().words} Anzahl Wörter im Buffer
+#  %c Aktuelle Spalte
+#  %V Aktuelle virtuelle Spalte, falls nicht gleich %c
+#  %l Aktuelle Zeilennummer
+#  %L Gesamtzahl Zeilen der Datei
+#  %P Aktuelle Position in Prozent
 set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
 
-" --------
+# --------
 
-" Syntax and filetype detection.
+# Syntax and filetype detection.
 
-" Enable syntax highlighting.
+# Enable syntax highlighting.
 syntax on
 
-" Enable file type detection and load filetype and indention plugins if
-" available for the detected filetype.
+# Enable file type detection and load filetype and indention plugins if
+# available for the detected filetype.
 filetype plugin indent on
 
-" --------
+# --------
 
-" Terminal (and GUI).
+# Terminal (and GUI).
 
-" Dinge die spezifisch für's GUI sind.
+# Dinge die spezifisch für's GUI sind.
 if has("gui_running")
 	if has("gui_win32") || has("gui_win64")
-		" Die von gvim genutzte Schriftart. Consolas
-		" ist bei allen neueren Windows-Versionen
-		" dabei und sieht gut aus.
+		# Die von gvim genutzte Schriftart. Consolas
+		# ist bei allen neueren Windows-Versionen
+		# dabei und sieht gut aus.
 		set guifont=Consolas:h11:cANSI:qDRAFT
 
-		" Über DirectX zu rendern bringt ein drastisch besseres
-		" Schriftbild. Funktioniert allerdings nur unter Vista und
-		" höher, was man inzwischen aber wohl voraussetzen kann.
-		" Die Optionen sind aus dem Internet geklaut:
-		" https://www.reddit.com/r/vim/comments/2ex6kh/set_renderoptions_windows/
+		# Über DirectX zu rendern bringt ein drastisch besseres
+		# Schriftbild. Funktioniert allerdings nur unter Vista und
+		# höher, was man inzwischen aber wohl voraussetzen kann.
+		# Die Optionen sind aus dem Internet geklaut:
+		# https://www.reddit.com/r/vim/comments/2ex6kh/set_renderoptions_windows/
 		set renderoptions=type:directx,gamma:1.5,contrast:0.5:,
 					\geom:1,renmode:5,taamode:1,level:0.5
 	else
-		" Die von gvim genutzte Schriftart.
+		# Die von gvim genutzte Schriftart.
 		set guifont=Kiwi\ Mono\ 11
 	endif
 
-	" Keine nervende Symbol- und Menüleiste.
+	# Keine nervende Symbol- und Menüleiste.
 	:set guioptions-=T
 	:set guioptions-=m
 
-	" Niemand mag Scrollleisten.
+	# Niemand mag Scrollleisten.
 	:set guioptions-=L
 	:set guioptions-=r
 
-	" Ballon-Meldungen erlauben.
+	# Ballon-Meldungen erlauben.
 	set ballooneval
 
-	" Disable blinking cursor.
+	# Disable blinking cursor.
 	set guicursor+=a:blinkon0
 endif
 
-" Dinge, die spezifisch für's Terminal sind. Leider ist das
-" Unix-Terminal bekanntlich ein Clusterfuck. Das hier ist der
-" Versuch vier Terminals gut zu unterstützen:
-"
-"  * alacritty
-"  * rxvt-unicode
-"  * tmux
-"  * xterm
-"
-" Einige Anmerkungen zu gekringelten Unterstreichungen:
-"
-"  * Gekringelte Unterstreichungen für unter anderem den
-"    Spellchecker sind ein klassischer Fall von Pest oder
-"    Cholera. Nicht alle Terminals können sie, kaum ein
-"    Theme unterstützt sie, dennoch sind sie ganz nett zu
-"    haben.
-"  * Damit die Unterstreichungen farbig werden, braucht es
-"    die Escape Sequenzen unter t_8u. Aber leider ist es
-"    eine doppelt vergebene Sequenz, auf nicht unterstützen
-"    Terminals löscht sie z.b. auch gerne mal den Hintergrund.
-"    Um das zu umgehen, hat Vim in 8.2.906 Logik eingefügt,
-"    die versucht zu erkennen, ob das Terminal unterstützt
-"    ist und wenn nicht t_8u auf einen leeren String setzt.
-"    Das hat als Nebenwirkung, dass man auf Vim unbekannten
-"    Terminals oder Terminals, die das Feature gerade erst
-"    bekommen haben, t_8u nicht gesetzt hat und die farbigen
-"    Unterkringelungen nicht funktionieren. Da sich das als
-"    nicht so klug erwies, änderte 8.2.4777 die Logik so,
-"    dass t_u8 immer gesetzt bleibt. Es wird allerdings nur
-"    genutzt, wenn die magie es als unterstützt erkennt.
-"    Damit die Magie funktioniert, muss t_RV gesetzt sein.
-"    Sollte aus der termcap / terminfo kommen, aber tut es
-"    nicht immer...
+# Dinge, die spezifisch für's Terminal sind. Leider ist das
+# Unix-Terminal bekanntlich ein Clusterfuck. Das hier ist der
+# Versuch vier Terminals gut zu unterstützen:
+#
+#  * alacritty
+#  * rxvt-unicode
+#  * tmux
+#  * xterm
+#
+# Einige Anmerkungen zu gekringelten Unterstreichungen:
+#
+#  * Gekringelte Unterstreichungen für unter anderem den
+#    Spellchecker sind ein klassischer Fall von Pest oder
+#    Cholera. Nicht alle Terminals können sie, kaum ein
+#    Theme unterstützt sie, dennoch sind sie ganz nett zu
+#    haben.
+#  * Damit die Unterstreichungen farbig werden, braucht es
+#    die Escape Sequenzen unter t_8u. Aber leider ist es
+#    eine doppelt vergebene Sequenz, auf nicht unterstützen
+#    Terminals löscht sie z.b. auch gerne mal den Hintergrund.
+#    Um das zu umgehen, hat Vim in 8.2.906 Logik eingefügt,
+#    die versucht zu erkennen, ob das Terminal unterstützt
+#    ist und wenn nicht t_8u auf einen leeren String setzt.
+#    Das hat als Nebenwirkung, dass man auf Vim unbekannten
+#    Terminals oder Terminals, die das Feature gerade erst
+#    bekommen haben, t_8u nicht gesetzt hat und die farbigen
+#    Unterkringelungen nicht funktionieren. Da sich das als
+#    nicht so klug erwies, änderte 8.2.4777 die Logik so,
+#    dass t_u8 immer gesetzt bleibt. Es wird allerdings nur
+#    genutzt, wenn die magie es als unterstützt erkennt.
+#    Damit die Magie funktioniert, muss t_RV gesetzt sein.
+#    Sollte aus der termcap / terminfo kommen, aber tut es
+#    nicht immer...
 if !has("gui_running")
 	if &term =~ "alacritty"
-		" alacritty ist xterm-kompatibel. Es nutzt lediglich
-		" ein eigenes termcap / terminfo, da es mehr Dinge
-		" kann.
+		# alacritty ist xterm-kompatibel. Es nutzt lediglich
+		# ein eigenes termcap / terminfo, da es mehr Dinge
+		# kann.
 
-		" Automatische Featureerkennung.
-		let &t_RV = "\<Esc>[>c"
+		# Automatische Featureerkennung.
+		&t_RV = "\<Esc>[>c"
 
-		" alacritty hat volle Unterstützung für Truecolor.
-		let &t_8f="\e[38;2;%lu;%lu;%lum"
-		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		# alacritty hat volle Unterstützung für Truecolor.
+		&t_8f="\e[38;2;%lu;%lu;%lum"
+		&t_8b="\e[48;2;%lu;%lu;%lum"
 		set termguicolors
 
-		" Ebenso unterstützt es farbige Unterkringelungen.
-		let &t_Cs="\e[4:3m"
-		let &t_Ce="\e[4:0m"
-		let &t_8u="\e[58;2;%lu;%lu;%lum"
+		# Ebenso unterstützt es farbige Unterkringelungen.
+		&t_Cs="\e[4:3m"
+		&t_Ce="\e[4:0m"
+		&t_8u="\e[58;2;%lu;%lu;%lum"
 
-		" Die Mausunterstütztung nutzt das SGR-Protokoll.
+		# Die Mausunterstütztung nutzt das SGR-Protokoll.
 		set ttymouse=sgr
 
-		" Alacritty unterstützt das Kitty Keyboard Protocol,
-		" was einige Vorteile wie die Unterstützung von mehr
-		" Funktionstasten / Modifier bringt.
+		# Alacritty unterstützt das Kitty Keyboard Protocol,
+		# was einige Vorteile wie die Unterstützung von mehr
+		# Funktionstasten / Modifier bringt.
 		set keyprotocol=alacritty:kitty
 	elseif (&term =~ "tmux") || (&term =~ "screen")
-		" tmux setzt auf älteren Installationen oft noch
-		" $TERM auf screen-256color, daher werden tmux
-		" und screen äquivalent behandelt.
-		"
-		" tmux hat das große Problem, dass man nicht sagen
-		" kann, welches Terminal unterhalb des Multiplexers
-		" läuft. Wir nehmen ein xterm mit allen Features an.
-		" Das ist etwas gewagt, sollte in der Praxis aber
-		" ausreichend gut funktionieren.
+		# tmux setzt auf älteren Installationen oft noch
+		# $TERM auf screen-256color, daher werden tmux
+		# und screen äquivalent behandelt.
+		#
+		# tmux hat das große Problem, dass man nicht sagen
+		# kann, welches Terminal unterhalb des Multiplexers
+		# läuft. Wir nehmen ein xterm mit allen Features an.
+		# Das ist etwas gewagt, sollte in der Praxis aber
+		# ausreichend gut funktionieren.
 
-		" Automatische Featureerkennung.
-		let &t_RV = "\<Esc>[>c"
+		# Automatische Featureerkennung.
+		&t_RV = "\<Esc>[>c"
 
-		" Seit Version 3.5 unterstützt tmux modifyOtherKeys
-		" Mode 2. Erzwinge ihn hier, denn es erlaubt die
-		" Alt Taste ohne Escape Sequenz abzubilden. Das
-		" ermöglicht wiederum Mappings alt Alt, ohne mit
-		" dem Key Timeout von einer Sekunde zu kollidieren.
-		let &t_TI = "\<Esc>[>4;2m"
-		let &t_TE = "\<Esc>[>4;m"
+		# Seit Version 3.5 unterstützt tmux modifyOtherKeys
+		# Mode 2. Erzwinge ihn hier, denn es erlaubt die
+		# Alt Taste ohne Escape Sequenz abzubilden. Das
+		# ermöglicht wiederum Mappings alt Alt, ohne mit
+		# dem Key Timeout von einer Sekunde zu kollidieren.
+		&t_TI = "\<Esc>[>4;2m"
+		&t_TE = "\<Esc>[>4;m"
 
-		" Truecolor.
-		let &t_8f="\e[38;2;%lu;%lu;%lum"
-		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		# Truecolor.
+		&t_8f = "\e[38;2;%lu;%lu;%lum"
+		&t_8b = "\e[48;2;%lu;%lu;%lum"
 		set termguicolors
 
-		" Farbige Unterkringelungen.
-		let &t_Cs="\e[4:3m"
-		let &t_Ce="\e[4:0m"
-		let &t_8u="\e[58;2;%lu;%lu;%lum"
+		# Farbige Unterkringelungen.
+		&t_Cs = "\e[4:3m"
+		&t_Ce = "\e[4:0m"
+		&t_8u = "\e[58;2;%lu;%lu;%lum"
 	elseif &term =~ "rxvt-unicode"
-		" rxvt-unicode ist ein Arbeitstier. Ein gutes und
-		" schnelles Terminal, allerdings fehlen ihm neuere
-		" Features.
+		# rxvt-unicode ist ein Arbeitstier. Ein gutes und
+		# schnelles Terminal, allerdings fehlen ihm neuere
+		# Features.
 
-		" Truecolor wird mit eingeschränktem Farbraum
-		" unterstützt. Vim erkennt es nicht automatisch.
-		" Erfahrungen im täglichen Einsatz haben leider
-		" gezeigt, dass es nicht so wirklich brauchbar
-		" ist. Aus zwei Gründen:
-		"  * Viele Distros bauen das Terminal ohne die
-		"    Unterstützung für den 24 Bit Farbraum.
-		"  * Der eingeschränkte Farbraum macht doch bei
-		"    einigen Colorthemes Probleme.
-		" Setze daher die Termcap-Optionen, schalte aber
-		" termguicolors nicht global ein.
-		let &t_8f="\e[38;2;%lu;%lu;%lum"
-		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		# Truecolor wird mit eingeschränktem Farbraum
+		# unterstützt. Vim erkennt es nicht automatisch.
+		# Erfahrungen im täglichen Einsatz haben leider
+		# gezeigt, dass es nicht so wirklich brauchbar
+		# ist. Aus zwei Gründen:
+		#  * Viele Distros bauen das Terminal ohne die
+		#    Unterstützung für den 24 Bit Farbraum.
+		#  * Der eingeschränkte Farbraum macht doch bei
+		#    einigen Colorthemes Probleme.
+		# Setze daher die Termcap-Optionen, schalte aber
+		# termguicolors nicht global ein.
+		&t_8f = "\e[38;2;%lu;%lu;%lum"
+		&t_8b = "\e[48;2;%lu;%lu;%lum"
 
-		" Viele ältere Systeme und FreeBSD generell gehen
-		" davon aus, dass rxvt-unicode keine Italics kann
-		" und setzen die termcap / terminfo EInträge auf
-		" Reverse.
-		let &t_ZH="\e[3m"
-		let &t_ZR="\e[23m"
+		# Viele ältere Systeme und FreeBSD generell gehen
+		# davon aus, dass rxvt-unicode keine Italics kann
+		# und setzen die termcap / terminfo EInträge auf
+		# Reverse.
+		&t_ZH = "\e[3m"
+		&t_ZR = "\e[23m"
 
-		" Vim erkennt die Mausunterstützung meist mit dem
-		" xterm2-Protokoll. Vim bietet allerdings eine
-		" spezielle Protokollvariante an, welche kein 223
-		" Spaltenlimit hat.
+		# Vim erkennt die Mausunterstützung meist mit dem
+		# xterm2-Protokoll. Vim bietet allerdings eine
+		# spezielle Protokollvariante an, welche kein 223
+		# Spaltenlimit hat.
 		set ttymouse=urxvt
 	elseif (&term =~ "xterm")
-		" xterm ist der verbreitetste Terminal-Typ, aber
-		" sehr inkonsistent. Nicht einmal xterm selbst
-		" unterstützt garantiert alle Features. Vim nutzt
-		" intern einige Magie um xterms automagisch zu
-		" konfigurieren, leider hat das prinzipbedingt ein
-		" recht hohes Fehlerpotential. Wir konfigurieren
-		" daher die relevanten Dinge explizit.
+		# xterm ist der verbreitetste Terminal-Typ, aber
+		# sehr inkonsistent. Nicht einmal xterm selbst
+		# unterstützt garantiert alle Features. Vim nutzt
+		# intern einige Magie um xterms automagisch zu
+		# konfigurieren, leider hat das prinzipbedingt ein
+		# recht hohes Fehlerpotential. Wir konfigurieren
+		# daher die relevanten Dinge explizit.
 
-		" Truecolor.
-		let &t_8f="\e[38;2;%lu;%lu;%lum"
-		let &t_8b="\e[48;2;%lu;%lu;%lum"
+		# Truecolor.
+		&t_8f = "\e[38;2;%lu;%lu;%lum"
+		&t_8b = "\e[48;2;%lu;%lu;%lum"
 		set termguicolors
 
-		" Farbige Unterkringelungen.
-		let &t_Cs="\e[4:3m"
-		let &t_Ce="\e[4:0m"
-		let &t_8u="\e[58;2;%lu;%lu;%lum"
+		# Farbige Unterkringelungen.
+		&t_Cs = "\e[4:3m"
+		&t_Ce = "\e[4:0m"
+		&t_8u = "\e[58;2;%lu;%lu;%lum"
 	endif
 
-	" Ballon-Meldungen erlauben.
+	# Ballon-Meldungen erlauben.
 	set balloonevalterm
 endif
 
-" --------
+# --------
 
-" Colorscheme.
+# Colorscheme.
 
-" Inzwischen unterstützen viele Themes im GUI Undercurls für
-" den Spellchecker, allerdings nichts im TUI. Grund dafür ist,
-" dass viele Terminals entweder gar keine Undercurls oder nur
-" Undercurls in der Vordergrundfarbe der Zelle unterstützen.
-" Weiter oben konfigurieren wir Undercurls explizit für einige
-" Terminals. Auf diesen Terminals schalten auch Truecolor ein
-" und setzen termguicolors.
-"
-" Daher: Wenn wir ein GUI haben oder termguicolors gesetzt ist,
-" überschreibe die Highlightgruppen für den Spellchecker, sodass
-" Undercurls genutzt werden. Damit das auch bei später geladenen
-" Themes funktioniert, per autocmd und Funktion.
+# Inzwischen unterstützen viele Themes im GUI Undercurls für
+# den Spellchecker, allerdings nichts im TUI. Grund dafür ist,
+# dass viele Terminals entweder gar keine Undercurls oder nur
+# Undercurls in der Vordergrundfarbe der Zelle unterstützen.
+# Weiter oben konfigurieren wir Undercurls explizit für einige
+# Terminals. Auf diesen Terminals schalten auch Truecolor ein
+# und setzen termguicolors.
+#
+# Daher: Wenn wir ein GUI haben oder termguicolors gesetzt ist,
+# überschreibe die Highlightgruppen für den Spellchecker, sodass
+# Undercurls genutzt werden. Damit das auch bei später geladenen
+# Themes funktioniert, per autocmd und Funktion.
 function OverrideSpellHighlights()
 	if has("gui_running") || &termguicolors
 		hi SpellBad guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
@@ -424,84 +426,84 @@ augroup vimrc
 	autocmd ColorScheme * call OverrideSpellHighlights()
 augroup END
 
-" Unser Farbschema laden.
+# Unser Farbschema laden.
 set background=dark
 colorscheme PaperColor
 
-" --------
+# --------
 
-" Miscellaneous settings.
+# Miscellaneous settings.
 
-" Don't load netrw, we have better plugins for that.
-let g:loaded_netrw = 1
-let g:loaded_netrwPlugin = 1
+# Don't load netrw, we have better plugins for that.
+g:loaded_netrw = 1
+g:loaded_netrwPlugin = 1
 
-" --------
+# --------
 
-" Autocommands.
+# Autocommands.
 
-" Alle von uns definierten Auto-Commands kommen in eine Gruppe,
-" damit wir sie bei Bedarf später einfach wieder entfernen können.
+# Alle von uns definierten Auto-Commands kommen in eine Gruppe,
+# damit wir sie bei Bedarf später einfach wieder entfernen können.
 augroup vimrc
-	" Springe beim Öffnen einer Datei zur letzten bekannten Cursor-
-	" Position. Dies wird vor allem ausgeführt, also auch bevor Vim
-	" den Dateityp ermittelt hat.
+	# Springe beim Öffnen einer Datei zur letzten bekannten Cursor-
+	# Position. Dies wird vor allem ausgeführt, also auch bevor Vim
+	# den Dateityp ermittelt hat.
 	autocmd BufReadPost *
 				\ if line("'\"") > 1 && line("'\"") <= line("$") |
 				\   exe "normal! g`\"" |
 				\ endif
 
-	" Springe gleich wieder zurück an den Start, wenn wir einen
-	" Git-Commit editieren. Es ist ein wenig unschön, aber da beim
-	" Ausführen des ersten AutoCmd der Filetype noch nicht gesetzt
-	" ist, alternativlos.
+	# Springe gleich wieder zurück an den Start, wenn wir einen
+	# Git-Commit editieren. Es ist ein wenig unschön, aber da beim
+	# Ausführen des ersten AutoCmd der Filetype noch nicht gesetzt
+	# ist, alternativlos.
 	autocmd FileType gitcommit autocmd! BufEnter COMMIT_EDITMSG
 				\ call setpos('.', [0, 1, 1, 0])
 
-	" Im Falle von C und C++ sollen //-Kommentare nicht fortgesetzt
-	" werden, wenn die Zeile umgebrochen wird. Es sind halt einzeilige
-	" Kommentare.
+	# Im Falle von C und C++ sollen //-Kommentare nicht fortgesetzt
+	# werden, wenn die Zeile umgebrochen wird. Es sind halt einzeilige
+	# Kommentare.
 	autocmd FileType c,cpp setlocal comments-=://
 
-	" .md Files als Markdown erkennen und nicht als Modula Sourcecode.
+	# .md Files als Markdown erkennen und nicht als Modula Sourcecode.
 	autocmd BufNewFile,BufReadPost *.md set filetype=markdown
 
-	" Erkenne die in Markdown-Dateien verbreiteten YAML-Frontmatters
-	" als Kommentare.
+	# Erkenne die in Markdown-Dateien verbreiteten YAML-Frontmatters
+	# als Kommentare.
 	autocmd FileType markdown syntax match Comment /\%^\s*---\_.\{-}---$/
 
-	" Saltstack .sls als YAML erkennen.
+	# Saltstack .sls als YAML erkennen.
 	autocmd BufNewFile,BufReadPost *.sls set filetype=yaml
 augroup END
 
-" --------
+# --------
 
-" Mappings.
+# Mappings.
 
-" Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
-" schwer zu erreichen ist. Wir setzen ihn daher auf ` `, also Space.
-" Space ist die einzige mehr oder weniger unbelegte Taste. Genauer
-" mappen wir Space auf Leader, es hat den Vorteil, dass auch '\' als
-" Leader nutzbar bleibt.
+# Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
+# schwer zu erreichen ist. Wir setzen ihn daher auf ` `, also Space.
+# Space ist die einzige mehr oder weniger unbelegte Taste. Genauer
+# mappen wir Space auf Leader, es hat den Vorteil, dass auch '\' als
+# Leader nutzbar bleibt.
 map <space> <leader>
 
-" ----
+# ----
 
-" Hebt alle Vorkommen des Wortes unter dem Cursor hervor.
+# Hebt alle Vorkommen des Wortes unter dem Cursor hervor.
 nnoremap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
 
-" Alle Hervorhebungen löschen.
+# Alle Hervorhebungen löschen.
 nnoremap <Leader>hc :nohls<CR>
 
-" List Mode.
+# List Mode.
 nnoremap <Leader>l :set list!<CR>
 
-" Paste-Mode.
+# Paste-Mode.
 nnoremap <Leader>p :set paste!<CR>
 
-" ----
+# ----
 
-" Die Spalte highlighten, an welcher der Text umbricht.
+# Die Spalte highlighten, an welcher der Text umbricht.
 function! g:ToggleColorColumn()
 	if &colorcolumn != ''
 		setlocal colorcolumn&
