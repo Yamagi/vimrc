@@ -177,9 +177,9 @@ set showcmd
 # Hilfsfunktion für die Spell Checker Sprache. Wenn der Spell Checker
 # eingeschaltet ist, wird die Sprache zurückgegeben, sonst ein leerer
 # String.
-function g:SpellState()
+def g:SpellState(): string
 	return &spell ? ',' .. &spelllang : ''
-endfunction
+enddef
 
 # Statuszeilenlayout.
 #  %< Stelle an der bei zu langer Zeile gekürzt wird
@@ -409,7 +409,7 @@ endif
 # überschreibe die Highlightgruppen für den Spellchecker, sodass
 # Undercurls genutzt werden. Damit das auch bei später geladenen
 # Themes funktioniert, per autocmd und Funktion.
-function OverrideSpellHighlights()
+def OverrideSpellHighlights()
 	if has("gui_running") || &termguicolors
 		hi SpellBad guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
 					\ ctermbg=NONE cterm=undercurl
@@ -420,7 +420,7 @@ function OverrideSpellHighlights()
 		hi SpellRare guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
 					\ ctermbg=NONE cterm=undercurl
 	endif
-endfunction
+enddef
 
 augroup vimrc
 	autocmd ColorScheme * call OverrideSpellHighlights()
@@ -504,12 +504,12 @@ nnoremap <Leader>p :set paste!<CR>
 # ----
 
 # Die Spalte highlighten, an welcher der Text umbricht.
-function! g:ToggleColorColumn()
+def g:ToggleColorColumn()
 	if &colorcolumn != ''
 		setlocal colorcolumn&
 	else
 		setlocal colorcolumn=+1
 	endif
-endfunction
+enddef
 
 nnoremap <silent> <Leader>w :call g:ToggleColorColumn()<CR>
