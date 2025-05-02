@@ -1,42 +1,4 @@
-" ----------
-" 1. Startup
-" ----------
-
-" Arbeitsverzeichnisse anlegen. Sie werden weiter unten genutzt. Wir
-" machen uns es einfach und prüfen nur, ob sie bereits als Verzeichnis
-" existieren. Wenn was anderes unter gleichem Namen vorhanden sein
-" sollte, gibt es eben Fehler.
-if has ("win64") || has("win32")
-	if !isdirectory($HOME."/vimfiles/runtime")
-		call mkdir($HOME."/vimfiles/runtime", "p")
-	endif
-
-	if !isdirectory($HOME."/vimfiles/runtime/undo")
-		call mkdir($HOME."/vimfiles/runtime/undo", "p")
-	endif
-
-	if !isdirectory($HOME."/vimfiles/runtime/spell")
-		call mkdir($HOME."/vimfiles/runtime/spell", "p")
-	endif
-else
-	if !isdirectory($HOME."/.vim/runtime")
-		call mkdir($HOME."/.vim/runtime", "p")
-	endif
-
-	if !isdirectory($HOME."/.vim/runtime/undo")
-		call mkdir($HOME."/.vim/runtime/undo", "p")
-	endif
-
-	if !isdirectory($HOME."/.vim/runtime/spell")
-		call mkdir($HOME."/.vim/runtime/spell", "p")
-	endif
-endif
-
-" =====================================================================
-
-" ---------------------------
-" 2. Allgemeine Einstellungen
-" ---------------------------
+" Options.
 
 " Kopiere die Einrückung der aktuellen Zeile, wenn eine neue Zeile
 " begonnen wird. Dies ist für normale Eingabe nur an wenigen Stellen
@@ -115,17 +77,27 @@ set relativenumber
 " Bereits 5 Zeilen vor dem Fensterende zu scrollen beginnen.
 set scrolloff=5
 
+" What save into session scripts.
+set sessionoptions=blank,buffers,curdir,folds,localoptions,options
+set sessionoptions+=resize,tabpages,unix,winsize,winpos,globals
+
 " Wenn eine Klammer geschlossen wird, blinkt die öffnende Klammer kurz
 " auf. Sehr sinnvoll, um auch in komplexeren Strukturen den Überblick zu
 " behalten.
 set showmatch
 
-" Deutsch als initiale Sprache für den Spellchecker.
-set spelllang=de
+" Smart tabs. One tab accounts for 4 whitespaces. Prefer tabs.
+set shiftwidth=4
+set softtabstop=-1
+set tabstop=4
 
 " Maximale Zeilenlänge, automatischer Umbruch wenn diese überschritten
 " wird.
 set textwidth=72
+
+" Thesaurus for English and German.
+set thesaurus=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-de.txt
+set thesaurus+=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-en.txt
 
 " Visuelle Benachrichtigung anstatt piepen.
 set visualbell
@@ -135,7 +107,57 @@ set visualbell
 "  pum: Nutze ein Popup Menü.
 set wildoptions=fuzzy,pum
 
+" --------
+
+" Session persistence.
+
+" Save the undo history to a file.
+set undofile
+
+" Das Verzeichnis ist vom Betriebssystem abhängig.
+if !isdirectory($MYVIMDIR."/runtime/undo")
+	call mkdir($MYVIMDIR."/runtime/undo", "p")
+endif
+set undodir=$MYVIMDIR/runtime/undo
+
 " ----
+
+"  Mit Hilfe der viminfo Datei merkt sich Vim Dinge über mehrere
+"  Sessions hinweg. Wir speichern in ihr:
+"   %     Wir merken uns die Bufferliste, öffnen sie beim Start
+"         wieder, sofern keine Datei an Vim übergeben wurde.
+"   '128  Marken der letzten 128 Dateien speichern.
+"   /128  Die letzten 128 Suchbegriffe.
+"   :128  Die letzten 128 History-Befehle.
+"   @128  Die letzten 128 eingegebenen Zeilen.
+"   h     Disable the effect of hlsearch.
+"   s1024 Alle Register bis 1 Megabyte Größe speichern.
+set viminfo='128,/128,:128,@128,h,s1024
+
+" Where the viminfo is stored.
+set viminfofile=$MYVIMDIR/runtime/viminfo
+
+" --------
+
+" Spellchecker.
+
+" German dictionary as default.
+set spelllang=de
+
+" Dictionary file for added words.
+if !isdirectory($MYVIMDIR."/runtime/spell")
+	call mkdir($MYVIMDIR."/runtime/spell", "p")
+endif
+set spellfile=$MYVIMDIR/runtime/spell/custom.utf-8.add
+
+" Mappings to toggle the spellchecker and it's language.
+nnoremap <Leader>ss :setlocal spell!<cr>
+nnoremap <Leader>se :setlocal spelllang=en_us<cr>
+nnoremap <Leader>sd :setlocal spelllang=de<cr>
+
+" --------
+
+" Statusline.
 
 " Zeigt die Statuszeile immer am unteren Rand des Fensters. Ohne diese
 " Option wird sie nur in einigen Situationen gezeigt.
@@ -174,31 +196,20 @@ endfunction
 "  %P Aktuelle Position in Prozent
 set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
 
-" ----
+" --------
 
-" Thesauri für Deutsch und Englisch. Da sich Deutsch und Englisch in
-" ihren Wörtern kaum überschneiden, setzen wir einfach beide Sprachen
-" zugleich. Vim fragt dann beide Dateien ab und zeigt alle Treffer an.
-if has("win64") || has("win32")
-	set thesaurus=$HOME/vimfiles/pack/dictionaries/start/thesaurus/thesaurus-de.txt
-	set thesaurus+=$HOME/vimfiles/pack/dictionaries/start/thesaurus/thesaurus-en.txt
-else
-	set thesaurus=$HOME/.vim/pack/dictionaries/start/thesaurus/thesaurus-de.txt
-	set thesaurus+=$HOME/.vim/pack/dictionaries/start/thesaurus/thesaurus-en.txt
-endif
+" Syntax and filetype detection.
 
-" ----
+" Enable syntax highlighting.
+syntax on
 
-" Automatische Einrückung aus 'tabstop' bestimmen.
-set shiftwidth=4
+" Enable file type detection and load filetype and indention plugins if
+" available for the detected filetype.
+filetype plugin indent on
 
-" Nehme alle 'tabstop' Leerzeichen einen Tab statt der Leerzeichen.
-set softtabstop=-1
+" --------
 
-" Ein 'tabstop' sind vier Leerzeichen.
-set tabstop=4
-
-" ----
+" Terminal (and GUI).
 
 " Dinge die spezifisch für's GUI sind.
 if has("gui_running")
@@ -234,8 +245,6 @@ if has("gui_running")
 	" Disable blinking cursor.
 	set guicursor+=a:blinkon0
 endif
-
-" ----
 
 " Dinge, die spezifisch für's Terminal sind. Leider ist das
 " Unix-Terminal bekanntlich ein Clusterfuck. Das hier ist der
@@ -382,7 +391,9 @@ if !has("gui_running")
 	set balloonevalterm
 endif
 
-" ----
+" --------
+
+" Colorscheme.
 
 " Inzwischen unterstützen viele Themes im GUI Undercurls für
 " den Spellchecker, allerdings nichts im TUI. Grund dafür ist,
@@ -417,87 +428,17 @@ augroup END
 set background=dark
 colorscheme PaperColor
 
-" ----
+" --------
 
-"  Mit Hilfe der viminfo Datei merkt sich Vim Dinge über mehrere
-"  Sessions hinweg. Wir speichern in ihr:
-"   %     Wir merken uns die Bufferliste, öffnen sie beim Start
-"         wieder, sofern keine Datei an Vim übergeben wurde.
-"   '128  Marken der letzten 128 Dateien speichern.
-"   /128  Die letzten 128 Suchbegriffe.
-"   :128  Die letzten 128 History-Befehle.
-"   @128  Die letzten 128 eingegebenen Zeilen.
-"   s1024 Alle Register bis 1 Megabyte Größe speichern.
-set viminfo='128,/128,:128,@128,s1024
+" Miscellaneous settings.
 
-" Der Dateipfad ist vom Betriebssystem abhängig.
-if has ("win64") || has("win32")
-	set viminfo+=n$HOME/vimfiles/runtime/viminfo
-else
-	set viminfo+=n$HOME/.vim/runtime/viminfo
-endif
-
-" ----
-
-" Die Undo-Datei merkt sich Undo-Daten für einzelne Dateien über mehrere
-" Sessions hinweg.
-set undofile
-
-" Das Verzeichnis ist vom Betriebssystem abhängig.
-if has("win64") || has("win32")
-	set undodir=$HOME/vimfiles/runtime/undo
-else
-	set undodir=$HOME/.vim/runtime/undo
-endif
-
-" ----
-
-" Datei, in welcher Datei dem Wörterbuch hinzugefügte Wörter gespeichert
-" werden.
-if has("win64") || has("win32")
-	set spellfile=$HOME/vimfiles/runtime/spell/custom.utf-8.add
-else
-	set spellfile=$HOME/.vim/runtime/spell/custom.utf-8.add
-endif
-
-" ----
-
-" Gibt an, was in automatisch erstellte Session-Scripte gespeichert
-" wird.
-set sessionoptions=blank,buffers,curdir,folds,localoptions,options
-set sessionoptions+=resize,tabpages,unix,winsize,winpos,globals
-
-" ----
-
-" Wir wollen automatisches Syntaxhighlighting.
-syntax on
-
-" Erkenne Dateitypen.
-filetype on
-
-" Vim hat zwar mehrere eingebaute Indent-Styles und kann den Stil wenn
-" nötig automagisch ermitteln, aber oft reicht es nicht aus, da der
-" Syntax der jeweiligen Sprache zu komplex ist. Wenn es ein Plugin für
-" den aktuellen Dateityp gibt, wollen wir dies daher nutzen.
-filetype plugin indent on
-
-" ----
-
-" netrw abschalten, wir haben bessere Plugins.
-let g:loaded_netrw       = 1
+" Don't load netrw, we have better plugins for that.
+let g:loaded_netrw = 1
 let g:loaded_netrwPlugin = 1
 
-" =====================================================================
+" --------
 
-" --------------------------------------
-" 3. File-Type spezifische Einstellungen
-" --------------------------------------
-
-" =====================================================================
-
-" ----------------
-" 4. Auto-Commands
-" ----------------
+" Autocommands.
 
 " Alle von uns definierten Auto-Commands kommen in eine Gruppe,
 " damit wir sie bei Bedarf später einfach wieder entfernen können.
@@ -533,11 +474,9 @@ augroup vimrc
 	autocmd BufNewFile,BufReadPost *.sls set filetype=yaml
 augroup END
 
-" =====================================================================
+" --------
 
-" ---------------
-" 5. Key mappings
-" ---------------
+" Mappings.
 
 " Normalerweise liegt der Leader auf '\', was im deutschen Layout nur
 " schwer zu erreichen ist. Wir setzen ihn daher auf ` `, also Space.
@@ -560,11 +499,6 @@ nnoremap <Leader>l :set list!<CR>
 " Paste-Mode.
 nnoremap <Leader>p :set paste!<CR>
 
-" Spellchecker umschalten.
-nnoremap <Leader>ss :setlocal spell!<cr>
-nnoremap <Leader>se :setlocal spelllang=en_us<cr>
-nnoremap <Leader>sd :setlocal spelllang=de<cr>
-
 " ----
 
 " Die Spalte highlighten, an welcher der Text umbricht.
@@ -577,5 +511,3 @@ function! g:ToggleColorColumn()
 endfunction
 
 nnoremap <silent> <Leader>w :call g:ToggleColorColumn()<CR>
-
-" =====================================================================
