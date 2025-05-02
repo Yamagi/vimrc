@@ -1,31 +1,32 @@
 vim9script
 
 # Per project vimrc. Can be copied into the project root folder and is
-# sourced by Vim after the main configuration. This is an example with
-# all per project configurations I've collected over the years. Not
-# every projects needs all configuration.
+# sourced by Vim after processing the actual configuration. This is an
+# example with all per project configurations collected over the years.
+# Not every projects needs all configurations.
 
-# =====================================================================
+# --------
 
-# A low contrast is better when writing text.
+# A low contrast colorscheme is better when writing text.
 color habamax
 
 # The ability to freely position the cursor is sometimes nice.
 # It breaks assumptions around virtual text and conceal, though.
+# Expect to hit bugs when using them with virtualedit enabled.
 set virtualedit=all
 
 # Visualizing tabs, spaces and other invisible characters is a
-# good thing for code. It might be annoying for plain text.
+# good thing for code. It might be annoying for prose.
 set nolist
 
-# Don't sort the entires in the tagbar. This can be usefull when working
-# with structured text documents like Markdown or LaTeX.
+# Do not sort the entires in the tagbar. This can be usefull when
+# working with structured text documents like Markdown or TeX.
 g:tagbar_sort = 0
 
-# Don't generate tags for the local .vimrc and spellchecker wordlists.
+# Don't generate tags for the local .vimrc and dictionary.
 g:gutentags_ctags_exclude = [ '.vimrc', '.spell/*' ]
 
-# This generated tags from user defined tags given in markdown files.
+# This generate tags from user defined tags given in markdown files.
 # Each tag starts with +. An example, abusing YAML frontmatters:
 #
 # ----
@@ -43,9 +44,9 @@ g:gutentags_ctags_extra_args = [
 	'--_mtable-regex-mdtags=toplevel/.//'
 ]
 
-# =====================================================================
+# --------
 
-# A distinct spell checker dictionary for this project.
+# A distinct dictionary for this project.
 var spellfile: string = expand('<sfile>:p:h') .. '/.spell/dict.utf-8.add'
 def AddSpellfile()
 	if filereadable(spellfile)
@@ -54,7 +55,7 @@ def AddSpellfile()
 enddef
 
 # The standard foldings for Markdown are rather slow, because they
-# support the alternative header syntax which needs back references
+# support the alternative header syntax. That needs back references
 # throughout the whole file. Define alternative foldings which are
 # limited to the normal header syntax but way faster.
 def MarkdownLevel(): any
@@ -67,7 +68,7 @@ def MarkdownLevel(): any
 enddef
 
 # Add the functions above as autocommands, triggered when necessary.
-augroup local
+augroup vimrc
 	# The dictionary.
 	autocmd BufEnter * call AddSpellfile()
 
