@@ -15,6 +15,10 @@ vim9script
 # Copy indent from current line when starting a new line.
 set autoindent
 
+# Reread files changed outside Vim when they are unchanged inside Vim.
+# Ask otherwise. Requires focus tracking for best results.
+set autoread
+
 # Allow backspace in insert mode to traverse end of line markers, start
 # of the current inserts and characters added by autoindent.
 set backspace=eol,indent,start
@@ -85,6 +89,9 @@ set textwidth=72
 # Thesaurus files for English and German.
 set thesaurus=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-de.txt
 set thesaurus+=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-en.txt
+
+# Limit the timeout for mapped key sequences to 10 milliseconds.
+set ttimeoutlen=10
 
 # Use a visual bell instead of beeping.
 set visualbell
@@ -162,15 +169,10 @@ filetype plugin indent on
 
 # Terminal (and GUI).
 
-# **NOTE**: GUI (mostly for Windows) and terminal Vim should look and
-# behave the same. The Unix terminal is always problematic. Innumerable
-# different terminals with different feature sets. Over a hundred xterm
-# versions pointing to the same termcap / terminfo type. Tens of xterm
-# compatible terminals with broken feature detection. tmux, which is
-# rather conservative to expose features to the application. And so on.
-# Work around that by enforcing some options which all modern terminals
-# have supported for years. Configure tmux under the assumption that it
-# runs on a state of the art terminal.
+# **NOTE**: This section assumes that Vim is either running as gvim or
+# under tmux on top a modern terminal with full support for truecolor,
+# colored undercurls, etc. All other terminals may degrade in one way
+# or another.
 
 if has("gui_running")
 	if has("gui_win32") || has("gui_win64")
@@ -203,112 +205,51 @@ if has("gui_running")
 	# Disable cursor blinking.
 	set guicursor+=a:blinkon0
 else
-	# TODO: This section needs to be reworked!
-	if &term =~ "alacritty"
-		# alacritty ist xterm-kompatibel. Es nutzt lediglich
-		# ein eigenes termcap / terminfo, da es mehr Dinge
-		# kann.
+	# Force Vim to treat tmux like xterm with modifyOtherKeys set to 2.
+	# tmux has supported this mode since 3.5. While not as good as the
+	# more modern Kitty keyboard protocol, it modifies the Alt key to
+	# work without escape sequences, separating it from 'timeoutlen'.
+	set keyprotocol=tmux:mok2,screen:mok2
 
-		# Automatische Featureerkennung.
-		&t_RV = "\<Esc>[>c"
+	# Enable the mouse.
+	set mouse=a
 
-		# alacritty hat volle Unterstützung für Truecolor.
-		&t_8f="\e[38;2;%lu;%lu;%lum"
-		&t_8b="\e[48;2;%lu;%lu;%lum"
+	# Cursor shape:
+	#  * Bar in insert mode.
+	#  * Underline in replacement mode.
+	#  * Block in all other modes.
+	&t_SI = "\<Esc>[6 q"
+	&t_SR = "\<Esc>[4 q"
+	&t_EI = "\<Esc>[2 q"
+
+	# Depending on the systems tercap / terminfo setting some or all
+	# escape sequences might not be needed. See ':h tmux-integration'.
+	if (&term =~ "tmux") || (&term =~ "screen")
+		# Enable bracketed paste. See ':help xterm-bracketed-paste'
+		&t_BE = "\<Esc>[?2004h"
+		&t_BD = "\<Esc>[?2004l"
+		&t_PS = "\<Esc>[200~"
+		&t_PE = "\<Esc>[201~"
+
+		# Force support for colored undercurls.
+		&t_Cs = "\<Esc>[4:3m"
+		&t_Ce = "\<Esc>[4:0m"
+		&t_8u = "\<Esc>[58;2;%lu;%lu;%lum"
+
+		# Enable focus event tracking. See ':help xterm-focus-event'
+		&t_fe = "\<Esc>[?1004h"
+		&t_fd = "\<Esc>[?1004l"
+		execute "set <FocusGained>=\<Esc>[I"
+		execute "set <FocusLost>=\<Esc>[O"
+
+		# Force support for truecolor.
+		&t_8f = "\e[38;2;%lu;%lu;%lum"
+		&t_8b = "\e[48;2;%lu;%lu;%lum"
 		set termguicolors
 
-		# Ebenso unterstützt es farbige Unterkringelungen.
-		&t_Cs="\e[4:3m"
-		&t_Ce="\e[4:0m"
-		&t_8u="\e[58;2;%lu;%lu;%lum"
-
-		# Die Mausunterstütztung nutzt das SGR-Protokoll.
+		# tmux has support for the SGR mouse protocol, but for some
+		# reason Vim defaults to the inferior xterm protocol.
 		set ttymouse=sgr
-
-		# Alacritty unterstützt das Kitty Keyboard Protocol,
-		# was einige Vorteile wie die Unterstützung von mehr
-		# Funktionstasten / Modifier bringt.
-		set keyprotocol=alacritty:kitty
-	elseif (&term =~ "tmux") || (&term =~ "screen")
-		# tmux setzt auf älteren Installationen oft noch
-		# $TERM auf screen-256color, daher werden tmux
-		# und screen äquivalent behandelt.
-		#
-		# tmux hat das große Problem, dass man nicht sagen
-		# kann, welches Terminal unterhalb des Multiplexers
-		# läuft. Wir nehmen ein xterm mit allen Features an.
-		# Das ist etwas gewagt, sollte in der Praxis aber
-		# ausreichend gut funktionieren.
-
-		# Automatische Featureerkennung.
-		&t_RV = "\<Esc>[>c"
-
-		# Seit Version 3.5 unterstützt tmux modifyOtherKeys
-		# Mode 2. Erzwinge ihn hier, denn es erlaubt die
-		# Alt Taste ohne Escape Sequenz abzubilden. Das
-		# ermöglicht wiederum Mappings alt Alt, ohne mit
-		# dem Key Timeout von einer Sekunde zu kollidieren.
-		&t_TI = "\<Esc>[>4;2m"
-		&t_TE = "\<Esc>[>4;m"
-
-		# Truecolor.
-		&t_8f = "\e[38;2;%lu;%lu;%lum"
-		&t_8b = "\e[48;2;%lu;%lu;%lum"
-		set termguicolors
-
-		# Farbige Unterkringelungen.
-		&t_Cs = "\e[4:3m"
-		&t_Ce = "\e[4:0m"
-		&t_8u = "\e[58;2;%lu;%lu;%lum"
-	elseif &term =~ "rxvt-unicode"
-		# rxvt-unicode ist ein Arbeitstier. Ein gutes und
-		# schnelles Terminal, allerdings fehlen ihm neuere
-		# Features.
-
-		# Truecolor wird mit eingeschränktem Farbraum
-		# unterstützt. Vim erkennt es nicht automatisch.
-		# Erfahrungen im täglichen Einsatz haben leider
-		# gezeigt, dass es nicht so wirklich brauchbar
-		# ist. Aus zwei Gründen:
-		#  * Viele Distros bauen das Terminal ohne die
-		#    Unterstützung für den 24 Bit Farbraum.
-		#  * Der eingeschränkte Farbraum macht doch bei
-		#    einigen Colorthemes Probleme.
-		# Setze daher die Termcap-Optionen, schalte aber
-		# termguicolors nicht global ein.
-		&t_8f = "\e[38;2;%lu;%lu;%lum"
-		&t_8b = "\e[48;2;%lu;%lu;%lum"
-
-		# Viele ältere Systeme und FreeBSD generell gehen
-		# davon aus, dass rxvt-unicode keine Italics kann
-		# und setzen die termcap / terminfo EInträge auf
-		# Reverse.
-		&t_ZH = "\e[3m"
-		&t_ZR = "\e[23m"
-
-		# Vim erkennt die Mausunterstützung meist mit dem
-		# xterm2-Protokoll. Vim bietet allerdings eine
-		# spezielle Protokollvariante an, welche kein 223
-		# Spaltenlimit hat.
-		set ttymouse=urxvt
-	elseif (&term =~ "xterm")
-		# xterm ist der verbreitetste Terminal-Typ, aber
-		# sehr inkonsistent. Nicht einmal xterm selbst
-		# unterstützt garantiert alle Features. Vim nutzt
-		# intern einige Magie um xterms automagisch zu
-		# konfigurieren, leider hat das prinzipbedingt ein
-		# recht hohes Fehlerpotential. Wir konfigurieren
-		# daher die relevanten Dinge explizit.
-
-		# Truecolor.
-		&t_8f = "\e[38;2;%lu;%lu;%lum"
-		&t_8b = "\e[48;2;%lu;%lu;%lum"
-		set termguicolors
-
-		# Farbige Unterkringelungen.
-		&t_Cs = "\e[4:3m"
-		&t_Ce = "\e[4:0m"
-		&t_8u = "\e[58;2;%lu;%lu;%lum"
 	endif
 
 	# Allow external tools to display dynamic information based on where
