@@ -209,6 +209,9 @@ else
 	# tmux has supported this mode since 3.5. While not as good as the
 	# more modern Kitty keyboard protocol, it modifies the Alt key to
 	# work without escape sequences, separating it from 'timeoutlen'.
+	# Additionally it allows complex binding key combinations which are
+	# indistinguishable otherwise. Shift + CTRL is an example.
+	# See ':h modifyOtherKeys'.
 	set keyprotocol=tmux:mok2,screen:mok2
 
 	# Enable the mouse.
