@@ -1,7 +1,8 @@
 vim9script
 
-# A Language Server Plugin written in vim9script.
-# https://github.com/yegappan/lsp
+# A fast Language Server plugin.
+
+# URL: https://github.com/yegappan/lsp
 
 # ----
 
@@ -29,11 +30,6 @@ extend(lspOptions, {
 	'outlineOnRight': true,
 	'outlineWinSize': 40,
 
-	# Use semantic highlighting if provided by the
-	# language server. It generally does a better
-	# job than Vims regex based highlighting.
-	'semanticHighlight': true,
-
 	# Show diagnostics inline.
 	'showDiagWithVirtualText': true,
 
@@ -45,9 +41,9 @@ extend(lspOptions, {
 	'usePopupInCodeAction': true
 })
 
-# Diagnostic signs, in ASCII and UTF-8 flavor.
-# Use the same sign for all diagnostics, the
-# highlighting makes the category clear.
+# Diagnostic signs.  Use the same sign for all
+# diagnostics, highlighting makes the category
+# clear.
 extend(lspOptions, {
 	'diagSignErrorText': '■',
 	'diagSignHintText': '■',
