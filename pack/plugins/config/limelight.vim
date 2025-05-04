@@ -1,17 +1,20 @@
-" Limelight highlights the current paragraph.
-" https://github.com/junegunn/limelight.vim
+vim9script
 
-" ----
+# Limelight highlights the current paragraph.Together with
+# Goyo and Pencil it provides a distraction free writing
+# environement.
 
-" Color 243 works for the dark and the bright
-" versions of the 'lucius' theme.
-let g:limelight_conceal_ctermfg = 243
+# URL: https://github.com/junegunn/limelight.vim
 
-" Highlight current paragraph only.
-let g:limelight_paragraph_span = 0
+# ----
 
-" Enable highlighting when entering Goyo.
+# Highlight the current paragraph only.
+g:limelight_paragraph_span = 0
+
 augroup vimrc
+	# Enable when entering Goyo.
 	autocmd User GoyoEnter Limelight
+
+	# Disable when leaving Goyo.
 	autocmd User GoyoLeave Limelight!
 augroup END

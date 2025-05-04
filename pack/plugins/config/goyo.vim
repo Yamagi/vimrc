@@ -1,51 +1,58 @@
-" Goyo enables distraction free writing.
-" https://github.com/junegunn/goyo.vim
+vim9script
 
-" ----
+# Goyo enables distraction free writing. Together with
+# Limelight and Pencil it provides a distraction free
+# writing environement.
 
-" Toggle.
-let s:goyoRunning=0
+# URL: https://github.com/junegunn/goyo.vim
 
-function g:ToggleGoyo()
-	if s:goyoRunning == 0
-		let s:goyoRunning=1
+# ----
 
-		" Save 'colorcolumn' state.
-		let s:ccstate=&colorcolumn
+# Toggle.
+var goyoRunning = 0
 
-		" Pencil messes with the 'formatoptions'.
-		" Let's save their current state.
-		let s:fostate=&formatoptions
+# State tracking.
+var ccstate = &colorcolumn
+var fostate = &formatoptions
 
-		" After this we're in the Goyo buffer.
+def g:ToggleGoyo()
+	if goyoRunning == 0
+		# Save the state of several options. This plugin,
+		# Limelight and Pencil mess with them and we want
+		# to be able to restore them when leaving Goyo.
+		goyoRunning = 1
+		ccstate = &colorcolumn
+		fostate = &formatoptions
+
+		# Enter Goyo. Triggers an autocommand which is
+		# used to setup Limelight and Pencil at the same
+		# time.
 		:Goyo
 
+		# Always enable the spell checker.
 		setlocal spell
 	else
-		" After this we're in the original buffer.
+		# Leave Goyo. Triggers an autocommand which is
+		# used to disable Limelight and Pencil at the
+		# same time.
 		:Goyo
 
-		" Restore 'colorcolumn' state.
-		let &colorcolumn=s:ccstate
+		# Restore the state of several options.
+		goyoRunning = 0
+		&colorcolumn = ccstate
+		&formatoptions = fostate
 
-		" Penclil messes with the 'formatoptions'.
-		" Restore the state saved above.
-		let &formatoptions=s:fostate
-
-		" Goyo reapplies the color scheme at exit.
-		" That messes up filetype based highlights.
-		" Reapply the syntax to work around that.
+		# Goyo reapplies the colorscheme at exit. That
+		# might mess up filetype dependent highlights.
+		# Fix them by reapplying the syntax.
 		syntax on
-
-		let s:goyoRunning=0
 	endif
-
-endfunction
+enddef
 
 nnoremap <silent> <Leader>d :call g:ToggleGoyo()<CR>
 
-" ----
+# ----
 
-" Must be 2 characters more then 'textwidth'.
-" One for whitespaces and one for the cursor.
-let g:goyo_width=74
+# Must be 3 characters more then 'textwidth'.
+# Two for whitespaces and one for the cursor.
+g:goyo_width = 75
