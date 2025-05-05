@@ -40,7 +40,13 @@ endfunction
 " - a:0: String, opening action, default `g:floaterm_opener`
 function! floaterm#util#open(locations, ...) abort
   let opener = get(a:000, 0, g:floaterm_opener)
-  execute opener a:locations[0].filename
+  let loc = a:locations[0]
+  execute opener loc.filename
+  if has_key(loc, 'lnum')
+    execute loc.lnum
+  elseif has_key(loc, 'text')
+    execute '/' . loc.text
+  endif
   for loc in a:locations[1:]
     execute 'edit ' loc.filename
     if has_key(loc, 'lnum')
@@ -154,7 +160,10 @@ function! floaterm#util#setenv() abort
   endif
   let editor = floaterm#edita#setup#EDITOR()
   let env.FLOATERM = editor
-  let env.GIT_EDITOR = editor
+  if g:floaterm_giteditor
+    let env.GIT_EDITOR = editor
+    let env.HGEDITOR = editor
+  endif
   return env
 endfunction
 
