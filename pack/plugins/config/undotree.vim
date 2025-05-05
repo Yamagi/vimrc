@@ -1,7 +1,10 @@
-" UndoTree visualizes undo branches.
-" https://github.com/mbbill/undotree
+vim9script
 
-" ----
+# UndoTree visualizes the undo tree.
 
-" Toggle.
+# URL: https://github.com/mbbill/undotree
+
+# ----
+
+# Toggle.
 nnoremap <Leader>u :UndotreeToggle<CR>
