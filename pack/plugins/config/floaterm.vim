@@ -1,24 +1,28 @@
-" Floaterm implements a terminal in an popup window.
-" https://github.com/voldikss/vim-floaterm
+vim9script
 
-" ----
+# Floaterm provides a terminal in an popup window.
+# It's rendered above all other windows and tabs.
 
-" Automatically close when last process exists.
-let g:floaterm_autoclose = 1
+# URL: https://github.com/voldikss/vim-floaterm
 
-" Border decotation.
-let g:floaterm_borderchars = '━┃━┃┏┓┛┗'
+# ----
 
-" Make the terminal a little bigger.
-let g:floaterm_height= 0.8
-let g:floaterm_width = 0.8
+# Automatically close when last process exists.
+g:floaterm_autoclose = 1
 
-" Terminal title.
-let g:floaterm_title = ''
+# Border decotation.
+g:floaterm_borderchars = '━┃━┃┏┓┛┗'
 
-" ----
+# Make the terminal a little bigger.
+g:floaterm_height = 0.8
+g:floaterm_width = 0.8
 
-" We want exactly one terminal, triggered
-" shown or hidden on F12.
+# Terminal title.
+g:floaterm_title = ''
+
+# ----
+
+# We want exactly one terminal, triggered
+# shown or hidden on F12.
 nnoremap <silent> <F12> :FloatermToggle<CR>
 tnoremap <silent> <F12> <C-\><C-n>:FloatermToggle<CR>
