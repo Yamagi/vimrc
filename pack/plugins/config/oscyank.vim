@@ -1,19 +1,22 @@
-" Send data into the OSC52 escape sequence.
-" https://github.com/ojroques/vim-oscyank/
+vim9script
 
-" ---
+# Send data through the OSC52 escape sequence.
 
-" Feed text yanked into "o into the OSC52 sequence.
-let s:VimOSCYankPostRegisters = ['o']
-let s:VimOSCYankOperators = ['y', 'd']
+# URL: https://github.com/ojroques/vim-oscyank/
 
-function! s:VimOSCYankPostCallback(event)
-	if index(s:VimOSCYankPostRegisters, a:event.regname) != -1
-				\ && index(s:VimOSCYankOperators, a:event.operator) != -1
-		call OSCYankRegister(a:event.regname)
+# ---
+
+# Feed text yanked into "o into the OSC52 sequence.
+var VimOSCYankPostRegisters = ['o']
+var VimOSCYankOperators = ['y', 'd']
+
+def VimOSCYankPostCallback()
+	if index(VimOSCYankPostRegisters, v:event.regname) != -1
+			&& index(VimOSCYankOperators, v:event.operator) != -1
+		call g:OSCYankRegister(v:event.regname)
 	endif
-endfunction
+enddef
 
 augroup vimrc
-	autocmd TextYankPost * call s:VimOSCYankPostCallback(v:event)
+	autocmd TextYankPost * call VimOSCYankPostCallback()
 augroup END
