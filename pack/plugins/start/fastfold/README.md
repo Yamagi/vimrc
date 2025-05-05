@@ -36,21 +36,40 @@ For example, by adding
 
 ```vim
 let g:markdown_folding = 1
+let g:rst_fold_enabled = 1
 let g:tex_fold_enabled = 1
 let g:vimsyn_folding = 'af'
 let g:xml_syntax_folding = 1
 let g:javaScript_fold = 1
 let g:sh_fold_enabled= 7
+let g:zsh_fold_enable = 1
 let g:ruby_fold = 1
 let g:perl_fold = 1
 let g:perl_fold_blocks = 1
 let g:r_syntax_folding = 1
 let g:rust_fold = 1
 let g:php_folding = 1
+let g:fortran_fold=1
+let g:clojure_fold = 1
+let g:baan_fold=1
 ```
 
-to the `.vimrc` file and installing this plug-in, the folds in a `TeX`, `Vim`, `XML`, `JavaScript`, `R`, `PHP` or `Perl` file are updated by the `syntax` fold method when saving the buffer, opening, closing, moving or operating on folds, or typing `zuz` in normal mode and are kept as is otherwise.
-(Likewise, in a `Markdown` or `Rust` file, by the `expression` fold method.)
+to the `.vimrc` file and installing this plug-in, the folds in a `TeX`, `Vim`, `XML`, `JavaScript`, `(Z)SH`, `R`, `PHP`, `Ruby`, `Perl`, `Fortran`, `Clojure`  or `Baan` file are updated by the `syntax` fold method when saving the buffer, opening, closing, moving or operating on folds, or typing `zuz` in normal mode and are kept as is otherwise.
+(Likewise, in a `Markdown`, `RST` or `Rust` file, by the `expression` fold method.)
+Syntax folding  for `C` and `C++` files can be enabled by adding
+
+```vim
+autocmd FileType c,cpp setlocal foldmethod=syntax
+```
+
+to your `vimrc` (see `:help ft-c-syntax`).
+For Python, adding
+
+```vim
+autocmd FileType python setlocal foldmethod=indent
+```
+
+to your `vimrc` mostly suffices, though installing [SimplyFold](https://github.com/tmhedberg/SimpylFold) refines folds from successive indent levels to syntax objects such as functions.
 
 # Configuration
 
@@ -82,9 +101,11 @@ to the `.vimrc` file and installing this plug-in, the folds in a `TeX`, `Vim`, `
   variant `FastFoldUpdate!` that updates all folds and echos by which fold
   method the folds were updated.
 
-- FastFold by default only prevents the expression and syntax fold methods
-  from recomputing on every buffer change. To prevent all fold methods (except
-  manual) from doing so, add `let g:fastfold_force = 1` to your `.vimrc`.
+- FastFold by default only prevents the `syntax` fold methods from recomputing
+  on every buffer change. These can be customized by `g:fastfold_foldmethods`
+  in your `.vimrc`, for example `g:fastfold_foldmethods = ['syntax', 'expr']`
+  (equivalent to `let g:fastfold_force = 1`) also applies this to `expr` folds.
+  This should only be necessary for [inefficient foldexprs, though](https://github.com/lervag/vimtex/pull/3054).
 
 - FastFold is by default enabled for files that have more than a certain
   number of lines, by default set to 200. To change this number, for example,
@@ -112,9 +133,10 @@ folds of a file buffer by `:mkview` and `:loadview`.
 
 ## Custom Fold Text
 
-A `CustomFoldText()` function that displays the percentage of the number of buffer lines that the folded text takes up and indents folds according to their nesting level, similar to [that](http://www.gregsexton.org/2011/03/improving-the-text-displayed-in-a-fold/) by Greg Sexton, is available at
+Replace the standard `&foldtext`
 
-http://www.github.com/Konfekt/FoldText
+- by [one](http://www.github.com/Konfekt/FoldText) that displays the percentage of the number of buffer lines that the folded text takes up and indents folds according to their nesting level, [originally by Greg Sexton](https://web.archive.org/web/20161017143651/http://www.gregsexton.org:80/2011/03/improving-the-text-displayed-in-a-fold/), or
+- by [one](https://github.com/kaile256/vim-foldpeek) that previews the most pertinent initial text of the fold (together with the fold level and number of lines).
 
 ## NrrwRgn
 
@@ -130,8 +152,8 @@ http://www.github.com/Konfekt/FoldText
 Create a fold text object, mapped to `iz` and `az`, by adding the lines
 
 ```vim
-xnoremap iz :<c-u>FastFoldUpdate<cr><esc>:<c-u>normal! ]zv[z<cr>
-xnoremap az :<c-u>FastFoldUpdate<cr><esc>:<c-u>normal! ]zV[z<cr>
+xnoremap <silent> iz :<c-u>FastFoldUpdate<cr>]z<up>$v[z<down>^
+xnoremap <silent> az :<c-u>FastFoldUpdate<cr>]zV[z
 ```
 
 to the file `~/.vimrc` (respectively `%USERPROFILE%/_vimrc` on Microsoft Windows).

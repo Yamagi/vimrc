@@ -96,6 +96,17 @@ perl files.
 >
   let g:fastfold_force = 1
 <
+- FastFold by default only prevents the |syntax| fold methods from recomputing
+  on every buffer change. These can be customized by *g:fastfold_foldmethods*
+  in your *vimrc*, for example >
+
+    let g:fastfold_foldmethods = ['syntax', 'expr']
+<
+  (equivalent to g:fastfold_force = 1) also applies this to |expr| folds.
+  This should only be necessary for inefficient foldexprs, though:
+
+    https://github.com/lervag/vimtex/pull/3054
+<
 - To intercept every change of the fold method, toggle the default value 0 of
   *g:fastfold_fdmhook* by:
 >
@@ -147,11 +158,13 @@ vimrc the line
 <
 --------------------------------
 
-A fold-text function CustomFoldText() that displays the percentage of the
-number of buffer lines that the folded text takes up and indents folds
-according to their nesting level is available at
+Replace the standard `&foldtext`
 
-  http://www.github.com/Konfekt/FoldText
+- by one that displays the percentage of the number of buffer lines that the
+  folded text takes up and indents folds according to their nesting level,
+  available at http://www.github.com/Konfekt/FoldText, or
+- by one that shows the most pertinent initial text of the fold (including fold
+  level and number of lines), availabe at https://github.com/kaile256/vim-foldpeek
 
 3.2 Caveats ~
 
