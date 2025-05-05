@@ -302,6 +302,12 @@ colorscheme PaperColor
 g:loaded_netrw = 1
 g:loaded_netrwPlugin = 1
 
+# Enable bundles plugins:
+#  * Comment the selected lines on 'gc'.
+#  * Briefly highlight yanked text.
+packadd comment
+packadd hlyank
+
 # --------
 
 # Autocommands.
