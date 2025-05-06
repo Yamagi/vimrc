@@ -1,7 +1,8 @@
 vim9script
 
 # A universal fuzzy finder optimized for speed
-# https://github.com/Donaldttt/fuzzyy
+
+# URL: https://github.com/Donaldttt/fuzzyy
 
 # ----
 
