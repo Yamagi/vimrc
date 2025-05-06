@@ -11,16 +11,18 @@ var lspOptions: dict<any>
 
 # General options.
 extend(lspOptions, {
-	# No auto completions, vimcomplete handles them.
-	# (vimcomplete does a way better job with them.)
+	# Don't use the integrated auto completion engine,
+	# Vims internal completion engine handles them.
 	'autoComplete': false,
-	'omniComplete': false,
+
+	# Enable the plugins omnifunc as datasource
+	# for Vims internal completion engine.
+	'omniComplete': true,
 
 	# Highlight the word under the cursor.
 	'autoHighlight': true,
 
 	# Case insensitive completions were available.
-	# This is needed for vimcomplete.
 	'completionMatcher': 'icase',
 
 	# Show diagnoses below the error.
@@ -41,9 +43,9 @@ extend(lspOptions, {
 	'usePopupInCodeAction': true
 })
 
-# Diagnostic signs.  Use the same sign for all
-# diagnostics, highlighting makes the category
-# clear.
+# Diagnostic signs. Use the same sign for all
+# diagnostics, their highlighting makes the
+# category clear.
 extend(lspOptions, {
 	'diagSignErrorText': '■',
 	'diagSignHintText': '■',
@@ -61,6 +63,50 @@ augroup vimrc
 	# Use the LSP server as source for tags if it's
 	# attached to the current buffer.
 	autocmd User LspAttached setlocal tagfunc=lsp#lsp#TagFunc
+augroup END
+
+# ----
+
+# Custom completion function which ties the plugins
+# generic omnifunc to Vims internal completion system.
+# Taken from the vimcomplete plugin and altered:
+# https://github.com/girishji/vimcomplete/blob/
+#   ad0813dbe378033b8f13ead380f6de61841b6637/
+#   autoload/vimcomplete/lsp.vim#L32
+def g:LspCompletor(maxitems: number, findstart: number, base: string): any
+	if !exists('*g:LspOmniFunc')
+		# The plugins omnifunc isn't defined, likely no
+		# language server is attached to the buffer.
+		# Cancel this completion function, but stay in
+		# completion mode.
+		return -2
+	endif
+
+	# Determine completion prefix.
+	var line = getline('.')->strpart(0, col('.') - 1)
+
+	if line =~ '\s$'
+		# Prefix is empty. Cancel this completor, but
+		# stay in completion mode.
+		return -2
+	endif
+
+	if findstart == 1
+		# First call to the function.
+		var startcol = g:LspOmniFunc(findstart, base)
+		return startcol < 0 ? startcol : startcol + 1
+	endif
+
+	# Subsequent call to the function.
+	var items = g:LspOmniFunc(findstart, base)
+	items = items->slice(0, maxitems)
+	items->map((_, v) => v->extend({ dup: 0 }))
+	return {words: items, refresh: 'always'}
+enddef
+
+augroup vimrc
+	# Use LSP as the only completion source.
+	autocmd User LspAttached setlocal complete=ffunction("LspCompletor"\\,\ [5])
 augroup END
 
 # ----
