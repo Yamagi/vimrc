@@ -22,8 +22,6 @@ programs to handle complex tasks.
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - used for FuzzyGrep and
   FuzzyFiles if installed, faster than the defaults and respects gitignore
-- [vim-devicons](https://github.com/ryanoasis/vim-devicons) - used to show
-  [devicons](https://devicon.dev/) when listing files if installed
 
 ### Optional dependencies
 
@@ -35,6 +33,17 @@ programs to handle complex tasks.
   repo and no alternative dependency installed
 - [ctags](https://ctags.io) - used to generate tags for FuzzyTags (Universal
   Ctags implementation is required)
+  
+### Compatible plugins
+- [vim-devicons](https://github.com/ryanoasis/vim-devicons) - used to show
+  [devicons](https://devicon.dev/) when listing files if installed
+- [vim-nerdfont](https://github.com/lambdalisue/vim-nerdfont) - alternative
+  plugin to show devicons, used if installed and vim-devicons not installed
+- [vim-glyph-palette](https://github.com/lambdalisue/vim-glyph-palette) - used
+  to colorize devicons if installed, instead of Fuzzyy's own color mappings
+- [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - 
+  used to colorize devicons if installed, and [vim-nerdtree](https://github.com/preservim/nerdtree)
+  installed
 
 ## Install
 
@@ -213,7 +222,7 @@ This option can also be set specifically for FuzzyFiles and/or FuzzyGrep using
 ### g:fuzzyy_root_patterns
 Patterns to find a project root in supported commands, e.g. FuzzyFilesRoot.
 These commands find a "root" directory to use as the working directory by
-walking up the direcrory tree looking for any match of these glob patterns.
+walking up the directory tree looking for any match of these glob patterns.
 Default is intentionally conservative, using common VCS root markers only.
 ```vim
 let g:fuzzyy_root_patterns = ['.git', '.hg', '.svn']
@@ -408,9 +417,14 @@ shown below, you can change them in your vimrc. See :help :highlight if you are
 unfamiliar with Vim highlighting
 
 ```vim
-highlight default link fuzzyyCursor Search
+highlight default link fuzzyyCursor Cursor
 highlight default link fuzzyyNormal Normal
 highlight default link fuzzyyBorder Normal
 highlight default link fuzzyyMatching Special
 highlight default link fuzzyyPreviewMatch CurSearch
 ```
+
+Note: when the popup is open, Fuzzyy will technically hide the terminal cursor
+and clear the Cursor highlight group. This is to work around limitations in how
+|popupwin| operates. To allow fuzzyyCursor to be linked to Cursor (the default),
+the resolved properties of Cursor are copied to fuzzyyCursor where possible.
