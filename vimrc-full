@@ -24,7 +24,8 @@ set autoread
 set backspace=eol,indent,start
 
 # Options for insert mode completion. See ':help completeopt'.
-set completeopt=fuzzy,menu,menuone
+set completeopt=fuzzy,menuone,noselect
+set infercase
 
 # Use not-so-unsafe encryption.
 set cryptmethod=blowfish2
@@ -307,6 +308,52 @@ g:loaded_netrwPlugin = 1
 #  * Briefly highlight yanked text.
 packadd comment
 packadd hlyank
+
+# --------
+
+# Completion.
+
+# Helper function which disables TextChangedI
+# events for 1 milliseconds. Used to prevent
+# autocompletion getting triggered through
+# user interactions with the completions menu.
+# Taken from https://github.com/vim/vim/pull/17065
+def SkipTextChangedIEvent(): string
+	set eventignore+=TextChangedI
+	timer_start(1, (_) => {
+		set eventignore-=TextChangedI
+	})
+	return ''
+enddef
+
+# Helper function for insert mode autocompletion.
+# Called on TextChangedI events. When there are
+# non-whitespace characters left to the cursor,
+# it triggers completion by feeding <c-n> into
+# the type ahead buffer. Taken from the examples
+# at https://github.com/vim/vim/pull/17065
+def InsComplete()
+	if getcharstr(1) == '' && getline('.')->strpart(0, col('.') - 1) =~ '\k$'
+		SkipTextChangedIEvent()
+		feedkeys("\<c-n>", "n")
+	endif
+enddef
+
+augroup vimrc
+	# Trigger completion when the editor is
+	# in insert mode and the buffer changes.
+	autocmd TextChangedI * InsComplete()
+augroup END
+
+# Prevent completion getting triggered again
+# when aborting completion mode.
+inoremap <silent> <c-e> <c-r>=<SID>SkipTextChangedIEvent()<cr><c-e>
+
+# Select next suggestion on <tab>.
+inoremap <silent><expr> <tab> pumvisible() ? "\<c-n>" : "\<tab>"
+
+# Select previous suggestion on <s-tab>
+inoremap <silent><expr> <s-tab> pumvisible() ? "\<c-p>" : "\<s-tab>"
 
 # --------
 
