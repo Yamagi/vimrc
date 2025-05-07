@@ -23,6 +23,10 @@ set autoread
 # of the current inserts and characters added by autoindent.
 set backspace=eol,indent,start
 
+# Sane default for the build-in completion. See ':help complete'.
+# May be overwritten for distinct filestypes or by plugins.
+set complete=.^5,b^2,w^2,u^2,U^2
+
 # Options for insert mode completion. See ':help completeopt'.
 set completeopt=fuzzy,menuone,noselect
 
