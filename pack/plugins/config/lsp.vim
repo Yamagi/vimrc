@@ -107,6 +107,9 @@ enddef
 augroup vimrc
 	# Use LSP as the only completion source.
 	autocmd User LspAttached setlocal complete=ffunction("LspCompletor"\\,\ [5])
+
+	# Enable autocompletion when an LSP attaches.
+	autocmd User LspAttached g:EnableAutocompletion()
 augroup END
 
 # ----

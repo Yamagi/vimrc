@@ -25,7 +25,6 @@ set backspace=eol,indent,start
 
 # Options for insert mode completion. See ':help completeopt'.
 set completeopt=fuzzy,menuone,noselect
-set infercase
 
 # Use not-so-unsafe encryption.
 set cryptmethod=blowfish2
@@ -311,13 +310,32 @@ packadd hlyank
 
 # --------
 
-# Completion.
+# Autocompletion.
 
-# Helper function which disables TextChangedI
-# events for 1 milliseconds. Used to prevent
-# autocompletion getting triggered through
-# user interactions with the completions menu.
-# Taken from https://github.com/vim/vim/pull/17065
+# Enables autocompletion for the current buffer.
+def g:EnableAutocompletion()
+	b:autocompletionEnabled = true
+enddef
+
+# Disabled autocompletion for the current buffer.
+def g:DisableAutocompletion()
+	b:autocompletionEnabled = false
+enddef
+
+# Toggles autocompletion for the current buffer.
+def g:ToggleAutocompletion()
+	if !exists("b:autocompletionEnabled") || !b:autocompletionEnabled
+		b:autocompletionEnabled = true
+	else
+		b:autocompletionEnabled = false
+	endif
+enddef
+
+# ----
+
+# Disables TextChangedI events for 1 milliseconds. That is a not so evil
+# hack to prevent autocompletion getting triggered by user interactions
+# with the completions menu. From https://github.com/vim/vim/pull/17065
 def SkipTextChangedIEvent(): string
 	set eventignore+=TextChangedI
 	timer_start(1, (_) => {
@@ -326,13 +344,16 @@ def SkipTextChangedIEvent(): string
 	return ''
 enddef
 
-# Helper function for insert mode autocompletion.
-# Called on TextChangedI events. When there are
-# non-whitespace characters left to the cursor,
-# it triggers completion by feeding <c-n> into
-# the type ahead buffer. Taken from the examples
-# at https://github.com/vim/vim/pull/17065
+# Triggers insert mode autocompletion. Called on TextChangedI events.
+# When there are non-whitespace characters on the left side of the
+# cursor, completion is triggered by feeding <c-n> into the type ahead
+# buffer. Code from https://github.com/vim/vim/pull/17065
 def InsComplete()
+	# Abort if autocompletion is unconfigured or disabled.
+	if !exists("b:autocompletionEnabled") || !b:autocompletionEnabled
+		return
+	endif
+
 	if getcharstr(1) == '' && getline('.')->strpart(0, col('.') - 1) =~ '\k$'
 		SkipTextChangedIEvent()
 		feedkeys("\<c-n>", "n")
@@ -340,13 +361,16 @@ def InsComplete()
 enddef
 
 augroup vimrc
-	# Trigger completion when the editor is
-	# in insert mode and the buffer changes.
+	# Enable autocompletion by default for some filetypes.
+	autocmd FileType cmake,conf,dosini,make,sh,bash g:EnableAutocompletion()
+
+	# Trigger autocompletion when in insert mode and the buffer changes.
 	autocmd TextChangedI * InsComplete()
 augroup END
 
-# Prevent completion getting triggered again
-# when aborting completion mode.
+# ----
+
+# Prevent completion getting triggered when aborting completion mode.
 inoremap <silent> <c-e> <c-r>=<SID>SkipTextChangedIEvent()<cr><c-e>
 
 # Select next suggestion on <tab>.
@@ -354,6 +378,12 @@ inoremap <silent><expr> <tab> pumvisible() ? "\<c-n>" : "\<tab>"
 
 # Select previous suggestion on <s-tab>
 inoremap <silent><expr> <s-tab> pumvisible() ? "\<c-p>" : "\<s-tab>"
+
+# Trigger autocompletion and select the next suggestion.
+inoremap <silent><expr> <C-Space> "\<c-n>"
+
+# Toggle autocompletions.
+nnoremap <silent> <Leader>c :call g:ToggleAutocompletion()<CR>
 
 # --------
 
