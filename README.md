@@ -14,7 +14,10 @@ recommended to start with an empty configuration and build your own!
 There're currently three versions of this configuration:
 
 * The `master` branch. This is what you're looking at. This is the
-  current version, it needs at least Vim 9.0 to work.
+  current version, it needs at least Vim 9.1.1311 to work.
+* The `legacy90` branch. The old version for Vim 9.0 and 9.1 before
+  patch 1311. It's no longer maintained, just kept around for some
+  not so up to date systems.
 * The `legacy8` branch. The old version for Vim 8. It's no longer
   maintained, just kept around for some outdated systems.
 * The `legacy7` branch. That's the old version for Vim 7. It's no longer
@@ -52,22 +55,14 @@ through Vims buildin package manager. I don't use an external package
 manager because Vim already provides what I need and, that's even more
 important, I want to have full control over my plugins.
 
-I stick to Plugins written in plain Vimscript. Since Vim 9.1 Vim9script
+I stick to Plugins written in plain Vimscript. Since Vim 9.1 Vim9Script
 is prefered. Python, Lua and the like are cool but they need a Vim
-binary build with support for the language.  And the language runtime
+binary build with support for the language. And the language runtime
 must fulfill the plugins requirements. Both is hard to accomplish if the
 system isn't fully under my control.
 
-The plugins are combined into 4 bundles:
+The plugins are combined into 3 bundles:
 
 * `colorschemes`: Colorschemes.
 * `dictionaries`: Spell checker and thesaurus.
-* `general`: Basic stuff.
-* `lsp`: Language server protocol and autocompletion.
-* `writing`: Stuff for writing text.
-
-
-## Caveats
-
-* Parts of the comments are still in german. I might never translate
-  them into english. Google Translate or DeepL can help...
+* `plugins`: Plugins.
