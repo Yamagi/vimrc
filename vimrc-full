@@ -1,8 +1,8 @@
 vim9script
 
 # This is the actual Vim configuration file. It's intended for getting
-# sourced by the vimrc. vimrc must provide a clean environment and an
-# existing runtime directory.
+# sourced by the vimrc. The vimrc must provide a clean environment and
+# an existing runtime directory.
 
 # **NOTE**: This file is divided into sections, section can be divided
 # into subsection. There are dependencies between sections, subsections
@@ -12,19 +12,20 @@ vim9script
 
 # Options.
 
-# Copy indent from current line when starting a new line.
+# Copy indent from the current line when starting a new line.
 set autoindent
 
 # Reread files changed outside Vim when they are unchanged inside Vim.
-# Ask otherwise. Requires focus tracking for best results.
+# Ask otherwise. Requires working focus tracking for best results.
 set autoread
 
-# Allow backspace in insert mode to traverse end of line markers, start
+# Allow backspace to traverse over end of line markers, start
 # of the current inserts and characters added by autoindent.
+# See ':help backspace'.
 set backspace=eol,indent,start
 
 # Sane default for the build-in completion. See ':help complete'.
-# May be overwritten for distinct filestypes or by plugins.
+# Might get overwritten for distinct filestypes or by plugins.
 set complete=.^5,b^2,w^2,u^2,U^2
 
 # Options for insert mode completion. See ':help completeopt'.
@@ -49,7 +50,7 @@ set hlsearch
 set incsearch
 
 # Softwrap long lines at a character in 'breakat' rather than at the
-# last character that fits on the screen.
+# last character that fits on the screen. See ':help breakat'.
 set linebreak
 
 # Enable list mode. See ':help listchars'.
@@ -59,6 +60,9 @@ set listchars=lead:·,multispace:·,tab:\|\ \,trail:·
 # Some filetype plugins overwrite 'foldmethod'. Ensure that in such
 # cases all foldings are open by default.
 set nofoldenable
+
+# Insert two spaces after a '.', '?' and '!' with a join command.
+set nojoinspaces
 
 # Several commands move the cursor to the first non-blank character of
 # a line. Try to keep the cursor in the same column instead.
@@ -75,7 +79,7 @@ set scrolloff=5
 set sessionoptions=blank,buffers,curdir,folds,localoptions,options
 set sessionoptions+=resize,tabpages,unix,winsize,winpos,globals
 
-# Show the last command in the command line until it's overwritten.
+# Show the last command in the command line until it gets overwritten.
 set showcmd
 
 # When a bracket is inserted, briefly highlight the matching one.
@@ -131,6 +135,9 @@ set viminfofile=$MYVIMDIR/runtime/viminfo
 # German dictionary as default.
 set spelllang=de
 
+# Limit the number of suggestions to 10.
+set spellsuggest+=10
+
 # Keep the dictionary for custom words inside the runtime directory.
 if !isdirectory($MYVIMDIR .. "/runtime/spell")
 	call mkdir($MYVIMDIR .. "/runtime/spell", "p")
@@ -138,9 +145,9 @@ endif
 set spellfile=$MYVIMDIR/runtime/spell/custom.utf-8.add
 
 # Mappings to toggle the spellchecker and it's language.
-nnoremap <Leader>ss :setlocal spell!<cr>
-nnoremap <Leader>se :setlocal spelllang=en_us<cr>
-nnoremap <Leader>sd :setlocal spelllang=de<cr>
+nnoremap <silent> <leader>ss :setlocal spell!<cr>
+nnoremap <silent> <leader>se :setlocal spelllang=en_us<cr>
+nnoremap <silent> <leader>sd :setlocal spelllang=de<cr>
 
 # --------
 
@@ -180,7 +187,7 @@ filetype plugin indent on
 
 if has("gui_running")
 	if has("gui_win32") || has("gui_win64")
-		# Consolas it of high quality and available since Windows Vista.
+		# Consolas is of high quality and available since Windows Vista.
 		set guifont=Consolas:h11:cANSI:qDRAFT
 
 		# Render through DirectX for better render quality. Options are
@@ -190,7 +197,7 @@ if has("gui_running")
 		set renderoptions=type:directx,gamma:1.5,contrast:0.5:,
 					\ geom:1,renmode:5,taamode:1,level:0.5
 	else
-		# Kiwi Mono as  font on everything which is not Windows.
+		# Kiwi Mono as font on everything which is not Windows.
 		set guifont=Kiwi\ Mono\ 11
 	endif
 
@@ -229,10 +236,11 @@ else
 	&t_SR = "\<Esc>[4 q"
 	&t_EI = "\<Esc>[2 q"
 
-	# Depending on the systems tercap / terminfo setting some or all
-	# escape sequences might not be needed. See ':h tmux-integration'.
+	# Depending on the system termcap / terminfo explicitly setting some
+	# or all of these escape sequences might not be needed. See ':help
+	# tmux-integration'.
 	if (&term =~ "tmux") || (&term =~ "screen")
-		# Enable bracketed paste. See ':help xterm-bracketed-paste'
+		# Enable bracketed paste. See ':help xterm-bracketed-paste'.
 		&t_BE = "\<Esc>[?2004h"
 		&t_BD = "\<Esc>[?2004l"
 		&t_PS = "\<Esc>[200~"
@@ -243,7 +251,7 @@ else
 		&t_Ce = "\<Esc>[4:0m"
 		&t_8u = "\<Esc>[58;2;%lu;%lu;%lum"
 
-		# Enable focus event tracking. See ':help xterm-focus-event'
+		# Enable focus event tracking. See ':help xterm-focus-event'.
 		&t_fe = "\<Esc>[?1004h"
 		&t_fd = "\<Esc>[?1004l"
 		execute "set <FocusGained>=\<Esc>[I"
@@ -274,7 +282,7 @@ endif
 # that by overriding the spell checker highlight groups when either the
 # GUI is running (for colorschemes not supporting colored undercurls at
 # all) and when 'termguicolors' is enabled. 'termguicolors' indicates a
-# modern terminal.
+# somewhat modern terminal.
 def OverrideSpellHighlights()
 	if has("gui_running") || &termguicolors
 		hi SpellBad guifg=NONE guiBG=NONE gui=undercurl ctermfg=NONE
@@ -288,9 +296,12 @@ def OverrideSpellHighlights()
 	endif
 enddef
 
-augroup vimrc
-	autocmd ColorScheme * call OverrideSpellHighlights()
-augroup END
+autocmd_add([{
+	'group': 'vimrc',
+	'event': 'ColorScheme',
+	'pattern': '*',
+	'cmd': 'OverrideSpellHighlights()'
+}])
 
 # ----
 
@@ -316,17 +327,26 @@ packadd hlyank
 
 # Autocompletion.
 
-# Enables autocompletion for the current buffer.
+var acmds_comp: list<dict<any>> = []
+
+# Enable autocompletion for the current buffer.
+# Called by default for some filetypes.
 def g:EnableAutocompletion()
 	b:autocompletionEnabled = true
 enddef
+acmds_comp->add({
+	'group': 'vimrc',
+	'event': 'FileType',
+	'pattern': 'cmake,conf,dosini,make,sh,bash',
+	'cmd': 'g:EnableAutocompletion()'
+})
 
-# Disabled autocompletion for the current buffer.
+# Disable autocompletion for the current buffer.
 def g:DisableAutocompletion()
 	b:autocompletionEnabled = false
 enddef
 
-# Toggles autocompletion for the current buffer.
+# Toggle autocompletion for the current buffer.
 def g:ToggleAutocompletion()
 	if !exists("b:autocompletionEnabled") || !b:autocompletionEnabled
 		b:autocompletionEnabled = true
@@ -337,9 +357,9 @@ enddef
 
 # ----
 
-# Disables TextChangedI events for 1 milliseconds. That is a not so evil
+# Disable TextChangedI events for 1 milliseconds. That is a not so evil
 # hack to prevent autocompletion getting triggered by user interactions
-# with the completions menu. From https://github.com/vim/vim/pull/17065
+# with the completion menu. From https://github.com/vim/vim/pull/17065
 def SkipTextChangedIEvent(): string
 	set eventignore+=TextChangedI
 	timer_start(1, (_) => {
@@ -348,10 +368,10 @@ def SkipTextChangedIEvent(): string
 	return ''
 enddef
 
-# Triggers insert mode autocompletion. Called on TextChangedI events.
+# Trigger insert mode autocompletion. Called on TextChangedI events.
 # When there are non-whitespace characters on the left side of the
 # cursor, completion is triggered by feeding <c-n> into the type ahead
-# buffer. Code from https://github.com/vim/vim/pull/17065
+# buffer. From https://github.com/vim/vim/pull/17065
 def InsComplete()
 	# Abort if autocompletion is unconfigured or disabled.
 	if !exists("b:autocompletionEnabled") || !b:autocompletionEnabled
@@ -363,14 +383,14 @@ def InsComplete()
 		feedkeys("\<c-n>", "n")
 	endif
 enddef
+acmds_comp->add({
+	'group': 'vimrc',
+	'event': 'TextChangedI',
+	'pattern': '*',
+	'cmd': 'InsComplete()'
+})
 
-augroup vimrc
-	# Enable autocompletion by default for some filetypes.
-	autocmd FileType cmake,conf,dosini,make,sh,bash g:EnableAutocompletion()
-
-	# Trigger autocompletion when in insert mode and the buffer changes.
-	autocmd TextChangedI * InsComplete()
-augroup END
+autocmd_add(acmds_comp)
 
 # ----
 
@@ -383,35 +403,58 @@ inoremap <silent><expr> <tab> pumvisible() ? "\<c-n>" : "\<tab>"
 # Select previous suggestion on <s-tab>
 inoremap <silent><expr> <s-tab> pumvisible() ? "\<c-p>" : "\<s-tab>"
 
-# Trigger autocompletion and select the next suggestion.
-inoremap <silent><expr> <C-Space> "\<c-n>"
+# Trigger autocompletion or select the next suggestion.
+inoremap <silent><expr> <c-space> "\<c-n>"
 
-# Toggle autocompletions.
-nnoremap <silent> <Leader>c :call g:ToggleAutocompletion()<CR>
+# Toggle autocompletion.
+nnoremap <silent> <leader>c :call g:ToggleAutocompletion()<CR>
 
 # --------
 
 # Autocommands.
 
-augroup vimrc
-	# When opening a file, restore the cursor position:
-	#  * The position is saved in the viminfo file.
-	#  * This is executed before determining the file type.
-	autocmd BufReadPost *
-				\ if line("'\"") > 1 && line("'\"") <= line("$") |
-				\   exe "normal! g`\"" |
-				\ endif
+var acmds: list<dict<any>> = []
 
-	# Reset the cursor to position 1x1 for commit messages.
-	autocmd FileType gitcommit autocmd! BufEnter COMMIT_EDITMSG
-				\ call setpos('.', [0, 1, 1, 0])
+# When opening a file, restore the cursor position:
+#  * The position is saved in the viminfo file.
+#  * This is executed before determining the file type.
+def RestoreCursorPosition()
+	if line("'\"") > 1 && line("'\"") <= line("$")
+		execute("normal! g`\"")
+	endif
+enddef
+acmds->add({
+	'group': 'vimrc',
+	'event': 'BufReadPost',
+	'pattern': '*',
+	'cmd': 'RestoreCursorPosition()'
+})
 
-	# Don't continue C / C++ // comments in the next line.
-	autocmd FileType c,cpp setlocal comments-=://
+# Reset the cursor to position 1x1 for commit messages.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'FileType',
+	'pattern': 'gitcommit',
+	'cmd': 'autocmd! BufEnter COMMIT_EDITMSG | setpos(".", [0, 1, 1, 0])'
+})
 
-	# Detect Markdown frontmatters as comments.
-	autocmd FileType markdown syntax match Comment /\%^\s*---\_.\{-}---$/
-augroup END
+# Don't continue C / C++ // comments in the next line.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'FileType',
+	'pattern': 'c,cpp',
+	'cmd': 'setlocal comments-=://'
+})
+
+# Detect Markdown frontmatters as comments.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'FileType',
+	'pattern': 'markdown',
+	'cmd': 'syntax match Comment /\%^\s*---\_.\{-}---$/'
+})
+
+autocmd_add(acmds)
 
 # --------
 
@@ -423,16 +466,16 @@ map <space> <leader>
 # ----
 
 # Highlight all occurrences of the word under the cursor.
-nnoremap <Leader>hh :set hls<CR>:exec "let @/='\\<".expand("<cword>")."\\>'"<CR>
+nnoremap <silent> <leader>hh :set hls<cr>:exec "let @/='\\<".expand("<cword>")."\\>'"<cr>
 
 # Remove all highlights.
-nnoremap <Leader>hc :nohls<CR>
+nnoremap <silent> <leader>hc :nohls<cr>
 
 # Toggle list mode.
-nnoremap <Leader>l :set list!<CR>
+nnoremap <leader>l :set list!<cr>
 
 # Toggle paste mode.
-nnoremap <Leader>p :set paste!<CR>
+nnoremap <leader>p :set paste!<cr>
 
 # ----
 
@@ -444,4 +487,4 @@ def g:ToggleColorColumn()
 		setlocal colorcolumn=+1
 	endif
 enddef
-nnoremap <silent> <Leader>w :call g:ToggleColorColumn()<CR>
+nnoremap <silent> <leader>w :call g:ToggleColorColumn()<cr>

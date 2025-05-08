@@ -17,6 +17,9 @@ def VimOSCYankPostCallback()
 	endif
 enddef
 
-augroup vimrc
-	autocmd TextYankPost * call VimOSCYankPostCallback()
-augroup END
+autocmd_add([{
+	'group': 'vimrc',
+	'event': 'TextYankPost',
+	'pattern': '*',
+	'cmd': 'VimOSCYankPostCallback()'
+}])

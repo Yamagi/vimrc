@@ -7,7 +7,7 @@ vim9script
 # ----
 
 # Toggle.
-nnoremap <Leader>t :NERDTreeToggle<CR>
+nnoremap <Leader>t :NERDTreeToggle<cr>
 
 # Save bookmarks into the runtime dir.
 g:NERDTreeBookmarksFile = $MYVIMDIR .. "/runtime/nerdtree_bookmarks"

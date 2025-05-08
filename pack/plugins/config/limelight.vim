@@ -1,8 +1,7 @@
 vim9script
 
-# Limelight highlights the current paragraph.Together with
-# Goyo and Pencil it provides a distraction free writing
-# environement.
+# Limelight highlights the current paragraph. Combined with Goyo and
+# Pencil it provides a distraction free writing environement.
 
 # URL: https://github.com/junegunn/limelight.vim
 
@@ -11,10 +10,21 @@ vim9script
 # Highlight the current paragraph only.
 g:limelight_paragraph_span = 0
 
-augroup vimrc
-	# Enable when entering Goyo.
-	autocmd User GoyoEnter Limelight
+# Enable when entering Goyo and disable when leaving Goyo.
+var acmds: list<dict<any>> = []
 
-	# Disable when leaving Goyo.
-	autocmd User GoyoLeave Limelight!
-augroup END
+acmds->add({
+	'group': 'vimrc',
+	'event': 'User',
+	'pattern': 'GoyoEnter',
+	'cmd': ':Limelight'
+})
+
+acmds->add({
+	'group': 'vimrc',
+	'event': 'User',
+	'pattern': 'GoyoLeave',
+	'cmd': ':Limelight!'
+})
+
+autocmd_add(acmds)

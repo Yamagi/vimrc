@@ -27,11 +27,11 @@ set all&
 # Reset highlights.
 highlight clear
 
-# Reset all autocommands defined by the configuration files. This
+# Delete all autocommands defined by the configuration files. This
 # prevents errors when the configuration is sourced a second time.
-augroup vimrc
-	autocmd!
-augroup END
+if exists('#vimrc')
+	autocmd_delete([{'group': 'vimrc'}])
+endif
 
 # --------
 
@@ -44,7 +44,7 @@ endif
 # Do not load the actual configuration file or the plugin configuration
 # files if loading of the actual configuration file is disabled.
 if load_vimrc
-	# Ensure that the runtime directory exists. The runtime directory
+	# Ensure that the runtime directory exists. The runtime directory is
 	# used by the main configuration file and the plugin configuration
 	# files to store persistent data.
 	if !isdirectory($MYVIMDIR .. "/runtime/")

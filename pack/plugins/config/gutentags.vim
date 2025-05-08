@@ -6,12 +6,11 @@ vim9script
 
 # ----
 
-# Selects the 'ctags' binary: We want 'universal ctags'
-# (http://ctags.io/) because it's the best and the only
-# active maintained implementation. To avoid collisions
-# with other ctags implementations test for a binary
-# 'vimctags' first, followed by 'ctags' and disable the
-# plugin altogether if no binary was found.
+# Selects the 'ctags' binary: We want universal ctags (http://ctags.io/)
+# because it's the best and the only still maintained implementation. To
+# avoid collisions with other ctags implementations, test for a binary
+# 'vimctags' first, followed by 'ctags' and disable the plugin if no
+# binary was found.
 if executable('vimctags')
 	g:gutentags_ctags_executable = 'vimctags'
 elseif executable('ctags')
@@ -20,7 +19,7 @@ else
 	g:gutentags_dont_load = 1
 endif
 
-# Hide the tags files.
+# Name of the tagfile.
 g:gutentags_ctags_tagfile = '.vimtags'
 
 # Support .vimrc as an additional root marker.

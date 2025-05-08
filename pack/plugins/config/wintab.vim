@@ -1,34 +1,35 @@
 vim9script
 
-# Wintabs extends the tab bar with buffers.
-# It also implements some buffer management.
+# Wintabs extends the tab bar to show the active buffers. Also
+# implements some buffer management, inclusing tracking, opening
+# and closing buffers.
 
 # URL: https://github.com/zefei/vim-wintabs
 
 # ----
 
 # Move to next buffer.
-nmap <Leader>bn <Plug>(wintabs_next)
+nmap <leader>bn <plug>(wintabs_next)
 
 # Move to previous buffer.
-nmap <Leader>bp <Plug>(wintabs_previous)
+nmap <leader>bp <plug>(wintabs_previous)
 
 # Close current buffer.
-nmap <Leader>bd <Plug>(wintabs_close)
+nmap <leader>bd <plug>(wintabs_close)
 
 # Make current buffer the only one.
-nmap <Leader>bo <Plug>(wintabs_only)<CR>
+nmap <leader>bo <plug>(wintabs_only)
 
 # Undo the last close.
-nmap <Leader>bu <Plug>(wintabs_undo)<CR>
+nmap <leader>bu <plug>(wintabs_undo)
 
 # Close window or tab and all buffer in it.
-nmap <Leader>bwc <Plug>(wintabs_close_window)
-nmap <Leader>bwt <Plug>(wintabs_close_vimtab)
+nmap <leader>bwc <plug>(wintabs_close_window)
+nmap <leader>bwt <plug>(wintabs_close_vimtab)
 
 # Make current window or tab the only one.
-nmap <Leader>bwo <Plug>(wintabs_only_window)
-nmap <Leader>bto <Plug>(wintabs_only_vimtab)
+nmap <leader>bwo <plug>(wintabs_only_window)
+nmap <leader>bto <plug>(wintabs_only_vimtab)
 
 # No seperator at the lists end.
 g:wintabs_ui_sep_rightmost = ''

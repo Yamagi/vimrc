@@ -22,7 +22,6 @@ g:floaterm_title = ''
 
 # ----
 
-# We want exactly one terminal, triggered
-# shown or hidden on F12.
-nnoremap <silent> <F12> :FloatermToggle<CR>
-tnoremap <silent> <F12> <C-\><C-n>:FloatermToggle<CR>
+# We want exactly one terminal, toggled on F12.
+nnoremap <silent> <f12> :FloatermToggle<cr>
+tnoremap <silent> <f12> <c-\><c-n>:FloatermToggle<cr>

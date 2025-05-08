@@ -7,4 +7,4 @@ vim9script
 # ----
 
 # Toggle.
-nnoremap <Leader>u :UndotreeToggle<CR>
+nnoremap <leader>u :UndotreeToggle<cr>

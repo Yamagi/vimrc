@@ -6,17 +6,21 @@ vim9script
 
 # ----
 
+# A list holding autocommands.
+var acmds: list<dict<any>> = []
+
 # A dictionary holding the LSP options.
 var lspOptions: dict<any>
 
 # General options.
 extend(lspOptions, {
-	# Don't use the integrated auto completion engine,
-	# Vims internal completion engine handles them.
+
+	# Don't use the integrated autocompletion engine, Vims build-in
+	# completion engine handles completion.
 	'autoComplete': false,
 
-	# Enable the plugins omnifunc as datasource
-	# for Vims internal completion engine.
+	# Define and omnifunc as datasource for Vims build-in completion
+	# engine.
 	'omniComplete': true,
 
 	# Highlight the word under the cursor.
@@ -28,7 +32,7 @@ extend(lspOptions, {
 	# Show diagnoses below the error.
 	'diagVirtualTextAlign': 'below',
 
-	# Outline to the right and with sensible size.
+	# Outline to the right, with a sensible size.
 	'outlineOnRight': true,
 	'outlineWinSize': 40,
 
@@ -38,14 +42,12 @@ extend(lspOptions, {
 	# Show type inlays.
 	'showInlayHints': true,
 
-	# Show available code actions in an popup
-	# before applying them.
+	# Show available code actions in an popup before applying them.
 	'usePopupInCodeAction': true
 })
 
-# Diagnostic signs. Use the same sign for all
-# diagnostics, their highlighting makes the
-# category clear.
+# Diagnostic signs. Use the same sign for all diagnostics, their
+# highlighting makes the category clear.
 extend(lspOptions, {
 	'diagSignErrorText': '■',
 	'diagSignHintText': '■',
@@ -53,31 +55,34 @@ extend(lspOptions, {
 	'diagSignWarningText': '■'
 })
 
-augroup vimrc
-	# We need an autocmd, because Vim parses the vimrc
-	# (and with it this file) first and loads the plugins
-	# afterwards. LspOptionsSet() doesn't become available
-	# until the plugins are loaded.
-	autocmd VimEnter * call LspOptionsSet(lspOptions)
+# We need an autocmd, because Vim parses the vimrc (and with it this
+# file) first and loads the plugins afterwards. LspOptionsSet() doesn't
+# become available until the plugins are loaded.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'VimEnter',
+	'pattern': '*',
+	'cmd': 'g:LspOptionsSet(lspOptions)'
+})
 
-	# Use the LSP server as source for tags if it's
-	# attached to the current buffer.
-	autocmd User LspAttached setlocal tagfunc=lsp#lsp#TagFunc
-augroup END
+# Use the LSP server as source for tags.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'User',
+	'pattern': 'LspAttached',
+	'cmd': 'setlocal tagfunc=lsp#lsp#TagFunc'
+})
 
 # ----
 
-# Custom completion function which ties the plugins
-# generic omnifunc to Vims internal completion system.
-# Taken from the vimcomplete plugin and altered:
-# https://github.com/girishji/vimcomplete/blob/
-#   ad0813dbe378033b8f13ead380f6de61841b6637/
-#   autoload/vimcomplete/lsp.vim#L32
+# A custom completor which ties the plugins generic omnifunc to Vims
+# vuld-in completion. From the vimcomplete plugin: https://github.com/
+#  girishji/vimcomplete/blob/ ad0813dbe378033b8f13ead380f6de61841b6637/
+#  autoload/vimcomplete/lsp.vim#L32
 def g:LspCompletor(maxitems: number, findstart: number, base: string): any
 	if !exists('*g:LspOmniFunc')
-		# The plugins omnifunc isn't defined, likely no
-		# language server is attached to the buffer.
-		# Cancel this completion function, but stay in
+		# The plugins omnifunc isn't defined, no language server is
+		# attached to the buffer. Cancel this completor, but stay in
 		# completion mode.
 		return -2
 	endif
@@ -86,31 +91,37 @@ def g:LspCompletor(maxitems: number, findstart: number, base: string): any
 	var line = getline('.')->strpart(0, col('.') - 1)
 
 	if line =~ '\s$'
-		# Prefix is empty. Cancel this completor, but
-		# stay in completion mode.
+		# Empty prefix. Cancel this completor, stay in completion mode.
 		return -2
 	endif
 
 	if findstart == 1
-		# First call to the function.
+		# First call to the completor.
 		var startcol = g:LspOmniFunc(findstart, base)
 		return startcol < 0 ? startcol : startcol + 1
 	endif
 
-	# Subsequent call to the function.
+	# Subsequent call to the completor.
 	var items = g:LspOmniFunc(findstart, base)
 	items = items->slice(0, maxitems)
 	items->map((_, v) => v->extend({ dup: 0 }))
 	return {words: items, refresh: 'always'}
 enddef
 
-augroup vimrc
-	# Use LSP as the only completion source.
-	autocmd User LspAttached setlocal complete=ffunction("LspCompletor"\\,\ [5])
+# Use LSP as the only completion source.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'User',
+	'pattern': 'LspAttached',
+	'cmd': 'setlocal complete=ffunction("LspCompletor"\\,\ [5])'
+})
 
-	# Enable autocompletion when an LSP attaches.
-	autocmd User LspAttached g:EnableAutocompletion()
-augroup END
+acmds->add({
+	'group': 'vimrc',
+	'event': 'User',
+	'pattern': 'LspAttached',
+	'cmd': 'g:EnableAutocompletion()'
+})
 
 # ----
 
@@ -147,13 +158,15 @@ if executable('pylsp')
 	})
 endif
 
-augroup vimrc
-	# We need an autocmd, because Vim parses the vimrc
-	# (and with it this file) first and loads the plugins
-	# afterwards. LspAddServer() doesn't become available
-	# until the plugins are loaded.
-	autocmd VimEnter * call LspAddServer(lspServers)
-augroup END
+# We need an autocmd, because Vim parses the vimrc (and with it this
+# file) first and loads the plugins afterwards. LspAddServer() doesn't
+# become available until the plugins are loaded.
+acmds->add({
+	'group': 'vimrc',
+	'event': 'VimEnter',
+	'pattern': '*',
+	'cmd': 'g:LspAddServer(lspServers)'
+})
 
 # ----
 
@@ -169,10 +182,9 @@ def g:ToggleInlayHints()
 	endif
 enddef
 
-# Bindings are configured on a per buffer base by an
-# autocmd defined below. These bindings are a little
-# bit ugly since they define another layer behind
-# <Leader>l, but they are better than nothing.
+# Bindings are configured on a per buffer base by an autocmd defined
+# below. These bindings are a little bit ugly since they define another
+# layer behind <Leader>l, but they are better than nothing.
 def LspMappings()
 	# LSP Actions.
 	nmap <buffer><silent> <leader>lc :LspIncomingCalls<cr>
@@ -190,8 +202,13 @@ def LspMappings()
 	nmap <buffer><silent> <leader>o :LspOutline<cr>
 enddef
 
-augroup vimrc
-	# Apply the mappings when the language server
-	# attaches to the current buffer.
-	autocmd User LspAttached call LspMappings()
-augroup END
+acmds->add({
+	'group': 'vimrc',
+	'event': 'User',
+	'pattern': 'LspAttached',
+	'cmd': 'LspMappings()'
+})
+
+# ----
+
+autocmd_add(acmds)
