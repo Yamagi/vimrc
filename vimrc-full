@@ -86,6 +86,9 @@ set scrolloff=5
 set sessionoptions=blank,buffers,curdir,folds,localoptions,options
 set sessionoptions+=resize,tabpages,unix,winsize,winpos,globals
 
+# Supress some annoying messages. See ':help shortmess'.
+set shortmess+=cC
+
 # Show the last command in the command line until it gets overwritten.
 set showcmd
 
