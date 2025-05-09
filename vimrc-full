@@ -10,6 +10,13 @@ vim9script
 
 # --------
 
+# Global.
+
+# Collects autocommands.
+var acmds: list<dict<any>> = []
+
+# --------
+
 # Options.
 
 # Copy indent from the current line when starting a new line.
@@ -296,12 +303,12 @@ def OverrideSpellHighlights()
 	endif
 enddef
 
-autocmd_add([{
+acmds->add({
 	'group': 'vimrc',
 	'event': 'ColorScheme',
 	'pattern': '*',
 	'cmd': 'OverrideSpellHighlights()'
-}])
+})
 
 # ----
 
@@ -327,14 +334,12 @@ packadd hlyank
 
 # Autocompletion.
 
-var acmds_comp: list<dict<any>> = []
-
 # Enable autocompletion for the current buffer.
 # Called by default for some filetypes.
 def g:EnableAutocompletion()
 	b:autocompletionEnabled = true
 enddef
-acmds_comp->add({
+acmds->add({
 	'group': 'vimrc',
 	'event': 'FileType',
 	'pattern': 'cmake,conf,dosini,make,sh,bash',
@@ -383,14 +388,12 @@ def InsComplete()
 		feedkeys("\<c-n>", "n")
 	endif
 enddef
-acmds_comp->add({
+acmds->add({
 	'group': 'vimrc',
 	'event': 'TextChangedI',
 	'pattern': '*',
 	'cmd': 'InsComplete()'
 })
-
-autocmd_add(acmds_comp)
 
 # ----
 
@@ -412,8 +415,6 @@ nnoremap <silent> <leader>c :call g:ToggleAutocompletion()<CR>
 # --------
 
 # Autocommands.
-
-var acmds: list<dict<any>> = []
 
 # When opening a file, restore the cursor position:
 #  * The position is saved in the viminfo file.
@@ -454,8 +455,6 @@ acmds->add({
 	'cmd': 'syntax match Comment /\%^\s*---\_.\{-}---$/'
 })
 
-autocmd_add(acmds)
-
 # --------
 
 # Mappings.
@@ -488,3 +487,8 @@ def g:ToggleColorColumn()
 	endif
 enddef
 nnoremap <silent> <leader>w :call g:ToggleColorColumn()<cr>
+
+# --------
+
+# Add collected autocommands.
+autocmd_add(acmds)
