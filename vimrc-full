@@ -101,6 +101,10 @@ set shiftwidth=4
 set softtabstop=-1
 set tabstop=4
 
+# Open new splits to the right or below the current window.
+set splitbelow
+set splitright
+
 # Hardwrap lines at 72 characters.
 set textwidth=72
 
