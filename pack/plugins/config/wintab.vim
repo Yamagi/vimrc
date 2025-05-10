@@ -9,27 +9,55 @@ vim9script
 # ----
 
 # Move to next buffer.
-nmap <leader>bn <plug>(wintabs_next)
+nmap <c-right> <plug>(wintabs_next)
+nmap <c-h> <plug>(wintabs_next)
 
 # Move to previous buffer.
-nmap <leader>bp <plug>(wintabs_previous)
+nmap <c-left> <plug>(wintabs_previous)
+nmap <c-l> <plug>(wintabs_previous)
+
+# Move to buffer by number.
+nmap <leader>1 <plug>(wintabs_tab_1)
+nmap <leader>2 <plug>(wintabs_tab_2)
+nmap <leader>3 <plug>(wintabs_tab_3)
+nmap <leader>4 <plug>(wintabs_tab_4)
+nmap <leader>5 <plug>(wintabs_tab_5)
+nmap <leader>6 <plug>(wintabs_tab_6)
+nmap <leader>7 <plug>(wintabs_tab_7)
+nmap <leader>8 <plug>(wintabs_tab_8)
+nmap <leader>9 <plug>(wintabs_tab_9)
 
 # Close current buffer.
 nmap <leader>bd <plug>(wintabs_close)
 
 # Make current buffer the only one.
-nmap <leader>bo <plug>(wintabs_only)
+noremap <leader>bo <plug>(wintabs_only)
 
 # Undo the last close.
-nmap <leader>bu <plug>(wintabs_undo)
+noremap <leader>bu <plug>(wintabs_undo)
 
 # Close window or tab and all buffer in it.
-nmap <leader>bwc <plug>(wintabs_close_window)
-nmap <leader>bwt <plug>(wintabs_close_vimtab)
+noremap <leader>bwc <plug>(wintabs_close_window)
+noremap <C-W>c <Plug>(wintabs_close_window)
+noremap <leader>bwt <plug>(wintabs_close_vimtab)
 
 # Make current window or tab the only one.
-nmap <leader>bwo <plug>(wintabs_only_window)
-nmap <leader>bto <plug>(wintabs_only_vimtab)
+noremap <leader>bwo <plug>(wintabs_only_window)
+noremap <C-W>o <Plug>(wintabs_only_window)
+noremap <leader>bto <plug>(wintabs_only_vimtab)
 
-# No seperator at the lists end.
+# ----
+
+# Never close a windows, always leave that to the user.
+g:wintabs_autoclose = 0
+
+# Switch tabbar and statusline. Necessary for always showing the buffers
+# of a window, gegardless if it's active or not.
+g:wintabs_display = 'statusline'
+
+# $number:$title as buffer name.
+g:wintabs_ui_buffer_name_format = ' %o:%t '
+
+# No tab seperator at the lists end. The seperator at the lists
+# beginning is unset by default for whatever reasons.
 g:wintabs_ui_sep_rightmost = ''
