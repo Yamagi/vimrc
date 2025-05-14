@@ -477,9 +477,6 @@ nnoremap <silent> <leader>hh :set hls<cr>:exec "let @/='\\<".expand("<cword>")."
 # Remove all highlights.
 nnoremap <silent> <leader>hc :nohls<cr>
 
-# Toggle list mode.
-nnoremap <leader>l :set list!<cr>
-
 # Toggle paste mode.
 nnoremap <leader>p :set paste!<cr>
 
