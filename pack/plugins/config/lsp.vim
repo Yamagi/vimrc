@@ -116,7 +116,7 @@ acmds->add({
 	'group': 'vimrc',
 	'event': 'User',
 	'pattern': 'LspAttached',
-	'cmd': 'setlocal complete=ffunction("LspCompletor"\\,\ [5])'
+	'cmd': 'setlocal complete=ffunction("LspCompletor"\\,\ [10])'
 })
 
 acmds->add({
