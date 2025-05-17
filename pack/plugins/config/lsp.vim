@@ -89,23 +89,26 @@ def g:LspCompletor(maxitems: number, findstart: number, base: string): any
 
 	# Determine completion prefix.
 	var line = getline('.')->strpart(0, col('.') - 1)
-
 	if line =~ '\s$'
 		# Empty prefix. Cancel this completor, stay in completion mode.
 		return -2
 	endif
 
+	# First call to the completor.
 	if findstart == 1
-		# First call to the completor.
 		var startcol = g:LspOmniFunc(findstart, base)
 		return startcol < 0 ? startcol : startcol + 1
 	endif
 
 	# Subsequent call to the completor.
 	var items = g:LspOmniFunc(findstart, base)
-	items = items->slice(0, maxitems)
-	items->map((_, v) => v->extend({ dup: 0 }))
-	return {words: items, refresh: 'always'}
+	if items->empty()
+		return v:none
+	else
+		items = items->slice(0, maxitems)
+		items->map((_, v) => v->extend({ dup: 0 }))
+		return {words: items, refresh: 'always'}
+	endif
 enddef
 
 # Use LSP as the only completion source.
