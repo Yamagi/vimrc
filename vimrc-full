@@ -177,8 +177,30 @@ enddef
 # Always show the statusline in all windows.
 set laststatus=2
 
-# Contents of the status line. See ':help statusline'.
+# Status line contents. See ':help statusline'.
 set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
+
+# --------
+
+# Tabpanel.
+
+# Returns the number of the requested tab page. Called for every tab
+# page, g:actual_curtabpage is set to the number of the requested tab
+# page.
+def g:TabPanel(): string
+	return printf("%3d", g:actual_curtabpage)
+enddef
+
+# ----
+
+# Only show the tabpanel when there are at least two tabs.
+set showtabpanel=1
+
+# Tabpanel style. See ':help tabpanelopt'.
+set tabpanelopt=columns:3,align:right
+
+# Tabpanel contents. Similar to the status line. See ':help statusline'.
+set tabpanel=%!TabPanel()
 
 # --------
 
