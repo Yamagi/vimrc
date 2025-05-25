@@ -20,7 +20,7 @@ nnoremap <Leader>ft :CtrlPTag<CR>
 # ----
 
 # Save the cache dir into the runtime dir.
-g:ctrlp_cache_dir = $MYVIMFILES .. "/vimfiles/runtime/ctrlp"
+g:ctrlp_cache_dir = $MYVIMDIR .. "/runtime/ctrlp"
 
 # If git is available, honor .gitignore files.
 if executable('git')
