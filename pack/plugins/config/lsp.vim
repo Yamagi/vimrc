@@ -76,9 +76,13 @@ acmds->add({
 # ----
 
 # A custom completor which ties the plugins generic omnifunc to Vims
-# vuld-in completion. From the vimcomplete plugin: https://github.com/
+# build-in completion. From the vimcomplete plugin: https://github.com/
 #  girishji/vimcomplete/blob/ ad0813dbe378033b8f13ead380f6de61841b6637/
 #  autoload/vimcomplete/lsp.vim#L32
+#
+# A custom completer is used to catch some corner cases like the LSP
+# completor getting registered for some reasons but the omnifunc isn't
+# defined. The 'o' option to ':set complete' could be used instead.
 def g:LspCompletor(maxitems: number, findstart: number, base: string): any
 	if !exists('*g:LspOmniFunc')
 		# The plugins omnifunc isn't defined, no language server is
