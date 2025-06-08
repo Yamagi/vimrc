@@ -1,7 +1,8 @@
 vim9script
 
-# Goyo enables distraction free writing. Combined with Limelight and
-# Pencil it provides a distraction free writing environement.
+# Goyo enables distraction free writing with Vim. Combined with
+# Limelight and Pencil it provides a distraction free writing
+# environment.
 
 # URL: https://github.com/junegunn/goyo.vim
 

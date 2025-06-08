@@ -54,7 +54,7 @@ if load_vimrc
 	# Load the main configuration file.
 	source $MYVIMDIR/vimrc-full
 
-	# Do not load the plugin configuration files, if plugins are
+	# Do not load the plugin configuration files if plugins are
 	# disabled.
 	if &loadplugins
 		for rcfile in globpath($MYVIMDIR .. "/pack/*/config/", "*.vim", false, true, false)

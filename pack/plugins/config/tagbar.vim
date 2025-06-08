@@ -6,7 +6,7 @@ vim9script
 
 # ----
 
-# Toggle
+# Toggle.
 nnoremap <leader>o :TagbarToggle<cr>
 
 # If there's a custom ctags binary, use it. See gutentags.vim.
@@ -14,12 +14,12 @@ if executable('vimctags')
 	g:tagbar_ctags_bin = 'vimctags'
 endif
 
-# Don't focus it by default.
+# Don't focus the tagbar by default.
 g:tagbar_autofocus = 0
 
 # Rename ctag output for Markdown to be more consistent with what Tagbar
-# requries and provide scope2kind and kind2scope definitions to get a
-# proper scope hierarchy.
+# requries. Provide scope2kind and kind2scope definitions for a proper
+# scope hierarchy.
 #
 # Taken from https://github.com/preservim/tagbar/wiki#markdown
 g:tagbar_type_markdown = {

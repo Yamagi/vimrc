@@ -26,9 +26,9 @@ set autoindent
 # Ask otherwise. Requires working focus tracking for best results.
 set autoread
 
-# Allow backspace to traverse over end of line markers, start
-# of the current inserts and characters added by autoindent.
-# See ':help backspace'.
+# Allow backspace to traverse over end of line markers, characters
+# added by autoindent and the beginning of the current insert. See
+# ':help backspace'.
 set backspace=eol,indent,start
 
 # Sane default for the build-in completion. See ':help complete'.
@@ -64,11 +64,11 @@ set linebreak
 set list
 set listchars=lead:·,multispace:·,tab:\|\ \,trail:·
 
-# Some filetype plugins overwrite 'foldmethod'. Ensure that in such
+# Some filetype plugins override 'foldmethod'. Ensure that in such
 # cases all foldings are open by default.
 set nofoldenable
 
-# Insert two spaces after a '.', '?' and '!' with a join command.
+# Don't unsert two spaces after a '.', '?' and '!' when joining lines.
 set nojoinspaces
 
 # Several commands move the cursor to the first non-blank character of
@@ -113,6 +113,7 @@ set thesaurus=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-de.txt
 set thesaurus+=$MYVIMDIR/pack/dictionaries/start/thesaurus/thesaurus-en.txt
 
 # Limit the timeout for mapped key sequences to 10 milliseconds.
+# This can cause trouble when using Vim over slow connections.
 set ttimeoutlen=10
 
 # Use a visual bell instead of beeping.
@@ -136,7 +137,7 @@ set undodir=$MYVIMDIR/runtime/undo
 
 # ----
 
-# What to save in the viminfo file. See ':help viminfo'.
+# What to save to the viminfo file. See ':help viminfo'.
 set viminfo='128,/128,:128,@128,h,s1024
 
 # Keep the viminfo file inside the runtime directory.
@@ -177,7 +178,7 @@ enddef
 # Always show the statusline in all windows.
 set laststatus=2
 
-# Status line contents. See ':help statusline'.
+# Status line content. See ':help statusline'.
 set statusline=%<\ ≡\ %n∶\ %f\ (%R%M%Y%{SpellState()})\ %=W:%{wordcount().words}\ P∶%c%Vx%l/%L(%P)\ 
 
 # --------
@@ -193,7 +194,7 @@ enddef
 
 # ----
 
-# Only show the tabpanel when there are at least two tabs.
+# Show the tabpanel only when there are at least two tabs.
 set showtabpanel=1
 
 # Tabpanel style. See ':help tabpanelopt'.
@@ -228,16 +229,16 @@ if has("gui_running")
 
 		# Render through DirectX for better render quality. Options are
 		# dependent on the Windows version, the driver, etc. For good
-		# results they must be set explicitly. There are taken from:
+		# results they must be set explicitly. These are taken from:
 		# https://www.reddit.com/r/vim/comments/2ex6kh/set_renderoptions_windows/
 		set renderoptions=type:directx,gamma:1.5,contrast:0.5:,
 					\ geom:1,renmode:5,taamode:1,level:0.5
 	else
-		# Kiwi Mono as font on everything which is not Windows.
+		# Kiwi Mono as font on everything that is not Windows.
 		set guifont=Kiwi\ Mono\ 11
 	endif
 
-	# Disable the menu and symbol bars
+	# Disable the menu and symbol bars.
 	:set guioptions-=T
 	:set guioptions-=m
 
@@ -256,8 +257,8 @@ else
 	# tmux has supported this mode since 3.5. While not as good as the
 	# more modern Kitty keyboard protocol, it modifies the Alt key to
 	# work without escape sequences, separating it from 'timeoutlen'.
-	# Additionally it allows complex binding key combinations which are
-	# indistinguishable otherwise. Shift + CTRL is an example.
+	# Additionally it allows for complex binding key combinations which
+	# are indistinguishable otherwise. Shift + CTRL is an example.
 	# See ':h modifyOtherKeys'.
 	set keyprotocol=tmux:mok2,screen:mok2
 
@@ -272,8 +273,8 @@ else
 	&t_SR = "\<Esc>[4 q"
 	&t_EI = "\<Esc>[2 q"
 
-	# Depending on the system termcap / terminfo explicitly setting some
-	# or all of these escape sequences might not be needed. See ':help
+	# Depending on the system wide termcap / terminfo, setting some or
+	# all of these escape sequences might not be needed. See ':help
 	# tmux-integration'.
 	if (&term =~ "tmux") || (&term =~ "screen")
 		# Enable bracketed paste. See ':help xterm-bracketed-paste'.
@@ -317,7 +318,7 @@ endif
 # undercurls being a rather obscure feature until recently. Work around
 # that by overriding the spell checker highlight groups when either the
 # GUI is running (for colorschemes not supporting colored undercurls at
-# all) and when 'termguicolors' is enabled. 'termguicolors' indicates a
+# all) or when 'termguicolors' is enabled. 'termguicolors' indicates a
 # somewhat modern terminal.
 def OverrideSpellHighlights()
 	if has("gui_running") || &termguicolors
@@ -363,8 +364,8 @@ packadd hlyank
 
 # Autocompletion.
 
-# Enable autocompletion for the current buffer.
-# Called by default for some filetypes.
+# Enable autocompletion for the current buffer. Called implicitly for
+# some filetypes, must be called explicitly for all other filestypes.
 def g:EnableAutocompletion()
 	b:autocompletionEnabled = true
 enddef
@@ -391,7 +392,7 @@ enddef
 
 # ----
 
-# Disable TextChangedI events for 1 milliseconds. That is a not so evil
+# Disable TextChangedI events for 1 milliseconds. This is a not so evil
 # hack to prevent autocompletion getting triggered by user interactions
 # with the completion menu. From https://github.com/vim/vim/pull/17065
 def SkipTextChangedIEvent(): string

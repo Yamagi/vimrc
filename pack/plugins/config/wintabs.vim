@@ -1,7 +1,7 @@
 vim9script
 
-# Wintabs extends the tab bar or status line to show the active buffers.
-# Also implements some buffer management, including tracking, opening
+# Wintabs extends the tab bar to show the active buffers. Also
+# implements some buffer management, including tracking, opening
 # and closing of buffers.
 
 # URL: https://github.com/zefei/vim-wintabs
@@ -52,7 +52,7 @@ noremap <leader>bto <plug>(wintabs_only_vimtab)
 g:wintabs_autoclose = 0
 
 # Switch tab bar and status line. Necessary for always showing the
-# buffers of a window, regardless if it's active or not.
+# buffers of a window, regardless the window is active or not.
 g:wintabs_display = 'statusline'
 
 # The default ignore list is too broad, trim it down.
