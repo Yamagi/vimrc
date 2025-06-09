@@ -14,6 +14,7 @@ var goyoRunning = 0
 # State tracking.
 var ccstate = &colorcolumn
 var fostate = &formatoptions
+var tabstate = &showtabpanel
 
 def g:ToggleGoyo()
 	if goyoRunning == 0
@@ -23,6 +24,13 @@ def g:ToggleGoyo()
 		goyoRunning = 1
 		ccstate = &colorcolumn
 		fostate = &formatoptions
+		tabstate = &showtabpanel
+
+		# Reset options unknown to Goyo.
+		set showtabpanel=0
+
+		# Disable Wintabs.
+		g:wintabs_display = 'tabline'
 
 		# Enter Goyo. Triggers an autocommand which is used by Limelight
 		# and Pencil to get started and configured at the same time.
@@ -39,6 +47,11 @@ def g:ToggleGoyo()
 		goyoRunning = 0
 		&colorcolumn = ccstate
 		&formatoptions = fostate
+		&showtabpanel = tabstate
+
+		# Reenable Wintabs.
+		g:wintabs_display = 'statusline'
+		:WintabsRefresh
 
 		# Goyo reapplies the colorscheme at exit. That might mess up
 		# filetype dependent highlights. Fix them by reapplying the
