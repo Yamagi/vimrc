@@ -35,6 +35,10 @@ set backspace=eol,indent,start
 # Might get overwritten for distinct filestypes or by plugins.
 set complete=.^5,b^2,w^2,u^2,U^2
 
+# Enable fuzzy match collection for the build-in completion. See
+# ':help completefuzzycollect'.
+set completefuzzycollect=keyword
+
 # Options for insert mode completion. See ':help completeopt'.
 set completeopt=fuzzy,menuone,noselect
 
