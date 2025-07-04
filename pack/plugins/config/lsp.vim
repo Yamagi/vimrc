@@ -75,52 +75,13 @@ acmds->add({
 
 # ----
 
-# A custom completor which ties the plugins generic omnifunc to Vims
-# build-in completion. From the vimcomplete plugin: https://github.com/
-#  girishji/vimcomplete/blob/ ad0813dbe378033b8f13ead380f6de61841b6637/
-#  autoload/vimcomplete/lsp.vim#L32
-#
-# A custom completer is used to catch some corner cases like the LSP
-# completor getting registered for some reasons but the omnifunc isn't
-# defined. The 'o' option to ':set complete' could be used instead.
-def g:LspCompletor(maxitems: number, findstart: number, base: string): any
-	if !exists('*g:LspOmniFunc')
-		# The plugins omnifunc isn't defined, no language server is
-		# attached to the buffer. Cancel this completor, but stay in
-		# completion mode.
-		return -2
-	endif
-
-	# Determine completion prefix.
-	var line = getline('.')->strpart(0, col('.') - 1)
-	if line =~ '\s$'
-		# Empty prefix. Cancel this completor, stay in completion mode.
-		return -2
-	endif
-
-	# First call to the completor.
-	if findstart == 1
-		var startcol = g:LspOmniFunc(findstart, base)
-		return startcol < 0 ? startcol : startcol + 1
-	endif
-
-	# Subsequent call to the completor.
-	var items = g:LspOmniFunc(findstart, base)
-	if items->empty()
-		return v:none
-	else
-		items = items->slice(0, maxitems)
-		items->map((_, v) => v->extend({ dup: 0 }))
-		return {words: items, refresh: 'always'}
-	endif
-enddef
-
-# Use LSP as the only completion source.
+# Use omnifunc as the only completion source when LSP is attached to the
+# buffer. Requires the 'omniComplete' setting to be enabled.
 acmds->add({
 	'group': 'vimrc',
 	'event': 'User',
 	'pattern': 'LspAttached',
-	'cmd': 'setlocal complete=Ffunction("LspCompletor"\\,\ [10])'
+	'cmd': 'setlocal complete=o^10'
 })
 
 acmds->add({
