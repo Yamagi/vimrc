@@ -371,7 +371,7 @@ packadd hlyank
 # Enable autocompletion for the current buffer. Called implicitly for
 # some filetypes, must be called explicitly for all other filestypes.
 def g:EnableAutocompletion()
-	b:autocompletionEnabled = true
+	setlocal autocomplete
 enddef
 acmds->add({
 	'group': 'vimrc',
@@ -382,52 +382,13 @@ acmds->add({
 
 # Disable autocompletion for the current buffer.
 def g:DisableAutocompletion()
-	b:autocompletionEnabled = false
+	setlocal noautocomplete
 enddef
 
 # Toggle autocompletion for the current buffer.
 def g:ToggleAutocompletion()
-	if !exists("b:autocompletionEnabled") || !b:autocompletionEnabled
-		b:autocompletionEnabled = true
-	else
-		b:autocompletionEnabled = false
-	endif
+	set autocomplete!
 enddef
-
-# ----
-
-# Disable TextChangedI events for 1 milliseconds. This is a not so evil
-# hack to prevent autocompletion getting triggered by user interactions
-# with the completion menu. From https://github.com/vim/vim/pull/17065
-def SkipTextChangedIEvent(): string
-	set eventignore+=TextChangedI
-	timer_start(1, (_) => {
-		set eventignore-=TextChangedI
-	})
-	return ''
-enddef
-
-# Trigger insert mode autocompletion. Called on TextChangedI events.
-# When there are non-whitespace characters on the left side of the
-# cursor, completion is triggered by feeding <c-n> into the type ahead
-# buffer. From https://github.com/vim/vim/pull/17065
-def InsComplete()
-	# Abort if autocompletion is unconfigured or disabled.
-	if !exists("b:autocompletionEnabled") || !b:autocompletionEnabled
-		return
-	endif
-
-	if getcharstr(1) == '' && getline('.')->strpart(0, col('.') - 1) =~ '\k$'
-		SkipTextChangedIEvent()
-		feedkeys("\<c-n>", "n")
-	endif
-enddef
-acmds->add({
-	'group': 'vimrc',
-	'event': 'TextChangedI',
-	'pattern': '*',
-	'cmd': 'InsComplete()'
-})
 
 # ----
 
