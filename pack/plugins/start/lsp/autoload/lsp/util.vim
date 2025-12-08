@@ -35,7 +35,7 @@ export def TraceLog(fname: string, stderr: bool, msg: string)
   if stderr
     writefile(msg->split("\n"), $'{lsp_log_dir}{fname}', 'a')
   else
-    writefile([msg], $'{lsp_log_dir}{fname}', 'a')
+    writefile([$'{strftime("%m/%d/%y %T")}: {msg}'], $'{lsp_log_dir}{fname}', 'a')
   endif
 enddef
 
@@ -281,6 +281,8 @@ export def JumpToLspLocation(location: dict<any>, cmdmods: string)
           else
             exe $'buf {bnr}'
           endif
+	  # In case 'buflisted' is not yet set for this buffer, set it now
+	  setlocal buflisted
         else
           if (&modified && !&hidden) || &buftype != ''
             # if the current buffer has unsaved changes and 'hidden' is not set,

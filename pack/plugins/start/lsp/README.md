@@ -136,8 +136,15 @@ call LspOptionsSet(#{
         \   diagVirtualTextWrap: 'default',
         \   noNewlineInCompletion: v:false,
         \   omniComplete: v:null,
+        \   omniCompleteAllowBare: v:false,
         \   outlineOnRight: v:false,
         \   outlineWinSize: 20,
+        \   popupBorder: v:true,
+        \   popupBorderHighlight: 'Title',
+        \   popupBorderHighlightPeek: 'Special',
+        \   popupBorderSignatureHelp: v:false,
+        \   popupHighlightSignatureHelp: 'Pmenu',
+        \   popupHighlight: 'Normal',
         \   semanticHighlight: v:true,
         \   showDiagInBalloon: v:true,
         \   showDiagInPopup: v:true,
@@ -156,6 +163,7 @@ call LspOptionsSet(#{
         \   customCompletionKinds: v:false,
         \   completionKinds: {},
         \   filterCompletionDuplicates: v:false,
+        \   condensedCompletionMenu: v:false,
 	\ })
 ```
 

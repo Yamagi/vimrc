@@ -3,44 +3,47 @@
 
 Author: Yegappan Lakshmanan  (yegappan AT yahoo DOT com)
 For Vim version 9.0 and above
-Last change: Sep 30, 2024
+Last change: Sep 8, 2025
 
 ==============================================================================
 CONTENTS                                                     *lsp-contents*
 
-     1. Overview ................................. |lsp-overview|
-     2. Requirements ............................. |lsp-installation|
-     3. Usage .................................... |lsp-usage|
-     4. Configuration............................. |lsp-configuration|
-     5. Commands ................................. |lsp-commands|
-     6. Insert Mode Completion ................... |lsp-ins-mode-completion|
-     7. Diagnostics .............................. |lsp-diagnostics|
-     8. Tag Function ............................. |lsp-tagfunc|
-     9. LSP Formatting ........................... |lsp-format|
-    10. Call Hierarchy ........................... |lsp-call-hierarchy|
-    11. Autocommands ............................. |lsp-autocmds|
-    12. Highlight Groups ......................... |lsp-highlight-groups|
-    13. Debugging ................................ |lsp-debug|
-    14. Custom Command Handlers .................. |lsp-custom-commands|
-    15. Custom LSP Completion Kinds .............. |lsp-custom-kinds|
-    16. Custom Popup Styles ...................... |lsp-custom-popup-styles|
-    17. Multiple Language Servers for a buffer ... |lsp-multiple-servers|
-    18. Language Servers Features ................ |lsp-features|
-    19. License .................................. |lsp-license|
+     1. Overview ................................... |lsp-overview|
+     2. Requirements ............................... |lsp-installation|
+     3. Usage ...................................... |lsp-usage|
+     4. Configuration............................... |lsp-configuration|
+     5. Commands ................................... |lsp-commands|
+     6. Insert Mode Completion ..................... |lsp-ins-mode-completion|
+       6.1. Forcing completion without characters .. |lsp-ins-force|
+     7. Diagnostics ................................ |lsp-diagnostics|
+     8. Tag Function ............................... |lsp-tagfunc|
+     9. LSP Formatting ............................. |lsp-format|
+    10. Call Hierarchy ............................. |lsp-call-hierarchy|
+    11. Autocommands ............................... |lsp-autocmds|
+    12. Highlight Groups ........................... |lsp-highlight-groups|
+    13. Debugging .................................. |lsp-debug|
+    14. Custom Command Handlers .................... |lsp-custom-commands|
+    15. Custom LSP Completion Kinds ................ |lsp-custom-kinds|
+    16. Custom Popup Styles ........................ |lsp-custom-popup-styles|
+    17. Custom Locations Request ................... |lsp-custom-locations|
+    18. Multiple Language Servers for a buffer ..... |lsp-multiple-servers|
+    19. Language Servers Features .................. |lsp-features|
+    20. License .................................... |lsp-license|
 
 ==============================================================================
 1. Overview					*lsp-overview*
 
-The Language Server Protocol (LSP) plugin implements a LSP client for Vim9.
-Refer to the following pages for more information about LSP:
+The Language Server Protocol (LSP) plugin provides an LSP client for Vim9.
+
+For background on the language server protocol, see
 
     https://microsoft.github.io/language-server-protocol/
     https://langserver.org/
 
-This plugin needs Vim version 9.0 and after. You will need a programming
-language specific server in your system to use this plugin. Refer to the above
-pages for a list of available language servers for the various programming
-languages.
+Requirements:
+    - Vim version 9.0 and later
+    - A language server installed for the programming language(s) you use.
+      See the above pages for the list of available servers.
 
 The Github repository for this plugin is available at:
 
@@ -56,12 +59,16 @@ You can install this plugin directly from github using the following steps:
     $ git clone https://github.com/yegappan/lsp
     $ vim -u NONE -c "helptags $HOME/.vim/pack/downloads/opt/lsp/doc" -c q
 
-or you can use any one of the Vim plugin managers (dein.vim, pathogen, vam,
-vim-plug, volt, Vundle, etc.) to install and manage this plugin.
+ALternatively, you can use any one of the Vim plugin managers such as
+dein.vim, pathogen, vam, vim-plug, volt, Vundle, etc. to install and manage
+this plugin.
 
-To uninstall the LSP plugin, either use the uninstall command provided by the
-plugin manager or manually remove the $HOME/.vim/pack/downloads/lsp directory.
+Uninstallation:
+    - If installed with a plugin manager: use its uninstall command.
+    - If installed manually: remove the $HOME/.vim/pack/downloads/lsp
+      directory.
 
+Activation:
 To use this plugin, add the following line to your .vimrc file:
 
     packadd lsp
@@ -187,7 +194,7 @@ LSP plugin, the steps are described later in this section: >
 			 args: ['--check-parent-process', '-v']
 		      }
 		   ]
-   LspAddServer(lspServers)
+   g:LspAddServer(lspServers)
 <
 Depending on the location of the typescript and python pyls language servers
 installed in your system, update the "path" in the above snippet
@@ -241,7 +248,7 @@ Shell script, Vim script and PHP file types: >
 		        }
 		      }
 		   ]
-   LspAddServer(lspServers)
+   g:LspAddServer(lspServers)
 <
 To add a language server, the following information is needed:
 
@@ -475,6 +482,13 @@ autoHighlightDiags	|Boolean| option. Automatically place signs on the
 autoPopulateDiags	|Boolean| option. Automatically populate the location
 			list with diagnostics from the language server.
 			By default this is set to false.
+			The complete information of diagnostic messages,
+			as received from the lsp server, can be accessed at
+			each location list item via its attribute 'user_data'.
+			For this purpose a dictionary
+			{ diagnostic: <complete diag message> }
+			is added to each location list items attribute
+			'user_data'.
 
 						*lsp-opt-completionMatcher*
 completionMatcher	|String| option.  Enable fuzzy or case insensitive
@@ -553,6 +567,28 @@ hoverInPreview		|Boolean| option. Show |:LspHover| in a preview window
 			instead of a popup.
 			By default this is set to false.
 
+						*lsp-opt-hoverFallback*
+hoverFallback		|Boolean| option. Fall back to file type 'keywordprg' 
+                        in case no hover information available. Do not set
+                        'keywordprg' to |:LspHover| but use with suitable
+                        mapping like
+
+                          nnoremap K <cmd>LspHover<cr>
+
+			By default this is set to false.
+
+						*lsp-opt-definitionFallback*
+definitionFallback	|Boolean| option. Fall back to |:tjump| in case no
+                        definition information available. Do not set 'tagfunc'
+                        to 'lsp#lsp#TagFunc' but use with suitable mappings
+
+                          nnoremap <c-]> <cmd>LspGotoDefinition<cr>
+                          nnoremap g]    <cmd>LspPeekDefinition<cr>
+
+			See 'previewpopup' if you prefer using a popup window
+			to the default |preview-window| for the peek fallback.
+			By default this is set to false.
+
 						*lsp-opt-ignoreMissingServer*
 ignoreMissingServer	|Boolean| option.  Do not print a missing language
 			server executable.  By default this is set to false.
@@ -579,6 +615,19 @@ omniComplete		|Boolean| option. Enables or disables omni-completion.
 			default.  By setting "omniComplete" option to v:false,
 			omni-completion can also be disabled.
 
+						*lsp-opt-omniCompleteAllowBare*
+omniCompleteAllowBare   |Boolean| option. Defines whether or not the
+			omniComplete function can trigger even if there are no
+			trigger characters in front of the cursor. Only takes
+			effect if |lsp-opt-omniComplete| is true. By default,
+			this is set to v:false.
+			Note that for implementation reasons, this can be a
+			very noisy option, as it'll cause omnicomplete to
+			trigger on spaces, as well as many other places where
+			it does not make sense.  For an equivalent and much
+			less noisy |lsp-opt-autoComplete| solution, see
+			|lsp-ins-force|
+
 						*lsp-opt-outlineOnRight*
 outlineOnRight		|Boolean| option.  Open the outline window on the
 			right side, by default this is false.
@@ -587,10 +636,90 @@ outlineOnRight		|Boolean| option.  Open the outline window on the
 outlineWinSize		|Number| option.  The size of the symbol Outline
 			window.  By default this is set to 20.
 
+						*lsp-opt-popupBorder*
+popupBorder		|Boolean| option.  Enables popup borders.
+			By default this is set to false.
+
+						*lsp-opt-popupBorderChars*
+popupBorderChars	|List| option.  The characters used to draw the popup
+			border, see |popup_create-arguments|.
+			By default this is set to
+			['─', '│', '─', '│', '╭', '╮', '╯', '╰']
+
+						*lsp-opt-popupBorderHighlight*
+popupBorderHighlight	|String| option.  The name of the highlight group used
+			for popup borders.  By default this is set to
+			'LspPopupBorder'.
+
+						*lsp-opt-popupHighlight*
+popupHighlight		|String| option.  The name of the highlight group used
+			for popup contents.  By default this is set to
+			'LspPopup'.
+
+						*lsp-opt-popup-CodeAction*
+			Override options for CodeAction popups:
+popupBorderCodeAction			|Boolean| option.
+popupBorderHighlightCodeAction		|String| option.
+popupHighlightCodeAction		|String| option.
+
+						*lsp-opt-popup-Completion*
+			Override options for Completion popups:
+popupBorderCompletion			|Boolean| option.
+popupBorderHighlightCompletion		|String| option.
+popupHighlightCompletion		|String| option.
+
+						*lsp-opt-popup-Diag*
+			Override options for Diagnostic popups:
+popupBorderDiag				|Boolean| option.
+popupBorderHighlightDiag		|String| option.
+popupHighlightDiag			|String| option.
+
+						*lsp-opt-popup-Hover*
+			Override options for Hover popups:
+popupBorderHover			|Boolean| option.
+popupBorderHighlightHover		|String| option.
+popupHighlightHover			|String| option.
+
+						*lsp-opt-popup-Peek*
+			Override options for Peek popups:
+popupBorderPeek				|Boolean| option.
+popupBorderHighlightPeek		|String| option.
+popupHighlightPeek			|String| option.
+
+						*lsp-opt-popup-SignatureHelp*
+			Override options for SignatureHelp popups:
+popupBorderSignatureHelp		|Boolean| option. Default: false
+popupBorderHighlightSignatureHelp	|String| option.
+popupHighlightSignatureHelp		|String| option.
+
+						*lsp-opt-popup-SymbolMenu*
+			Override options for SymbolMenu popups:
+popupBorderSymbolMenu			|Boolean| option.
+popupBorderHighlightSymbolMenu		|String| option.
+popupHighlightSymbolMenu		|String| option.
+
+						*lsp-opt-popup-SymbolMenuInput*
+			Override options for SymbolMenuInput popups:
+popupBorderSymbolMenuInput		|Boolean| option.
+popupBorderHighlightSymbolMenuInput	|String| option.
+popupHighlightSymbolMenuInput		|String| option.
+
+						*lsp-opt-popup-TypeHierarchy*
+			Override options for TypeHierarchy popups:
+popupBorderTypeHierarchy		|Boolean| option.
+popupBorderHighlightTypeHierarchy	|String| option.
+popupHighlightTypeHierarchy		|String| option.
+
 						*lsp-opt-semanticHighlight*
 semanticHighlight	|Boolean| option.  Enables or disables semantic
 			highlighting.
 			By default this is set to false.
+
+					*lsp-opt-semanticHighlightDelay*
+semanticHighlightDelay	|Number| option.  Delay in milliseconds for semantic
+			highlighting requests. This prevents excessive
+			requests during rapid text changes.
+			By default this is set to 1000.
 
 						*lsp-opt-showDiagInBalloon*
 showDiagInBalloon	|Boolean| option.  When the mouse is over a range of
@@ -690,6 +819,15 @@ condensedCompletionMenu |Boolean| option. If enabled, minimizes completion
 			menu items to single (key-) words (plus kind).
 			Moves all additional details to info popup.
 			Caveat: LazyDoc will override moved details!
+
+					*lsp-opt-ignoreCompleteItemsIsIncomplete*
+ignoreCompleteItemsIsIncomplete |List| of strings option.
+			Optional list of LSP server names for which
+			'IsIncomplete' messages should be ignored and
+			filtering of received completion item lists
+			is enforced. This is helpful for LSP servers
+			that are misbehaving and always send this
+			kind of 'IsIncomplete' messages.
 
 For example, to disable the automatic placement of signs for the LSP
 diagnostic messages, you can add the following line to your .vimrc file: >
@@ -881,6 +1019,10 @@ can map these commands to keys and make it easier to invoke them.
 	    nnoremap <buffer> gd <Cmd>execute v:count .. 'LspGotoDefinition'<CR>
 	    nnoremap <buffer> <C-W>gd <Cmd>execute 'topleft ' .. v:count .. 'LspGotoDefinition'<CR>
 <
+
+                        With definitionFallback enabled (disabled by default),
+                        falls back to |:tjump|. See |lsp-opt-definitionFallback|.
+
 						*:LspGotoImpl*
 :[count]LspGotoImpl	Jumps to the implementation of the symbol under the
 			cursor. The behavior of this command is similar to the
@@ -945,6 +1087,10 @@ can map these commands to keys and make it easier to invoke them.
 
 			    :set keywordprg=:LspHover
 <
+                        With hoverFallback enabled (disabled by default),
+                        falls back to the file type specific 'keywordprg'.
+                        See |lsp-opt-hoverFallback|.
+
 						*:LspIncomingCalls*
 :LspIncomingCalls	Display a hierarchy of symbols calling the symbol
 			under the cursor in a window.  See
@@ -1044,6 +1190,9 @@ can map these commands to keys and make it easier to invoke them.
 				CTRL-Y     - Scroll one line backward
 				CTRL-U     - Scroll half page backward
 
+                        With definitionFallback enabled (disabled by default),
+                        falls back to |:ptjump|. See |lsp-opt-definitionFallback|.
+
 						*:LspPeekImpl*
 :[count]LspPeekImpl	Displays the implementation of the symbol under the
 			cursor in a popup window. The behavior of this
@@ -1103,7 +1252,7 @@ can map these commands to keys and make it easier to invoke them.
 			region.
 
 						*:LspServer*
-:LspServer { debug | restart | show | trace }
+:LspServer { debug | restart | show | start | stop | trace }
 			Command to display and control the language server for
 			the current buffer.  Each argument has additional
 			sub-commands which are described below.
@@ -1163,6 +1312,21 @@ can map these commands to keys and make it easier to invoke them.
 					the current buffer.  The output shows
 					the path to the language server
 					executable and the server status.
+
+			start
+			    Command to start the language servers registered
+			    for the filetype of the current buffer.  All the
+			    buffers with this filetype are added to the
+			    server.
+
+			stop
+			    Command to stop all the language servers
+			    registered for the filetype of the current buffer.
+			    Note that this stops the language servers for all
+			    the buffers with this filetype.  Opening a new
+			    file with this filetype will not start the
+			    language server till the server is explicitly
+			    started using the start command.
 
 			trace { off | messages | verbose }
 			    Set the language server debug trace value using
@@ -1392,6 +1556,25 @@ The process works as follows:
 7. To proceed with the second invocation of g:LspOmniFunc, it is crucial to
    ensure that |g:LspOmniCompletePending| returns false, indicating that the
    language server is now ready to provide the completion matches.
+
+------------------------------------------------------------------------------
+6.1. Forcing completion without characters		*lsp-ins-force*
+
+Using a custom mapping that calls the 24x7 completion function, you can force
+the completion dialog to appear even without any trigger characters. This can
+be especially useful in languages where there are well-defined things that
+could be inserted, but there's no special trigger characters that can be used
+first. For example when filling in TypeScript objects, and you want
+completions for the names without typing anything first.
+
+This is not enabled by default, as it can be relatively noisy under certain
+circumstances.
+
+Example mapping: >
+    inoremap <C-space> <C-\><C-o>:call lsp#completion#LspComplete(v:true)<cr>
+<
+(Note that <C-space> in particular is limited to gVim due to input limitations
+of terminal Vim)
 
 ==============================================================================
 7. Diagnostics						*lsp-diagnostics*
@@ -1698,6 +1881,10 @@ override them.
 *LspInlayHintsType*		Used to highlight inlay hints of kind "type".
 				By default, linked to the "Conceal" highlight
 				group.
+*LspPopup*			Used to highlight popup contents.  By default,
+				linked to the "Pmenu" highlight group.
+*LspPopupBorder*		Used to highlight popup borders.  By default,
+				linked to the "Pmenu" highlight group.
 *LspSigActiveParameter*		Used to highlight the active signature
 				parameter.  By default, linked to the "LineNr"
 				highlight group.
@@ -1722,51 +1909,52 @@ or >
 ==============================================================================
 13. Debugging					*lsp-debug*
 
-To debug this plugin, you can log the language server protocol messages sent
-and received by the plugin from the language server.  The following command
-enables the logging of the messages from the language server for the current
-buffer: >
+To debug this plugin, you can log the Language Server Protocol (LSP) messages
+sent and received by the plugin from the language server.  The following
+command enables the logging of the messages from the language server for the
+current buffer: >
 
     :LspServer debug on
 <
-This command also clears the log files.  The following command disables the
-logging of the messages from the language server for the current buffer: >
+This command also clears the existing log files.  The following command
+disables the logging of the messages from the language server for the current
+buffer: >
 
     :LspServer debug off
 <
-By default, the messages are not logged.  Another method to enable the debug
-is to set the "debug" field to true when adding a language server
-using |LspAddServer()|.
+By default, the messages are not logged.  Alternatively, you can enable
+debugging by setting the "debug" field to true when adding a language server
+using the |LspAddServer()| function.
 
-The messages printed by the language server in the stdout are logged to the
-lsp-<server-name>.log file and the messages printed in the stderr are logged
-to the lsp-<server-name>.err file.  On a Unix-like system, these files are
-created in the /tmp directory.  On MS-Windows, these files are created in the
-%TEMP% directory.
+The messages printed by the language server to stdout are logged to the
+lsp-<server-name>.log file and the messages printed to stderr are logged to
+the lsp-<server-name>.err file.  On Unix-like systems, these files are created
+in the /tmp directory.  On MS-Windows, these files are created in the %TEMP%
+directory.
 
 The following command opens the file containing the messages printed by the
-language server in the stdout: >
+language server to stdout: >
 
     :LspServer debug messages
 <
 The following command opens the file containing the messages printed by the
-language server in the stderr: >
+language server to stderr: >
 
     :LspServer debug errors
 <
-To debug language server initialization problems, after enabling the above
-server debug, you can restart the server for the file type in the current
-buffer using the following command: >
+To debug language server initialization problems, after enabling server
+debugging, you can restart the server for the file type in the current buffer
+using the following command: >
 
     :LspServer restart
 <
 The language servers typically support command line options to enable debug
-messages and to increase the verbosity of the messages.  You can refer to the
-language server documentation for information about this.  You can include
-these options when registering the language server with this plugin.
+messages and to increase their verbosity.  You can refer to the language
+server documentation for this information.  You can include these options when
+registering the language server with this plugin.
 
 If a language server supports the "$/logTrace" LSP notification, then you can
-use the :LspServerTrace command to set the server trace value: >
+use the ":LspServer trace" command to set the server trace value: >
 
     :LspServer trace { off | messages | verbose }
 <
@@ -1858,39 +2046,86 @@ In the completion popup, will show something like this: >
 16. Custom Popup Styles			*lsp-custom-popup-styles*
 
 The plugin provides the possibility to style popups according to one's liking.
+By default, popups do not have borders configured, and use the |hl-Pmenu|
+highlight group.
 
-The following default options and highlight groups are provided: >
+To change the global popup styles, use the generic popup |lsp-options|: >
 
-	highlight LspHoverPopup guibg=NONE ctermbg=NONE
-	highlight LspHoverPopupBorder guibg=NONE ctermbg=NONE
-	let g:LspHoverPopupBorderhighlight = ['LspHoverPopupBorder]
-	let g:LspHoverPopupBorder = []
-	let g:LspHoverPopupBorderchars = ['─', '│', '─', '│', '╭', '╮', '╯', '╰']
-	
-	highlight LspPeekPopup guibg=NONE ctermbg=NONE
-	highlight LspPeekPopupBorder guibg=NONE ctermbg=NONE
-	let g:LspPeekPopupBorderhighlight = ['LspPeekPopupBorder]
-	let g:LspPeekPopupBorder = []
-	let g:LspPeekPopupBorderchars = ['─', '│', '─', '│', '╭', '╮', '╯', '╰']
-	
-	highlight LspSymbolMenuPopup guibg=NONE ctermbg=NONE
-	highlight LspSymbolMenuPopupBorder guibg=NONE ctermbg=NONE
-	let g:LspSymbolMenuPopupBorderhighlight = ['LspSymbolMenuPopupBorder]
-	let g:LspSymbolMenuPopupBorder = []
-	let g:LspSymbolMenuPopupBorderchars = ['─', '│', '─', '│', '╭', '╮', '╯', '╰']
-	
-	highlight LspTypeHierarchyPopup guibg=NONE ctermbg=NONE
-	highlight LspTypeHierarchyPopupBorder guibg=NONE ctermbg=NONE
-	let g:LspTyperHierarchyPopupBorderhighlight = ['LspTyperHierarchyPopupBorder]
-	let g:LspTypeHierarchyPopupBorder = []
-	let g:LspTypeHierarchyPopupBorderchars = ['─', '│', '─', '│', '╭', '╮', '╯', '╰']
+    # Enable popup borders
+    autocmd User LspSetup LspOptionsSet({popupBorder: true})
+
+    # Change popup border chars and highlights, and disable SignatureHelp border
+    var lspOpts = {
+      popupBorder: true,
+      popupBorderChars: ['-', '|', '-', '|', '┌', '┐', '┘', '└'],
+      popupBorderHighlight: 'Identifier',
+      popupHighlight: 'Normal',
+      popupBorderSignatureHelp: false
+      popupHighlightSignatureHelp: 'Pmenu'
+    }
+    autocmd User LspSetup LspOptionsSet(lspOpts)
+>
+The different popup types may all be individually customised, using the
+popup-type |lsp-options|: >
+
+    # - Hover
+    #   - border highlight: ModeMsg
+    # - Completion
+    #   - border: off
+    #   - highlight: Pmenu
+    # - Symbol menu input
+    #   - border highlight: Title
+    # - Symbol menu
+    #   - border highlight: Directory
+    var lspOpts = {
+      popupBorder: true,
+      popupBorderHighlightHover: 'ModeMsg',
+      popupBorderCompletion: false,
+      popupHighlightCompletion: 'Pmenu',
+      popupBorderHighlightSymbolMenuInput: 'Title',
+      popupBorderHighlightSymbolMenu: 'Directory'
+    }
+    autocmd User LspSetup LspOptionsSet(lspOpts)
 <
-Please refer to |popup_setoptions()| for more information.
-
 For styling the completion menu please refer to |hl-pmenu|.
 
 ==============================================================================
-17. Multiple Language Servers for a buffer	*lsp-multiple-servers*
+17. Custom Locations Request			*lsp-custom-locations*
+
+Language server may support non-standard locations request. To display the
+locations of the symbol under cursor, you can use the
+g:LspFindLocations(server_name, peek, method, args) function. "server_name" is
+then "name" you pass in LspAddServer(). "peek" is a boolean value. If true, it
+displays the list of locations in a popup menu, otherwise in a new locations
+list. It behaves like |:LspPeekReferences| and |:LspShowReferences| .
+For example: >
+
+    vim9script
+
+    g:LspAddServer([{
+	filetype: ["cpp"],
+	name: 'ccls',
+	path: '/usr/bin/ccls',
+    }])
+
+    autocmd Filetype cpp {
+	# x (xref)
+	# bases of up to 3 levels
+	nmap <buffer> <localleader>b <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/inheritance", {})<cr>
+	nmap <buffer> <localleader>B <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/inheritance", {"levels": 3})<cr>
+	# derived of up to 3 levels
+	nmap <buffer> <localleader>d <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/inheritance", {"derived": v:true})<cr>
+	nmap <buffer> <localleader>D <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/inheritance", {"derived": v:true, "levels": 3})<cr>
+	# caller
+	nmap <buffer> <localleader>c <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/call")<cr>
+	# callee
+	nmap <buffer> <localleader>C <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/call", {"callee": v:true})<cr>
+	# member
+	nmap <buffer> <localleader>m <scriptcmd>g:LspFindLocations('ccls', false, "$ccls/member")<cr>
+    }
+
+==============================================================================
+18. Multiple Language Servers for a buffer	*lsp-multiple-servers*
 
 It's possible to run multiple language servers for a given buffer.
 
@@ -1981,7 +2216,7 @@ everything else: >
 	])
 <
 ==============================================================================
-18. Language Server Features			*lsp-features*
+19. Language Server Features			*lsp-features*
 
 When using multiple language servers for a given file type, by providing the
 configuration |lsp-cfg-features| it is possible to specify which language

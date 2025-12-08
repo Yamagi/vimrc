@@ -26,11 +26,12 @@ import './callhierarchy.vim' as callhier
 import './typehierarchy.vim' as typehier
 import './inlayhints.vim'
 import './semantichighlight.vim'
+import './buffer.vim' as buf
 
 # LSP server standard output handler
 def Output_cb(lspserver: dict<any>, chan: channel, msg: any): void
   if lspserver.debug
-    lspserver.traceLog($'{strftime("%m/%d/%y %T")}: Received {msg->string()}')
+    lspserver.traceLog($'Received {msg->json_encode()}')
   endif
   lspserver.data = msg
   lspserver.processMessages()
@@ -219,7 +220,7 @@ enddef
 # Request: shutdown
 # Param: void
 def ShutdownServer(lspserver: dict<any>): void
-  lspserver.rpc('shutdown', {})
+  lspserver.rpc('shutdown', v:null)
 enddef
 
 # Send a 'exit' notification to the language server
@@ -351,7 +352,7 @@ def SendMessage(lspserver: dict<any>, content: dict<any>): void
   job->ch_sendexpr(content)
   if content->has_key('id')
     if lspserver.debug
-      lspserver.traceLog($'{strftime("%m/%d/%y %T")}: Sent {content->string()}')
+      lspserver.traceLog($'Sent {content->json_encode()}')
     endif
   endif
 enddef
@@ -362,6 +363,8 @@ def SendNotification(lspserver: dict<any>, method: string, params: any = {})
   notif.params->extend(params)
   lspserver.sendMessage(notif)
 enddef
+
+const LSP_ERROR_REQUEST_CANCELLED = -32800
 
 # Translate an LSP error code into a readable string
 def LspGetErrorMessage(errcode: number): string
@@ -385,6 +388,12 @@ enddef
 # Process a LSP server response error and display an error message.
 def ProcessLspServerError(method: string, responseError: dict<any>)
   # request failed
+
+  if responseError.code == LSP_ERROR_REQUEST_CANCELLED
+    # if the request is canceled, silently return.
+    return
+  endif
+
   var emsg: string = responseError.message
   emsg ..= $', error = {LspGetErrorMessage(responseError.code)}'
   if responseError->has_key('data')
@@ -408,14 +417,14 @@ def Rpc(lspserver: dict<any>, method: string, params: any, handleError: bool = t
   endif
 
   if lspserver.debug
-    lspserver.traceLog($'{strftime("%m/%d/%y %T")}: Sent {req->string()}')
+    lspserver.traceLog($'Sent {req->json_encode()}')
   endif
 
   # Do the synchronous RPC call
   var reply = job->ch_evalexpr(req)
 
   if lspserver.debug
-    lspserver.traceLog($'{strftime("%m/%d/%y %T")}: Received {reply->string()}')
+    lspserver.traceLog($'Received {reply->json_encode()}')
   endif
 
   if reply->has_key('result')
@@ -434,7 +443,7 @@ enddef
 # LSP server asynchronous RPC callback
 def AsyncRpcCb(lspserver: dict<any>, method: string, RpcCb: func, chan: channel, reply: dict<any>)
   if lspserver.debug
-    lspserver.traceLog($'{strftime("%m/%d/%y %T")}: Received {reply->string()}')
+    lspserver.traceLog($'Received {reply->json_encode()}')
   endif
 
   if reply->empty()
@@ -471,7 +480,7 @@ def AsyncRpc(lspserver: dict<any>, method: string, params: any, Cbfunc: func): n
   endif
 
   if lspserver.debug
-    lspserver.traceLog($'{strftime("%m/%d/%y %T")}: Sent {req->string()}')
+    lspserver.traceLog($'Sent {req->json_encode()}')
   endif
 
   # Do the asynchronous RPC call
@@ -541,6 +550,9 @@ def SemanticHighlightUpdate(lspserver: dict<any>, bnr: number)
   # Send the pending buffer changes to the language server
   bnr->listener_flush()
 
+  # Capture the current changedtick
+  var requestTick = getbufvar(bnr, 'changedtick')
+
   var method = 'textDocument/semanticTokens/full'
   var params: dict<any> = {
     textDocument: {
@@ -559,13 +571,9 @@ def SemanticHighlightUpdate(lspserver: dict<any>, bnr: number)
     endif
   endif
 
-  var reply = lspserver.rpc(method, params)
-
-  if reply->empty() || reply.result->empty()
-    return
-  endif
-
-  semantichighlight.UpdateTokens(lspserver, bnr, reply.result)
+  lspserver.rpc_a(method, params, (_, reply) => {
+    semantichighlight.UpdateTokens(lspserver, bnr, reply, requestTick)
+  })
 enddef
 
 # Send a "workspace/didChangeConfiguration" notification to the language
@@ -780,7 +788,22 @@ def GotoSymbolLoc(lspserver: dict<any>, msg: string, peekSymbol: bool,
     elseif msg == 'textDocument/implementation'
       emsg = 'symbol implementation is not found'
     else
-      emsg = 'symbol definition is not found'
+      if &tagfunc !=# 'lsp#lsp#TagFunc' && opt.lspOptions.definitionFallback
+      	emsg = 'symbol definition is not found; falling back to tags file'
+      	try
+    	  # Use :tjump instead of 'CTRL-]' using :tag because
+    	  # 'tjump' works better with multiple tags.
+    	  # Using built-in maps more robust than (p)tjump.
+    	  if peekSymbol
+    	    execute "normal! \<C-w>g}"
+    	  else
+    	    execute "normal! g\<C-]>"
+    	  endif
+      	catch /.*/
+      	endtry
+      else
+      	emsg = 'symbol definition is not found'
+      endif
     endif
 
     util.WarnMsg(emsg)
@@ -1014,7 +1037,7 @@ def FindLocations(lspserver: dict<any>, peek: bool, method: string, args: dict<a
 
   # Result: Location[] | null
   if reply->empty() || reply.result->empty()
-    util.WarnMsg('No references found')
+    util.WarnMsg('No location found')
     return
   endif
 
@@ -1026,7 +1049,21 @@ def FindLocations(lspserver: dict<any>, peek: bool, method: string, args: dict<a
     })
   endif
 
-  symbol.ShowLocations(lspserver, reply.result, peek, 'Symbol References')
+  symbol.ShowLocations(lspserver, reply.result, peek, 'Symbol Locations')
+enddef
+
+# send a custom request to the server
+# Name: name of the server
+# Request: any
+# Params: any
+def g:LspRequestCustom(name: string, msg: string, params: any): string
+  var lspserver: dict<any> = buf.CurbufGetServerByName(name)
+  if lspserver->empty()
+    return ''
+  endif
+
+  lspserver.rpc_a(msg, params, WorkspaceExecuteReply)
+  return ''
 enddef
 
 # process the 'textDocument/documentHighlight' reply from the LSP server
@@ -1536,6 +1573,25 @@ def CodeLens(lspserver: dict<any>, fname: string)
   codelens.ProcessCodeLens(lspserver, bnr, reply.result)
 enddef
 
+#
+# Request: "codeAction/resolve"
+# Param: CodeAction
+def ResolveCodeAction(lspserver: dict<any>,
+		      codeAction: dict<any>): dict<any>
+  if !lspserver.isCodeActionResolveProvider
+    return {}
+  endif
+
+  var reply = lspserver.rpc('codeAction/resolve', codeAction)
+  if reply->empty()
+    return {}
+  endif
+
+  var codeActionItem: dict<any> = reply.result
+
+  return codeActionItem
+enddef
+
 # Request: "codeLens/resolve"
 # Param: CodeLens
 def ResolveCodeLens(lspserver: dict<any>, bnr: number,
@@ -1786,7 +1842,7 @@ enddef
 # stage).
 def GetCapabilities(lspserver: dict<any>): list<string>
   var l = []
-  var heading = $"'{lspserver.path}' Language Server Capabilities"
+  var heading = $"'{lspserver.name}' Language Server Capabilities"
   var underlines = repeat('=', heading->len())
   l->extend([heading, underlines])
   for k in lspserver.caps->keys()->sort()
@@ -1887,6 +1943,7 @@ export def NewLspServer(serverParams: dict<any>): dict<any>
     args: serverParams.args->deepcopy(),
     running: false,
     ready: false,
+    stoppedByUser: false,
     job: v:none,
     data: '',
     nextID: 1,
@@ -1985,6 +2042,7 @@ export def NewLspServer(serverParams: dict<any>): dict<any>
     renameSymbol: function(RenameSymbol, [lspserver]),
     codeAction: function(CodeAction, [lspserver]),
     codeLens: function(CodeLens, [lspserver]),
+    resolveCodeAction: function(ResolveCodeAction, [lspserver]),
     resolveCodeLens: function(ResolveCodeLens, [lspserver]),
     workspaceQuery: function(WorkspaceQuerySymbols, [lspserver]),
     addWorkspaceFolder: function(AddWorkspaceFolder, [lspserver]),

@@ -22,8 +22,6 @@ import './signature.vim'
 import './codeaction.vim'
 import './inlayhints.vim'
 import './semantichighlight.vim'
-import './hover.vim'
-import './typehierarchy.vim'
 
 # LSP server information
 var LSPServers: list<dict<any>> = []
@@ -35,6 +33,8 @@ var lspInitializedOnce = false
 
 def LspInitOnce()
   hlset([
+    {name: 'LspPopup', default: true, linksto: 'Pmenu'},
+    {name: 'LspPopupBorder', default: true, linksto: 'Pmenu'},
     {name: 'LspTextRef', default: true, linksto: 'Search'},
     {name: 'LspReadRef', default: true, linksto: 'DiffChange'},
     {name: 'LspWriteRef', default: true, linksto: 'DiffDelete'}
@@ -48,12 +48,10 @@ def LspInitOnce()
   prop_type_add('LspWriteRef', {highlight: 'LspWriteRef', override: override})
 
   diag.InitOnce()
-  hover.InitOnce()
   inlayhints.InitOnce()
   signature.InitOnce()
   symbol.InitOnce()
   semantichighlight.InitOnce()
-  typehierarchy.InitOnce()
 
   lspInitializedOnce = true
 enddef
@@ -266,6 +264,52 @@ def ShowServer(arg: string)
   endif
 enddef
 
+# Server start requested by the user for the file type in the current buffer
+def StartServerByUser()
+  var ftype: string = &filetype
+
+  var lspservers = ftypeServerMap->get(ftype, [])
+
+  if lspservers->empty()
+    util.WarnMsg($'No Lsp servers found for "{@%}"')
+    return
+  endif
+
+  # Update the list of servers attached to the current file type
+  for lspserver in lspservers
+    lspserver.stoppedByUser = false
+  endfor
+
+  # Add all the buffers with the current file type to the server
+  AddBuffersToLsp(ftype)
+enddef
+
+# Server stop requested by the user for the file type in the current buffer
+def StopServerByUser()
+  var lspservers: list<dict<any>> = buf.CurbufGetServers()->copy()
+  if lspservers->empty()
+    util.WarnMsg($'No Lsp servers found for "{@%}"')
+    return
+  endif
+
+  # Remove all the buffers with the same file type as the current buffer
+  var ftype: string = &filetype
+  for binfo in getbufinfo()
+    if binfo.bufnr->getbufvar('&filetype') == ftype
+      RemoveFile(binfo.bufnr)
+    endif
+  endfor
+
+  # Stop all the servers for this file type
+  for lspserver in lspservers
+    # Stop the server (if running)
+    if lspserver.running
+      lspserver.stopServer()
+      lspserver.stoppedByUser = true
+    endif
+  endfor
+enddef
+
 # Get LSP server running status for filetype "ftype"
 # Return true if running, or false if not found or not running
 export def ServerRunning(ftype: string): bool
@@ -285,6 +329,22 @@ enddef
 export def GotoDefinition(peek: bool, cmdmods: string, count: number)
   var lspserver: dict<any> = buf.CurbufGetServerChecked('definition')
   if lspserver->empty()
+    if &tagfunc !=# 'lsp#lsp#TagFunc' && opt.lspOptions.definitionFallback
+      if cmdmods !~ 'silent'
+      	util.WarnMsg($'definition lookup unsupported; falling back to tags file')
+      endif
+      try
+    	# Use :tjump instead of 'CTRL-]' using :tag because
+    	# 'tjump' works better with multiple tags.
+    	# Using built-in maps more robust than (p)tjump.
+      	if peek
+    	  execute "normal! \<C-w>g}"
+      	else
+    	  execute "normal! g\<C-]>"
+      	endif
+      	catch /.*/
+      	endtry
+    endif
     return
   endif
 
@@ -448,7 +508,13 @@ def BufferInit(lspserverId: number, bnr: number): void
     endfor
 
     if exists('#User#LspAttached')
-      doautocmd <nomodeline> User LspAttached
+      if bnr == bufnr()
+        doautocmd <nomodeline> User LspAttached
+      else
+        # Delay doautocmd until entering the buffer
+        execute 'autocmd LSPAutoCmds BufEnter <buffer=' .. bnr .. '>'
+              \ .. ' ++once doautocmd <nomodeline> User LspAttached'
+      endif
     endif
   endif
 enddef
@@ -465,6 +531,12 @@ export def AddFile(bnr: number): void
     return
   endif
 
+  # Skip popup buffers (maybe just skip all special buffers?)
+  var buftype: string = bnr->getbufvar('&buftype')
+  if buftype ==# 'popup'
+    return
+  endif
+
   var ftype: string = bnr->getbufvar('&filetype')
   if ftype->empty()
     return
@@ -474,6 +546,10 @@ export def AddFile(bnr: number): void
     return
   endif
   for lspserver in lspservers
+    if lspserver.stoppedByUser
+      continue
+    endif
+
     if !lspserver.running
       if !lspInitializedOnce
         LspInitOnce()
@@ -561,14 +637,16 @@ enddef
 
 # Restart the LSP server for the current buffer
 def RestartServer()
-  var lspservers: list<dict<any>> = buf.CurbufGetServers()->copy()
+  var ftype: string = &filetype
+
+  var lspservers = ftypeServerMap->get(ftype, [])
+
   if lspservers->empty()
     util.WarnMsg($'No Lsp servers found for "{@%}"')
     return
   endif
 
   # Remove all the buffers with the same file type as the current buffer
-  var ftype: string = &filetype
   for binfo in getbufinfo()
     if binfo.bufnr->getbufvar('&filetype') == ftype
       RemoveFile(binfo.bufnr)
@@ -580,6 +658,7 @@ def RestartServer()
     if lspserver.running
       lspserver.stopServer()
     endif
+    lspserver.stoppedByUser = false
 
     # Start the server again
     lspserver.startServer(bufnr())
@@ -800,6 +879,16 @@ enddef
 export def Hover(cmdmods: string)
   var lspserver: dict<any> = buf.CurbufGetServerChecked('hover')
   if lspserver->empty()
+    if &keywordprg !=# ':LspHover' && !empty(&l:keywordprg) && opt.lspOptions.hoverFallback
+      if cmdmods !~ 'silent'
+      	util.WarnMsg($'Hovering unsupported; falling back to built-in.')
+      endif
+      try
+      	execute 'normal! K'
+      catch /.*/
+      	# Ignore any errors from built-in fallback
+      endtry
+    endif
     return
   endif
 
@@ -1290,7 +1379,7 @@ enddef
 export def LspServerComplete(arglead: string, cmdline: string, cursorPos: number): list<string>
   var wordBegin = -1
   var wordEnd = -1
-  var l = ['debug', 'restart', 'show', 'trace']
+  var l = ['debug', 'restart', 'show', 'trace', 'stop', 'start']
 
   # Skip the command name
   var i = cmdline->stridx(' ', 0)
@@ -1307,7 +1396,6 @@ export def LspServerComplete(arglead: string, cmdline: string, cursorPos: number
   var cmd = cmdline->strpart(wordBegin, wordEnd - wordBegin)
   if cmd == 'debug'
     return LspServerDebugComplete(arglead, cmdline, wordEnd)
-  elseif cmd == 'restart'
   elseif cmd == 'show'
     return LspServerShowComplete(arglead, cmdline, wordEnd)
   elseif cmd == 'trace'
@@ -1335,6 +1423,10 @@ export def LspServerCmd(args: string)
     else
       util.ErrMsg('Argument required for ":LspServer show"')
     endif
+  elseif args->stridx('start') == 0
+    StartServerByUser()
+  elseif args->stridx('stop') == 0
+    StopServerByUser()
   elseif args->stridx('trace') == 0
     if args[5] == ' '
       var subcmd = args[6 : ]->trim()

@@ -70,7 +70,7 @@ enddef
 
 # process unsupported notification messages
 def ProcessUnsupportedNotif(lspserver: dict<any>, reply: dict<any>)
-  util.WarnMsg($'Unsupported notification message received from the LSP server ({lspserver.name}), message = {reply->string()}')
+  lspserver.traceLog($'Error: Unsupported notification message received: {reply->string()}')
 enddef
 
 # Dict to process telemetry notification messages only once per filetype
@@ -132,7 +132,18 @@ export def ProcessNotif(lspserver: dict<any>, reply: dict<any>): void
       'o#/projectconfiguration',
       'o#/projectdiagnosticstatus',
       'o#/unresolveddependencies',
-      '@/tailwindCSS/projectInitialized'
+      '@/tailwindCSS/projectInitialized',
+      # lua-language-server sends a "hello world" message on start-up.
+      '$/hello',
+      # bitbake language server notifications
+      'bitbake/EmbeddedLanguageDocs',
+      # devicetree language server notifications
+      'devicetree/activeContextStableNotification',
+      'devicetree/contextCreated',
+      'devicetree/contextDeleted',
+      'devicetree/contextStableNotification',
+      'devicetree/newActiveContext',
+      'devicetree/settingsChanged',
     ]
 
   if lsp_notif_handlers->has_key(reply.method)
@@ -279,6 +290,8 @@ export def ProcessRequest(lspserver: dict<any>, request: dict<any>)
       # 'workspace/executeClientCommand' request (to reload bundles) which is
       # not in the LSP specification.
       'workspace/executeClientCommand',
+      # bitbake language server messages
+      'bitbake/getRecipeLocalFiles'
     ]
 
   if lspRequestHandlers->has_key(request.method)
@@ -286,7 +299,7 @@ export def ProcessRequest(lspserver: dict<any>, request: dict<any>)
   elseif lspserver.customRequestHandlers->has_key(request.method)
     lspserver.customRequestHandlers[request.method](lspserver, request)
   elseif lspIgnoredRequestHandlers->index(request.method) == -1
-    util.ErrMsg($'Unsupported request message received from the LSP server ({lspserver.name}), message = {request->string()}')
+    lspserver.traceLog($'Error: Unsupported request message received: {request->string()}')
   endif
 enddef
 

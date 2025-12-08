@@ -161,7 +161,11 @@ export def CompletionReply(lspserver: dict<any>, cItems: any)
     items = cItems
   else
     items = cItems.items
-    lspserver.completeItemsIsIncomplete = cItems->get('isIncomplete', false)
+    if opt.lspOptions.ignoreCompleteItemsIsIncomplete->index(lspserver.name) >= 0
+      lspserver.completeItemsIsIncomplete = v:false
+    else
+      lspserver.completeItemsIsIncomplete = cItems->get('isIncomplete', false)
+    endif
   endif
 
   var lspOpts = opt.lspOptions
@@ -441,6 +445,7 @@ def ShowCompletionDocumentation(cItem: any)
     var bufnr = id->winbufnr()
     id->popup_settext(infoText)
     infoKind->setbufvar(bufnr, '&ft')
+    id->popup_setoptions(opt.PopupConfigure('Completion', {}))
     id->popup_show()
   else
     # &omnifunc with &completeopt =~ 'preview'
@@ -496,7 +501,7 @@ def g:LspOmniFunc(findstart: number, base: string): any
   if findstart
 
     var [triggerKind, triggerChar] = GetTriggerAttributes(lspserver)
-    if triggerKind < 0
+    if triggerKind < 0 && !opt.lspOptions.omniCompleteAllowBare
       # previous character is not a keyword character or a trigger character,
       # so cancel omni completion.
       return -2
@@ -562,14 +567,14 @@ enddef
 
 # Insert mode completion handler. Used when 24x7 completion is enabled
 # (default).
-def LspComplete()
+export def LspComplete(force: bool = false)
   var lspserver: dict<any> = buf.CurbufGetServer('completion')
   if lspserver->empty() || !lspserver.running || !lspserver.ready
     return
   endif
 
   var [triggerKind, triggerChar] = GetTriggerAttributes(lspserver)
-  if triggerKind < 0
+  if triggerKind < 0 && !force
     return
   endif
 
@@ -595,6 +600,19 @@ def LspResolve()
 	ShowCompletionDocumentation(item.user_data)
       endif
   endif
+
+  LspSetPopupFileType()
+enddef
+
+# Configure the non-lazy documentation popup
+def LspCompleteConfigurePopup()
+  var id = popup_findinfo()
+  if id == 0
+    return
+  endif
+  id->popup_setoptions(opt.PopupConfigure('Completion', {}))
+
+  LspSetPopupFileType()
 enddef
 
 # If the completion popup documentation window displays "markdown" content,
@@ -685,6 +703,7 @@ export def BufferInit(lspserver: dict<any>, bnr: number, ftype: string)
 
     # Trigger 24x7 insert mode completion when text is changed
     acmds->add({bufnr: bnr,
+		replace: true,
 		event: 'TextChangedI',
 		group: 'LSPBufferAutocmds',
 		cmd: 'LspComplete()'})
@@ -697,18 +716,23 @@ export def BufferInit(lspserver: dict<any>, bnr: number, ftype: string)
   if lspserver.completionLazyDoc
     # resolve additional documentation for a selected item
     acmds->add({bufnr: bnr,
+                replace: true,
                 event: 'CompleteChanged',
                 group: 'LSPBufferAutocmds',
                 cmd: 'LspResolve()'})
+  else
+    # The documentation popup content is provided already but we still need to
+    # style the popup
+    acmds->add({bufnr: bnr,
+                replace: true,
+                event: 'CompleteChanged',
+                group: 'LSPBufferAutocmds',
+                cmd: 'LspCompleteConfigurePopup()'})
   endif
-
-  acmds->add({bufnr: bnr,
-	      event: 'CompleteChanged',
-	      group: 'LSPBufferAutocmds',
-	      cmd: 'LspSetPopupFileType()'})
 
   # Execute LSP server initiated text edits after completion
   acmds->add({bufnr: bnr,
+	      replace: true,
 	      event: 'CompleteDone',
 	      group: 'LSPBufferAutocmds',
 	      cmd: $'LspCompleteDone({bnr})'})

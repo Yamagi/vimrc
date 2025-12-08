@@ -32,19 +32,34 @@ export def HandleCodeAction(lspserver: dict<any>, selAction: dict<any>)
   # Edits should be executed first.
   # Both Command and CodeAction interfaces has "command" member
   # so we should check "command" type - for Command it will be "string"
-  if selAction->has_key('edit')
-     || (selAction->has_key('command') && selAction.command->type() == v:t_dict)
-    # selAction is a CodeAction instance, apply edit and command
-    if selAction->has_key('edit')
-      # apply edit first
-      textedit.ApplyWorkspaceEdit(selAction.edit)
+
+  var codeAction = selAction
+
+  # If we don't have a complete CodeAction then use the servers's CodeAction
+  # property resolution to complete the definition.
+  if !selAction->has_key('edit') && !selAction->has_key('command')
+    util.InfoMsg("Resolving incomplete CodeAction")
+    var resolved = lspserver.resolveCodeAction(selAction)
+    if resolved->empty()
+      util.WarnMsg("Code action could not be resolved by LSP server.")
+      return
     endif
-    if selAction->has_key('command')
-      DoCommand(lspserver, selAction.command)
+    codeAction = resolved
+  endif
+
+  if codeAction->has_key('edit')
+     || (codeAction->has_key('command') && codeAction.command->type() == v:t_dict)
+    # codeAction is a CodeAction instance, apply edit and command
+    if codeAction->has_key('edit')
+      # apply edit first
+      textedit.ApplyWorkspaceEdit(codeAction.edit)
+    endif
+    if codeAction->has_key('command')
+      DoCommand(lspserver, codeAction.command)
     endif
   else
-    # selAction is a Command instance, apply it directly
-    DoCommand(lspserver, selAction)
+    # codeAction is a Command instance, apply it directly
+    DoCommand(lspserver, codeAction)
   endif
 enddef
 
@@ -91,7 +106,7 @@ export def ApplyCodeAction(lspserver: dict<any>, actionlist: list<dict<any>>, qu
     choice = 1 + util.Indexof(actions, (i, a) => a.title[0 : query_->len() - 1] == query_)
   elseif opt.lspOptions.usePopupInCodeAction
     # Use a popup menu to show the code action
-    popup_create(text, {
+    var popupAttrs = opt.PopupConfigure('CodeAction', {
       pos: 'botleft',
       line: 'cursor-1',
       col: 'cursor',
@@ -121,6 +136,7 @@ export def ApplyCodeAction(lspserver: dict<any>, actionlist: list<dict<any>>, qu
 	return 1
       },
     })
+    popup_create(text, popupAttrs)
   else
     choice = inputlist(['Code action:'] + text)
   endif

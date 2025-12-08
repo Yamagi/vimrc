@@ -219,11 +219,18 @@ export def ProcessServerCaps(lspserver: dict<any>, caps: dict<any>)
   if lspserver.caps->has_key('codeActionProvider')
     if lspserver.caps.codeActionProvider->type() == v:t_bool
       lspserver.isCodeActionProvider = lspserver.caps.codeActionProvider
+      lspserver.isCodeActionResolveProvider = v:false
     else
       lspserver.isCodeActionProvider = true
+      if lspserver.caps.codeActionProvider->type() == v:t_dict &&
+	  lspserver.caps.codeActionProvider->has_key('resolveProvider')
+        lspserver.isCodeActionResolveProvider =
+	  lspserver.caps.codeActionProvider.resolveProvider
+      endif
     endif
   else
     lspserver.isCodeActionProvider = false
+    lspserver.isCodeActionResolveProvider = v:false
   endif
 
   # codeLensProvider
@@ -319,6 +326,13 @@ export def ProcessServerCaps(lspserver: dict<any>, caps: dict<any>)
       endif
     endif
   endif
+
+  # executeCommandProvider
+  if lspserver.caps->has_key('executeCommandProvider')
+    lspserver.isExecuteCommandProvider = true
+  else
+    lspserver.isExecuteCommandProvider = false
+  endif
 enddef
 
 # Return all the LSP client capabilities
@@ -342,11 +356,15 @@ export def GetClientCaps(): dict<any>
 	  codeActionKind: {
 	    valueSet: ['', 'quickfix', 'refactor', 'refactor.extract',
 			'refactor.inline', 'refactor.rewrite', 'source',
-			'source.organizeImports']
+			'source.organizeImports', 'source.fixAll']
 	  }
 	},
 	isPreferredSupport: true,
-	disabledSupport: true
+	disabledSupport: true,
+        dataSupport: true,
+        resolveSupport: {
+          properties: ['edit', 'command']
+        }
       },
       codeLens: {
 	dynamicRegistration: false
@@ -474,7 +492,9 @@ export def GetClientCaps(): dict<any>
 	dynamicRegistration: false,
       }
     },
-    window: {},
+    window: {
+      workDoneProgress: false,
+    },
     workspace: {
       workspaceFolders: true,
       applyEdit: true,
