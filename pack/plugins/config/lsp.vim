@@ -36,6 +36,11 @@ extend(lspOptions, {
 	'outlineOnRight': true,
 	'outlineWinSize': 40,
 
+	# Use semantic highlighting if provided by the
+	# language server. It generally does a better
+	# job than Vims regex based highlighting.
+	'semanticHighlight': true,
+
 	# Show diagnostics inline.
 	'showDiagWithVirtualText': true,
 
