@@ -18,8 +18,10 @@ var acmds: list<dict<any>> = []
 # Enable bundles plugins:
 #  * Comment the selected lines on 'gc'.
 #  * Briefly highlight yanked text.
+#  * Clipboard access trough OSC 52.
 packadd comment
 packadd hlyank
+packadd osc52
 
 # --------
 
@@ -317,6 +319,16 @@ else
 	# Allow external tools to display dynamic information based on where
 	# the mouse is pointing.
 	set balloonevalterm
+
+	# Enable clipboard access through OSC 52 escape sequence. Should
+	# be tried last, native access methods work better. Force enable
+	# it, because feature detection is unrealiable. Especially under
+	# tmux. Disable paste, because reading the clipboard is insecure
+	# and blocked by most terminals. Trying it anyways may block the
+	# the editor. See ':help osc52'.
+	set clipmethod+=osc52
+	g:osc52_disable_paste = 1
+	g:osc52_force_avail = 1
 endif
 
 # --------
