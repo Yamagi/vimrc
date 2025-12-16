@@ -11,10 +11,10 @@ A note to new Vim users: This configuration is build around my workflow.
 It will not suit yours. If you're beginning with Vim it's very highly
 recommended to start with an empty configuration and build your own!
 
-There're currently three versions of this configuration:
+There're currently four versions of this configuration:
 
 * The `master` branch. This is what you're looking at. This is the
-  current version, it needs at least Vim 9.1.1391 to work.
+  current version, it needs at least Vim 9.1.1984 to work.
 * The `legacy90` branch. The old version for Vim 9.0 and 9.1 before
   patch 1311. It's no longer maintained, just kept around for some
   not so up to date systems.
