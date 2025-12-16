@@ -15,6 +15,12 @@ vim9script
 # Collects autocommands.
 var acmds: list<dict<any>> = []
 
+# Enable bundles plugins:
+#  * Comment the selected lines on 'gc'.
+#  * Briefly highlight yanked text.
+packadd comment
+packadd hlyank
+
 # --------
 
 # Options.
@@ -357,12 +363,6 @@ colorscheme PaperColor
 # Don't load netrw, we have better plugins for that.
 g:loaded_netrw = 1
 g:loaded_netrwPlugin = 1
-
-# Enable bundles plugins:
-#  * Comment the selected lines on 'gc'.
-#  * Briefly highlight yanked text.
-packadd comment
-packadd hlyank
 
 # --------
 
